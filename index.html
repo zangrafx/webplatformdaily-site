@@ -58,7 +58,7 @@
     <p class="banner-note">Note: Mozilla’s corresponding tweet is <a href="https://twitter.com/mozilla/status/314755655082835968" target="_blank">here</a> in case you want to re-tweet it.</p>
     <h1>Open Web Platform Daily Digest</h1>
     <div class="release-times">8 a.m. (Pacific) / 11 a.m. (Eastern) / 4 p.m. (European)</div>
-    <div class="bar">
+    <div class="twitter-bar">
         by <a href="http://twitter.com/simevidas" target="_blank">@simevidas</a>
         <a href="https://twitter.com/share" class="twitter-share-button" data-via="simevidas">Tweet</a>
         <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
@@ -74,5 +74,11 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/pagedown/1.0/Markdown.Converter.js"></script>
 <script>window.Markdown || document.write('<script src="/js/libs/Markdown.Converter.js"><\x3C/script>');</script>
 <script src="/js/daily.js"></script>
+
+<!-- TODO how to provide this?
+<label><input type=checkbox onchange="document.body.classList[ this.checked ? 'add' : 'remove' ]( 'chrome-fix' )"> apply `-webkit-text-stroke`</label>
+(improves font-smoothness in Chrome on Windows; [info](http://stackoverflow.com/q/10953037/425275))
+-->
+
 </body>
 </html>

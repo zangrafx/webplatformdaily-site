@@ -1,5 +1,4 @@
-<label><input type=checkbox onchange="document.body.classList[ this.checked ? 'add' : 'remove' ]( 'chrome-fix' )"> apply `-webkit-text-stroke`</label>
-(improves font-smoothness in Chrome on Windows; [info](http://stackoverflow.com/q/10953037/425275))
+**Update!** The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files).
 
 ## Sticky
 
@@ -292,6 +291,8 @@
    - “Thoughts from my first *W3C* TAG F2F” by [@annevk]() [tweet](https://twitter.com/annevk/status/314835563125551104) [post](http://annevankesteren.nl/2013/03/tag-f2f)
    - “I’m done with the *web*” by [@me1000]() [link](http://randyluecke.tumblr.com/post/45915323813/im-done-with-the-web)
    - “Hooray for publishing intentionally stale spec snapshots for attorneys” [tweet](https://twitter.com/hsivonen/status/314759566887895040)
+
+---
 
 (I’ve moved older dailies into an archive. You’ll be able to load those dailies soon.)
 

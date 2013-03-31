@@ -61,7 +61,8 @@ body
 article 
   width: 800px
   font-size: 16px
-  padding: 2em
+  padding: 0 2em
+  margin: 2em 0
   background-color: #fff
 
 .mozilla-banner 
@@ -69,6 +70,7 @@ article
   background-color: rgba(0,119,255,.1)
   overflow: auto
   padding: 1em
+  margin-top: 2em
   &:hover
     background-color: rgba(0,119,255,.2)
     border-radius: 0
@@ -93,7 +95,7 @@ h1
   margin-top: 8px
   display: none /* TODO Have this? */
 
-.bar 
+.twitter-bar
   text-align: center
   margin: 2em 0
   padding: 6px 0
@@ -104,12 +106,19 @@ h1
   vertical-align: top
   margin-left: 10px
 
+hr
+  border: none
+  height: 10px
+  background: url('/img/stripe.png')
+
 p 
   margin: 1.5em 0
   a
     font-weight: inherit
 
 .md-data
+  & > ul
+    margin-bottom: 2em
   li
     position: relative
     margin: 0.4em 0
