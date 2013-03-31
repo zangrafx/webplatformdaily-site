@@ -12,7 +12,7 @@ Dailies are released Monday to Saturday at around 8 am PT / 11 am ET / 5 pm CET.
 
 ## Where is the data stored?
 
-In Markdown files, which makes it open source. You're free to use the data if you want to.
+In Markdown files, which makes it open source. You're free to use the data anyhow you like.
 
 ## What goes into creating a daily?
 
@@ -20,11 +20,11 @@ I gather the content from Twitter, i.e. from the tweets of the ~100 people I fol
 
 ## What topics are covered?
 
- - Open Web Platform (i.e. the open standards that comprise it)
- - JavaScript
+ - Open Web Platform (including the open standards that comprise it)
+ - JavaScript (the core language and libraries written in it)
  - web-browsers (including their development tools)
- - front-end web-development
- - open source to some degree (e.g. GitHub)
+ - front-end web-development in general
+ - open source to some degree (e.g. GitHub related content)
 
 ## How do you decide what goes into a daily?
 
