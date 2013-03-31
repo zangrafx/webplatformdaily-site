@@ -8,7 +8,7 @@ Nope. It'll come eventually.
 
 ## When are new dailies released?
 
-Dailies are released Monday to Saturday at around 8 am ET / 11 am PT / 5 pm CET.
+Dailies are released Monday to Saturday at around 8 am PT / 11 am ET / 5 pm CET.
 
 ## Where is the data stored?
 
@@ -28,4 +28,4 @@ I also add content about related front-end development topics (e.g. design, UX) 
 
 ## How do you decide what goes into a daily?
 
-I use my common sense. 
+I use my common sense.
