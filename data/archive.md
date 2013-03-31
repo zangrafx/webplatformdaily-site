@@ -1,3 +1,37 @@
+## March 22nd, 2013
+
+ - News
+   - *W3C* releases: “Runtime and Security Model for Web Applications” [TR](Runtime and Security Model for Web Applications) [post](http://www.w3.org/News/2013.html#entry-9765), eleven SPARQL specs [post](www.w3.org/News/2013.html#entry-9766)
+   - *Firefox Nightly* development: *Gamepad API* [tweet](https://twitter.com/robhawkes/status/314725162773778432), *asm.js* (OdinMonkey) [article1](https://blog.mozilla.org/luke/2013/03/21/asm-js-in-firefox-nightly/) [article2](http://techcrunch.com/2013/03/21/firefox-nightly-now-includes-odinmonkey-brings-javascript-performance-closer-to-running-at-native-speeds/)
+   - Chrome’s *“Web Intents”* ([TR](http://www.w3.org/TR/web-intents/)) meet Mozilla’s *“Web Activities”* ([wiki](https://wiki.mozilla.org/WebAPI/WebActivities)) [report](http://lists.w3.org/Archives/Public/public-web-intents/2013Mar/0000.html)
+   - *Opera* 14 beta for *Android* has been updated (Google Play store) [link](https://play.google.com/store/apps/details?id=com.opera.browser.beta)
+   - “Google first to implement *DRM*. So far *HTML working group* rejected the proposal.” [tweet](https://twitter.com/stevefaulkner/status/315006032378204160)
+   - ![][&] Proposal: Entity-Driven Tooling (*Yeoman*) [post](https://plus.google.com/u/0/101063139999404044459/posts/fomAZfaPL9t)
+   - “Validity constraints on `<section>`”, [post](http://lists.w3.org/Archives/Public/public-html/2013Mar/0129.html) by [@robinberjon]() on *public-html*
+   - “Two Reasons Functional Style Is Slow in *SpiderMonkey*” by [@_shu]() [link](http://rfrn.org/~shu/2013/03/20/two-reasons-functional-style-is-slow-in-spidermonkey.html)
+ - Tutorials
+   - “Making *WebRTC* Simple with conversat.io” by [@HenrikJoreteg]() (Mozilla Hacks) [link](https://hacks.mozilla.org/2013/03/making-webrtc-simple-with-conversat-io/)
+   - “*Responsive Web Design* With Physical Units” by [@sickdesigner]() (Smashing) [link](http://mobile.smashingmagazine.com/2013/03/21/responsive-web-design-with-physical-units/)
+   - “Detect Vendor Prefix with *JavaScript*” by [@davidwalshblog]() [link](http://davidwalsh.name/vendor-prefix)
+   - “*Shadow DOM* 301: Advanced Concepts & DOM APIs” by [@ebidel]() (HTML5 Rocks) [link](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-301/)
+   - “Use *MathML* today, with CSS fallback!” by [@LeaVerou]() [link](http://lea.verou.me/2013/03/use-mathml-today-with-css-fallback/)
+   - “Fun with *AngularJS*!” by [@devgirlFL]() [link](http://devgirl.org/2013/03/21/fun-with-angularjs/)
+   - “Making *Ember.js* Easier” [link](http://emberjs.com/blog/2013/03/21/making-ember-easier.html)
+   - “SiteGround, IISpeed and Google *Chrome* make the web faster with *PageSpeed*” by [@igrigorik]() [link](http://googledevelopers.blogspot.com/2013/03/siteground-iispeed-and-google-chrome.html)
+ - Sites
+   - ![][>] “Discover *Chrome DevTools*” (interactive course [@codeschool]()) [announcement](http://blog.chromium.org/2013/03/discover-chrome-devtools-our-new.html) [course](http://discover-devtools.codeschool.com/) ![][*]
+   - Building *Firefox OS* [buildingfirefoxos.com](http://buildingfirefoxos.com/)
+   - World Wide Maze (*Chrome* Experiments) [chrome.com/maze](http://chrome.com/maze/) ![][*]
+   - ![][1] “High *Performance* Browser Networking” ([@igrigorik]()’s upcoming book) [about](http://chimera.labs.oreilly.com/books/1230000000545/) [early-release](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
+ - Content
+   - Internet users as percentage of population [chart](https://www.google.co.uk/publicdata/explore?ds=d5bncppjof8f9_&ctype=l&strail=false&bcs=d&nselm=h&met_y=it_net_user_p2&scale_y=lin&ind_y=false&rdim=region&idim=country:CHN:USA:KEN:IDN:DEU:BRA:IND:RUS:ESP:JPN:KOR:NGA:ETH&ifdim=region&tdim=true&hl=en&dl=en&ind=false&q=internet+users+china) ![][*]
+ - Opinion
+   - “*Dart* - Is it the Future of the Web?” [link](http://highscalability.com/blog/2013/3/20/dart-is-it-the-future-of-the-web.html)
+   - “An *Open Source* Author’s Lament” [tweet](https://twitter.com/alloy/status/314713900610375680) ![][*]
+   - “Thoughts from my first *W3C* TAG F2F” by [@annevk]() [tweet](https://twitter.com/annevk/status/314835563125551104) [post](http://annevankesteren.nl/2013/03/tag-f2f)
+   - “I’m done with the *web*” by [@me1000]() [link](http://randyluecke.tumblr.com/post/45915323813/im-done-with-the-web)
+   - “Hooray for publishing intentionally stale spec snapshots for attorneys” [tweet](https://twitter.com/hsivonen/status/314759566887895040)
+
 ## March 21st, 2013
 
  - “HTTP Archive: *jQuery*” by [@souders]() [link](http://www.stevesouders.com/blog/2013/03/18/http-archive-jquery/)
@@ -166,3 +200,10 @@
  - Visualize and manipulate *CSS transition* functions [cssglue.com/cubic](http://cssglue.com/cubic)
  - Working Draft Ep. 111 - Performance-Proxy, Media Queries Level 4, http-client-hints (podcast) [link](http://workingdraft.de/111/)
  - StyleDocco (automatically generate a style guide from your *stylesheets*) [repo](https://github.com/jacobrask/styledocco)
+
+ [*]: /img/star.png "don’t miss"
+ [+]: /img/funding.png "seeks funding"
+ [1]: /img/calendar.png "upcoming event"
+ [o]: /img/contributor.png "seeks contributors"
+ [>]: /img/media.png "audio/video"
+ [&]: /img/feedback.png "seeks feedback"
