@@ -23,8 +23,8 @@ I gather the content from Twitter, i.e. from the tweets of the ~100 people I fol
  - Open Web Platform (i.e. the open standards that comprise it)
  - JavaScript
  - web-browsers (including their development tools)
-
-I also add content about related front-end development topics (e.g. design, UX) and open source (GitHub related).
+ - front-end web-development 
+ - open source to some degree (e.g. GitHub)
 
 ## How do you decide what goes into a daily?
 
