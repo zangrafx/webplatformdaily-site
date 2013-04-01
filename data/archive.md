@@ -1,3 +1,38 @@
+## March 23rd, 2013
+
+ - News
+   - A progress update on some of *Opera*’s contributions to *WebKit* [link](http://my.opera.com/ODIN/blog/2013/03/22/operas-webkit-patches)
+   - The *ECMAScript 6* `Symbol` constructor in *Chrome* Canary [tweet](https://twitter.com/rwaldron/status/315228133295009795)
+   - “*Mozilla* updates *Persona*’s privacy policy to no longer collect data it wasn’t collecting” [link](http://thenextweb.com/insider/2013/03/22/mozilla-updates-personas-privacy-policy-to-no-longer-collect-data-it-wasnt-collecting/)
+   - ![][>] *Flash* finally on the *iPhone* browser [tweet](https://twitter.com/junglecode/status/315248227702169600)
+ - Tutorials
+   - ![][>] Writing *unit-tests* for *JavaScript* (screencast) [76min] [link](http://searls.testdouble.com/posts/2013-03-21-jasmine-tactics-screencast.html)
+   - “*ECMAScript 6* and Method Definitions” by [@ariyahidayat]() [link](http://ariya.ofilabs.com/2013/03/es6-and-method-definitions.html)
+   - “*JavaScript* Functions that Return Functions” by [@davidwalshblog]() [link](http://davidwalsh.name/javascript-functions)
+   - “*Strict Mode* = Static Scoping” by [@domenic]() [link](http://domenic.me/2013/03/19/strict-mode-static-scoping/) ![][*]
+   - “There’s more to the *CSS* *rem unit* than font sizing” by Roman Rudenko [link](http://css-tricks.com/theres-more-to-the-css-rem-unit-than-font-sizing/)
+   - “What’s the *CSS* `:scope` pseudo-class for?” by [@ebidel]() [link](http://updates.html5rocks.com/2013/03/What-s-the-CSS-scope-pseudo-class-for)
+   - “Journey From *RequireJS* to *Browserify*” by [@EsaMatti]() [link](http://esa-matti.suuronen.org/blog/2013/03/22/journey-from-requirejs-to-browserify/)
+   - “A *JavaScript* refresh” [link](http://typedarray.org/javascript-refresh/)
+   - “*Web Notifications*” by [@ryanseddon]() [link](http://www.thecssninja.com/javascript/web-notifications)
+   - ![][>] “*Firefox OS* Quick Tip” (Treehouse) [link](http://blog.teamtreehouse.com/web-standard-technologies-firefox-os-quick-tip)
+   - “Automatic Table of Contents” (*jQuery*) by [@chriscoyier]() [link](http://css-tricks.com/automatic-table-of-contents/)
+ - Content
+   - “Big Web App? Compile it!” (*asm.js*) by [@kripken]() (slides) [link](http://kripken.github.com/mloc_emscripten_talk/#/) ![][*]
+   - ![][>] Upfront Podcast Ep. 9: “*CSS* with Harry Roberts” ([@csswizardry]()) [32min] [link](http://upfrontpodcast.com/2013/03/22/episode9.html)
+   - ![][>] “Effective Approaches to Web Application *Security*” by [@zanelackey]() [50min] [link](http://tech.blog.box.com/2013/03/video-effective-approaches-to-web-application-security-by-zane-lackey/)
+   - *Chrome* binary size (how many bytes do various bits of code contribute to the final executable) [link](http://neugierig.org/software/chromium/bloat/)
+   - ![][>] Hanselminutes Podcast Ep. 363: “*HTML5*/*JavaScript*/*Chrome*/*Web Platform* with Paul Irish” [35min] [link](http://www.hanselminutes.com/363/html5-javascript-chrome-and-the-web-platform-with-paul-irish)
+   - Visualizing *source maps*, by Tobias Koppers [link](http://sokra.github.com/source-map-visualization/) ![][*]
+   - ![][>] Analyzing millions of *GitHub* commits [46min] [link](https://plus.google.com/114552443805676710515/posts/dJ2spUuJ5W8)
+ - Libraries
+   - Thorax (a *Backbone* + *Handlebars* framework to build large scale web applications) [link](http://thoraxjs.org/)
+   - RaptorJS (an end-to-end JavaScript toolkit for building adaptive modules and UI components) [link](http://www.joezimjs.com/javascript/introducing-raptorjs-an-end-to-end-javascript-toolkit-for-building-adaptive-modules-and-ui-components/)
+   - jQuery Nested (a complete gap free, multi column grid layout experience) [link](http://suprb.com/apps/nested/)
+ - Opinion
+   - “Dr. *Google* and Mr. *Android*” ([via](http://mobilism.nl/blog/2013/03/dr-google-and-mr-android)) [link](http://www.visionmobile.com/blog/2013/03/dr-google-and-mr-android/)
+   - “Tell *W3C*: We don't want the Hollyweb” (*DRM*) [link](http://www.defectivebydesign.org/no-drm-in-html5) (linked by [@stevefaulkner]() and [@marcosc]())
+
 ## March 22nd, 2013
 
  - News

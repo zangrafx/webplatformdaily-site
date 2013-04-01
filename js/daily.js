@@ -24,8 +24,8 @@ jQuery(function ( $ ) {
     // converts the Markdown text to HTML and appends it to the page
     // this is an Ajax response handler; "data" is Markdown text
     processData = function ( data ) {
-        var html = converter.makeHtml( data ),
-            $temp = $( '<div></div>' ).html( html ); // serves as temporary document fragment (to hold the DOM tree generated from the MD file)
+        // temporary document fragment (to hold the DOM tree generated from the MD file)
+        var $temp = $( '<div></div>' ).html( converter.makeHtml( data ) );
 
         // make all links open in new tabs
         // add corresponding twitter URLs to all links whose text starts with "@"

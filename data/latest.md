@@ -7,6 +7,36 @@
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
  - ![][+] Tern: intelligent *JavaScript* editing, by [@marijnjh]() (author of “Eloquent JavaScript”) [link](http://www.indiegogo.com/projects/tern-intelligent-javascript-editing)
 
+## April 1st, 2013
+
+ - News
+   - *WebGL* is coming to *IE11*: enabling its experimental implementation [link](http://withinwindows.com/within-windows/2013/3/30/blues-clues-how-to-enable-webgl-in-internet-explorer-11); related discussion [tweet](https://twitter.com/BrendanEich/status/318128375287918593)
+   - The *Blackberry* 10 browser currently is the (absolutely) highest scoring browser on [html5test.com](http://html5test.com/)
+   - “Top ecommerce sites are 22% slower than they were last year” [link](http://www.webperformancetoday.com/2013/03/27/top-ecommerce-sites-are-slower-than-they-were-last-year/)
+ - Tutorials
+   - “*CSS* Masks – How To Use *Masking* ([TR](http://www.w3.org/TR/css-masking/)) In CSS Now” by [@derSchepp]() [link](http://thenittygritty.co/css-masking) ![][*]
+   - “Easy High DPI Images” (serving high quality images on the web) by [@borismus]() [link](http://www.html5rocks.com/en/mobile/easy-high-dpi-images/)
+   - “Building Windows Store Applications With *jQuery* 2.0” by [@jonathansampson]() (Nettuts+) [link](http://net.tutsplus.com/tutorials/javascript-ajax/building-windows-store-applications-with-jquery-2-0/)
+   - “Build a Contacts Management App Using HTML5, JS, CSS3, and Wakanda Studio” by Saad Mousliki [link](http://buildmobile.com/build-contacts-app-with-html5-css-javascript-wakanda-studio/)
+   - “10 tips for designing localised interfaces” by [@supjoey]() [link](http://www.netmagazine.com/features/10-tips-designing-localised-interfaces)
+ - Content
+   - The state of spinners 2013, by [@padolsey ]() [link](http://james.padolsey.com/javascript/sonic-the-state-of-spinners/)
+   - Sonic Creator (creates spinners with `<canvas>`, converts to .gif on the fly) [link](http://padolsey.github.com/sonic-creator/) ![][*]
+   - “*DevTools* tip: Cmd/Ctrl + F in Network/Timeline to find (and filter) by keyword.” [tweet](https://twitter.com/addyosmani/status/318452538414354432) (w/ screenshot)
+   - ![][>] “River Trail – Parallel Programming in *JavaScript*”, talk by [@herhut]() [42min] [link](http://www.infoq.com/presentations/Parallel-JavaScript) ![][*]
+   - easter.js (calculating the date of Easter) by [@thomasfuchs]() (code golf) [gist](https://gist.github.com/madrobby/5276743)
+   - *Demos*: Circles (`<canvas>`) [link](http://codepen.io/deepmagic/pen/KwDhE), Moonwalk (CSS animations) [link](http://codepen.io/Avichetron/pen/aktyI), Live Source Code Background [link](http://codepen.io/alliejones/pen/vExdA)
+   - “Google Analytics and *PhoneGap*” (integrating the Google Analytics plug-in with PhoneGap) [link](http://www.raymondcamden.com/index.cfm/2013/3/28/Google-Analytics-and-PhoneGap)
+ - Sites
+   - Flippin’ Awesome (articles, tutorials and news) [flippinawesome.org](http://flippinawesome.org/)
+ - Libraries
+   - html2canvas (takes screenshots of web-pages) [link](http://html2canvas.hertzen.com/)
+ - Opinion
+   - ![][>] “*Firefox OS*: Why Should I Care?” by [@NixiePixel]() [youtube](http://www.youtube.com/watch?v=lO73YCJ5bFY)
+   - “I pronounce `===` as ‘equals’ and `==` as ‘kinda like’.” [tweet](https://twitter.com/SimonSapin/status/317737733667835905)
+   - “Investigate potential `__proto__` issues.” (discussion on GitHub) [link](https://github.com/bestiejs/lodash/issues/226)
+   - “Recent Web Standards Frustrations & Constructive Suggestions” by [@t]() [link](http://tantek.com/2013/089/b1/web-standards-frustrations-constructive-suggestions)
+
 ## March 30th, 2013
 
  - News
@@ -222,41 +252,6 @@
    - “How to deal with bad code” by [@padolsey]() [link](http://james.padolsey.com/general/how-to-deal-with-bad-code/)
    - ![][>] “Why people shouldn’t use Facebook or iPhones” [33min] [link](http://cds.cern.ch/record/1518930) ![][*]
    - “Why the web will be the global gaming platform” [link](https://blog.mozilla.org/apps/2013/03/24/why-the-web-will-be-the-global-gaming-platform/)
-
-## March 23rd, 2013
-
- - News
-   - A progress update on some of *Opera*’s contributions to *WebKit* [link](http://my.opera.com/ODIN/blog/2013/03/22/operas-webkit-patches)
-   - The *ECMAScript 6* `Symbol` constructor in *Chrome* Canary [tweet](https://twitter.com/rwaldron/status/315228133295009795)
-   - “*Mozilla* updates *Persona*’s privacy policy to no longer collect data it wasn’t collecting” [link](http://thenextweb.com/insider/2013/03/22/mozilla-updates-personas-privacy-policy-to-no-longer-collect-data-it-wasnt-collecting/)
-   - ![][>] *Flash* finally on the *iPhone* browser [tweet](https://twitter.com/junglecode/status/315248227702169600)
- - Tutorials
-   - ![][>] Writing *unit-tests* for *JavaScript* (screencast) [76min] [link](http://searls.testdouble.com/posts/2013-03-21-jasmine-tactics-screencast.html)
-   - “*ECMAScript 6* and Method Definitions” by [@ariyahidayat]() [link](http://ariya.ofilabs.com/2013/03/es6-and-method-definitions.html)
-   - “*JavaScript* Functions that Return Functions” by [@davidwalshblog]() [link](http://davidwalsh.name/javascript-functions)
-   - “*Strict Mode* = Static Scoping” by [@domenic]() [link](http://domenic.me/2013/03/19/strict-mode-static-scoping/) ![][*]
-   - “There’s more to the *CSS* *rem unit* than font sizing” by Roman Rudenko [link](http://css-tricks.com/theres-more-to-the-css-rem-unit-than-font-sizing/)
-   - “What’s the *CSS* `:scope` pseudo-class for?” by [@ebidel]() [link](http://updates.html5rocks.com/2013/03/What-s-the-CSS-scope-pseudo-class-for)
-   - “Journey From *RequireJS* to *Browserify*” by [@EsaMatti]() [link](http://esa-matti.suuronen.org/blog/2013/03/22/journey-from-requirejs-to-browserify/)
-   - “A *JavaScript* refresh” [link](http://typedarray.org/javascript-refresh/)
-   - “*Web Notifications*” by [@ryanseddon]() [link](http://www.thecssninja.com/javascript/web-notifications)
-   - ![][>] “*Firefox OS* Quick Tip” (Treehouse) [link](http://blog.teamtreehouse.com/web-standard-technologies-firefox-os-quick-tip)
-   - “Automatic Table of Contents” (*jQuery*) by [@chriscoyier]() [link](http://css-tricks.com/automatic-table-of-contents/)
- - Content
-   - “Big Web App? Compile it!” (*asm.js*) by [@kripken]() (slides) [link](http://kripken.github.com/mloc_emscripten_talk/#/) ![][*]
-   - ![][>] Upfront Podcast Ep. 9: “*CSS* with Harry Roberts” ([@csswizardry]()) [32min] [link](http://upfrontpodcast.com/2013/03/22/episode9.html)
-   - ![][>] “Effective Approaches to Web Application *Security*” by [@zanelackey]() [50min] [link](http://tech.blog.box.com/2013/03/video-effective-approaches-to-web-application-security-by-zane-lackey/)
-   - *Chrome* binary size (how many bytes do various bits of code contribute to the final executable) [link](http://neugierig.org/software/chromium/bloat/)
-   - ![][>] Hanselminutes Podcast Ep. 363: “*HTML5*/*JavaScript*/*Chrome*/*Web Platform* with Paul Irish” [35min] [link](http://www.hanselminutes.com/363/html5-javascript-chrome-and-the-web-platform-with-paul-irish)
-   - Visualizing *source maps*, by Tobias Koppers [link](http://sokra.github.com/source-map-visualization/) ![][*]
-   - ![][>] Analyzing millions of *GitHub* commits [46min] [link](https://plus.google.com/114552443805676710515/posts/dJ2spUuJ5W8)
- - Libraries
-   - Thorax (a *Backbone* + *Handlebars* framework to build large scale web applications) [link](http://thoraxjs.org/)
-   - RaptorJS (an end-to-end JavaScript toolkit for building adaptive modules and UI components) [link](http://www.joezimjs.com/javascript/introducing-raptorjs-an-end-to-end-javascript-toolkit-for-building-adaptive-modules-and-ui-components/)
-   - jQuery Nested (a complete gap free, multi column grid layout experience) [link](http://suprb.com/apps/nested/)
- - Opinion
-   - “Dr. *Google* and Mr. *Android*” ([via](http://mobilism.nl/blog/2013/03/dr-google-and-mr-android)) [link](http://www.visionmobile.com/blog/2013/03/dr-google-and-mr-android/)
-   - “Tell *W3C*: We don't want the Hollyweb” (*DRM*) [link](http://www.defectivebydesign.org/no-drm-in-html5) (linked by [@stevefaulkner]() and [@marcosc]())
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
