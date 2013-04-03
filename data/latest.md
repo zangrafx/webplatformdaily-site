@@ -7,11 +7,44 @@
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
  - ![][+] Tern: intelligent *JavaScript* editing, by [@marijnjh]() (author of “Eloquent JavaScript”) [link](http://www.indiegogo.com/projects/tern-intelligent-javascript-editing)
 
+## April 2nd, 2013
+
+ - News
+   - *Mozilla* celebrates its 15th anniversary [link](http://www.mozilla.org/en-US/contribute/)
+   - Usability improvements in *HTML* spec: attribute descriptions [tweet](https://twitter.com/sideshowbarker/status/318824084093952000), tag omission sections [tweet](https://twitter.com/sideshowbarker/status/318825856082513920)
+   - `<hgroup>` to be removed from the *HTML* 5.0 CR spec [post](http://lists.w3.org/Archives/Public/public-html-admin/2013Apr/0003.html)
+   - *Firefox Nightly* developments: `@supports` and `CSS.supports()` ([TR](http://www.w3.org/TR/css3-conditional/)) enabled by default [link](http://mcc.id.au/blog/2013/04/supports-enabled-by-default)
+   - Smashing Newsletter #81 [link](http://www.smashingmagazine.com/smashing-newsletter-issue-81/)
+ - Tutorials
+   - “*CSS* Icon Stacks - Combining icon font glyphs to create complex mega-icons.” by [@conormuirhead]() [link](http://conor.cc/posts/icon-stacks)
+   - “Origami: A *CSS* 3D Foldout Image Gallery” (CSS *transforms*) by [@dudleystorey]() [link](http://demosthenes.info/blog/671/Origami-A-CSS-3D-Foldout-Image-Gallery)
+   - “Making *accessible* icon buttons” by [@slicknet]() [link](http://www.nczonline.net/blog/2013/04/01/making-accessible-icon-buttons/)
+   - “Serving *Backbone* for Robots & Legacy Browsers” by [@laurisvan]() [link](https://hacks.mozilla.org/2013/04/serving-backbone-for-robots-legacy-browsers/) (Mozilla Hacks) ![][*]
+   - “App Showcase with Grid Overlay” by [@crnacura]() [link](http://tympanus.net/codrops/2013/04/01/app-showcase-with-grid-overlay/)
+   - “Build a Street Fighter Demo with *CSS Animations* and *JavaScript*” by [@davidwalshblog]() [link](http://davidwalsh.name/street-fighter)
+   - “‘Like’-able Content: Spread Your Message with Third-Party *Metadata*” by [@wd45]() (A List Apart) [link](http://alistapart.com/article/like-able-content-spread-your-message-with-third-party-metadata)
+ - Content
+   - “Poll Wrapup: How Much Effort Do People Put Into Alt Text?” (`<img alt="…">`) [link](http://css-tricks.com/poll-wrapup-how-much-effort-do-people-put-into-alt-text/)
+   - “How fast are we going now?”, slides from [@souders]()’s keynote at HTML5 Dev Conf [slideshare](http://www.slideshare.net/souders/how-fast-are-we-going-now)
+   - “Creating Web Experiences with users in mind”, slides from [@divya]()’s talk at HTML5 Dev Conf [link](http://nimbu.in/html5devconf/#/step-1)
+   - “*Video* in the Open Web Platform”, slides from [@plhw3org]()’s talk at HTML5 Dev Conf [link](http://www.w3.org/2013/Talks/0401-web-video/#%281%29)
+   - “*ECMAScript* 6”, slides from [@rauschma]()’s talk at CodeFest [PDF](http://dl.2ality.com/2013/03/es6_codefest.pdf)
+   - ![][>] Shop Talk Podcast Ep. 62: With [@imathis]() [link](shoptalkshow.com/episodes/062-with-brandon-mathis/)
+   - Mozilla’s DevDerby: winners announced for “multi-touch” contest [link](https://developer.mozilla.org/en-US/demos/devderby/2013/february)
+   - *Demos*: Hexel flames! [link](https://developer.mozilla.org/en-US/demos/devderby/2013/february), Hovers [link](http://codepen.io/chriscoyier/pen/ijaeh)
+ - Sites
+   - statuspage.io (create status pages hosted outside of your infrastructure) [statuspage.io](https://www.statuspage.io/)
+ - Libraries
+   - reveal.js (HTML presentation framework) [repo](https://github.com/hakimel/reveal.js)
+ - Opinion
+   - “*JavaScript* is Not Web Assembly ” by [@isaacschlueter]() [link](http://blog.izs.me/post/10213512387/javascript-is-not-web-assembly)
+   - “Broken Promises” by [@drewcrawford]() [link](http://sealedabstract.com/code/broken-promises/)
+
 ## April 1st, 2013
 
  - News
    - *WebGL* is coming to *IE11*: enabling its experimental implementation [link](http://withinwindows.com/within-windows/2013/3/30/blues-clues-how-to-enable-webgl-in-internet-explorer-11); related discussion [tweet](https://twitter.com/BrendanEich/status/318128375287918593)
-   - The *Blackberry* 10 browser currently is the (absolutely) highest scoring browser on [html5test.com](http://html5test.com/)
+   - The *Blackberry* 10 browser is currently the (absolutely) highest scoring browser on [html5test.com](http://html5test.com/)
    - “Top ecommerce sites are 22% slower than they were last year” [link](http://www.webperformancetoday.com/2013/03/27/top-ecommerce-sites-are-slower-than-they-were-last-year/)
  - Tutorials
    - “*CSS* Masks – How To Use *Masking* ([TR](http://www.w3.org/TR/css-masking/)) In CSS Now” by [@derSchepp]() [link](http://thenittygritty.co/css-masking) ![][*]
@@ -218,40 +251,6 @@
    - “Standardizing *JSON*” [link](http://masinter.blogspot.com/2013/03/standardizing-json_25.html)
    - “Avoiding the Sign-Up/Sign-In Mobile Antipattern” [link](http://boxesandarrows.com/let-them-pee-avoiding-the-sign-upsign-in-mobile-antipattern/)
    - “Why Publishers Would Miss *Cookies*” [link](http://www.digiday.com/publishers/cookies-still-matter/)
-
-## March 25th, 2013
-
- - News
-   - “Microsoft backs away from *Flash* ban in *IE10*” [link](http://news.cnet.com/8301-1023_3-57573755-93/microsoft-backs-away-from-flash-ban-in-ie10/)
-   - “LG Prepping *Firefox OS* Based Smartwatch” [link](http://www.gizbot.com/gadgets/lg-prepping-firefox-os-smartwatch-google-glass-device-011252.html)
-   - *Internet Explorer* 11 appears in screenshot [tweet](https://twitter.com/simevidas/status/315825568023187457) [article](http://www.theverge.com/2013/3/24/4141286/windows-blue-screenshots-leak-smaller-live-tiles-options-ui)
-   - “Creating magic on the web: *Firefox* and gaming” [link](http://ronpiovesan.com/2013/03/24/creating-magic-on-the-web-firefox-and-gaming/)
-   - “Setback for Google’s *VP8*: Nokia refuses to commit patents…” [link](http://www.fosspatents.com/2013/03/setback-for-googles-vp8-nokia-refuses.html)
-   - “Parallel JS (River Trail): soon in *Firefox*” (/w timetable) [link](http://www.2ality.com/2013/03/parallel-js.html)
-   - *W3C* discussion about the future of *CSS* `border-corner-shape` ([via](https://twitter.com/dirkschulze/status/315968687200927745)) [link](http://lists.w3.org/Archives/Public/www-style/2013Mar/0498.html)
- - Tutorials
-   - “Common Misconceptions About *Touch*” by [@shoobe01]() [link](http://www.uxmatters.com/mt/archives/2013/03/common-misconceptions-about-touch.php) ![][*]
-   - “On *Responsive* Layout and *Grids*” by [@dbushell]() [link](http://dbushell.com/2013/03/19/on-responsive-layout-and-grids/)
-   - “Preview *CSS* `border-corner-shape`, before implementations!” by [@LeaVerou]() [link](http://lea.verou.me/2013/03/preview-border-corner-shape-before-implementations/)
-   - “*JavaScript*: The less known parts. *Bitwise Operators*.” by [@michalbe]() [link](http://michalbe.blogspot.co.uk/2013/03/javascript-less-known-parts-bitwise.html)
-   - “Easily center text vertically, with *SVG*!” by [@LeaVerou]() [link](http://lea.verou.me/2013/03/easily-center-text-vertically-with-svg/)
- - Content
-   - tinytype (compatibility table showing available default system *fonts* across *mobile* platforms) [link](http://www.jordanm.co.uk/tinytype)
-   - [@chriscoyier]()’s “Charts & Graphs” collection (**warning:** may freeze your browser) [link](http://codepen.io/collection/hsyFa) ![][*]
-   - “*Firefox OS* – video presentations and slides on the OS, WebAPIs, hacking and writing apps” [link](https://hacks.mozilla.org/2012/11/firefox-os-video-presentations-and-slides-on-the-os-webapis-hacking-and-writing-apps/)
-   - A bunch of cool [js1k](http://js1k.com/) *demos* [tweet](https://twitter.com/kuvos/status/315896823669739521)
-   - ![][>] “How to use the Mozilla Evangelism Reps *HTML5* slidedeck” by [@codepo8]() [10min] [link](http://christianheilmann.com/2013/03/24/a-quick-update-and-screencast-of-the-mozilla-html5-slide-system/)
-   - links.txt (a huge list of *web-dev* links) by [@_higg]() (Y U NO ADD DESCRIPTIONS, Ed.) [gist](https://gist.github.com/higgo/4666848)
-   - “The Shapes of *CSS*” (using only a single *HTML* element) [link](http://css-tricks.com/examples/ShapesOfCSS/)
- - Libraries
-   - CharFunk (*Unicode* character utility) [repo](https://github.com/joelarson4/CharFunk)
-   - es6ify (browserify v2 transform to compile JavaScript.next (*ES6*) to JavaScript.current (ES5) on the fly) [link](http://thlorenz.github.com/es6ify/)
- - Opinion
-   - “The Internet is a surveillance state” [link](http://edition.cnn.com/2013/03/16/opinion/schneier-internet-surveillance/index.html)
-   - “*Google*’s trust problem” [link](http://www.washingtonpost.com/blogs/wonkblog/wp/2013/03/21/googles-trust-problem/)
-   - “How to deal with bad code” by [@padolsey]() [link](http://james.padolsey.com/general/how-to-deal-with-bad-code/)
-   - ![][>] “Why people shouldn’t use Facebook or iPhones” [33min] [link](http://cds.cern.ch/record/1518930) ![][*]
-   - “Why the web will be the global gaming platform” [link](https://blog.mozilla.org/apps/2013/03/24/why-the-web-will-be-the-global-gaming-platform/)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
