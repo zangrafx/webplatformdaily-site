@@ -7,6 +7,36 @@
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
  - ![][+] Tern: intelligent *JavaScript* editing, by [@marijnjh]() (author of “Eloquent JavaScript”) [link](http://www.indiegogo.com/projects/tern-intelligent-javascript-editing)
 
+## April 3rd, 2013
+
+ - News
+   - *W3C* releases: “CSS Grid Layout” [news](http://www.w3.org/News/2013.html#entry-9773) [TR](http://www.w3.org/TR/css3-grid-layout/)
+   - *Firefox* 20 released: information for developers on [MDN](https://developer.mozilla.org/en-US/docs/Firefox_20_for_developers), more control over privacy [blog](https://blog.mozilla.org/blog/2013/04/02/firefox-gives-you-more-control-over-your-privacy/), new downloads manager [link](https://support.mozilla.org/en-US/kb/find-and-manage-downloaded-files?esab=a&s=download+manager&r=0&as=s#os=mac&browser=fx20), coverage: [TechCrunch](http://techcrunch.com/2013/04/02/firefox-20-launches-with-per-tab-private-browsing-new-download-manager-and-more-webrtc-and-html5-features/)
+   - Microsoft could add *SPDY* support to *IE11* [link](http://news.cnet.com/8301-1023_3-57577575-93/ie11-windows-blue-could-support-googles-spdy-protocol/)
+   - ![][o] Update on upcoming *Modernizr* 3 **You can help!** [link](http://modernizr.com/news/modernizr-v3-stickers-diversity/)
+   - “New on *modern.IE*: Free VM Downloads, Win 8 QuickStart Kits, Enhanced Code-Scanning Tools, …” [link](http://blogs.msdn.com/b/ie/archive/2013/04/02/new-on-modern-ie-free-vm-downloads-windows-8-quickstart-kits-enhanced-code-scanning-tools-and-more.aspx)
+   - “France Considers *Net Neutrality* Law” [link](http://gamepolitics.com/2013/03/13/france-considers-net-neutrality-law)
+ - Tutorials
+   - “How To Make Your Websites Faster On *Mobile* Devices” (*performance*) by [@johansson_johan]() [link](http://mobile.smashingmagazine.com/2013/04/03/build-fast-loading-mobile-website/)
+   - *CSS Grid Layout* properties reference (with code examples and demos) [link](http://css-tricks.com/almanac/properties/g/grid/) ![][*]
+   - “Turn Your Web App Into a *Windows 8 App*” by [@boyofgreen]() [link](http://html5hacks.com/blog/2013/04/02/make-your-web-app-to-a-windows-8-app/)
+   - “A Thorough Introduction To *Backbone* Marionette (Part 2)” by [@JoeZimJS]() [link](http://coding.smashingmagazine.com/2013/04/02/thorough-introduction-backbone-marionette-part-2-modules/)
+ - Content
+   - ![][>] “Perfect Workflow in *Sublime* Text 2” [150min] [youtube](https://www.youtube.com/watch?v=TZ-bgcJ6fQo) **MOTHER OF GOD** ![][*]
+   - ![][>] “Setting disruptors to stun”, [@codepo8]()’s *keynote* at HTML5 Dev Conf [42min] [link](http://christianheilmann.com/2013/04/02/setting-disruptors-to-stun-keynote-at-html5-devcon-in-san-francisco/)
+   - *Sublime* Text integration with *Bower* package manager (w/ video demo) [link](http://germanforblack.com/post/46734908388/i-built-a-plugin-for-sublime-text-that-integrates)
+   - “Define Responsive” (explain *responsive design* to your clients) [link](http://finecitizens.com/defineResponsive/)
+   - *Demos*: Flat surface shader (*WebGL*) [link](http://wagerfield.github.com/flat-surface-shader/), Wifi icon with pure *CSS* [link](http://dabblet.com/gist/5299273), *WebGL* demos [link](http://blog.bongiovi.tw/)
+ - Sites
+   - HTML Dog (relaunch) [htmldog.com](http://www.htmldog.com/)
+   - Document.ly (work on text-based projects together, in real-time) [document.ly](http://www.document.ly/)
+ - Libraries
+   - fragment.js (lightweight library for loading *HTML* fragments and *templates*) [link](http://danielrapp.github.com/fragment.js/)
+ - Opinion
+   - “Celebrating 15 Years of a Better Web” by [@MitchellBaker]() [link](https://blog.lizardwrangler.com/2013/04/02/15-years-of-a-better-web/)
+   - “Explicit vs. Clever” (code) by [@raganwald]() [link](http://raganwald.com/2013/04/02/explicit-versus-clever.html)
+   - “The *Firefox* Song ” by [@CShirkeyCollins]() [youtube](https://www.youtube.com/watch&v=DIkTSEeT2A8) ![][*]
+
 ## April 2nd, 2013
 
  - News
@@ -212,45 +242,6 @@
    - Brackets (open-source code editor) [link](http://brackets.io/); about the “Quick Open” feature [link](http://www.blueskyonmars.com/2013/03/26/brackets-quick-open-thats-no-regex/)
  - Opinion
   - “A Web Developer's Perspective on APIs and Mobile App Development” (interview [@davidwalshblog]()) [link](https://apieconomist.squarespace.com/blog/2013/3/10/a-web-developers-perspective-on-apis-and-mobile-app-development)
-
-## March 26th, 2013
-
- - News
-   - *IE11* adds “like Gecko” to its user agent string [link](http://www.neowin.net/news/ie11-to-appear-as-firefox-to-avoid-legacy-ie-css); reactions [ppk](https://twitter.com/mobilismconf/status/316200186361815040) [slicknet](https://twitter.com/slicknet/status/316362421465931776)
-   - *Firefox Nightly* development: multithreaded image decoding [bug](https://bugzilla.mozilla.org/show_bug.cgi?id=716140), download progress in app icon in OS X dock [tweet](https://twitter.com/paulrouget/status/316155650654740480), support for packaged webapps [tweet](https://twitter.com/FennecNightly/status/316414684720926720), various *performance* improvements [link](http://taras.glek.net/blog/2013/03/25/snappy-number-53-faster-startup/)
-   - *Chrome Canary* development: *WebGL* `canvas.getContext('webgl')` enabled by default ([via](https://twitter.com/divya/status/316266425880825857)) [bug](https://bugs.webkit.org/show_bug.cgi?id=113079), *HTML5* `<input type=date>` gets visual/ UX improvements (screenshot) [tweet](https://twitter.com/ChromiumDev/status/316435315889934336)
-   - “3D *WebRTC*: 3D visual communication in a browser” [link](https://labs.ericsson.com/blog/3d-webrtc-3d-video-communication-in-a-browser)
-   - The *Internet Explorer* Developer Relations team is on Twitter: [@IEDevChat]() ![][*]
-   - “Ad industry threatens *Firefox* users with more ads if Mozilla moves on tracking plans” [link](http://www.computerworld.com/s/article/9237847/Ad_industry_threatens_Firefox_users_with_more_ads_if_Mozilla_moves_on_tracking_plans)
-   - ![][&] “Fixing *appcache*: a proposal to get us started” ([via](https://twitter.com/robertnyman/status/316459708192010241)) [post](http://lists.w3.org/Archives/Public/public-webapps/2013JanMar/0977.html)
-   - “Announcing *Firefox OS* App Workshops” (Mozilla Hacks) [link](https://hacks.mozilla.org/2013/03/firefox-os-app-workshops/)
- - Tutorials
-   - “Pull Quotes with *HTML5* and *CSS*” by [@miekd]() [link](http://miekd.com/articles/pull-quotes-with-html5-and-css/)
-   - “Patterns for Managing Large Scale *Backbone* Applications” by [@benhowdle]() [link](http://benhowdle.im/2013/03/24/patterns-for-managing-large-scale-backbone-applications/)
-   - “5 Common *Usability* Mistakes and Solutions For Avoiding Them” by [@davidwalshblog]() [link](http://davidwalsh.name/common-usability-mistakes)
-   - “Introduction to Custom Filters (aka *CSS Shaders*)” by [@aerotwist]() [link](http://updates.html5rocks.com/2013/03/Introduction-to-Custom-Filters-aka-CSS-Shaders)
-   - “Letting users disable *responsive* layout” by [@rogerjohansson]() [link](http://www.456bereastreet.com/archive/201303/letting_users_disable_responsive_layout/)
-   - “Create Adaptive *SVG* Illustrations With *CSS*” by [@dudleystorey]() [link](http://demosthenes.info/blog/675/Create-Adaptive-SVG-Illustrations-With-CSS)
-   - “Vertical text with *CSS* 3 *Writing Modes*” by [@dstorey]() [link](http://generatedcontent.org/post/45384206019/writing-modes)
-   - “Printing The Web” (*CSS* print style sheets) by [@drublic]() [link](http://drublic.de/blog/printing-the-web/)
- - Content
-   - “Building Faster *Mobile* Websites” (slides) by [@igrigorik]() [link](http://www.igvita.com/slides/2013/breaking-1s-mobile-barrier.pdf) ![][*]
-   - *Demo*: tearable and rippable cloth in `<canvas>` [codepen](http://codepen.io/stuffit/pen/KrAwx)
-   - “MK Geek Night: Adventures with Google *PageSpeed*” (notes) [link](http://keirwhitaker.com/archive/mk-geek-night-adventures-with-google-page-speed/)
-   - CU-RTC-Web (Microsoft’s *WebRTC* implementation) [faq](http://html5labs.interopbridges.com/prototypes/cu-rtc-web/cu-rtc-web/faq) [article](http://blogs.msdn.com/b/interoperability/archive/2013/03/14/new-cu-rtc-web-html5labs-prototype-from-ms-open-tech-demonstrates-roaming-between-cellular-and-wi-fi-connections.aspx)
-   - Pulling down *GitHub* Pull Requests locally ([via](https://twitter.com/tabatkins/status/316289354911858689)) [gist](https://gist.github.com/piscisaureus/3342247)
- - Sites
-   - *SVG* Patterns Gallery [philbit.com/svgpatterns/](http://philbit.com/svgpatterns/)
-   - The *Internet Explorer* userAgent community [useragents.ie](http://useragents.ie/)
-   - Gantt chart (bar chart that illustrates a project schedule) [gantti.cc](http://gantti.cc/)
- - Libraries
-   - js-sequence-diagrams (turns text into *UML sequence diagrams*) [link](http://bramp.github.com/js-sequence-diagrams/) ![][*]
-   - Draggabilly (make HTML elements *draggable*; includes touch support) [link](http://draggabilly.desandro.com/)
-   - Unitools (tools for working with *Unicode* in the browser) [link](http://unicod.es/)
- - Opinion
-   - “Standardizing *JSON*” [link](http://masinter.blogspot.com/2013/03/standardizing-json_25.html)
-   - “Avoiding the Sign-Up/Sign-In Mobile Antipattern” [link](http://boxesandarrows.com/let-them-pee-avoiding-the-sign-upsign-in-mobile-antipattern/)
-   - “Why Publishers Would Miss *Cookies*” [link](http://www.digiday.com/publishers/cookies-still-matter/)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
