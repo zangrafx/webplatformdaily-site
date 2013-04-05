@@ -8,7 +8,7 @@ Nope. It'll come eventually.
 
 ## When are new dailies released?
 
-Dailies are released Monday to Saturday at around 8 am PT / 11 am ET / 5 pm CET.
+Dailies are released Monday to Saturday at around 8 am PT / 11 am ET / 5 pm CET. At least, that's my desired schedule :-). However, depending on other stuff I'm doing (or have to do), a daily may be up to 12 hours late. Once I publish a daily super-late, the subsequent dailies of that week are also pushed back in order to give each daily equal time at the top.
 
 ## Where is the data stored?
 
