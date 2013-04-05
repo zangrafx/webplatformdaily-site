@@ -1,3 +1,37 @@
+## March 27th, 2013
+
+ - News
+   - ![][&] *W3C* releases: “*HTML* Media Capture” ([TR](http://www.w3.org/TR/html-media-capture/)) (`capture` attribute) released as “Last Call Working Draft” (comments are welcome through 19 April) [news](http://www.w3.org/News/2013.html#entry-9768)
+   - *IE11* to support *WebGL*, final *Flexbox* syntax, … ([via](https://twitter.com/FremyCompany/status/316252892090732546)) [link](http://fremycompany.com/BG/2013/Internet-Explorer-11-rsquo-s-leaked-build-395/) ![][*]
+   - “Last Week in *WebKit*: Reporting CSS errors and security policy violation events” by [@beverloo]() [link](https://www.webkit.org/blog/2284/last-week-in-webkit-reporting-css-errors-and-security-policy-violation-events/)
+   - “Work on the *Web Audio API* ([TR](http://www.w3.org/TR/webaudio/)) and *Web MIDI API* ([TR](http://www.w3.org/TR/webmidi/)) gaining momentum” [tweet](https://twitter.com/shepazu/status/316633972119597056)
+   - `<input type=range orient=vertical>` [tweet](https://twitter.com/annevk/status/316553350898384896)
+   - “Goodbye, Zen Coding. Hello, Emmet!” [link](http://coding.smashingmagazine.com/2013/03/26/goodbye-zen-coding-hello-emmet/)
+ - Tutorials
+   - “Deploying *JavaScript* Applications” by [@SlexAxton]() [link](http://alexsexton.com/blog/2013/03/deploying-javascript-applications/) ![][*]
+   - “*CSS*: Everything is global and how to deal with it” by [@philwalton]() [link](http://www.adobe.com/devnet/html5/articles/css-everything-is-global-and-how-to-deal-with-it.html)
+   - “Using decimal percentage values in *responsive design*” by [@divya]() [link](http://nimbupani.com/using-decimal-percentage-values-in-responsive-design.html)
+   - “Getting started with *AngularJS*” by [@Krxtopher]() [link](http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
+   - “*AngularJS* Directives and The Computer Science of JavaScript” by [@burkeholland]() [link](http://www.adobe.com/devnet/html5/articles/angularjs-directives-and-the-computer-science-of-javascript.html)
+   - “Adding web fonts to an *HTML5* game” by [@SpaceMonstersUK]() [link](http://www.spacemonsters.co.uk/2013/03/adding-web-fonts-to-an-html5-game/)
+   - “How to install *packaged apps* in *Firefox OS* – options and tools” (Mozilla Hacks) [link](https://hacks.mozilla.org/2013/03/how-to-install-packaged-apps-in-firefox-os-options-and-tools/)
+ - Content
+   - “Events triggered while selecting an option from `<select>`” [link](http://rodneyrehm.github.com/select-events/) ![][*]
+   - *SVG* cheat sheet, by [@dontcallmedom]() [link](http://dontcallmedom.github.com/svg-cheatsheet/cheatsheet.svg) ![][*]
+   - “*DevTools* Extensions For Web App Developers” by [@addyosmani]() [link](http://addyosmani.com/blog/devtools-extensions-for-webapp-developers/)
+   - “*Mobile* waterfalls” by [@souders]() [link](http://www.stevesouders.com/blog/2013/03/26/mobile-waterfalls/)
+   - More js1k *demos*: [Furbee](http://www.romancortes.com/blog/furbee-my-js1k-spring-13-entry/), [Tracks](http://js1k.com/2013-spring/demo/1459)
+   - “Optimizing the new Google Universal Analytics *JavaScript* snippet” by [@mathias]() [link](http://mathiasbynens.be/notes/async-analytics-snippet#universal-analytics)
+ - Sites
+   - UX APPRENTICE [uxapprentice.com](http://uxapprentice.com/)
+   - CSSDB.co (database of great *CSS*/*Sass*/*LESS* libraries) [cssdb.co](http://cssdb.co/)
+ - Libraries
+   - MarionetteJS (composite application library for *Backbone*) [link](http://marionettejs.com/)
+   - caller-of (one line of code but worth checking out, Ed.) [repo](https://github.com/WebReflection/caller-of)
+   - Brackets (open-source code editor) [link](http://brackets.io/); about the “Quick Open” feature [link](http://www.blueskyonmars.com/2013/03/26/brackets-quick-open-thats-no-regex/)
+ - Opinion
+  - “A Web Developer's Perspective on APIs and Mobile App Development” (interview [@davidwalshblog]()) [link](https://apieconomist.squarespace.com/blog/2013/3/10/a-web-developers-perspective-on-apis-and-mobile-app-development)
+
 ## March 26th, 2013
 
  - News
