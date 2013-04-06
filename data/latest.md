@@ -2,10 +2,51 @@
 
 ## Sticky
 
+ - **New!** The "Web Platform" *chat room* on Stack Overflow [link](http://chat.stackoverflow.com/rooms/27674/web-platform)
  - Recommended *Twitter* feeds: [@remotesynth](), [@codepo8](), [@smashingmag]()
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
  - ![][+] Tern: intelligent *JavaScript* editing, by [@marijnjh]() (author of “Eloquent JavaScript”) [link](http://www.indiegogo.com/projects/tern-intelligent-javascript-editing)
+
+## April 5th, 2013
+
+  - News
+    - *W3C* releases: CR of *“CSS Conditional Rules”* [TR](http://www.w3.org/TR/css3-conditional/), 2. CR of *“CSS Values and Units”*  [TR](http://www.w3.org/TR/css3-values/), 3. WD of *“Network Service Discovery”* [TR](http://www.w3.org/TR/discovery-api/), 2. WD of *“Input Method Editor API”* [TR](http://www.w3.org/TR/ime-api/)
+    - *W3C* Audio WG “F2F Mar 2013” meeting [notes](http://www.w3.org/2011/audio/wiki/F2F_Mar_2013)
+    - *WebKit* to perform a cleanup [message](https://lists.webkit.org/pipermail/webkit-dev/2013-April/024388.html)
+    - Chrome *WebRTC* team to continue work in *Blink* codebase instead of *WebKit* [post](https://plus.google.com/113817074606039822053/posts/gt5VXPdNur9)
+    - *Blink* to have weekly API review meetings [tweet](https://twitter.com/ChromiumDev/status/319877302521569281)
+    - *IE10* auto-update kicks in (or so it appears) [tweet](https://twitter.com/dstorey/status/320017711444930560)
+    - *Mozilla* Dev Derby, April contest: *“Web Workers”* [link](https://developer.mozilla.org/en-US/demos/devderby) 
+  - FYI
+    - Persona is built into *Firefox OS* [link](http://identity.mozilla.com/post/47114516102/persona-on-firefox-os-phones)
+    - *Mozilla* Research Projects (infographic) [link](https://blog.mozilla.org/nnethercote/2013/04/04/mozilla-research-is-on-a-roll/)
+  - Tutorials
+    - “Defining Presentational Boxes with *Shadow DOM*” (*CSS Regions*) by [@alanstearns]() [link](http://blogs.adobe.com/webplatform/2013/04/03/defining-presentational-boxes-with-shadow-dom/)
+    - “Touchy-Feely with DOM Events” (*Touch Events*, *Pointer Events*) by [@girlie_mac]() [link](http://www.developer.nokia.com/Blogs/Code/2013/04/02/touchy-feely-with-dom-events-rethinking-cross-device-user-interaction/)
+    - “Images in a *responsive* web” by [@tysonmatanich]() [link](http://www.matanich.com/2012/11/06/picture-polyfill/) ![][*]
+    - “Create Your First *Mobile* App with *PhoneGap* Build – Setup” by [@remotesynth]() [link](http://flippinawesome.org/2013/03/29/phonegap-build-part1/)
+    - “Custom *jQuery* Builds with *Grunt*” by [@Jack_Franklin]() [link](http://javascriptplayground.com/blog/2013/04/custom-jquery-builds-with-grunt)
+    - “Getting into *Ember.js*: The Next Steps” by [@reybango]() [link](http://net.tutsplus.com/tutorials/javascript-ajax/getting-into-ember-js-part-2/)
+  - Articles
+    - “The *WebGL* potential” by [@thibault_imbert]() [link](http://typedarray.org/the-webgl-potential/)
+    - *Chrome* Speed Team summarizes how Chrome 27 loads pages 5% faster [link](https://docs.google.com/document/d/1JQZXrONw1RrjrdD_Z9jq1ZKsHguh8UVGHY_MZgE63II/preview)
+    - “5 ways to implement *HTTPS* in an insufficient manner (and leak sensitive data)” by [@troyhunt]() [link](http://www.troyhunt.com/2013/04/5-ways-to-implement-https-in.html)
+    - “*Media Queries* are a Hack” by [@ianstormtaylor]() [link](http://ianstormtaylor.com/media-queries-are-a-hack/)
+  - Content
+    - “Responding to the unknown” (selecting a *responsive* images technique) [link](http://elvery.net/demo/responsive-images/#/) ![][*]
+    - Chrome *DevTools* tips: marking ranges with `console.time()` [tweet](https://twitter.com/addyosmani/status/319890526046400512), transparent bars? [tweet](https://twitter.com/aerotwist/status/319935575861903360)
+  - Sites
+    - Codassium (*WebRTC* based video chat + code editor) [codassium.com](http://codassium.com/) ![][*]
+  - Libraries
+    - `AudioContext` monkeypatch (*Web Audio API*) [tweet](https://twitter.com/w3caudio/status/319827843368501249) [repo](https://github.com/cwilso/AudioContext-MonkeyPatch)
+    - Clambake (*responsive* HTML email template with placeholders for high-res images) [link](http://www.zurb.com/playground/clambake)
+    - iCheck (customized *jQuery* plugin for checkboxes and radio buttons) [link](http://damirfoy.com/iCheck/)
+    - Huey (finds the dominant colour of an image and returns it as an RGB array) [repo](https://github.com/michaelrhodes/huey)
+    - Sidr (*jQuery* plugin for creating side menus) [link](http://www.berriart.com/sidr/)
+  - Opinion
+    - *Blink* Developer FAQ “No Bullshit” edition [link](http://prng.net/blink-faq.html)
+    - More *Blink* reactions: [ppk](http://www.quirksmode.org/blog/archives/2013/04/blink.html), [kjk](https://medium.com/my-ideas/25a947158087), [jkomoros](https://plus.google.com/113127438179392830442/posts/PKMrAhN6ptA), [rauschma](http://www.2ality.com/2013/04/blink.html)
 
 ## April 4th, 2013
 
@@ -198,45 +239,6 @@
  - Opinion
    - “The Real *Firefox OS* Mission” by [@seanmonstar]() [link](http://seanmonstar.com/post/46523219016/the-real-firefox-os-mission)
    - “Why *asm.js* bothers me” by [@mraleph]() [link](http://mrale.ph/blog/2013/03/28/why-asmjs-bothers-me.html)
-
-
-## March 28th, 2013
-
- - News
-   - “*Mozilla* is Unlocking the Power of the Web as a Platform for *Gaming*” (Epic’s “Unreal 3” engine ported to the Web) [post](https://blog.mozilla.org/blog/2013/03/27/mozilla-is-unlocking-the-power-of-the-web-as-a-platform-for-gaming/); media coverage: [TechCrunch](http://techcrunch.com/2013/03/27/mozilla-and-epic-games-bring-unreal-engine-3-to-the-web-no-plugin-needed/), [Ars Technica](http://arstechnica.com/information-technology/2013/03/mozilla-making-the-web-a-gaming-platform-with-unreal-3-engine-in-a-browser/), [CNET](http://reviews.cnet.com/8301-3514_7-57576608/mozilla-wants-you-to-get-your-game-on-in-your-browser/)
-   - *CSS WG Minutes* Telecon 2013-03-27 [notes](http://www.w3.org/blog/CSS/2013/03/28/resolutions-86/) (upcoming publications: new WD of “Grid Layout” [TR](http://www.w3.org/TR/css3-grid-layout/), second CR of “Values and Units” [TR](http://www.w3.org/TR/css3-values/), CR of “Conditional Rules” [TR](http://www.w3.org/TR/css3-conditional/))
-   - ![][&] (re-post) *AppCache* v2 proposal [post](https://plus.google.com/u/0/113127438179392830442/posts/2NapyZSYWvA)
-   - *Firefox Nightly* developments: support for HiDPI favicons [tweet](https://twitter.com/FirefoxNightly/status/317207778156494848), `<template>` element ([TR](http://www.w3.org/TR/html-templates/)) [tweet](https://twitter.com/ebidel/status/317029825997053952)
-   - “Firefox Nightly's new *asm.js* module destroys Chrome in ammo.js *benchmark*” [link](https://twitter.com/brianblakely/status/316997592796000256)
-   - *V8* (in Chrome and Node.js) bug to implement *asm.js* optimizations [bug](http://code.google.com/p/v8/issues/detail?id=2599)
-   - New in *Chrome DevTools*: “Copy as Curl” (screenshot) [tweet](https://twitter.com/ChromiumDev/status/317183238026186752), clearing domain cookies in one click [tweet](https://twitter.com/ChromiumDev/status/317198596380430336)
-   - Steam browser (*WebKit* port) (report) [link](http://www.shaundunne.com/post/46251944045/steam-browser)
- - Tutorials
-   - Using `shape-outside` (CSS *“Exclusions and Shapes”* [TR](http://www.w3.org/TR/css3-exclusions/)) by [@bemjb]() [link](http://blogs.adobe.com/webplatform/2013/03/27/freeing-the-floats-of-the-future-from-the-tyranny-of-the-rectangle/)
-   - “Penetrating Text” (CSS *“Exclusions and Shapes”* [TR](http://www.w3.org/TR/css3-exclusions/)) by [@Hans_Muller_CA]() [link](http://hansmuller-webkit.blogspot.com/2013/03/penetrating-text.html)
-   - “*WebRTC* Data Channels for Great Multiplayer” (Mozilla Hacks) [link](https://hacks.mozilla.org/2013/03/webrtc-data-channels-for-great-multiplayer/)
-   - “*Profiling* Mobile HTML5 Apps With *Chrome DevTools*” by [@JohnMcCutchan]() [link](http://www.html5rocks.com/en/mobile/profiling/)
-   - “Slide In (as you scroll down) Boxes” by [@chriscoyier]() [link](http://css-tricks.com/slide-in-as-you-scroll-down-boxes/)
- - Content
-   - *Mozilla* Security Community did a Reddit AMA [link](http://www.reddit.com/r/netsec/comments/1b3vcx/we_are_the_mozilla_security_community_ask_us/)
-   - “*Internet Explorer* 11′s user-agent string: What does it mean?” by [@slicknet]() [link](http://www.nczonline.net/blog/2013/03/27/internet-explorer-11s-user-agent-string-what-does-it-mean/)
-   - ![][>] The Breakpoint Ep. 7: *Profiling* a mobile site with *Chrome DevTools* and Android [18min] [youtube](https://www.youtube.com/watch?v=dRwzmoDZtZM)
-   - ![][>] ShopTalk Podcast 061: With Alex Sexton [65min] [link](http://shoptalkshow.com/episodes/061-with-alex-sexton/)
-   - ![][>] Extracting a HAR file under 4G conditions from Chrome on Android, by [@paul_irish]() [3min] [youtube](https://www.youtube.com/watch?v=U3egfEwI-Vc) ![][*]
-   - “Hands-on with Mozilla’s Web-based *“Firefox OS”* for smartphones” (Ars Technica) [link](http://arstechnica.com/gadgets/2013/03/firefox-os-hands-on-mozillas-plan-to-build-on-top-of-the-web/)
-   - “10 *Firefox* Add-Ons for Designers” (Mashable) [link](http://mashable.com/2013/03/26/firefox-add-ons-design/)
-   - Chrome extension to discover real-world website *semantics*, by [@slightlylate]() [post](http://lists.w3.org/Archives/Public/www-tag/2013Mar/0147.html)
- - Sites
-   - FightCode (code your own robot using *JavaScript*) [fightcodegame.com](http://fightcodegame.com/) ![][*]
-   - cdnjs (“the missing CDN”) [cdnjs.com](http://cdnjs.com/)
- - Libraries
-   - Plato (*JavaScript* source analysis) [repo](https://github.com/jsoverson/plato); example on jQuery [link](http://jsoverson.github.com/plato/examples/jquery/) ![][*]
-   - Bootstrap Tag Autocomplete (autocomplete Twitter-style tags) [link](http://sandglaz.github.com/bootstrap-tagautocomplete/)
- - Opinion
-   - “5 Reasons You Should Avoid `__proto__`” by [@WebReflection]() [link](http://webreflection.blogspot.com/2013/03/5-reasons-you-should-avoid-proto.html)
-   - “Multiple `var` statements in *JavaScript*, not superfluous” by [@cowboy]() [link](http://benalman.com/news/2012/05/multiple-var-statements-javascript/)
-   - “The power of the *RSS* reader” [link](http://www.marco.org/2013/03/26/power-of-rss)
-   - “ES6 is JS2” by [@kuvos]() [link](http://qfox.nl/weblog/282)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
