@@ -8,6 +8,38 @@
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
  - ![][+] Tern: intelligent *JavaScript* editing, by [@marijnjh]() (author of “Eloquent JavaScript”) [link](http://www.indiegogo.com/projects/tern-intelligent-javascript-editing)
 
+## April 6th, 2013
+
+ - News
+   - Weekly digest of *W3C* news and trends, by [@koalie]() [link](http://lists.w3.org/Archives/Public/public-w3c-digest/2013AprJun/0000.html)
+   - *CSS WG* “Minutes Telecon 2013-04-03” [notes](http://www.w3.org/blog/CSS/2013/04/05/resolutions-87/) (“CSS Overflow” to be published as FPWD)
+   - APIs scheduled for first *Blink* API Review Meeting: “IME API” [ann.](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/sxuEbPN6pPY/QpNxXgJyoScJ), “CSS Box Alignment” [ann.](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/aoRbtbbdedM)
+   - *Firefox Nightly*: baseline compiler landed [post](https://blog.mozilla.org/javascript/2013/04/05/the-baseline-compiler-has-landed/)
+   - “*Opera* confirms it will follow Google and ditch WebKit for *Blink*” (TNW) [link](http://thenextweb.com/insider/2013/04/04/opera-confirms-it-will-follow-google-and-ditch-webkit-for-blink-as-part-of-its-commitment-to-chromium/)
+   - “*Mozilla* introduces JavaScript API as part of common payments interface” (Computerworld) [link](http://www.computerworld.com/s/article/9238175/Mozilla_introduces_JavaScript_API_as_part_of_common_payments_interface)
+   - “New *GitHub* Pages domain: github.io” [post](https://github.com/blog/1452-new-github-pages-domain-github-io)
+ - FYI
+   - “*Safari* blocks *HTML5* videos from playing if directory is protected via `.htaccess`” [solution](https://gist.github.com/glueckpress/5317587)
+   - [@souders](): “Average page weight increased 24% year-over-year (not 44% as I reported earlier)” [tweet](https://twitter.com/souders/status/320280428080664576)
+   - *Chrome* 26 removed `-webkit-` prefixes from (*CSS*) gradients, transitions, and `calc()`, and added support for the `<main>`, and `<template>` elements
+   - How much data gets preloaded when using *HTML5* `<video>` elements [tweet](https://twitter.com/souders/status/320303843730681856) [results](http://www.browserscope.org/user/tests/table/agt1YS1wcm9maWxlcnINCxIEVGVzdBioyaYUDA?v=3&layout=simple)
+ - Tutorials
+   - “Items on circle with *CSS*” by [@HugoGiraudel]() [link](http://hugogiraudel.com/2013/04/02/items-on-circle/)
+ - Articles
+   - “What every web developer must know about *URL encoding*” by [@UnFroMage]() [link](http://blog.lunatech.com/2009/02/03/what-every-web-developer-must-know-about-url-encoding)
+   - “About *HTML semantics* and front-end architecture” by [@necolas]() [link](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
+   - “*IE11*: what we know and what we can speculate” by [@dstorey]() [link](http://generatedcontent.org/post/47216611856/ie11)
+ - Content
+   - ![][>] Fripfrap Ep. 7 (SXSW, tools, code reviews, responsive design, UA Strings, Promises) [27min] [link](http://fripfrap.io/07/)
+   - ![][>] JavaScript Jabber Podcast Ep. 54 (JavaScript Parsing, ASTs, and Language Grammar) [58min] [link](http://javascriptjabber.com/054-jsj-javascript-parsing-asts-and-language-grammar-w-david-herman-and-ariya-hidayat/)
+   - “Compiling C/C++ to *JavaScript*” (*asm.js*), [@kripken]()’s slides from GDC [link](http://kripken.github.io/mloc_emscripten_talk/gindex.html#/)
+   - [@reybango]() interviews [@jeresig]() (Nettuts+) [link](http://net.tutsplus.com/articles/where-in-the-world-is-john-resig/)
+   - Collaborative task list with TodoMVC, *AngularJS* & Drive Realtime API [repo](https://github.com/googledrive/realtime-tasks)
+   - *Demo*: Concentric circles drawing machine (*Canvas*) [codepen](http://codepen.io/cwolves/pen/gykbc) ![][*]
+ - Opinion
+   - “*HTML5*: Alive And Well With CIOs” by [@mjasay]() (ReadWrite) [link](http://readwrite.com/2013/04/05/html5-alive-and-well-with-cios)
+   - “*Mozilla* and the Open Source Browser Bonanza” by [@glynmoody]() [link](http://blogs.computerworlduk.com/open-enterprise/2013/04/mozilla-and-the-open-source-browser-bonanza/index.htm)
+
 ## April 5th, 2013
 
   - News
@@ -200,45 +232,6 @@
    - Faker.js (generate large amounts of fake data) [repo](https://github.com/marak/Faker.js/)
  - Opinions
    - “The Web is the Game Platform” by [@BrendanEich]() [link](https://brendaneich.com/2013/03/the-web-is-the-game-platform/)
-
-## March 29th, 2013
-
- - News
-   - Blackberry 10 browser is the first default browser to pass the “[Ringmark](http://rng.io/) Level 1” test [link](http://www.mobilexweb.com/blog/blackberry-10-first-class-html5-mobile-platform)
-   - *W3C* releases: CR of “*XSLT* and XQuery Serialization 3.0” ([TR](http://www.w3.org/TR/xslt-xquery-serialization-30/)) [post](http://www.w3.org/News/2013.html#entry-9770), REC of “Role Attribute 1.0” ([TR](http://www.w3.org/TR/role-attribute/)) [post](http://www.w3.org/News/2013.html#entry-9771)
-   - ![][&] *CSS WG* releases: WD of “Custom Properties for Cascading *Variables*” ([TR](http://www.w3.org/TR/css-variables/)) [post](http://www.w3.org/blog/CSS/2013/03/28/css-variables-updated/), WD of *“Counter Styles”* ([TR](http://www.w3.org/TR/css-counter-styles-3/)) [post](http://www.w3.org/blog/CSS/2013/03/28/css-counter-styles-updated/) (**Please review!** Both are expected to move to “Last Call” soon.)
-   - “DOM Futures” have arrived (*asynchronous* access to results of *DOM* operations) [post](http://lists.w3.org/Archives/Public/public-webapps/2013JanMar/1040.html) [spec](http://dom.spec.whatwg.org/#futures)
-   - Nintendo Web Framework (tool for building apps for the Wii U using *HTML 5* and *JavaScript*) ([via](https://twitter.com/remotesynth/status/317355447248117761)) [link](http://www.polygon.com/2013/3/27/4155152/nintendo-app-web-devs-wii-u-javascript)
-   - ![][&] “*CSS* `border-corner-shape` is in danger, and you can help!” [link](http://lea.verou.me/2013/03/border-corner-shape-is-in-danger-and-you-can-help/) **Provide feedback!**
-   - *Chrome Canary* developments: “Opus” becomes default audio codec for *WebRTC* [post](https://plus.google.com/113817074606039822053/posts/V7BmGCgCRhg)
-   - Google’s Traceur (ES6-to-ES5 compiler) moving from Google Code to GitHub [tweet](https://twitter.com/ErikArvidsson/status/317302255286116352)
- - Tutorials
-   - “Detect Pseudo-Element *Animation* Support” by [@davidwalshblog]() [link](http://davidwalsh.name/pseudo-element-animation)
-   - “Make a 3D iPhone with *CSS*” by [@donovanh]() [link](http://hop.ie/blog/rotating-phone/)
-   - “3D-ifying Documents Using *CSS Transforms*” [link](http://blog.crocodoc.com/post/46369766700/3d-ifying-documents-using-css-transforms)
-   - “Defining *JavaScript* functions, the ES6 way” by [@paulrouget]() [link](http://paulrouget.com/e/es6functions/); Related: arrow functions don’t have dynamic `this` [tweet](https://twitter.com/paulrouget/status/317264570576171008), the end of `self` [tweet](https://twitter.com/paulrouget/status/317267758188486657) ![][*]
-   - “Simulating *ES6* Symbols In *ES5*” by [@WebReflection]() [link](http://webreflection.blogspot.com/2013/03/simulating-es6-symbols-in-es5.html)
- - Content
-   - ![][>] “Is open still enough?”, [@codepo8]()’s keynote at Posscon [49min] [post](http://christianheilmann.com/2013/03/28/is-open-still-enough-keynote-at-posscon-2013-at-columbia-sc/) [slides](http://icant.co.uk/talks/h5/posscon-keynote.html) [youtube](https://www.youtube.com/watch?v=eTAN9sUZnao)
-   - ![][>] “*CSS3* – know your arsenal”, [@codepo8]()’s talk at Posscon [59min] [post](http://christianheilmann.com/2013/03/29/css3-know-your-arsenal-a-show-and-tell-at-posscon/) [youtube](https://www.youtube.com/watch?v=rRkQrlbH1SU)
-   - three.js editor [link](http://mrdoob.github.com/three.js/editor/) ![][*]
-   - ![][>] “The State of Favicons” ([@chriscoyier]()’s screencast) [8min] [link](http://css-tricks.com/video-screencasts/122-the-state-of-favicons/)
-   - ![][>] Dive into *Chrome DevTools for Mobile*, with [@addyosmani]() and [@jaffathecake]() (GDL) [36min] [youtube](https://www.youtube.com/watch?v=jXqrgtm-yF8)
-   - “Introducing Adobe Blank” (blank font for use to hide content while loading webfonts) [link](http://blogs.adobe.com/typblography/2013/03/introducing-adobe-blank.html)
-   - ![][>] Web Performance Podcast Ep. 4: “CDNs And Turbobytes With Guest Aaron Peters” [33min] [link](http://webperformancepodcast.com/cdns-and-turbobytes-with-guest-aaron-peters/)
-   - “Hover-friendly Hexagons (with *CSS*)” [link](http://blog.ansacopeland.com/chatter/2013/3/25/hover-friendly-hexagons)
-   - Webcam Swiper (turn pages by swiping your hand left or right) [link](https://developer.cdn.mozilla.net/media/uploads/demos/i/a/iambrandonn/e2e8d64d4aef55167517e03340f3baa0/webcamswiper_1363711553_demo_package/index.html)
- - Sites
-   - Tern (“intelligent *JavaScript* editing”) (includes live demo) [ternjs.net](http://ternjs.net/) ![][*]
-   - PeerCDN (uses *WebRTC* to send resources over a peer-to-peer network) [peercdn.com](https://peercdn.com/)
-   - “Build my pinned site” (create tile for Windows 8 start screen) [buildmypinnedsite.com](http://www.buildmypinnedsite.com/)
-   - locksmith (open source password management tool) [locksmith.io](https://locksmith.io/)
- - Libraries
-   - screenfull.js (wrapper for cross-browser usage of the [Fullscreen API](http://fullscreen.spec.whatwg.org/)) [link](http://sindresorhus.com/screenfull.js/)
-   - pixi.js (*HTML5* 2D rendering engine that uses *WebGL* with Canvas fallback) [link](https://github.com/GoodBoyDigital/pixi.js); game demo [link](http://www.goodboydigital.com/runpixierun/)
- - Opinion
-   - “The Real *Firefox OS* Mission” by [@seanmonstar]() [link](http://seanmonstar.com/post/46523219016/the-real-firefox-os-mission)
-   - “Why *asm.js* bothers me” by [@mraleph]() [link](http://mrale.ph/blog/2013/03/28/why-asmjs-bothers-me.html)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"

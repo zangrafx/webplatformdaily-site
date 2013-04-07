@@ -1,3 +1,42 @@
+## March 29th, 2013
+
+ - News
+   - Blackberry 10 browser is the first default browser to pass the “[Ringmark](http://rng.io/) Level 1” test [link](http://www.mobilexweb.com/blog/blackberry-10-first-class-html5-mobile-platform)
+   - *W3C* releases: CR of “*XSLT* and XQuery Serialization 3.0” ([TR](http://www.w3.org/TR/xslt-xquery-serialization-30/)) [post](http://www.w3.org/News/2013.html#entry-9770), REC of “Role Attribute 1.0” ([TR](http://www.w3.org/TR/role-attribute/)) [post](http://www.w3.org/News/2013.html#entry-9771)
+   - ![][&] *CSS WG* releases: WD of “Custom Properties for Cascading *Variables*” ([TR](http://www.w3.org/TR/css-variables/)) [post](http://www.w3.org/blog/CSS/2013/03/28/css-variables-updated/), WD of *“Counter Styles”* ([TR](http://www.w3.org/TR/css-counter-styles-3/)) [post](http://www.w3.org/blog/CSS/2013/03/28/css-counter-styles-updated/) (**Please review!** Both are expected to move to “Last Call” soon.)
+   - “DOM Futures” have arrived (*asynchronous* access to results of *DOM* operations) [post](http://lists.w3.org/Archives/Public/public-webapps/2013JanMar/1040.html) [spec](http://dom.spec.whatwg.org/#futures)
+   - Nintendo Web Framework (tool for building apps for the Wii U using *HTML 5* and *JavaScript*) ([via](https://twitter.com/remotesynth/status/317355447248117761)) [link](http://www.polygon.com/2013/3/27/4155152/nintendo-app-web-devs-wii-u-javascript)
+   - ![][&] “*CSS* `border-corner-shape` is in danger, and you can help!” [link](http://lea.verou.me/2013/03/border-corner-shape-is-in-danger-and-you-can-help/) **Provide feedback!**
+   - *Chrome Canary* developments: “Opus” becomes default audio codec for *WebRTC* [post](https://plus.google.com/113817074606039822053/posts/V7BmGCgCRhg)
+   - Google’s Traceur (ES6-to-ES5 compiler) moving from Google Code to GitHub [tweet](https://twitter.com/ErikArvidsson/status/317302255286116352)
+ - Tutorials
+   - “Detect Pseudo-Element *Animation* Support” by [@davidwalshblog]() [link](http://davidwalsh.name/pseudo-element-animation)
+   - “Make a 3D iPhone with *CSS*” by [@donovanh]() [link](http://hop.ie/blog/rotating-phone/)
+   - “3D-ifying Documents Using *CSS Transforms*” [link](http://blog.crocodoc.com/post/46369766700/3d-ifying-documents-using-css-transforms)
+   - “Defining *JavaScript* functions, the ES6 way” by [@paulrouget]() [link](http://paulrouget.com/e/es6functions/); Related: arrow functions don’t have dynamic `this` [tweet](https://twitter.com/paulrouget/status/317264570576171008), the end of `self` [tweet](https://twitter.com/paulrouget/status/317267758188486657) ![][*]
+   - “Simulating *ES6* Symbols In *ES5*” by [@WebReflection]() [link](http://webreflection.blogspot.com/2013/03/simulating-es6-symbols-in-es5.html)
+ - Content
+   - ![][>] “Is open still enough?”, [@codepo8]()’s keynote at Posscon [49min] [post](http://christianheilmann.com/2013/03/28/is-open-still-enough-keynote-at-posscon-2013-at-columbia-sc/) [slides](http://icant.co.uk/talks/h5/posscon-keynote.html) [youtube](https://www.youtube.com/watch?v=eTAN9sUZnao)
+   - ![][>] “*CSS3* – know your arsenal”, [@codepo8]()’s talk at Posscon [59min] [post](http://christianheilmann.com/2013/03/29/css3-know-your-arsenal-a-show-and-tell-at-posscon/) [youtube](https://www.youtube.com/watch?v=rRkQrlbH1SU)
+   - three.js editor [link](http://mrdoob.github.com/three.js/editor/) ![][*]
+   - ![][>] “The State of Favicons” ([@chriscoyier]()’s screencast) [8min] [link](http://css-tricks.com/video-screencasts/122-the-state-of-favicons/)
+   - ![][>] Dive into *Chrome DevTools for Mobile*, with [@addyosmani]() and [@jaffathecake]() (GDL) [36min] [youtube](https://www.youtube.com/watch?v=jXqrgtm-yF8)
+   - “Introducing Adobe Blank” (blank font for use to hide content while loading webfonts) [link](http://blogs.adobe.com/typblography/2013/03/introducing-adobe-blank.html)
+   - ![][>] Web Performance Podcast Ep. 4: “CDNs And Turbobytes With Guest Aaron Peters” [33min] [link](http://webperformancepodcast.com/cdns-and-turbobytes-with-guest-aaron-peters/)
+   - “Hover-friendly Hexagons (with *CSS*)” [link](http://blog.ansacopeland.com/chatter/2013/3/25/hover-friendly-hexagons)
+   - Webcam Swiper (turn pages by swiping your hand left or right) [link](https://developer.cdn.mozilla.net/media/uploads/demos/i/a/iambrandonn/e2e8d64d4aef55167517e03340f3baa0/webcamswiper_1363711553_demo_package/index.html)
+ - Sites
+   - Tern (“intelligent *JavaScript* editing”) (includes live demo) [ternjs.net](http://ternjs.net/) ![][*]
+   - PeerCDN (uses *WebRTC* to send resources over a peer-to-peer network) [peercdn.com](https://peercdn.com/)
+   - “Build my pinned site” (create tile for Windows 8 start screen) [buildmypinnedsite.com](http://www.buildmypinnedsite.com/)
+   - locksmith (open source password management tool) [locksmith.io](https://locksmith.io/)
+ - Libraries
+   - screenfull.js (wrapper for cross-browser usage of the [Fullscreen API](http://fullscreen.spec.whatwg.org/)) [link](http://sindresorhus.com/screenfull.js/)
+   - pixi.js (*HTML5* 2D rendering engine that uses *WebGL* with Canvas fallback) [link](https://github.com/GoodBoyDigital/pixi.js); game demo [link](http://www.goodboydigital.com/runpixierun/)
+ - Opinion
+   - “The Real *Firefox OS* Mission” by [@seanmonstar]() [link](http://seanmonstar.com/post/46523219016/the-real-firefox-os-mission)
+   - “Why *asm.js* bothers me” by [@mraleph]() [link](http://mrale.ph/blog/2013/03/28/why-asmjs-bothers-me.html)
+
 ## March 28th, 2013
 
  - News
