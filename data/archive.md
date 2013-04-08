@@ -343,9 +343,9 @@
  - Working Draft Ep. 111 - Performance-Proxy, Media Queries Level 4, http-client-hints (podcast) [link](http://workingdraft.de/111/)
  - StyleDocco (automatically generate a style guide from your *stylesheets*) [repo](https://github.com/jacobrask/styledocco)
 
- [*]: /img/star.svg "don’t miss"
- [+]: /img/funding.svg "seeks funding"
- [1]: /img/calendar.svg "upcoming event"
- [o]: /img/contributor.svg "seeks contributors"
- [>]: /img/media.svg "audio/video"
- [&]: /img/feedback.svg "seeks feedback"
+ [*]: /img/star.png "don’t miss"
+ [+]: /img/funding.png "seeks funding"
+ [1]: /img/calendar.png "upcoming event"
+ [o]: /img/contributor.png "seeks contributors"
+ [>]: /img/media.png "audio/video"
+ [&]: /img/feedback.png "seeks feedback"
