@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Alberto Congiu (@4lbertoC), provided CSS to make the site fit on smaller widths
 
 # TECHNOLOGY COLOPHON
 
