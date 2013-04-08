@@ -75,7 +75,7 @@ jQuery(function ( $ ) {
         $( window ).triggerHandler( 'resize' );
 
         // $menu has been populated and positioned; it's ready to be displayed
-        $menu.show();
+        $menu.show()
     };
 
 
