@@ -64,19 +64,30 @@
 <script>window.Markdown || document.write('<script src="/js/libs/Markdown.Converter.js"><\x3C/script>');</script>
 <script src="/js/daily.js"></script>
 
-<!-- Twitter -->
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<script>
+    var _gaq = [ ['_setAccount', 'UA-7817762-6'], ['_trackPageview'] ];
 
-<!-- Google Analytics -->
-<script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-7817762-6']);
-    _gaq.push(['_trackPageview']);
-    (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
+    (function(doc, script) {
+      var js,
+          fjs = doc.scripts[0],
+          frag = doc.createDocumentFragment(),
+          add = function(url, id) {
+              if (doc.getElementById(id)) {return;}
+              js = doc.createElement(script);
+              js.src = url;
+              id && (js.id = id);
+              frag.appendChild( js );
+          };
+
+        // Twitter SDK
+        add('//platform.twitter.com/widgets.js', 'twitter-wjs');
+
+        // Load GA over http, we know it won't be over ssl
+        add('//www.google-analytics.com/ga.js');
+
+        fjs.parentNode.insertBefore(frag, fjs);
+
+    }(document, 'script'));
 </script>
 
 <!-- TODO how to provide this?
