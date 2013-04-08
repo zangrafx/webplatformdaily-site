@@ -1,3 +1,7 @@
+#Default charset
+AddDefaultCharset utf-8
+
+
 # Tell server what Markdown is (otherwise he won't GZIP .md files)
 AddType 'text/plain; charset=UTF-8' md
 
