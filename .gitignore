@@ -162,10 +162,5 @@ pip-log.txt
 # Mac crap
 .DS_Store
 
-###############
-# Added by me
-###############
-
-.idea
+# my own stuff
 .sass-cache
-reactions/

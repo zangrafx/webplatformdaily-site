@@ -33,19 +33,11 @@
 
 <html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <title>Open Web Platform Daily Digest</title>
-    <script type="text/javascript">
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-7817762-6']);
-        _gaq.push(['_trackPageview']);
-        (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-    </script>
+    <meta name="description" content="This daily digest covers the W3C, HTML, CSS, JavaScript, the Web APIs, web browsers (including their dev tools), web development, open source, and more">
+    <meta name="viewport" content="width=device-width">
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic,300" rel="stylesheet">
     <link href="/styles/daily.css" rel="stylesheet">
 </head>
@@ -71,7 +63,21 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/pagedown/1.0/Markdown.Converter.js"></script>
 <script>window.Markdown || document.write('<script src="/js/libs/Markdown.Converter.js"><\x3C/script>');</script>
 <script src="/js/daily.js"></script>
+
+<!-- Twitter -->
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-7817762-6']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
 
 <!-- TODO how to provide this?
 <label><input type=checkbox onchange="document.body.classList[ this.checked ? 'add' : 'remove' ]( 'chrome-fix' )"> apply `-webkit-text-stroke`</label>
