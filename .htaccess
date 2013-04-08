@@ -1,6 +1,7 @@
+# Tell server what Markdown is (otherwise he won't GZIP .md files)
 AddType 'text/plain; charset=UTF-8' md
 
-# gzip compression
+# GZIP compression
 <ifmodule mod_deflate.c>
 AddOutputFilterByType DEFLATE text/text text/html text/plain text/xml text/css application/x-javascript application/javascript application/json
 </ifmodule>
