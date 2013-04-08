@@ -38,6 +38,7 @@
     <title>Open Web Platform Daily Digest</title>
     <meta name="description" content="This daily digest covers the W3C, HTML, CSS, JavaScript, the Web APIs, web browsers (including their dev tools), web development, open source, and more">
     <meta name="viewport" content="width=device-width">
+    <link rel="icon" type="image/png" href="favicon.png" >
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic,300" rel="stylesheet">
     <link href="/styles/daily.css" rel="stylesheet">
 </head>
@@ -64,19 +65,30 @@
 <script>window.Markdown || document.write('<script src="/js/libs/Markdown.Converter.js"><\x3C/script>');</script>
 <script src="/js/daily.js"></script>
 
-<!-- Twitter -->
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<script>
+    var _gaq = [ ['_setAccount', 'UA-7817762-6'], ['_trackPageview'] ];
 
-<!-- Google Analytics -->
-<script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-7817762-6']);
-    _gaq.push(['_trackPageview']);
-    (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
+    (function(doc, script) {
+      var js,
+          fjs = doc.scripts[0],
+          frag = doc.createDocumentFragment(),
+          add = function(url, id) {
+              if (doc.getElementById(id)) {return;}
+              js = doc.createElement(script);
+              js.src = url;
+              id && (js.id = id);
+              frag.appendChild( js );
+          };
+
+        // Twitter SDK
+        add('//platform.twitter.com/widgets.js', 'twitter-wjs');
+
+        // Load GA over http, we know it won't be over ssl
+        add('//www.google-analytics.com/ga.js');
+
+        fjs.parentNode.insertBefore(frag, fjs);
+
+    }(document, 'script'));
 </script>
 
 <!-- TODO how to provide this?
