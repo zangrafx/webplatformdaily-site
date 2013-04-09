@@ -8,6 +8,41 @@
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
  - ![][+] Tern: intelligent *JavaScript* editing, by [@marijnjh]() (author of “Eloquent JavaScript”) [link](http://www.indiegogo.com/projects/tern-intelligent-javascript-editing)
 
+## April 8th, 2013
+ - News
+   - Removing “CSS *Variables*” from *WebKit* under discussion [suggestion](https://twitter.com/dirkschulze/status/320946095293353985) [ticket](https://twitter.com/sgalineau/status/320996046853529600)
+   - [@jaffathecake]() working on proposal for `<img defer>` (defers downloading hidden images) [tweet](https://twitter.com/jaffathecake/status/320949130723725312)
+   - *WebP* gets color profiles, metadata, and animation support [link](http://libregraphicsworld.org/blog/entry/webp-gets-color-profiles-metadata-and-animation-support)
+   - Adding Futures to *WebRTC*’s `.takePhoto()` proposed by [@annevk]() [tweet](https://twitter.com/annevk/status/321193121767636992)
+ - FYI
+   - *Mobile* hardware statistics [link](http://blogs.unity3d.com/2013/04/07/mobile-hardware-statistics-and-more/) ![][*]
+   - [@slicknet]() did additional research for “*accessible* icon buttons” (article updated) [link](http://www.nczonline.net/blog/2013/04/01/making-accessible-icon-buttons/)
+   - More “links of interest” on the Adobe Web Platform blog [link](http://blogs.adobe.com/webplatform/2013/04/05/links-of-interest-2/)
+   - browserify v2 adds *source maps* [link](http://thlorenz.com/blog/browserify-sourcemaps)
+ - Tutorials
+   - “What’s the Deal With Em and Rem?” (*CSS* units) by [@carriecousins]() [link](http://designshack.net/articles/typography/whats-the-deal-with-em-and-rem/)
+   - “*Backbone* tutorial part 16: *jQuery* Plugins and Moving Tasks” by [@alex_young]() [link](http://dailyjs.com/2013/04/04/backbone-tutorial-16/)
+   - “Building Large, Maintainable, and Testable *Knockout.js* Applications” by [@jcreamer898]() (Nettuts+) [link](http://net.tutsplus.com/tutorials/javascript-ajax/building-large-maintainable-and-testable-knockout-js-applications/)
+ - Articles
+   - “Can we get rid of *gradient* prefixes?” by [@LeaVerou]() [link](http://lea.verou.me/2013/04/can-we-get-rid-of-gradient-prefixes/)
+   - “12 *JavaScript* quirks” by [@rauschma]() [link](http://www.2ality.com/2013/04/12quirks.html)
+   - “Learning to See” (article on the way designers see) by [@iA]() [link](http://informationarchitects.net/blog/learning-to-see/)
+ - Content
+   - ![][>] *Mozilla* Research Party talks (keynote by [@BrendanEich]()) [78min] [link](https://air.mozilla.org/overview-of-research-team-projects/) ![][*]
+   - SecureHeaders (*Ruby* gem, applies *security* related HTTP headers (CSP, HSTS, XFO)) [repo](https://github.com/twitter/secureheaders)
+   - “*Firefox OS* Weekend” slides by [@matenadasdi]() [slideshare](http://www.slideshare.net/matenadasdi1/firefox-os-weekend)
+   - “Why does this *PNG* image display differently in Chrome & Firefox than in Safari and IE?” [link](http://superuser.com/questions/579216/why-does-this-png-image-display-differently-in-chrome-firefox-than-in-safari-a) ![][*]
+   - *Demo*: Toggling horizontal/vertical masonry with Isotope [codepen](http://codepen.io/desandro/pen/ivjAI)
+   - ![][>] Working Draft Podcast Ep. 114 (`<template>`, Appcache, asm.js vs Bytecode) (in German) [67min] [link](http://workingdraft.de/114/)
+ - Sites
+   - framebase (record, upload and embed *videos* from inside the browser) [framebase.io](https://framebase.io/)
+ - Libraries
+   - sheetsee.js (visualize data from a Google spreadsheet) [link](http://jllord.github.io/sheetsee.js/)
+   - groundskeeper (automatic removal of *JavaScript* logging) [article](http://ariya.ofilabs.com/2013/04/automagic-removal-of-javascript-logging.html)
+ - Opinion
+   - “If your website is full of assholes, it's your fault.” by [@anildash]() [link](http://dashes.com/anil/2011/07/if-your-websites-full-of-assholes-its-your-fault.html)
+   - “Say no to reimplementing the browser's parser in *JavaScript*.” [post](https://plus.google.com/+IlyaGrigorik/posts/S6j45VxNESB)
+
 ## April 6th, 2013
 
  - News
@@ -35,7 +70,7 @@
    - “Compiling C/C++ to *JavaScript*” (*asm.js*), [@kripken]()’s slides from GDC [link](http://kripken.github.io/mloc_emscripten_talk/gindex.html#/)
    - [@reybango]() interviews [@jeresig]() (Nettuts+) [link](http://net.tutsplus.com/articles/where-in-the-world-is-john-resig/)
    - Collaborative task list with TodoMVC, *AngularJS* & Drive Realtime API [repo](https://github.com/googledrive/realtime-tasks)
-   - *Demo*: Concentric circles drawing machine (*Canvas*) [codepen](http://codepen.io/cwolves/pen/gykbc) ![][*]
+   - *Demo*: `<canvas>` spirograph [codepen](http://codepen.io/cwolves/pen/gykbc) ![][*]
  - Opinion
    - “*HTML5*: Alive And Well With CIOs” by [@mjasay]() (ReadWrite) [link](http://readwrite.com/2013/04/05/html5-alive-and-well-with-cios)
    - “*Mozilla* and the Open Source Browser Bonanza” by [@glynmoody]() [link](http://blogs.computerworlduk.com/open-enterprise/2013/04/mozilla-and-the-open-source-browser-bonanza/index.htm)
@@ -201,37 +236,6 @@
    - “I pronounce `===` as ‘equals’ and `==` as ‘kinda like’.” [tweet](https://twitter.com/SimonSapin/status/317737733667835905)
    - “Investigate potential `__proto__` issues.” (discussion on GitHub) [link](https://github.com/bestiejs/lodash/issues/226)
    - “Recent Web Standards Frustrations & Constructive Suggestions” by [@t]() [link](http://tantek.com/2013/089/b1/web-standards-frustrations-constructive-suggestions)
-
-## March 30th, 2013
-
- - News
-   - This week at *W3C*: “Role Attribute 1.0, Unreal Engine 3 on the Web, DRM in HTML5, …” by [@koalie]() [link](http://lists.w3.org/Archives/Public/public-w3c-digest/2013JanMar/0010.html)
-   - *JavaScript* Weekly #123 [link](http://javascriptweekly.com/archive/123.html)
-   - *Firefox Nightly* developments: *ES6* `Object.is` added [tweet](https://twitter.com/FirefoxNightly/status/317671115495456768), setting `MOZ_PROFILER_NEW=1`… [tweet](https://twitter.com/tarasglek/status/317771962753642497)
-   - “*jQuery* Adds Support for Windows Store Apps” [link](http://blogs.msdn.com/b/interoperability/archive/2013/03/29/jquery-adds-support-for-windows-store-apps-creates-new-opportunities-for-javascript-open-source-developers.aspx)
-   - “*Google* pledges not to sue *open-source* users or developers over specified patents” [link](http://www.computerworlduk.com/news/open-source/3437749/google-pledges-not-sue-open-source-users-or-developers-over-specified-patents/)
-   - “*Mozilla* Takes Aim At A Global Duopoly With Firefox OS And The *Open Web*” (Forbes) [link](http://www.forbes.com/sites/parmyolson/2013/03/28/mozilla-takes-aim-at-a-global-duopoly-with-firefox-os-and-the-open-web/)
-   - “Change of heart? *IE11* might speed Web graphics with *WebGL*” (CNET) [link](http://news.cnet.com/8301-1023_3-57576954-93/change-of-heart-ie11-might-speed-web-graphics-with-webgl/)
-   - “Interview: Epic goes all-in on *HTML5* with UE4 support” [link](http://gamasutra.com/view/news/189583/Interview_Epic_goes_allin_on_HTML5_with_UE4_support.php)
- - Tutorials
-   - “How Fast is Your Web Site?” (*performance*) by [@patmeenan]() [link](http://queue.acm.org/detail.cfm?id=2446236)
-   - “*Responsive Design* for Apps”, three-part series by [@grigs]() [part1](http://blog.cloudfour.com/responsive-design-for-apps-part-1/) [part2](http://blog.cloudfour.com/responsive-design-for-apps-part-2/) [part3](http://blog.cloudfour.com/responsive-design-for-apps-part-3/)
-   - “You can apply CSS3 *transitions* to the `z-index` property” by [@zomigi]() [link](http://zomigi.com/blog/css3-transitions-and-z-index/)
-   - “Making *HTML5 audio* actually work on *mobile*” by [@pupunzi]() [link](http://pupunzi.open-lab.com/2013/03/13/making-html5-audio-actually-work-on-mobile/)
-   - “*Backbone* tutorial part 15: Updates for 1.0, Clear Complete” by [@alex_young]() [link](http://dailyjs.com/2013/03/28/backbone-tutorial-15/)
- - Content
-   - “Why the Web Is Ready for *Responsive Web Design*” by [@quasirahul]() [link](http://msdn.microsoft.com/en-us/magazine/dn151701.aspx)
-   - *ES6* generator object model diagram [link](http://wiki.ecmascript.org/lib/exe/fetch.php?cache=cache&media=harmony:es6_generator_object_model_3-29-13.png)
-   - asm.js FAQ [link](http://asmjs.org/faq.html) ![][*]
-   - ![][>] Working Draft Podcast Ep. 113 (in German) [link](http://workingdraft.de/113/)
-   - “Real World RWD Performance – Take 2” (*responsive design*) by [@guypod]() [link](http://www.guypo.com/uncategorized/real-world-rwd-performance-take-2/)
-   - This code example shows some of the flaws of *ECMAScript* Default: [link](http://www.mail-archive.com/es-discuss@mozilla.org/msg18466.html) (`'use strict';` everybody!)
- - Sites
-   - ScreenCheck (test your website at different screen resolutions) [cybercrab.com/screencheck/](http://cybercrab.com/screencheck/) ![][*]
- - Libraries
-   - Faker.js (generate large amounts of fake data) [repo](https://github.com/marak/Faker.js/)
- - Opinions
-   - “The Web is the Game Platform” by [@BrendanEich]() [link](https://brendaneich.com/2013/03/the-web-is-the-game-platform/)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
