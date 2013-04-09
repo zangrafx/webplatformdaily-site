@@ -7,7 +7,7 @@
 
 # THANKS
 
-	Glen Cheney (@Vestride), provided favicon, and the initial version of the generic async script loader
+    Glen Cheney (@Vestride), provided favicon, and the initial version of the generic async script loader
     Alberto Congiu (@4lbertoC), provided CSS to make the site fit on smaller widths
 
 # TECHNOLOGY COLOPHON
