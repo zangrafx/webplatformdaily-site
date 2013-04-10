@@ -1,14 +1,13 @@
 #Default charset
 AddDefaultCharset utf-8
 
-
 # Tell server what Markdown is (otherwise he won't GZIP .md files)
-AddType 'text/plain; charset=UTF-8' md
+AddType 'text/x-markdown; charset=UTF-8' md
 
 
 # GZIP compression
 <ifmodule mod_deflate.c>
-AddOutputFilterByType DEFLATE text/text text/html text/plain text/xml text/css application/x-javascript application/javascript application/json
+AddOutputFilterByType DEFLATE text/text text/html text/plain text/x-markdown text/xml text/css application/x-javascript application/javascript application/json
 </ifmodule>
 
 
@@ -32,8 +31,9 @@ AddOutputFilterByType DEFLATE text/text text/html text/plain text/xml text/css a
   # HTML components (HTCs)
     ExpiresByType text/x-component "access plus 1 month"
 
-  # HTML
+  # HTML, Markdown
     ExpiresByType text/html "access plus 0 seconds"
+    ExpiresByType text/x-markdown "access plus 0 seconds"
 
   # JavaScript
     ExpiresByType application/javascript "access plus 1 year"
