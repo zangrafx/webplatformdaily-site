@@ -93,14 +93,11 @@ article {
     float: left;
     margin: 0 2em 0 1em; }
 
-.banner-note {
-  font-size: 13px;
-  margin: 0.2em 0 1.2em; }
-
 h1 {
   font-size: 50px;
   font-weight: 300;
-  text-align: center; }
+  text-align: center;
+  margin-top: 0.4em; }
 
 .release-times {
   font-size: 14px;
