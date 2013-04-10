@@ -2,7 +2,8 @@
 
 ## Sticky
 
- - **New!** The "Web Platform" *chat room* on Stack Overflow [link](http://chat.stackoverflow.com/rooms/27674/web-platform)
+ - **Read this!** ![][*] ![][*] ![][*] Re-tweet Tim Berners-Lee’s call to join the action to fix the CFAA [tweet](https://twitter.com/timberners_lee/status/321367692344963072) ![][*] ![][*] ![][*]
+ - The "Web Platform" *chat room* on Stack Overflow [link](http://chat.stackoverflow.com/rooms/27674/web-platform)
  - Recommended *Twitter* feeds: [@remotesynth](), [@codepo8](), [@smashingmag]()
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
