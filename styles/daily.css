@@ -86,12 +86,15 @@ article {
   .mozilla-banner:hover {
     background-color: rgba(0, 119, 255, 0.2);
     border-radius: 0; }
+    .mozilla-banner:hover img {
+      opacity: 0.6; }
   .mozilla-banner p {
     margin: 1em;
     font-size: 22px; }
   .mozilla-banner img {
     float: left;
-    margin: 0 2em 0 1em; }
+    margin: 0 2em 0 1em;
+    opacity: 0.4; }
 
 h1 {
   font-size: 50px;
