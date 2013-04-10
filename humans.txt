@@ -3,14 +3,16 @@
 
 # TEAM
 
-    Šime Vidas -- owner, publisher -- @simevidas
+    Šime Vidas -- @simevidas -- owner, publisher
 
 # THANKS
 
-    Glen Cheney (@Vestride), provided favicon, and the initial version of the generic async script loader
-    Alberto Congiu (@4lbertoC), provided CSS to make the site fit on smaller widths
+    Glen Cheney -- @Vestride -- provided favicon, and the initial version of the generic async script loader
+    Alberto Congiu -- @4lbertoC -- provided CSS to make the site fit on smaller widths
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3 via SASS, JavaScript ♥, Markdown
     jQuery, PageDown (Markdown.Converter)
+
+    Source: https://github.com/simevidas/webplatformdaily-site
