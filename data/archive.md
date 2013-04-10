@@ -1,3 +1,33 @@
+## April 1st, 2013
+
+ - News
+   - *WebGL* is coming to *IE11*: enabling its experimental implementation [link](http://withinwindows.com/within-windows/2013/3/30/blues-clues-how-to-enable-webgl-in-internet-explorer-11); related discussion [tweet](https://twitter.com/BrendanEich/status/318128375287918593)
+   - The *Blackberry* 10 browser is currently the (absolutely) highest scoring browser on [html5test.com](http://html5test.com/)
+   - “Top ecommerce sites are 22% slower than they were last year” [link](http://www.webperformancetoday.com/2013/03/27/top-ecommerce-sites-are-slower-than-they-were-last-year/)
+ - Tutorials
+   - “*CSS* Masks – How To Use *Masking* ([TR](http://www.w3.org/TR/css-masking/)) In CSS Now” by [@derSchepp]() [link](http://thenittygritty.co/css-masking) ![][*]
+   - “Easy High DPI Images” (serving high quality images on the web) by [@borismus]() [link](http://www.html5rocks.com/en/mobile/easy-high-dpi-images/)
+   - “Building Windows Store Applications With *jQuery* 2.0” by [@jonathansampson]() (Nettuts+) [link](http://net.tutsplus.com/tutorials/javascript-ajax/building-windows-store-applications-with-jquery-2-0/)
+   - “Build a Contacts Management App Using HTML5, JS, CSS3, and Wakanda Studio” by Saad Mousliki [link](http://buildmobile.com/build-contacts-app-with-html5-css-javascript-wakanda-studio/)
+   - “10 tips for designing localised interfaces” by [@supjoey]() [link](http://www.netmagazine.com/features/10-tips-designing-localised-interfaces)
+ - Content
+   - The state of spinners 2013, by [@padolsey ]() [link](http://james.padolsey.com/javascript/sonic-the-state-of-spinners/)
+   - Sonic Creator (creates spinners with `<canvas>`, converts to .gif on the fly) [link](http://padolsey.github.com/sonic-creator/) ![][*]
+   - “*DevTools* tip: Cmd/Ctrl + F in Network/Timeline to find (and filter) by keyword.” [tweet](https://twitter.com/addyosmani/status/318452538414354432) (w/ screenshot)
+   - ![][>] “River Trail – Parallel Programming in *JavaScript*”, talk by [@herhut]() [42min] [link](http://www.infoq.com/presentations/Parallel-JavaScript) ![][*]
+   - easter.js (calculating the date of Easter) by [@thomasfuchs]() (code golf) [gist](https://gist.github.com/madrobby/5276743)
+   - *Demos*: Circles (`<canvas>`) [link](http://codepen.io/deepmagic/pen/KwDhE), Moonwalk (CSS animations) [link](http://codepen.io/Avichetron/pen/aktyI), Live Source Code Background [link](http://codepen.io/alliejones/pen/vExdA)
+   - “Google Analytics and *PhoneGap*” (integrating the Google Analytics plug-in with PhoneGap) [link](http://www.raymondcamden.com/index.cfm/2013/3/28/Google-Analytics-and-PhoneGap)
+ - Sites
+   - Flippin’ Awesome (articles, tutorials and news) [flippinawesome.org](http://flippinawesome.org/)
+ - Libraries
+   - html2canvas (takes screenshots of web-pages) [link](http://html2canvas.hertzen.com/)
+ - Opinion
+   - ![][>] “*Firefox OS*: Why Should I Care?” by [@NixiePixel]() [youtube](http://www.youtube.com/watch?v=lO73YCJ5bFY)
+   - “I pronounce `===` as ‘equals’ and `==` as ‘kinda like’.” [tweet](https://twitter.com/SimonSapin/status/317737733667835905)
+   - “Investigate potential `__proto__` issues.” (discussion on GitHub) [link](https://github.com/bestiejs/lodash/issues/226)
+   - “Recent Web Standards Frustrations & Constructive Suggestions” by [@t]() [link](http://tantek.com/2013/089/b1/web-standards-frustrations-constructive-suggestions)
+
 ## March 30th, 2013
 
  - News

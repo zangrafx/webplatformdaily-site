@@ -8,6 +8,44 @@
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
  - ![][+] Tern: intelligent *JavaScript* editing, by [@marijnjh]() (author of “Eloquent JavaScript”) [link](http://www.indiegogo.com/projects/tern-intelligent-javascript-editing)
 
+## April 9th, 2013
+
+ - News
+   - IMS to *WebRTC* gateway developed [post](https://plus.google.com/113817074606039822053/posts/7eg6PYgXskk)
+   - Discussion: Indicating subtitles using `<small>` [thread](http://lists.w3.org/Archives/Public/public-html/2013Apr/thread.html#msg22)
+   - *Firefox Nightly*: network monitor added to dev tools [post](http://firefoxnightly.tumblr.com/post/47460334547/a-network-monitor-landed-in-the-dev-tools-of) [screenshot](http://cl.ly/image/2q2s450r2B43)
+   - “*Do Not Track* set on over 12% of requests to sample sites in Europe” [link](http://cloudclinic.com/)
+ - FYI
+   - “*Firefox* 23 will be blocking non-SSL content on *SSL* pages by default” [tweet](https://twitter.com/igrigorik/status/321388249467723777)
+   - *Google* developing a new network protocol (in Chrome) called QUIC [wikipedia](http://en.wikipedia.org/wiki/QUIC) [tweet](https://twitter.com/mikebelshe/status/320211790950703104)
+   - *HTML5* Boilerplate v4.2.0 released [tweet](https://twitter.com/h5bp/status/321291346742763522)
+ - Tutorials
+   - “Adaptive Web App UI with *CSS Regions*” by [@razvancaliman]() [link](http://blogs.adobe.com/webplatform/2013/04/08/adaptive-web-app-ui-with-css-regions/) ![][*]
+   - “*Ambient Light Events* and JavaScript detection” by [@robertnyman]() [link](https://hacks.mozilla.org/2013/04/ambient-light-events-and-javascript-detection/)
+   - “Create Your First *Mobile* App with *PhoneGap* Build – Adding jQuery Mobile” by [@remotesynth]() [link](http://flippinawesome.org/2013/04/08/phonegap-build-part4/)
+   - “Vengeance On Lorem Ipsum: Three Draft Filler *Fonts*” by [@dudleystorey]() [link](http://demosthenes.info/blog/661/Vengeance-On-Lorem-Ipsum-Three-Draft-Filler-Fonts)
+   - “*Backbone* Model Unit Testing with *Jasmine*” by [@KenTabor]() [link](http://flippinawesome.org/2013/04/08/backbone-jasmine/)
+   - “Developing for *Windows Phone 8* in Apache Cordova” by [@purplecabbage]() [link](http://flippinawesome.org/2013/04/08/cordova-windows-phone-8/)
+ - Articles
+   - “How a banner ad […] appeared on apple.com—without Apple’s OK” (Ars Technica) [link](http://arstechnica.com/tech-policy/2013/04/how-a-banner-ad-for-hs-ok/) ![][*]
+   - “*Media Query* & Asset Downloading Results” by [@tkadlec]() [link](http://timkadlec.com/2012/04/media-query-asset-downloading-results/)
+ - Content
+   - RESTful Image API Specification (RIAPI) (on-demand, server-side, image scaling and modification) [repo](https://github.com/riapi/riapi)
+   - tus (resumable upload protocol) [link](http://www.tus.io/protocols/resumable-upload.html)
+   - Decaf (modification of *WebKit* that runs *Ruby* in the browser) [link](http://trydecaf.org/)
+ - Sites
+   - Moot (embeddable, styleable, real-time free forum engine) [moot.it](http://moot.it/)
+   - Media Queries (*RWD* site gallery) [mediaqueri.es](http://mediaqueri.es/)
+   - CDN Connect (managing dynamic resources) [cdnconnect.com](http://www.cdnconnect.com/)
+ - Tools 
+   - Adaptive Images (deliver small images to small devices) [link](http://adaptive-images.com/)
+   - Resemble.js (image analysis and comparison) [link](http://huddle.github.io/Resemble.js/) ![][*]
+   - CSSCSS (*CSS* redundancy analyzer) [link](http://zmoazeni.github.io/csscss/)
+   - *JavaScript* Scope Context Coloring [repo](https://github.com/daniellmb/JavaScript-Scope-Context-Coloring)
+ - Opinion
+   - “*URLs* are for People, not Computers” [link](http://www.not-implemented.com/urls-are-for-people-not-computers/)
+   - “Node.js is part of *HTML5*” :-) [tweet](https://twitter.com/garannm/status/321422617607286785)
+
 ## April 8th, 2013
  - News
    - Removing “CSS *Variables*” from *WebKit* under discussion [suggestion](https://twitter.com/dirkschulze/status/320946095293353985) [ticket](https://twitter.com/sgalineau/status/320996046853529600)
@@ -206,36 +244,6 @@
  - Opinion
    - “*JavaScript* is Not Web Assembly ” by [@isaacschlueter]() [link](http://blog.izs.me/post/10213512387/javascript-is-not-web-assembly)
    - “Broken Promises” by [@drewcrawford]() [link](http://sealedabstract.com/code/broken-promises/)
-
-## April 1st, 2013
-
- - News
-   - *WebGL* is coming to *IE11*: enabling its experimental implementation [link](http://withinwindows.com/within-windows/2013/3/30/blues-clues-how-to-enable-webgl-in-internet-explorer-11); related discussion [tweet](https://twitter.com/BrendanEich/status/318128375287918593)
-   - The *Blackberry* 10 browser is currently the (absolutely) highest scoring browser on [html5test.com](http://html5test.com/)
-   - “Top ecommerce sites are 22% slower than they were last year” [link](http://www.webperformancetoday.com/2013/03/27/top-ecommerce-sites-are-slower-than-they-were-last-year/)
- - Tutorials
-   - “*CSS* Masks – How To Use *Masking* ([TR](http://www.w3.org/TR/css-masking/)) In CSS Now” by [@derSchepp]() [link](http://thenittygritty.co/css-masking) ![][*]
-   - “Easy High DPI Images” (serving high quality images on the web) by [@borismus]() [link](http://www.html5rocks.com/en/mobile/easy-high-dpi-images/)
-   - “Building Windows Store Applications With *jQuery* 2.0” by [@jonathansampson]() (Nettuts+) [link](http://net.tutsplus.com/tutorials/javascript-ajax/building-windows-store-applications-with-jquery-2-0/)
-   - “Build a Contacts Management App Using HTML5, JS, CSS3, and Wakanda Studio” by Saad Mousliki [link](http://buildmobile.com/build-contacts-app-with-html5-css-javascript-wakanda-studio/)
-   - “10 tips for designing localised interfaces” by [@supjoey]() [link](http://www.netmagazine.com/features/10-tips-designing-localised-interfaces)
- - Content
-   - The state of spinners 2013, by [@padolsey ]() [link](http://james.padolsey.com/javascript/sonic-the-state-of-spinners/)
-   - Sonic Creator (creates spinners with `<canvas>`, converts to .gif on the fly) [link](http://padolsey.github.com/sonic-creator/) ![][*]
-   - “*DevTools* tip: Cmd/Ctrl + F in Network/Timeline to find (and filter) by keyword.” [tweet](https://twitter.com/addyosmani/status/318452538414354432) (w/ screenshot)
-   - ![][>] “River Trail – Parallel Programming in *JavaScript*”, talk by [@herhut]() [42min] [link](http://www.infoq.com/presentations/Parallel-JavaScript) ![][*]
-   - easter.js (calculating the date of Easter) by [@thomasfuchs]() (code golf) [gist](https://gist.github.com/madrobby/5276743)
-   - *Demos*: Circles (`<canvas>`) [link](http://codepen.io/deepmagic/pen/KwDhE), Moonwalk (CSS animations) [link](http://codepen.io/Avichetron/pen/aktyI), Live Source Code Background [link](http://codepen.io/alliejones/pen/vExdA)
-   - “Google Analytics and *PhoneGap*” (integrating the Google Analytics plug-in with PhoneGap) [link](http://www.raymondcamden.com/index.cfm/2013/3/28/Google-Analytics-and-PhoneGap)
- - Sites
-   - Flippin’ Awesome (articles, tutorials and news) [flippinawesome.org](http://flippinawesome.org/)
- - Libraries
-   - html2canvas (takes screenshots of web-pages) [link](http://html2canvas.hertzen.com/)
- - Opinion
-   - ![][>] “*Firefox OS*: Why Should I Care?” by [@NixiePixel]() [youtube](http://www.youtube.com/watch?v=lO73YCJ5bFY)
-   - “I pronounce `===` as ‘equals’ and `==` as ‘kinda like’.” [tweet](https://twitter.com/SimonSapin/status/317737733667835905)
-   - “Investigate potential `__proto__` issues.” (discussion on GitHub) [link](https://github.com/bestiejs/lodash/issues/226)
-   - “Recent Web Standards Frustrations & Constructive Suggestions” by [@t]() [link](http://tantek.com/2013/089/b1/web-standards-frustrations-constructive-suggestions)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
