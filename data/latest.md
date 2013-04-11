@@ -2,12 +2,48 @@
 
 ## Sticky
 
- - **Read this!** ![][*] ![][*] ![][*] Re-tweet Tim Berners-Lee’s call to join the action to fix the CFAA [tweet](https://twitter.com/timberners_lee/status/321367692344963072) ![][*] ![][*] ![][*]
+ - **Read this!** Re-tweet Tim Berners-Lee’s call to join the action to fix the CFAA [tweet](https://twitter.com/timberners_lee/status/321367692344963072) ![][*]
  - The "Web Platform" *chat room* on Stack Overflow [link](http://chat.stackoverflow.com/rooms/27674/web-platform)
  - Recommended *Twitter* feeds: [@remotesynth](), [@codepo8](), [@smashingmag]()
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
  - ![][+] Tern: intelligent *JavaScript* editing, by [@marijnjh]() (author of “Eloquent JavaScript”) [link](http://www.indiegogo.com/projects/tern-intelligent-javascript-editing)
+
+## April 10th, 2013
+
+ - News
+   - *W3C*, releases: 2. WD of *“SVG 2”* [TR](http://www.w3.org/TR/SVG2/), PR of *“Web Storage”* [TR](http://www.w3.org/TR/webstorage/), *RDF* WG published 4 documents [post](http://www.w3.org/News/2013.html#entry-9780)
+   - ![][&] *W3C* issued a call for review of *“Web Storage”*. Comments are welcome through 07 May. [post](http://www.w3.org/News/2013.html#entry-9781)
+   - ![][&] *W3C Audio WG*: “If you want to influence the design of the *Web MIDI API*, now is a really good time to review the draft spec” [tweet](https://twitter.com/w3caudio/status/321579703683145728)
+   - *Mozilla Persona* beta 2 launched [post](https://hacks.mozilla.org/2013/04/persona-beta-2-launch/) (Mozilla Hacks), [post](http://identity.mozilla.com/post/47541633049/persona-beta-2) (Mozilla Identity), [coverage](http://thenextweb.com/socialmedia/2013/04/09/mozillas-seamless-login-system-persona-gets-faster-second-beta-version-built-into-firefox-os/) (TNW) ![][*]
+   - “*Mozilla* seeks to integrate payment system into *Firefox OS*” (CNET) [link](http://news.cnet.com/8301-1023_3-57578426-93/mozilla-seeks-to-integrate-payment-system-into-firefox-os/)
+ - Info
+   - *GitHub* adds *WebGL* powered STL preview [post](https://github.com/blog/1465-stl-file-viewing)
+   - *Yeoman* 1.0 beta 4 released (Windows support, refreshed Angular, Backbone, Ember generators) [post](http://addyosmani.com/blog/yeoman-update-announcing-1-0-beta-4/)
+   - “An Android WebView implementation has been built on top of *Chromium*” [tweet](https://twitter.com/dalmaer/status/321638403936485376)
+ - Tutorials
+   - “Detecting *touch*: it’s the ‘why’, not the ‘how’” by [@patrick_h_lauke]() [link](https://hacks.mozilla.org/2013/04/detecting-touch-its-the-why-not-the-how/) ![][*]
+   - “Angry Birds of *JavaScript* Series” by [@elijahmanor]() [link](http://www.elijahmanor.com/2013/03/angry-birds-of-javascript-series.html) ![][*]
+   - “File a *bug*: the missing manual” by [@lizhenry]() [link](http://bookmaniac.org/file-a-bug-the-missing-manual-now-with-unicorns/)
+   - “Improve *Mobile* Support With Server-Side-Enhanced *Responsive Design*” by [@jonarnes]() [link](http://mobile.smashingmagazine.com/2013/04/09/improve-mobile-support-with-server-side-enhanced-responsive-design/)
+ - Articles
+   - “Behind the scenes of the new Web Payments API from *Mozilla*” [link](http://blog.digital.telefonica.com/2013/04/09/mozilla-web-payments-api/)
+   - “*CSS* Preload Scanner in *WebKit*” by [@ariyahidayat]() [link](http://ariya.ofilabs.com/2013/04/css-preload-scanner-in-webkit.html)
+ - Content
+   - ![][>] “How Fast Are We Going Now?”, [@souder]()’s talk at HTML5 Dev Conf [link](http://marakana.com/s/post/1432/how_fast_are_we_going_now_web_performance_Steve_Souders_video)
+   - ![][>] “The vanilla web diet”, [@codepo8]()’s keynote at Anglebrackets [53min] [link](http://christianheilmann.com/2013/04/09/the-vanilla-web-diet-keynote-at-anglebrackets-in-las-vegas/)
+   - ![][>] “Breaking the 1000ms ‘time to glass’ mobile barrier”, [@igrigorik]()’s talk at SF HTML5 [46min] [youtube](https://www.youtube.com/watch?v=Il4swGfTOSM)
+   - “Don’t Break the Web: Why *Web Standards* Matter” by [@reybango]() (slides) [link](https://speakerdeck.com/reybango/dont-break-the-web-why-web-standards-matter)
+   - A comparison matrix of browser support of *front-end frameworks* [link](http://usablica.github.io/front-end-frameworks/compare.html)
+ - Tools
+   - Responsive Nav (JavaScript plugin For *responsive* navigation) [link](http://coding.smashingmagazine.com/2013/04/09/javascript-plugin-for-responsive-navigation/)
+   - Lungo (*HTML5* cross-device framework) [link](http://lungo.tapquo.com/)
+   - Collage.js (building interactive collages on a limitless two-dimensional canvas) [link](http://oztu.org/collage/)
+ - Opinion
+   - “Asm.js, Persona, Rust, and Firefox OS are very cool. *Mozilla* is what Google was in 2005” [tweet](https://twitter.com/JamesLaiCreativ/status/321690567853629441)
+   - “AppGratis pulled from the App Store. Here’s the full story.” [link](http://appgratis.com/blog/2013/04/09/appgratis-pulled-from-the-app-store-heres-the-full-story/)
+   - Should *JSON-P* be forgotten? [tweet](JSON-P)
+   
 
 ## April 9th, 2013
 
@@ -212,39 +248,6 @@
    - “Celebrating 15 Years of a Better Web” by [@MitchellBaker]() [link](https://blog.lizardwrangler.com/2013/04/02/15-years-of-a-better-web/)
    - “Explicit vs. Clever” (code) by [@raganwald]() [link](http://raganwald.com/2013/04/02/explicit-versus-clever.html)
    - “The *Firefox* Song ” by [@CShirkeyCollins]() [youtube](https://www.youtube.com/watch?v=DIkTSEeT2A8) ![][*]
-
-## April 2nd, 2013
-
- - News
-   - *Mozilla* celebrates its 15th anniversary [link](http://www.mozilla.org/en-US/contribute/)
-   - Usability improvements in *HTML* spec: attribute descriptions [tweet](https://twitter.com/sideshowbarker/status/318824084093952000), tag omission sections [tweet](https://twitter.com/sideshowbarker/status/318825856082513920)
-   - `<hgroup>` to be removed from the *HTML* 5.0 CR spec [post](http://lists.w3.org/Archives/Public/public-html-admin/2013Apr/0003.html)
-   - *Firefox Nightly* developments: `@supports` and `CSS.supports()` ([TR](http://www.w3.org/TR/css3-conditional/)) enabled by default [link](http://mcc.id.au/blog/2013/04/supports-enabled-by-default)
-   - Smashing Newsletter #81 [link](http://www.smashingmagazine.com/smashing-newsletter-issue-81/)
- - Tutorials
-   - “*CSS* Icon Stacks - Combining icon font glyphs to create complex mega-icons.” by [@conormuirhead]() [link](http://conor.cc/posts/icon-stacks)
-   - “Origami: A *CSS* 3D Foldout Image Gallery” (CSS *transforms*) by [@dudleystorey]() [link](http://demosthenes.info/blog/671/Origami-A-CSS-3D-Foldout-Image-Gallery)
-   - “Making *accessible* icon buttons” by [@slicknet]() [link](http://www.nczonline.net/blog/2013/04/01/making-accessible-icon-buttons/)
-   - “Serving *Backbone* for Robots & Legacy Browsers” by [@laurisvan]() [link](https://hacks.mozilla.org/2013/04/serving-backbone-for-robots-legacy-browsers/) (Mozilla Hacks) ![][*]
-   - “App Showcase with Grid Overlay” by [@crnacura]() [link](http://tympanus.net/codrops/2013/04/01/app-showcase-with-grid-overlay/)
-   - “Build a Street Fighter Demo with *CSS Animations* and *JavaScript*” by [@davidwalshblog]() [link](http://davidwalsh.name/street-fighter)
-   - “‘Like’-able Content: Spread Your Message with Third-Party *Metadata*” by [@wd45]() (A List Apart) [link](http://alistapart.com/article/like-able-content-spread-your-message-with-third-party-metadata)
- - Content
-   - “Poll Wrapup: How Much Effort Do People Put Into Alt Text?” (`<img alt="…">`) [link](http://css-tricks.com/poll-wrapup-how-much-effort-do-people-put-into-alt-text/)
-   - “How fast are we going now?”, slides from [@souders]()’s keynote at HTML5 Dev Conf [slideshare](http://www.slideshare.net/souders/how-fast-are-we-going-now)
-   - “Creating Web Experiences with users in mind”, slides from [@divya]()’s talk at HTML5 Dev Conf [link](http://nimbu.in/html5devconf/#/step-1)
-   - “*Video* in the Open Web Platform”, slides from [@plhw3org]()’s talk at HTML5 Dev Conf [link](http://www.w3.org/2013/Talks/0401-web-video/#%281%29)
-   - “*ECMAScript* 6”, slides from [@rauschma]()’s talk at CodeFest [PDF](http://dl.2ality.com/2013/03/es6_codefest.pdf)
-   - ![][>] Shop Talk Podcast Ep. 62: With [@imathis]() [link](shoptalkshow.com/episodes/062-with-brandon-mathis/)
-   - Mozilla’s DevDerby: winners announced for “multi-touch” contest [link](https://developer.mozilla.org/en-US/demos/devderby/2013/february)
-   - *Demos*: Hexel flames! [link](https://developer.mozilla.org/en-US/demos/devderby/2013/february), Hovers [link](http://codepen.io/chriscoyier/pen/ijaeh)
- - Sites
-   - statuspage.io (create status pages hosted outside of your infrastructure) [statuspage.io](https://www.statuspage.io/)
- - Libraries
-   - reveal.js (HTML presentation framework) [repo](https://github.com/hakimel/reveal.js)
- - Opinion
-   - “*JavaScript* is Not Web Assembly ” by [@isaacschlueter]() [link](http://blog.izs.me/post/10213512387/javascript-is-not-web-assembly)
-   - “Broken Promises” by [@drewcrawford]() [link](http://sealedabstract.com/code/broken-promises/)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
