@@ -30,7 +30,7 @@
    - “Behind the scenes of the new Web Payments API from *Mozilla*” [link](http://blog.digital.telefonica.com/2013/04/09/mozilla-web-payments-api/)
    - “*CSS* Preload Scanner in *WebKit*” by [@ariyahidayat]() [link](http://ariya.ofilabs.com/2013/04/css-preload-scanner-in-webkit.html)
  - Content
-   - ![][>] “How Fast Are We Going Now?”, [@souders]()’s talk at HTML5 Dev Conf [link](http://marakana.com/s/post/1432/how_fast_are_we_going_now_web_performance_Steve_Souders_video)
+   - ![][>] “How Fast Are We Going Now?”, [@souders]()’s talk at HTML5 Dev Conf [48min] [link](http://marakana.com/s/post/1432/how_fast_are_we_going_now_web_performance_Steve_Souders_video)
    - ![][>] “The vanilla web diet”, [@codepo8]()’s keynote at Anglebrackets [53min] [link](http://christianheilmann.com/2013/04/09/the-vanilla-web-diet-keynote-at-anglebrackets-in-las-vegas/)
    - ![][>] “Breaking the 1000ms ‘time to glass’ mobile barrier”, [@igrigorik]()’s talk at SF HTML5 [46min] [youtube](https://www.youtube.com/watch?v=Il4swGfTOSM)
    - “Don’t Break the Web: Why *Web Standards* Matter” by [@reybango]() (slides) [link](https://speakerdeck.com/reybango/dont-break-the-web-why-web-standards-matter)
@@ -42,7 +42,7 @@
  - Opinion
    - “Asm.js, Persona, Rust, and Firefox OS are very cool. *Mozilla* is what Google was in 2005” [tweet](https://twitter.com/JamesLaiCreativ/status/321690567853629441)
    - “AppGratis pulled from the App Store. Here’s the full story.” [link](http://appgratis.com/blog/2013/04/09/appgratis-pulled-from-the-app-store-heres-the-full-story/)
-   - Should *JSON-P* be forgotten? [tweet](JSON-P)
+   - Should *JSON-P* be forgotten? [tweet](https://twitter.com/WebReflection/status/321681978732711936)
    
 
 ## April 9th, 2013
