@@ -1,3 +1,33 @@
+## April 3rd, 2013
+
+ - News
+   - *W3C* releases: 4. WD of “CSS Grid Layout” [news](http://www.w3.org/News/2013.html#entry-9773) [TR](http://www.w3.org/TR/css3-grid-layout/)
+   - *Firefox* 20 released: information for developers on [MDN](https://developer.mozilla.org/en-US/docs/Firefox_20_for_developers), more control over privacy [blog](https://blog.mozilla.org/blog/2013/04/02/firefox-gives-you-more-control-over-your-privacy/), new downloads manager [link](https://support.mozilla.org/en-US/kb/find-and-manage-downloaded-files?esab=a&s=download+manager&r=0&as=s#os=mac&browser=fx20), coverage: [TechCrunch](http://techcrunch.com/2013/04/02/firefox-20-launches-with-per-tab-private-browsing-new-download-manager-and-more-webrtc-and-html5-features/)
+   - Microsoft could add *SPDY* support to *IE11* [link](http://news.cnet.com/8301-1023_3-57577575-93/ie11-windows-blue-could-support-googles-spdy-protocol/)
+   - ![][o] Update on upcoming *Modernizr* 3 **You can help!** [link](http://modernizr.com/news/modernizr-v3-stickers-diversity/)
+   - “New on *modern.IE*: Free VM Downloads, Win 8 QuickStart Kits, Enhanced Code-Scanning Tools, …” [link](http://blogs.msdn.com/b/ie/archive/2013/04/02/new-on-modern-ie-free-vm-downloads-windows-8-quickstart-kits-enhanced-code-scanning-tools-and-more.aspx)
+   - “France Considers *Net Neutrality* Law” [link](http://gamepolitics.com/2013/03/13/france-considers-net-neutrality-law)
+ - Tutorials
+   - “How To Make Your Websites Faster On *Mobile* Devices” (*performance*) by [@johansson_johan]() [link](http://mobile.smashingmagazine.com/2013/04/03/build-fast-loading-mobile-website/)
+   - *CSS Grid Layout* properties reference (with code examples and demos) [link](http://css-tricks.com/almanac/properties/g/grid/) ![][*]
+   - “Turn Your Web App Into a *Windows 8 App*” by [@boyofgreen]() [link](http://html5hacks.com/blog/2013/04/02/make-your-web-app-to-a-windows-8-app/)
+   - “A Thorough Introduction To *Backbone* Marionette (Part 2)” by [@JoeZimJS]() [link](http://coding.smashingmagazine.com/2013/04/02/thorough-introduction-backbone-marionette-part-2-modules/)
+ - Content
+   - ![][>] “Perfect Workflow in *Sublime* Text 2” [150min] [youtube](https://www.youtube.com/watch?v=TZ-bgcJ6fQo) **MOTHER OF GOD** ![][*]
+   - ![][>] “Setting disruptors to stun”, [@codepo8]()’s *keynote* at HTML5 Dev Conf [42min] [link](http://christianheilmann.com/2013/04/02/setting-disruptors-to-stun-keynote-at-html5-devcon-in-san-francisco/)
+   - *Sublime* Text integration with *Bower* package manager (w/ video demo) [link](http://germanforblack.com/post/46734908388/i-built-a-plugin-for-sublime-text-that-integrates)
+   - “Define Responsive” (explain *responsive design* to your clients) [link](http://finecitizens.com/defineResponsive/)
+   - *Demos*: Flat surface shader (*WebGL*) [link](http://wagerfield.github.com/flat-surface-shader/), Wifi icon with pure *CSS* [link](http://dabblet.com/gist/5299273), *WebGL* demos [link](http://blog.bongiovi.tw/)
+ - Sites
+   - HTML Dog (relaunch) [htmldog.com](http://www.htmldog.com/)
+   - Document.ly (work on text-based projects together, in real-time) [document.ly](http://www.document.ly/)
+ - Libraries
+   - fragment.js (lightweight library for loading *HTML* fragments and *templates*) [link](http://danielrapp.github.com/fragment.js/)
+ - Opinion
+   - “Celebrating 15 Years of a Better Web” by [@MitchellBaker]() [link](https://blog.lizardwrangler.com/2013/04/02/15-years-of-a-better-web/)
+   - “Explicit vs. Clever” (code) by [@raganwald]() [link](http://raganwald.com/2013/04/02/explicit-versus-clever.html)
+   - “The *Firefox* Song ” by [@CShirkeyCollins]() [youtube](https://www.youtube.com/watch?v=DIkTSEeT2A8) ![][*]
+
 ## April 2nd, 2013
 
  - News

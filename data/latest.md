@@ -9,6 +9,43 @@
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
  - ![][+] Tern: intelligent *JavaScript* editing, by [@marijnjh]() (author of “Eloquent JavaScript”) [link](http://www.indiegogo.com/projects/tern-intelligent-javascript-editing)
 
+## April 11th, 2013
+
+ - News
+   - *Mozilla* CEO Gary Kovacs stepping down later this year (+ five other leadership changes) [post](https://blog.mozilla.org/blog/2013/04/10/gearing-up-for-the-next-chapter/)
+   - *CSS WG* Minutes Telecon 2013-04-10 [notes](http://www.w3.org/blog/CSS/2013/04/11/resolutions-88/) (Discussed allowing `#123abc` to be a valid ID selector, to match *HTML5*. *“CSS Variables”* [TR](http://www.w3.org/TR/css-variables/) moves to Last Call.)
+   - April 3rd *Web Platform* Doc Sprint (report) [post](http://blog.webplatform.org/2013/04/doc-sprint-san-francisco-april-3/)
+   - *Firefox* removes support for `<blink>` element [bug](https://bugzilla.mozilla.org/show_bug.cgi?id=857820)
+ - FYI
+   - “Mixed Content Blocking Enabled in *Firefox* 23!” [link](https://blog.mozilla.org/tanvi/2013/04/10/mixed-content-blocking-enabled-in-firefox-23/)
+   - *JSFiddle* now accepts donations [link](https://www.gittip.com/JSFiddle/)
+   - *jQuery* 2.0 Beta 3 Released (Node.js and Win 8 Store compatibility, custom builds under 10k bytes) [post](http://blog.jquery.com/2013/04/09/jquery-2-0-beta-3-released/)
+   - *Firefox* *Dev Tools* improved console, before/after comparison [screenshot](http://cl.ly/image/441R2T1M2s1j)
+   - “Using `src="video.ext#t=5,10"` for *HTML5 video* sources starts 5 secs in and plays for 10 secs.” [tweet](https://twitter.com/iandevlin/status/321982668449402880)
+ - Tutorials
+   - “Introducing HTML’s new *`<template>`* element” by [@stopsatgreen]() [link](http://www.broken-links.com/2013/04/10/the-template-element/)
+   - “Advanced cross-browser *flexbox*” by [@chrisdavidmills]() [link](http://dev.opera.com/articles/view/advanced-cross-browser-flexbox/)
+   - “Angry Birds of *JavaScript*: Big Brother Bird - *Patterns*” by [@elijahmanor]() [link](http://www.elijahmanor.com/2013/04/angry-birds-of-javascript-big-brother.html) ![][*]
+   - “Certificate-based *Mozilla Persona* IdP” by David Margrave [link](http://unmitigatedrisk.com/?p=328)
+   - “Storing user agent strings in *Google Analytics*” by [@TechPad]() [link](http://techpad.co.uk/content.php?sid=243)
+ - Articles
+   - “Element Queries” (concept) by [@tabatkins]() [link](http://www.xanthir.com/b4PR0) ![][*]
+   - “The 10 most exciting *open source* projects on the web” [link](http://www.creativebloq.com/web-design/10-most-exciting-open-source-projects-web-4132351)
+   - “*Parallel Parsing* isn't Hard (Or, Parallel *JSON* via *Web Workers*!)” [link](http://lmeyerov.blogspot.jp/2013/04/parallel-parsing-isnt-hard-or-parallel.html)
+   - “Developer Tools Update – *Firefox* 22” (font inspector, re-paint visualizer) (Mozilla Hacks) [link](https://hacks.mozilla.org/2013/04/developer-tools-update-firefox-22/)
+ - Content
+   - Make Good (virtual *volunteering opportunities* for web designers and developers) [link](http://jenmyers.github.io/makegood/)
+   - “Parallelizing the Web Browser” (slides) [pdf](http://www.eecs.berkeley.edu/~lmeyerov/projects/pbrowser/codecon/codecon02.pdf) ![][*]
+   - “Mozilla Rust and Servo” (slides) [pdf](http://people.mozilla.com/~roc/Samsung/MozillaRustAndServo.pdf) (“C++ is a bad language for browsers”)
+ - Tools
+   - TopCoat (UI library for creating responsive applications) [link](http://topcoat.io/)
+   - Chrome Logger (Chrome extension for debugging server side applications in the Chrome console) [link](http://craig.is/writing/chrome-logger)
+   - Reactive.js (functional reactive programming in Javascript) [link](http://eng.wealthfront.com/2013/04/reactivejs-functional-reactive.html) 
+ - Opinion
+   - “What does the *web platform* need next?” by [@brucel]() [link](http://www.brucelawson.co.uk/2013/what-does-the-web-platform-need-next/) ![][*]
+   - “Native apps are eating our lunch. And we're spending hours arguing about syntax.” [link](https://plus.google.com/u/0/111552931212713155841/posts/Tkpqip4uZpB)
+   - “*Google* + WhatsApp = The Next *Privacy* Trap” [link](http://www.privacysurgeon.org/blog/incision/why-googles-acquisition-of-whatsapp-would-be-perilous-to-everyones-privacy/)
+
 ## April 10th, 2013
 
  - News
@@ -17,7 +54,7 @@
    - ![][&] *W3C Audio WG*: “If you want to influence the design of the *Web MIDI API*, now is a really good time to review the draft spec” [tweet](https://twitter.com/w3caudio/status/321579703683145728)
    - *Mozilla Persona* beta 2 launched [post](https://hacks.mozilla.org/2013/04/persona-beta-2-launch/) (Mozilla Hacks), [post](http://identity.mozilla.com/post/47541633049/persona-beta-2) (Mozilla Identity), [coverage](http://thenextweb.com/socialmedia/2013/04/09/mozillas-seamless-login-system-persona-gets-faster-second-beta-version-built-into-firefox-os/) (TNW) ![][*]
    - “*Mozilla* seeks to integrate payment system into *Firefox OS*” (CNET) [link](http://news.cnet.com/8301-1023_3-57578426-93/mozilla-seeks-to-integrate-payment-system-into-firefox-os/)
- - Info
+ - FYI
    - *GitHub* adds *WebGL* powered STL preview [post](https://github.com/blog/1465-stl-file-viewing)
    - *Yeoman* 1.0 beta 4 released (Windows support, refreshed Angular, Backbone, Ember generators) [post](http://addyosmani.com/blog/yeoman-update-announcing-1-0-beta-4/)
    - “An Android WebView implementation has been built on top of *Chromium*” [tweet](https://twitter.com/dalmaer/status/321638403936485376)
@@ -218,36 +255,6 @@
  - Opinion
    - “If you’re reading this, there is a good chance you’re introverted like me.” by [@chriscoyier]() [link](http://the-pastry-box-project.net/chris-coyier/2013-april-3/)
    - “*Mozilla* at 15 Memories, and Thoughts on Mozilla Research” by [@BrendanEich]() [link](https://brendaneich.com/2013/04/mozilla-at-15-memories-and-thoughts-on-mozilla-research/)
-
-## April 3rd, 2013
-
- - News
-   - *W3C* releases: 4. WD of “CSS Grid Layout” [news](http://www.w3.org/News/2013.html#entry-9773) [TR](http://www.w3.org/TR/css3-grid-layout/)
-   - *Firefox* 20 released: information for developers on [MDN](https://developer.mozilla.org/en-US/docs/Firefox_20_for_developers), more control over privacy [blog](https://blog.mozilla.org/blog/2013/04/02/firefox-gives-you-more-control-over-your-privacy/), new downloads manager [link](https://support.mozilla.org/en-US/kb/find-and-manage-downloaded-files?esab=a&s=download+manager&r=0&as=s#os=mac&browser=fx20), coverage: [TechCrunch](http://techcrunch.com/2013/04/02/firefox-20-launches-with-per-tab-private-browsing-new-download-manager-and-more-webrtc-and-html5-features/)
-   - Microsoft could add *SPDY* support to *IE11* [link](http://news.cnet.com/8301-1023_3-57577575-93/ie11-windows-blue-could-support-googles-spdy-protocol/)
-   - ![][o] Update on upcoming *Modernizr* 3 **You can help!** [link](http://modernizr.com/news/modernizr-v3-stickers-diversity/)
-   - “New on *modern.IE*: Free VM Downloads, Win 8 QuickStart Kits, Enhanced Code-Scanning Tools, …” [link](http://blogs.msdn.com/b/ie/archive/2013/04/02/new-on-modern-ie-free-vm-downloads-windows-8-quickstart-kits-enhanced-code-scanning-tools-and-more.aspx)
-   - “France Considers *Net Neutrality* Law” [link](http://gamepolitics.com/2013/03/13/france-considers-net-neutrality-law)
- - Tutorials
-   - “How To Make Your Websites Faster On *Mobile* Devices” (*performance*) by [@johansson_johan]() [link](http://mobile.smashingmagazine.com/2013/04/03/build-fast-loading-mobile-website/)
-   - *CSS Grid Layout* properties reference (with code examples and demos) [link](http://css-tricks.com/almanac/properties/g/grid/) ![][*]
-   - “Turn Your Web App Into a *Windows 8 App*” by [@boyofgreen]() [link](http://html5hacks.com/blog/2013/04/02/make-your-web-app-to-a-windows-8-app/)
-   - “A Thorough Introduction To *Backbone* Marionette (Part 2)” by [@JoeZimJS]() [link](http://coding.smashingmagazine.com/2013/04/02/thorough-introduction-backbone-marionette-part-2-modules/)
- - Content
-   - ![][>] “Perfect Workflow in *Sublime* Text 2” [150min] [youtube](https://www.youtube.com/watch?v=TZ-bgcJ6fQo) **MOTHER OF GOD** ![][*]
-   - ![][>] “Setting disruptors to stun”, [@codepo8]()’s *keynote* at HTML5 Dev Conf [42min] [link](http://christianheilmann.com/2013/04/02/setting-disruptors-to-stun-keynote-at-html5-devcon-in-san-francisco/)
-   - *Sublime* Text integration with *Bower* package manager (w/ video demo) [link](http://germanforblack.com/post/46734908388/i-built-a-plugin-for-sublime-text-that-integrates)
-   - “Define Responsive” (explain *responsive design* to your clients) [link](http://finecitizens.com/defineResponsive/)
-   - *Demos*: Flat surface shader (*WebGL*) [link](http://wagerfield.github.com/flat-surface-shader/), Wifi icon with pure *CSS* [link](http://dabblet.com/gist/5299273), *WebGL* demos [link](http://blog.bongiovi.tw/)
- - Sites
-   - HTML Dog (relaunch) [htmldog.com](http://www.htmldog.com/)
-   - Document.ly (work on text-based projects together, in real-time) [document.ly](http://www.document.ly/)
- - Libraries
-   - fragment.js (lightweight library for loading *HTML* fragments and *templates*) [link](http://danielrapp.github.com/fragment.js/)
- - Opinion
-   - “Celebrating 15 Years of a Better Web” by [@MitchellBaker]() [link](https://blog.lizardwrangler.com/2013/04/02/15-years-of-a-better-web/)
-   - “Explicit vs. Clever” (code) by [@raganwald]() [link](http://raganwald.com/2013/04/02/explicit-versus-clever.html)
-   - “The *Firefox* Song ” by [@CShirkeyCollins]() [youtube](https://www.youtube.com/watch?v=DIkTSEeT2A8) ![][*]
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
