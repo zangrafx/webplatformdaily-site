@@ -19,7 +19,7 @@
    - *Cross-site scripting* attack (via a *Java* applet) wipes out Bitcoin accounts [link](http://techcrunch.com/2013/04/11/mt-gox-cross-site-scripting-attack-wipes-out-bitcoin-accounts/)
  - FYI 
    - *W3C* TAG meeting 18-20 March 2013 (agenda /w details) [link](http://www.w3.org/2001/tag/2013/03/18-agenda)
-   - *HTML5 Templates* [TR](http://www.w3.org/TR/html-templates/) will be shareable accross pages e.g. `<link rel="import" href="templ.html">`
+   - *HTML5 Templates* [TR](http://www.w3.org/TR/html-templates/) will be shareable across pages e.g. `<link rel="import" href="templ.html">`
    - *Modernizr* can now detect pseudo element transitions/animations  [link](https://github.com/Modernizr/Modernizr/pull/896)
    - List of tools consuming/using *Bower* [link](https://github.com/twitter/bower/issues/354)
    - Remote Device Access provided by [Nokia](http://www.developer.nokia.com/Devices/Remote_device_access/) and [Samsung](http://developer.samsung.com/remotetestlab/rtlDeviceList.action)
