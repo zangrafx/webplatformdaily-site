@@ -9,9 +9,43 @@
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
  - ![][+] Tern: intelligent *JavaScript* editing, by [@marijnjh]() (author of “Eloquent JavaScript”) [link](http://www.indiegogo.com/projects/tern-intelligent-javascript-editing)
 
-## April 12th, 2013 **Delayed**
+## April 12th, 2013
 
- - This daily will be released on Saturday.
+ - News
+   - *W3C* releases: 4. WD of “*Clipboard API* and events” [TR](http://www.w3.org/TR/clipboard-apis/), 6. WD of “Internationalization Tag Set” [TR](Internationalization Tag Set), 3. LCWD of “API for Media Resources” [TR](http://www.w3.org/TR/mediaont-api-1.0/) [about](http://www.w3.org/News/2013.html#entry-9786)
+   - ![][&] “*JSON*-LD” specs moved to Last Call [post](http://www.w3.org/News/2013.html#entry-9785) (“Syntax” [TR](http://www.w3.org/TR/json-ld-syntax/), “Algorithms and API” [TR](http://www.w3.org/TR/json-ld-api/))
+   - New in *Blink*: enable stylesheet preloading according to `media` attribute [issue](https://codereview.chromium.org/13945017/)
+   - *Mozilla* is looking for organizations to align with […] the open learning standard for *Web Literacy* [link](https://wiki.mozilla.org/Learning/WebLiteracyStandard)
+   - *Cross-site scripting* attack (via a *Java* applet) wipes out Bitcoin accounts [link](http://techcrunch.com/2013/04/11/mt-gox-cross-site-scripting-attack-wipes-out-bitcoin-accounts/)
+ - FYI 
+   - *W3C* TAG meeting 18-20 March 2013 (agenda /w details) [link](http://www.w3.org/2001/tag/2013/03/18-agenda)
+   - *HTML5 Templates* [TR](http://www.w3.org/TR/html-templates/) will be shareable accross pages e.g. `<link rel="import" href="templ.html">`
+   - *Modernizr* can now detect pseudo element transitions/animations  [link](https://github.com/Modernizr/Modernizr/pull/896)
+   - List of tools consuming/using *Bower* [link](https://github.com/twitter/bower/issues/354)
+   - Remote Device Access provided by [Nokia](http://www.developer.nokia.com/Devices/Remote_device_access/) and [Samsung](http://developer.samsung.com/remotetestlab/rtlDeviceList.action)
+ - Tutorials
+   - “All the Glory of *CSS Transitions*” by [@paulaborowska]() [link](http://www.devgarage.com/css-transitions/)
+   - “Transitional Interfaces, Coded” (adding list items with *CSS animations*) by [@chriscoyier]() (w/ demos) [link](http://css-tricks.com/transitional-interfaces-coded/)
+   - “Easing JavaScript *Memory Profiling* In Chrome *DevTools*” by [@addyosmani]() [link](http://addyosmani.com/blog/taming-the-unicorn-easing-javascript-memory-profiling-in-devtools/) ![][*]
+ - Articles
+   - “(Support for) *Media Queries* Within *SVG*” by [@tkadlec]() [link](http://timkadlec.com/2013/04/media-queries-within-svg/) (“based on SVG width” [tweet](https://twitter.com/chriscoyier/status/322375758465093632))
+   - “Automatic (Function) Inlining in *JavaScript* Engines” by [@ariyahidayat]() [link](http://ariya.ofilabs.com/2013/04/automatic-inlining-in-javascript-engines.html)
+   - “A shorthand for designing *UI flows*” by [@rjs]() [link](http://37signals.com/svn/posts/1926-a-shorthand-for-designing-ui-flows)
+ - Content
+   - ![][>] “Making the Web Rock: The *Web Audio API*” by [@cwilso]() [46min] [youtube](https://www.youtube.com/watch?v=wZrNI-86zYI)
+   - ![][>] *CSS Regions* and *Exclusions* on *Mobile*, by [@cantrell]() [2min] [link](http://blogs.adobe.com/webplatform/2013/04/10/css-regions-and-exclusions-on-mobile/)
+   - ![][>] “The Breakpoint Ep. 8: *Memory Profiling* with Chrome *DevTools*” [26min] [youtube](https://www.youtube.com/watch?v=L3ugr9BJqIs) ![][*]
+   - “*JavaScript*: Need for Speed”, [@ariyahidayat]()’s slides from [@SFWebPerf]() [speakerdeck](https://speakerdeck.com/ariya/javascript-need-for-speed)
+   - *HTTP* cheat sheets (three A0-sized posters) [link](https://github.com/bigcompany/know-your-http) ![][*]
+   - ![][>] Shop Talk Podcast Ep. 64: Rapidfire #15, hosted by [@chriscoyier]() [56min] [link](http://shoptalkshow.com/episodes/064-rapidfire-15/)
+ - Tools
+   - TimeJump (adds “Media Fragments URI” deep linking capabilities to *HTML5 audio/video*) [link](http://davatron5000.github.io/TimeJump/)
+   - Sticky (jQuery plugin for creating simple *notifications*) (similar to “Notifications API”) [link](http://www.andymatthews.net/read/2013/04/10/Sticky-Seriously-simple-notifications-for-jQuery)
+   - pixelplant (converts *Flash* to *HTML5*) [link](http://pixelplant.com/)
+   - grunt-concurrent (run Grunt tasks concurrently) [link](https://github.com/sindresorhus/grunt-concurrent)
+ - Opinion
+   - “Why I love *Ember.js*” by [@himkp]() [link](http://fleon.org/post/47401547699/why-i-love-ember-js)
+   - “*Adobe*, I AM DISSAPOINT” [tweet](https://twitter.com/simevidas/status/323039021230088192)
 
 ## April 11th, 2013
 
@@ -230,35 +264,6 @@
   - Opinion
     - *Blink* Developer FAQ “No Bullshit” edition [link](http://prng.net/blink-faq.html)
     - More *Blink* reactions: [ppk](http://www.quirksmode.org/blog/archives/2013/04/blink.html), [kjk](https://medium.com/my-ideas/25a947158087), [jkomoros](https://plus.google.com/113127438179392830442/posts/PKMrAhN6ptA), [rauschma](http://www.2ality.com/2013/04/blink.html)
-
-## April 4th, 2013
-
- - News
-   - *Blink* (*Chrome*’s new rendering engine (forked from *WebKit*)) [post]() [FAQ](http://www.chromium.org/blink/developer-faq); Coverage: [TechCrunch](http://techcrunch.com/2013/04/03/google-forks-webkit-and-launches-blink-its-own-rendering-engine-that-will-soon-power-chrome-and-chromeos/), [Ars](http://arstechnica.com/information-technology/2013/04/google-going-its-own-way-forking-webkit-rendering-engine/), [CNET](https://twitter.com/stshank/status/319556025667690496); Reactions: [brucel](http://www.brucelawson.co.uk/2013/hello-blink/), [aerotwist](http://aerotwist.com/blog/hello-blink/), [jaffathecake](https://plus.google.com/116237864387312784020/posts/d62jMDKXcLb), [slightlylate](http://infrequently.org/2013/04/probably-wrong/), [dalmaer](https://medium.com/tech-talk/45c448f920a1), [jamessocol](http://coffeeonthekeyboard.com/just-one-webkit-945/), [rocallahan](http://robert.ocallahan.org/2013/04/blink.html), [ebidel](http://ericbidelman.tumblr.com/post/47054222305/blink-chromes-new-rendering-engine), [beverloo](http://peter.sh/2013/04/welcoming-blink-chromiums-new-open-source-rendering-engine/); Tidbits: Blink will help enhance Chrome security [link](https://plus.google.com/u/0/116560594978217291380/posts/AeCnq76cAXb), Blink will not be using vendor prefixes [link](http://www.chromium.org/blink/developer-faq#TOC-Will-we-see-a--chrome--vendor-prefix-now-), Blink will explore moving the entire DOM into JavaScript [link](http://www.chromium.org/blink#architectural-changes), first version of Blink is already available in *Chrome Canary* (version 28)
-   - *Servo* (*Mozilla*’s next-gen browser engine for multicore processors) [post](https://blog.mozilla.org/blog/2013/04/03/mozilla-and-samsung-collaborate-on-next-generation-web-browser-engine/); Coverage: [TechCrunch](http://techcrunch.com/2013/04/03/mozilla-and-samsung-collaborate-on-servo-mozillas-next-gen-browser-engine-for-tomorrows-multicore-processors/), [TNW](http://thenextweb.com/insider/2013/04/03/mozilla-and-samsung-are-collaborating-on-a-new-browser-called-servo-for-android-and-arm-devices/), [engadget](http://www.engadget.com/2013/04/03/mozilla-and-samsung-collaborating-on-new-servo-web-browser-engin/), [Ars](http://arstechnica.com/information-technology/2013/04/samsung-teams-up-with-mozilla-to-build-browser-engine-for-multicore-machines/)
-   - *HTTP* 2.0, second draft published [link](http://tools.ietf.org/html/draft-ietf-httpbis-http2-02); update on standardization process [link](http://blogs.msdn.com/b/interoperability/archive/2013/04/03/update-on-standardization-of-next-version-of-http-2-0.aspx)
-   - A roundup of the major new *WebRTC* improvements for *Chrome* M27 [link](https://groups.google.com/forum/#!msg/discuss-webrtc/NDwzHExp9zM/yK-ioi_VkbYJ)
-   - ![][>] Video of *IE11* running *WebGL* demo with GLSL shaders [youtube](https://www.youtube.com/watch?v=McMVn8rP048)
-   - *Can I use*, three new features added: “Shadow DOM” [link](http://caniuse.com/shadowdom), “WebP” [link](http://caniuse.com/webp), “Intrinsic & Extrinsic Sizing” [link](http://caniuse.com/intrinsic-width)
-   - “Introducing `navigator.mozPay()` For Web Payments” (Mozilla Hacks) [link](https://hacks.mozilla.org/2013/04/introducing-navigator-mozpay-for-web-payments/)
- - Tutorials
-   - “*CSS* `@supports`” by [@davidwalshblog]() [link](http://davidwalsh.name/css-supports)
-   - “8 Guidelines and 1 Rule for *Responsive* Images” by [@grigs]() [link](http://blog.cloudfour.com/8-guidelines-and-1-rule-for-responsive-images/)
-   - “*Media Queries* in *SVG* images” by [@grigs]() [link](http://blog.cloudfour.com/media-queries-in-svg-images/)
-   - *“CSS Masking”* by [@dirkschulze]() [link](http://www.html5rocks.com/en/tutorials/masking/adobe/)
-   - “How to structure a *Sass* project” [link](http://thesassway.com/beginner/how-to-structure-a-sass-project)
- - Content
-   - ![][>] “*Blink* Questions Answered” (GDL) [32min] [link](https://developers.google.com/live/shows/327888772/) ![][*]
-   - “*Asm.js*: The *JavaScript* Compile Target” by [@jeresig]() [link](http://ejohn.org/blog/asmjs-javascript-compile-target/)
-   - Skycons (unobtrusive, animated glyphs generated by *JavaScript* using `<canvas>`) [link](http://blog.forecast.io/post/46590845205/skycons-unobtrustive-animated-weather-icons)
-   - *Responsive CSS Framework* Comparison (Bootstrap vs. Foundation vs. Skeleton) [link](http://responsive.vermilion.com/compare.php)
-   - “A Baseline For Web *Performance* with *PhantomJS*”, [@wesleyhales]()’s slides from HTML5 Dev Conf [link](http://wesleyhales.com/slides/html5devconf2013/#/) 
-   - “Your code can annotate *DevTools* Timeline recordings using `console.timeStamp()`” [tweet](https://twitter.com/addyosmani/status/319484365887377409)
-   - “Introducing LQIP – Low Quality Image Placeholders” by [@guypod]() [link](http://www.guypo.com/feo/introducing-lqip-low-quality-image-placeholders/)
-   - “Introducing Tabula” (upload a PDF, get back tabular CSV data) [link](http://source.mozillaopennews.org/en-US/articles/introducing-tabula/)
- - Opinion
-   - “If you’re reading this, there is a good chance you’re introverted like me.” by [@chriscoyier]() [link](http://the-pastry-box-project.net/chris-coyier/2013-april-3/)
-   - “*Mozilla* at 15 Memories, and Thoughts on Mozilla Research” by [@BrendanEich]() [link](https://brendaneich.com/2013/04/mozilla-at-15-memories-and-thoughts-on-mozilla-research/)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
