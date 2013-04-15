@@ -9,7 +9,40 @@
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
  - ![][+] Tern: intelligent *JavaScript* editing, by [@marijnjh]() (author of “Eloquent JavaScript”) [link](http://www.indiegogo.com/projects/tern-intelligent-javascript-editing)
 
-## April 13th **Work in progress**
+## April 13th
+
+ - News
+   - This week at *W3C*: “`<hgroup>` dropped from HTML5, W3C at GSoC 2013, …” (digest by [@koalie]()) [link](http://lists.w3.org/Archives/Public/public-w3c-digest/2013AprJun/0001.html)
+   - Should the *HTML5* structured cloning algorithm become part of *ECMAScript*? [link](http://esdiscuss.org/topic/structudclones)
+ - FYI
+   - “In *Chrome* you can `.submit()` forms without adding them to the *DOM*” [tweet](https://twitter.com/LeaVerou/status/322821758069661696)
+   - New *Brackets* build released [post](http://blog.brackets.io/2013/04/12/brackets-sprint-23-build/) ![][*]
+ - Tutorials
+   - “How To Benefit From *CSS Generated Content And Counters*” by [@gabromanato]() [link](http://coding.smashingmagazine.com/2013/04/12/css-generated-content-counters/)
+   - Info about the *CSS* `quotes` property, by [@chriscoyier]() [link](http://css-tricks.com/almanac/properties/q/quotes/)
+   - “Understanding *JavaScript* Inheritance” by [@SlexAxton]() [link](http://alexsexton.com/blog/2013/04/understanding-javascript-inheritance/)
+   - “Angry Birds of JavaScript: Mighty Eagle - *Automation*” by [@elijahmanor]() [link](http://www.elijahmanor.com/2013/04/angry-birds-of-javascript-mighty-eagle.html)
+   - “How To Reduce Image Size With *WebP* Automagically” by [@adamdbradley]() [link](http://blog.netdna.com/developer/how-to-reduce-image-size-with-webp-automagically/)
+   - “*CSS* Paint Times and Page Render Weight” by [@duhroach]() [link](http://www.html5rocks.com/en/tutorials/speed/css-paint-times/)
+ - Articles
+   - “The Changing *Web Platform* Landscape: More Fragmentation?” by [@vincent_hardy]() [link](http://blogs.adobe.com/digitalmedia/2013/04/the-changing-web-platform-landscape-more-fragmentation/)
+   - “It’s not a *web app*. It’s an app you install from the web.” [link](http://blog.forecast.io/its-not-a-web-app-its-an-app-you-install-from-the-web/)
+   - “*HTML5 Video* Preload” by [@souders]() [link](http://www.stevesouders.com/blog/2013/04/12/html5-video-preload/)
+   - “Transitional Interfaces” by [@pasql]() [link](https://medium.com/design-ux/926eb80d64e3)
+ - Content
+   - “Angry Birds of *JavaScript*”, [@elijahmanor]()’s slides from Angle Brackets [link](http://elijahmanor.github.io/talks/angry-birds-javascript/index.html#/introduction)
+   - “The Why and How of *Mixins* in Flight”, [@angustweets]()’s slides [speakerdeck](https://speakerdeck.com/anguscroll/the-why-and-how-of-mixins-in-flight)
+   - Advanced `console.log()`-ing [link](http://adamschwartz.co/log/) ![][*]
+   - *Demo*: “Double ring” (pure *CSS*) [codepen](http://codepen.io/fixcl/details/lvCFr) ![][*]
+ - Sites
+   - Starlogs (displays commit logs Star Wars style) [starlogs.net](http://starlogs.net/) (e.g. W3C’s “csswg-drafts” repo [link](http://starlogs.net/#w3c/csswg-drafts))
+ - Tools
+   - Helium (scans your site and shows *unused CSS*) [repo](https://github.com/geuis/helium-css)
+   - Chardin.js (“simple *overlay instructions* for your apps”) [link](http://heelhook.github.io/chardin.js/)
+   - tinydown (lightweight *Markdown parser* with support for YouTube videos, gists, …) [repo](https://github.com/WebReflection/tinydown)
+ - Opinion
+   - “…the growing pains of the *(web) platform* with respect to *APIs*” [tweet](https://twitter.com/annevk/status/322738312664211460)
+   - “Why *Developers* Should Care About Oracle's Upcoming Appeal of the Google Lawsuit” [link](http://blog.cloudbees.com/2013/04/why-developers-should-care-about.html)
 
 ## April 12th, 2013
 
@@ -226,46 +259,6 @@
  - Opinion
    - “*HTML5*: Alive And Well With CIOs” by [@mjasay]() (ReadWrite) [link](http://readwrite.com/2013/04/05/html5-alive-and-well-with-cios)
    - “*Mozilla* and the Open Source Browser Bonanza” by [@glynmoody]() [link](http://blogs.computerworlduk.com/open-enterprise/2013/04/mozilla-and-the-open-source-browser-bonanza/index.htm)
-
-## April 5th, 2013
-
-  - News
-    - *W3C* releases: CR of *“CSS Conditional Rules”* [TR](http://www.w3.org/TR/css3-conditional/), 2. CR of *“CSS Values and Units”*  [TR](http://www.w3.org/TR/css3-values/), 3. WD of *“Network Service Discovery”* [TR](http://www.w3.org/TR/discovery-api/), 2. WD of *“Input Method Editor API”* [TR](http://www.w3.org/TR/ime-api/)
-    - *W3C* Audio WG “F2F Mar 2013” meeting [notes](http://www.w3.org/2011/audio/wiki/F2F_Mar_2013)
-    - *WebKit* to perform a cleanup [message](https://lists.webkit.org/pipermail/webkit-dev/2013-April/024388.html)
-    - Chrome *WebRTC* team to continue work in *Blink* codebase instead of *WebKit* [post](https://plus.google.com/113817074606039822053/posts/gt5VXPdNur9)
-    - *Blink* to have weekly API review meetings [tweet](https://twitter.com/ChromiumDev/status/319877302521569281)
-    - *IE10* auto-update kicks in (or so it appears) [tweet](https://twitter.com/dstorey/status/320017711444930560)
-    - *Mozilla* Dev Derby, April contest: *“Web Workers”* [link](https://developer.mozilla.org/en-US/demos/devderby) 
-  - FYI
-    - Persona is built into *Firefox OS* [link](http://identity.mozilla.com/post/47114516102/persona-on-firefox-os-phones)
-    - *Mozilla* Research Projects (infographic) [link](https://blog.mozilla.org/nnethercote/2013/04/04/mozilla-research-is-on-a-roll/)
-  - Tutorials
-    - “Defining Presentational Boxes with *Shadow DOM*” (*CSS Regions*) by [@alanstearns]() [link](http://blogs.adobe.com/webplatform/2013/04/03/defining-presentational-boxes-with-shadow-dom/)
-    - “Touchy-Feely with DOM Events” (*Touch Events*, *Pointer Events*) by [@girlie_mac]() [link](http://www.developer.nokia.com/Blogs/Code/2013/04/02/touchy-feely-with-dom-events-rethinking-cross-device-user-interaction/)
-    - “Images in a *responsive* web” by [@tysonmatanich]() [link](http://www.matanich.com/2012/11/06/picture-polyfill/) ![][*]
-    - “Create Your First *Mobile* App with *PhoneGap* Build – Setup” by [@remotesynth]() [link](http://flippinawesome.org/2013/03/29/phonegap-build-part1/)
-    - “Custom *jQuery* Builds with *Grunt*” by [@Jack_Franklin]() [link](http://javascriptplayground.com/blog/2013/04/custom-jquery-builds-with-grunt)
-    - “Getting into *Ember.js*: The Next Steps” by [@reybango]() [link](http://net.tutsplus.com/tutorials/javascript-ajax/getting-into-ember-js-part-2/)
-  - Articles
-    - “The *WebGL* potential” by [@thibault_imbert]() [link](http://typedarray.org/the-webgl-potential/)
-    - *Chrome* Speed Team summarizes how Chrome 27 loads pages 5% faster [link](https://docs.google.com/document/d/1JQZXrONw1RrjrdD_Z9jq1ZKsHguh8UVGHY_MZgE63II/preview)
-    - “5 ways to implement *HTTPS* in an insufficient manner (and leak sensitive data)” by [@troyhunt]() [link](http://www.troyhunt.com/2013/04/5-ways-to-implement-https-in.html)
-    - “*Media Queries* are a Hack” by [@ianstormtaylor]() [link](http://ianstormtaylor.com/media-queries-are-a-hack/)
-  - Content
-    - “Responding to the unknown” (selecting a *responsive* images technique) [link](http://elvery.net/demo/responsive-images/#/) ![][*]
-    - Chrome *DevTools* tips: marking ranges with `console.time()` [tweet](https://twitter.com/addyosmani/status/319890526046400512), transparent bars? [tweet](https://twitter.com/aerotwist/status/319935575861903360)
-  - Sites
-    - Codassium (*WebRTC* based video chat + code editor) [codassium.com](http://codassium.com/) ![][*]
-  - Libraries
-    - `AudioContext` monkeypatch (*Web Audio API*) [tweet](https://twitter.com/w3caudio/status/319827843368501249) [repo](https://github.com/cwilso/AudioContext-MonkeyPatch)
-    - Clambake (*responsive* HTML email template with placeholders for high-res images) [link](http://www.zurb.com/playground/clambake)
-    - iCheck (customized *jQuery* plugin for checkboxes and radio buttons) [link](http://damirfoy.com/iCheck/)
-    - Huey (finds the dominant colour of an image and returns it as an RGB array) [repo](https://github.com/michaelrhodes/huey)
-    - Sidr (*jQuery* plugin for creating side menus) [link](http://www.berriart.com/sidr/)
-  - Opinion
-    - *Blink* Developer FAQ “No Bullshit” edition [link](http://prng.net/blink-faq.html)
-    - More *Blink* reactions: [ppk](http://www.quirksmode.org/blog/archives/2013/04/blink.html), [kjk](https://medium.com/my-ideas/25a947158087), [jkomoros](https://plus.google.com/113127438179392830442/posts/PKMrAhN6ptA), [rauschma](http://www.2ality.com/2013/04/blink.html)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
