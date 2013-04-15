@@ -9,7 +9,7 @@
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
  - ![][+] Tern: intelligent *JavaScript* editing, by [@marijnjh]() (author of “Eloquent JavaScript”) [link](http://www.indiegogo.com/projects/tern-intelligent-javascript-editing)
 
-## April 13th
+## April 13th, 2013
 
  - News
    - This week at *W3C*: “`<hgroup>` dropped from HTML5, W3C at GSoC 2013, …” (digest by [@koalie]()) [link](http://lists.w3.org/Archives/Public/public-w3c-digest/2013AprJun/0001.html)
