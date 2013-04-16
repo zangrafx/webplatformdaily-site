@@ -38,7 +38,7 @@
  - Content
    - ![][>] “… time to brush up your web products”, [@codepo8]()’s keynote at [@frontendunited]() [46min] [youtube](https://www.youtube.com/watch?v=LYFJWJZPmpE)
    - Responsive Patterns (a collection of patterns and modules for *responsive designs*) [link](http://bradfrost.github.io/this-is-responsive/patterns.html) ![][*]
-   - HTML5 Inline *Workers* (code example) [link](http://html5-demos.appspot.com/static/html5storage/index.html#slide52)
+   - HTML5 Inline *Workers* [link](http://www.html5rocks.com/en/tutorials/workers/basics/#toc-inlineworkers)
  - Tools
    - Mozilla TowTruck (real-time collaboration via *WebRTC* and *WebSocket*) [link](https://towtruck.mozillalabs.com/)
    - stopBefore.js (*debugging* aid, prepends the `debugger` statement to a function) [link](https://gist.github.com/NV/5376464)
