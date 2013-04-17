@@ -7,14 +7,13 @@
  - Recommended *Twitter* feeds: [@remotesynth](), [@codepo8](), [@smashingmag]()
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
- - ![][+] Tern: intelligent *JavaScript* editing, by [@marijnjh]() (author of “Eloquent JavaScript”) [link](http://www.indiegogo.com/projects/tern-intelligent-javascript-editing)
 
 ## April 16th, 2013
 
  - News
    - “Last week in *WebKit*: a new hope” ([@beverloo]()’s recap) [post](https://www.webkit.org/blog/2291/last-week-in-webkit-a-new-hope/)
    - Microdata API (part of *“HTML Microdata”* [TR](http://www.w3.org/TR/microdata/)) removed from *Chrome* [post](https://plus.google.com/102122664946994504971/posts/7BPx9VxnWAQ?partnerid=gplp0)
-   - *WebKit*/*Blink* open to use *W3C* tests regularly (instead of relying on their own test) [tweet](https://twitter.com/dirkschulze/status/323979629553676289)
+   - *WebKit*/*Blink* open to use *W3C* tests regularly (instead of relying on their own tests) [tweet](https://twitter.com/dirkschulze/status/323979629553676289)
    - [@annevk]() pushes for *`<blink>`* to be completely removed from the *HTML* standard [link](https://www.w3.org/Bugs/Public/show_bug.cgi?id=21712)
    - Inapplicable *stylesheets* block rendering in IE and Firefox ([@scottjehl]()’s research + bug tickets) [link](https://github.com/scottjehl/css-inapplicable-load/)
    - Government funded healthcare project to trial *WebRTC* [link](http://www.pulseitmagazine.com.au/index.php?option=com_content&view=article&id=1382:cystic-fibrosis-project-to-trial-webrtc-home-monitoring-and-shared-ehr&catid=16:australian-ehealth&Itemid=327)
