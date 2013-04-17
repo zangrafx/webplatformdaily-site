@@ -2,7 +2,7 @@ jQuery(function ( $ ) {
     'use strict';
 
     var converter,      // the Markdown converter object
-        $dataWrapper,   // the DOM element that wraps the HTML generated from MD
+        $dataWrapper,   // the DOM element that wraps the HTML generated from Markdown
         $menu,          // the list of dailies in the top right of the page
         $article,       // the <article> element (i.e. the entire page)
         $headers,       // those <h2> elements that represent dailies
@@ -49,6 +49,8 @@ jQuery(function ( $ ) {
                 });
             }
         });
+
+        $temp.children( 'h2' ).slice( 1 ).append( ' <a class="edit-button" href="https://github.com/simevidas/webplatformdaily-site/edit/master/data/latest.md" target="_blank">Edit on GitHub</a>' );
 
         $dataWrapper.append( $temp.children() );
         countFiles += 1;
