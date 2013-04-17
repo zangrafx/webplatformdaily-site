@@ -9,9 +9,39 @@
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
  - ![][+] Tern: intelligent *JavaScript* editing, by [@marijnjh]() (author of “Eloquent JavaScript”) [link](http://www.indiegogo.com/projects/tern-intelligent-javascript-editing)
 
-## April 16th, 2013 **Delayed**
+## April 16th, 2013
 
- - You’ll get it tommorow. I promise :)
+ - News
+   - “Last week in *WebKit*: a new hope” ([@beverloo]()’s recap) [post](https://www.webkit.org/blog/2291/last-week-in-webkit-a-new-hope/)
+   - Microdata API (part of *“HTML Microdata”* [TR](http://www.w3.org/TR/microdata/)) removed from *Chrome* [post](https://plus.google.com/102122664946994504971/posts/7BPx9VxnWAQ?partnerid=gplp0)
+   - *WebKit*/*Blink* open to use *W3C* tests regularly (instead of relying on their own test) [tweet](https://twitter.com/dirkschulze/status/323979629553676289)
+   - [@annevk]() pushes for *`<blink>`* to be completely removed from the *HTML* standard [link](https://www.w3.org/Bugs/Public/show_bug.cgi?id=21712)
+   - Inapplicable *stylesheets* block rendering in IE and Firefox ([@scottjehl]()’s research + bug tickets) [link](https://github.com/scottjehl/css-inapplicable-load/)
+   - Government funded healthcare project to trial *WebRTC* [link](http://www.pulseitmagazine.com.au/index.php?option=com_content&view=article&id=1382:cystic-fibrosis-project-to-trial-webrtc-home-monitoring-and-shared-ehr&catid=16:australian-ehealth&Itemid=327)
+   - Mozilla to debut *Firefox OS* in five countries in June [link](http://allthingsd.com/20130415/mozilla-will-debut-firefox-os-in-five-countries-by-summer/)
+   - Netflix working […] to implement support for the “*HTML5* Premium Video Extensions” in *Chrome* [link](http://techblog.netflix.com/2013/04/html5-video-at-netflix.html)
+ - FYI
+   - Chrome *DevTools* can be “dragged to right” [tweet](https://twitter.com/paul_irish/status/323813248287797248); cool for quick *RWD* testing [link](http://www.welcomebrand.co.uk/thoughts/docking-inspector-for-responsive-design-testing/)
+   - “In a third-party library, is there any way to safely detect if *`DOMContentLoaded`* has fired?” [tweet](https://twitter.com/LeaVerou/status/323781385464717312)
+ - Tutorials
+   - “List of *Pseudo-Elements* to Style Form Controls” by [@tjvantoll]() [link](http://tjvantoll.com/2013/04/15/list-of-pseudo-elements-to-style-form-controls/) ![][*]
+   - An introduction to front-end *package management*, by [@codylindley]() [link](http://tech.pro/tutorial/1190/package-managers-an-introductory-guide-for-the-uninitiated-front-end-developer)
+   - “*Responsive* Retrofitting” by [@bencallahan]() [link](http://webstandardssherpa.com/reviews/responsive-retrofitting/) ![][*]
+   - “5 techniques for smooth infinite scrolling in *HTML5*” Trunal Bhanse [link](http://engineering.linkedin.com/linkedin-ipad-5-techniques-smooth-infinite-scrolling-html5)
+   - “*Web Payments* with PaySwarm: Identity (part 1 of 3)” (Mozilla Hacks) [link](https://hacks.mozilla.org/2013/04/web-payments-with-payswarm-identity-part-1-of-3/)
+   - ![][>] “Video Tutorial: *AngularJS* Fundamentals in 60-ish Minutes” by [@DanWahlin]() [71min] [link](http://weblogs.asp.net/dwahlin/archive/2013/04/12/video-tutorial-angularjs-fundamentals-in-60-ish-minutes.aspx)
+ - Articles
+   - “Taking the pain out of debugging with *live programming*” (Computerworld) [link](http://www.computerworld.com.au/article/459054/taking_pain_debugging_live_programming/)
+   - “Setting up *Sublime Text* 2” by [@maccaw]() [link](http://blog.alexmaccaw.com/sublime-text)
+ - Content
+   - ![][>] “*JavaScript* and new possibilities”, [@robertnyman]()’s talk from [@sthlmjs]() [51min] [youtube](https://www.youtube.com/watch?v=3WY8hKml9_Y)
+   - ![][>] JavaScript Jabber Podcast Ep. 55: “Web Developer Skills” [38min] [link](http://javascriptjabber.com/055-jsj-web-developer-skills/)
+   - ![][>] GitMinutes Podcast Ep. 4: “Marius Mathiesen on Gitorious and Git Infrastructure” [56min] [link](http://episodes.gitminutes.com/2013/04/gitminutes-04-marius-mathiesen-on.html)
+ - Tools
+   - Packery (“the bin-packing *layout* library”) [page](http://packery.metafizzy.co/)
+   - Breeze.js (*rich data* management library) [page](http://www.breezejs.com/) + [article](http://www.johnpapa.net/spajs04/)
+   - Sublime-Text--cdnjs (*Sublime* plugin to add scripts from cdnjs.com) [repo](https://github.com/dafrancis/Sublime-Text--cdnjs)
+   - captureCalls.js (capture *stack traces* for any function on every call) [repo](https://github.com/NV/captureCalls.js) + video demo [youtube](https://www.youtube.com/watch?feature=player_embedded&v=jm31znLczrU)
 
 ## April 15th, 2013
 
@@ -233,41 +263,6 @@
  - Opinion
    - “*URLs* are for People, not Computers” [link](http://www.not-implemented.com/urls-are-for-people-not-computers/)
    - “Node.js is part of *HTML5*” :-) [tweet](https://twitter.com/garannm/status/321422617607286785)
-
-## April 8th, 2013
- - News
-   - Removing “CSS *Variables*” from *WebKit* under discussion [suggestion](https://twitter.com/dirkschulze/status/320946095293353985) [ticket](https://twitter.com/sgalineau/status/320996046853529600)
-   - [@jaffathecake]() working on proposal for `<img defer>` (defers downloading hidden images) [tweet](https://twitter.com/jaffathecake/status/320949130723725312)
-   - *WebP* gets color profiles, metadata, and animation support [link](http://libregraphicsworld.org/blog/entry/webp-gets-color-profiles-metadata-and-animation-support)
-   - Adding Futures to *WebRTC*’s `.takePhoto()` proposed by [@annevk]() [tweet](https://twitter.com/annevk/status/321193121767636992)
- - FYI
-   - *Mobile* hardware statistics [link](http://blogs.unity3d.com/2013/04/07/mobile-hardware-statistics-and-more/) ![][*]
-   - [@slicknet]() did additional research for “*accessible* icon buttons” (article updated) [link](http://www.nczonline.net/blog/2013/04/01/making-accessible-icon-buttons/)
-   - More “links of interest” on the Adobe Web Platform blog [link](http://blogs.adobe.com/webplatform/2013/04/05/links-of-interest-2/)
-   - browserify v2 adds *source maps* [link](http://thlorenz.com/blog/browserify-sourcemaps)
- - Tutorials
-   - “What’s the Deal With Em and Rem?” (*CSS* units) by [@carriecousins]() [link](http://designshack.net/articles/typography/whats-the-deal-with-em-and-rem/)
-   - “*Backbone* tutorial part 16: *jQuery* Plugins and Moving Tasks” by [@alex_young]() [link](http://dailyjs.com/2013/04/04/backbone-tutorial-16/)
-   - “Building Large, Maintainable, and Testable *Knockout.js* Applications” by [@jcreamer898]() (Nettuts+) [link](http://net.tutsplus.com/tutorials/javascript-ajax/building-large-maintainable-and-testable-knockout-js-applications/)
- - Articles
-   - “Can we get rid of *gradient* prefixes?” by [@LeaVerou]() [link](http://lea.verou.me/2013/04/can-we-get-rid-of-gradient-prefixes/)
-   - “12 *JavaScript* quirks” by [@rauschma]() [link](http://www.2ality.com/2013/04/12quirks.html)
-   - “Learning to See” (article on the way designers see) by [@iA]() [link](http://informationarchitects.net/blog/learning-to-see/)
- - Content
-   - ![][>] *Mozilla* Research Party talks (keynote by [@BrendanEich]()) [78min] [link](https://air.mozilla.org/overview-of-research-team-projects/) ![][*]
-   - SecureHeaders (*Ruby* gem, applies *security* related HTTP headers (CSP, HSTS, XFO)) [repo](https://github.com/twitter/secureheaders)
-   - “*Firefox OS* Weekend” slides by [@matenadasdi]() [slideshare](http://www.slideshare.net/matenadasdi1/firefox-os-weekend)
-   - “Why does this *PNG* image display differently in Chrome & Firefox than in Safari and IE?” [link](http://superuser.com/questions/579216/why-does-this-png-image-display-differently-in-chrome-firefox-than-in-safari-a) ![][*]
-   - *Demo*: Toggling horizontal/vertical masonry with Isotope [codepen](http://codepen.io/desandro/pen/ivjAI)
-   - ![][>] Working Draft Podcast Ep. 114 (`<template>`, Appcache, asm.js vs Bytecode) (in German) [67min] [link](http://workingdraft.de/114/)
- - Sites
-   - framebase (record, upload and embed *videos* from inside the browser) [framebase.io](https://framebase.io/)
- - Libraries
-   - sheetsee.js (visualize data from a Google spreadsheet) [link](http://jllord.github.io/sheetsee.js/)
-   - groundskeeper (automatic removal of *JavaScript* logging) [article](http://ariya.ofilabs.com/2013/04/automagic-removal-of-javascript-logging.html)
- - Opinion
-   - “If your website is full of assholes, it's your fault.” by [@anildash]() [link](http://dashes.com/anil/2011/07/if-your-websites-full-of-assholes-its-your-fault.html)
-   - “Say no to reimplementing the browser's parser in *JavaScript*.” [post](https://plus.google.com/+IlyaGrigorik/posts/S6j45VxNESB)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
