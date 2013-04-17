@@ -562,7 +562,7 @@
  - “Accounting software startup Xero ditches *HTML5* in favor of *native* iOS and Android apps” [link](http://thenextweb.com/dd/2013/03/18/accounting-software-startup-xero-ditches-html5-in-favor-of-native-ios-and-android-apps/)
  - Future of *Firefox DevTools*, by [@paulrouget]() [link](http://paulrouget.com/e/devtoolsnext/)
  - mqa.js (treat *media queries* as *JavaScript events* you can subscribe to) [via](https://twitter.com/addyosmani/status/313609102217580546) [link](http://andreehansson.se/introducing-mqa-js/)
- - “*Responsively* Retrofitting An Existing Site With RWD Retrofit” by [@stowball]() [link](http://mobile.smashingmagazine.com/author/matt-stow/?rel=author)
+ - “*Responsively* Retrofitting An Existing Site With RWD Retrofit” by [@stowball]() [link](http://mobile.smashingmagazine.com/2013/03/18/retrofit-a-website-to-be-responsive-with-rwd-retrofit/)
  - URLcrypt (*securely* encode and decode short pieces of arbitrary *binary data* in *URLs*) [repo](https://github.com/madrobby/URLcrypt)
  - Breakpoint (sharing side projects and getting feedback) [breakpoint.io](http://breakpoint.io/)
  - “*Checkboxes* that kill your product” by [@limi]() [link](http://limi.net/checkboxes-that-kill)
