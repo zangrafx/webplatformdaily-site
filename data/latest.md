@@ -8,6 +8,10 @@
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
+## April 17th, 2013 **Later today**
+
+ - For the rest of this week, dailies will be offset by one day. (So, again, there’s going to be a daily on Sunday. Yay!)
+
 ## April 16th, 2013
 
  - News
