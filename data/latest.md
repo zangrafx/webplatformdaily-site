@@ -11,7 +11,7 @@
 ## April 16th, 2013
 
  - News
-   - “Last week in *WebKit*: a new hope” ([@beverloo]()’s recap) [post](https://www.webkit.org/blog/2291/last-week-in-webkit-a-new-hope/)
+   - “Last week in *WebKit*: a new hope” (Benjamin Poulain’s recap at Surfin’ Safari) [post](https://www.webkit.org/blog/2291/last-week-in-webkit-a-new-hope/)
    - Microdata API (part of *“HTML Microdata”* [TR](http://www.w3.org/TR/microdata/)) removed from *Chrome* [post](https://plus.google.com/102122664946994504971/posts/7BPx9VxnWAQ?partnerid=gplp0)
    - *WebKit*/*Blink* open to use *W3C* tests regularly (instead of relying on their own tests) [tweet](https://twitter.com/dirkschulze/status/323979629553676289)
    - [@annevk]() pushes for *`<blink>`* to be completely removed from the *HTML* standard [link](https://www.w3.org/Bugs/Public/show_bug.cgi?id=21712)
