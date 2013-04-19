@@ -1,4 +1,6 @@
-**Update!** The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files). The README file of the repository also serves as a FAQ. Refer to it for information about this web-site.
+**Update!** As you may have noticed, this week’s dailies are being released with an one-day dalay. 
+
+The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files). The README file of the repository also serves as a FAQ. Refer to it for information about this web-site.
 
 ## Sticky
 
@@ -8,9 +10,41 @@
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
-## April 17th, 2013 **Later today**
+## April 17th, 2013
 
- - For the rest of this week, dailies will be offset by one day. (So, again, there’s going to be a daily on Sunday. Yay!)
+ - News
+   - *W3C* releases: 2. WD of *“Media Source Extensions”* [TR](http://www.w3.org/TR/media-source/), 5. WD of *“Emotion Markup Language”* [TR](http://www.w3.org/TR/emotionml/)
+   - *W3C* France launched a new web site: [www.w3c.fr](http://www.w3c.fr/)
+   - [@eseidel]()’s proposal for cleaning up “webkit” prefixes in *Blink* [post](https://groups.google.com/a/chromium.org/d/msg/blink-dev/E0OkYhvF7q8/Q4dUCEz8_YYJ)
+   - *Chrome for Business* introduces “Legacy Browser Support” (opens selected sites in legacy browser) [post](http://googleenterprise.blogspot.co.uk/2013/04/new-chrome-features-bring-modern-web-to.html)
+   - ![][&] *Mozilla* Ignite Challenge seeks feedback on the team pitches [link](https://docs.google.com/spreadsheet/ccc?key=0Au84mgOp1Pj4dHBNVlI0RkRjTXhoX0NldE1mM2dBaUE#gid=2)
+   - *Microsoft Open Technologies* celebrates its first year anniversary [post](http://blogs.msdn.com/b/interoperability/archive/2013/04/16/you-re-invited-to-help-us-celebrate-an-unlikely-pairing-in-open-source.aspx)
+ - FYI
+   - The second *Global Accessibility Awareness Day* is on May 9th [link](http://www.sitepoint.com/global-accessibility-awareness-day/)
+   - “Websites are 3.5% faster on desktop, 30% faster on mobile year-over-year” (based on *GA* data) [link](http://analytics.blogspot.com/2013/04/is-web-getting-faster.html)
+   - “*CSS Selectors* Level 4” defines an `:user-error` pseudo-class [link](http://dev.w3.org/csswg/selectors4/#user-error-pseudo)
+   - “*CSS Selectors* Level 4” defines reference combinators, e.g. `label /for/ input { … }` [link](http://dev.w3.org/csswg/selectors4/#idref-combinators)
+   - *`getComputedStyle`* returns `"normal"` in Chrome and `"19.1667px"` in Firefox for `lineHeight` [tweet](https://twitter.com/davidwalshblog/status/324214585496313856)
+ - Tutorials
+   - “Getting the *URL* of an *iframe*’s parent” by [@slicknet]() [link](http://www.nczonline.net/blog/2013/04/16/getting-the-url-of-an-iframes-parent/)
+   - “Animating *flexboxes*: the lowdown” by [@chrisdavidmills]() (Dev.Opera) [link](http://dev.opera.com/articles/view/animating-flexboxes-the-lowdown/)
+   - “Create xkcd-Style *Comics* with Comix” by [@davidwalshblog]() [link](http://davidwalsh.name/cmx-js)
+ - Articles
+   - “Case Study: Google I/O 2013 Experiment” by [@tdreyno]() [link](http://www.html5rocks.com/en/tutorials/casestudies/google-io-2013/)
+   - “Designing for a *Responsive* Web Means Starting with Type First” by [@paulmckeever]() [link](http://typecast.com/blog/designing-for-a-responsive-web-means-starting-with-type-first)
+   - “Hack Your Maps” (about *responsive* and usable map interfaces) by [@younghahn]() [link](http://alistapart.com/article/hack-your-maps)
+ - Content
+   - ![][>] “Demystifying *Regular Expressions*”, [@LeaVerou]()’s talk from Fluent 2012 [48min] [youtube](http://youtu.be/EkluES9Rvak)
+   - [@dam]()’s (*CSS*) Coding Guidelines [link](https://github.com/topcoat/topcoat/wiki/Coding-Guidelines) ![][*]
+   - ![][>] “Low Cost *Usability Testing*”, user tests Amazon’s mobile site [22min] [link](https://www.usertesting.com/videos/GSf4%2begr26E%3d)
+ - Tools 
+   - jQuery Builder (builds a *custom version of jQuery* that only includes the modules you need) [link](http://projects.jga.me/jquery-builder/)
+   - DOMLint (*test suite* against HTML/DOM conflicts) [link](http://kangax.github.io/domlint/)
+   - FPSMeter (“simple *JavaScript* library for sexy, fast, and themable FPS meter”) [link](http://darsa.in/fpsmeter/)
+ - Opinion
+   - “Getting agreements is hard”, [@sideshowbarker]()’s thoughts on the *W3C* blog [post](http://www.w3.org/QA/2013/04/getting_agreements_is_hard_som.html)
+   - ![][>] “The New Prohibition Created By *Copyright*” by [@](waxpancake) [32min] [link](http://www.techdirt.com/articles/20130415/21153522717/andy-baio-new-prohibition-created-copyright.shtml) ![][*]
+   - “*jQuery* made me become a programmer” [link](https://medium.com/the-javascript-collection/d9e3f716bb9e)
 
 ## April 16th, 2013
 
@@ -227,45 +261,6 @@
    - “Asm.js, Persona, Rust, and Firefox OS are very cool. *Mozilla* is what Google was in 2005” [tweet](https://twitter.com/JamesLaiCreativ/status/321690567853629441)
    - “AppGratis pulled from the App Store. Here’s the full story.” [link](http://appgratis.com/blog/2013/04/09/appgratis-pulled-from-the-app-store-heres-the-full-story/)
    - Should *JSON-P* be forgotten? [tweet](https://twitter.com/WebReflection/status/321681978732711936)
-   
-
-## April 9th, 2013
-
- - News
-   - IMS to *WebRTC* gateway developed [post](https://plus.google.com/113817074606039822053/posts/7eg6PYgXskk)
-   - Discussion: Indicating subtitles using `<small>` [thread](http://lists.w3.org/Archives/Public/public-html/2013Apr/thread.html#msg22)
-   - *Firefox Nightly*: network monitor added to dev tools [post](http://firefoxnightly.tumblr.com/post/47460334547/a-network-monitor-landed-in-the-dev-tools-of) [screenshot](http://cl.ly/image/2q2s450r2B43)
-   - “*Do Not Track* set on over 12% of requests to sample sites in Europe” [link](http://cloudclinic.com/)
- - FYI
-   - “*Firefox* 23 will be blocking non-SSL content on *SSL* pages by default” [tweet](https://twitter.com/igrigorik/status/321388249467723777)
-   - *Google* developing a new network protocol (in Chrome) called QUIC [wikipedia](http://en.wikipedia.org/wiki/QUIC) [tweet](https://twitter.com/mikebelshe/status/320211790950703104)
-   - *HTML5* Boilerplate v4.2.0 released [tweet](https://twitter.com/h5bp/status/321291346742763522)
- - Tutorials
-   - “Adaptive Web App UI with *CSS Regions*” by [@razvancaliman]() [link](http://blogs.adobe.com/webplatform/2013/04/08/adaptive-web-app-ui-with-css-regions/) ![][*]
-   - “*Ambient Light Events* and JavaScript detection” by [@robertnyman]() [link](https://hacks.mozilla.org/2013/04/ambient-light-events-and-javascript-detection/)
-   - “Create Your First *Mobile* App with *PhoneGap* Build – Adding jQuery Mobile” by [@remotesynth]() [link](http://flippinawesome.org/2013/04/08/phonegap-build-part4/)
-   - “Vengeance On Lorem Ipsum: Three Draft Filler *Fonts*” by [@dudleystorey]() [link](http://demosthenes.info/blog/661/Vengeance-On-Lorem-Ipsum-Three-Draft-Filler-Fonts)
-   - “*Backbone* Model Unit Testing with *Jasmine*” by [@KenTabor]() [link](http://flippinawesome.org/2013/04/08/backbone-jasmine/)
-   - “Developing for *Windows Phone 8* in Apache Cordova” by [@purplecabbage]() [link](http://flippinawesome.org/2013/04/08/cordova-windows-phone-8/)
- - Articles
-   - “How a banner ad […] appeared on apple.com—without Apple’s OK” (Ars Technica) [link](http://arstechnica.com/tech-policy/2013/04/how-a-banner-ad-for-hs-ok/) ![][*]
-   - “*Media Query* & Asset Downloading Results” by [@tkadlec]() [link](http://timkadlec.com/2012/04/media-query-asset-downloading-results/)
- - Content
-   - RESTful Image API Specification (RIAPI) (on-demand, server-side, image scaling and modification) [repo](https://github.com/riapi/riapi)
-   - tus (resumable upload protocol) [link](http://www.tus.io/protocols/resumable-upload.html)
-   - Decaf (modification of *WebKit* that runs *Ruby* in the browser) [link](http://trydecaf.org/)
- - Sites
-   - Moot (embeddable, styleable, real-time free forum engine) [moot.it](http://moot.it/)
-   - Media Queries (*RWD* site gallery) [mediaqueri.es](http://mediaqueri.es/)
-   - CDN Connect (managing dynamic resources) [cdnconnect.com](http://www.cdnconnect.com/)
- - Tools 
-   - Adaptive Images (deliver small images to small devices) [link](http://adaptive-images.com/)
-   - Resemble.js (image analysis and comparison) [link](http://huddle.github.io/Resemble.js/) ![][*]
-   - CSSCSS (*CSS* redundancy analyzer) [link](http://zmoazeni.github.io/csscss/)
-   - *JavaScript* Scope Context Coloring [repo](https://github.com/daniellmb/JavaScript-Scope-Context-Coloring)
- - Opinion
-   - “*URLs* are for People, not Computers” [link](http://www.not-implemented.com/urls-are-for-people-not-computers/)
-   - “Node.js is part of *HTML5*” :-) [tweet](https://twitter.com/garannm/status/321422617607286785)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
