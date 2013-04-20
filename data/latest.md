@@ -10,6 +10,20 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
+## April 18th, 2013 **Partial**
+
+ - News
+   - New specification: *“Resource Priorities”* [ED](http://dvcs.w3.org/hg/webperf/raw-file/tip/specs/ResourcePriorities/Overview.html), e.g. `<img src="supplemental.gif" defer>`
+   - ![][o] The *Responsive Images* CG needs help writing layout tests for WebKit and Blink (*`<picture>`*) [message](http://lists.w3.org/Archives/Public/public-respimg/2013Apr/0001.html)
+   - *Microsoft* donated over 400 MSDN JavaScript articles to *Web Platform Docs* [anncmnt](http://lists.w3.org/Archives/Public/public-webplatform/2013Apr/0238.html) [tweet](https://twitter.com/WebPlatform/status/324645876536598529)
+   - FTC chair urges advertising industry to work with *W3C* to develop a *DNT* (Do Not Track) standard [article](http://www.adweek.com/news/technology/ftc-chair-stuns-advertisers-148644)
+   - “The Plot to Block Internet Freedom” [article](http://www.foreignpolicy.com/articles/2013/04/16/plot_block_internet_freedom)
+   - Google adds new *security* measures to protect *Chrome* from malware [post](http://googleonlinesecurity.blogspot.fi/2013/04/new-warnings-about-potentially.html)
+   - Detailed article on *WebRTC* implementation progress in *Firefox* (Mozilla Hacks) [post](https://hacks.mozilla.org/2013/04/webrtc-update-our-first-implementation-will-be-in-release-soon-welcome-to-the-party-but-please-watch-your-head/) ![][*]
+   - *WebRTC* support lands in *Firefox for Android* Nightly (+ instructions, + link to test page) [post](http://www.morbo.org/2013/04/webrtc-support-on-android.html)
+ - Rest?
+   - I’ll write the rest first thing on Saturday. **Sorry for the inconvenience.**
+
 ## April 17th, 2013
 
  - News
