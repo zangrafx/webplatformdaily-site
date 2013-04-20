@@ -10,7 +10,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
-## April 18th, 2013 **Partial**
+## April 18th, 2013
 
  - News
    - New specification: *“Resource Priorities”* [ED](http://dvcs.w3.org/hg/webperf/raw-file/tip/specs/ResourcePriorities/Overview.html), e.g. `<img src="supplemental.gif" defer>`
@@ -21,8 +21,32 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - Google adds new *security* measures to protect *Chrome* from malware [post](http://googleonlinesecurity.blogspot.fi/2013/04/new-warnings-about-potentially.html)
    - Detailed article on *WebRTC* implementation progress in *Firefox* (Mozilla Hacks) [post](https://hacks.mozilla.org/2013/04/webrtc-update-our-first-implementation-will-be-in-release-soon-welcome-to-the-party-but-please-watch-your-head/) ![][*]
    - *WebRTC* support lands in *Firefox for Android* Nightly (+ instructions, + link to test page) [post](http://www.morbo.org/2013/04/webrtc-support-on-android.html)
- - Rest?
-   - I’ll write the rest first thing on Saturday. **Sorry for the inconvenience.**
+ - FYI
+   - Microsoft extends Windows 8 QuickStart offer to Mac and iOS developers [link](http://blogs.parallels.com/consumertech/2013/4/17/microsoft-extends-windows-8-quickstart-offer-to-mac-and-ios.html)
+   - On iOS, *Safari* is 18% faster than the embedded UIWebView, 7% faster than *Chrome* [post](http://www.guypo.com/mobile/ios-browsers-speed-bakeoff/)
+   - *PayPal*’s developer site is quite decent (Mobile SDKs, REST APIs, …) [site](https://developer.paypal.com/)
+   - *Firefox OS* User Guide (huge) [context](https://blog.mozilla.org/sumo/2013/04/17/firefox-os-english-user-guide/) [page](https://support.mozilla.org/en-US/kb/firefox-os-user-guide)
+ - Tutorials
+   - “Preventing the *Performance* Hit from *Custom Fonts*” by [@chriscoyier]() [link](http://css-tricks.com/preventing-the-performance-hit-from-custom-fonts/)
+   - “Random Number Generation in *JavaScript*” by [@therealprotonk]() [link](http://weblog.bocoup.com/random-numbers/)
+   - “*IRC* is Back: Here’s Your Starter Guide” by [@reybango]() [link](http://net.tutsplus.com/tutorials/tools-and-tips/irc-is-back-heres-your-starter-guide/) ![][*]
+ - Articles
+   - “Explaining *Futures*” by [@tabatkins]() [link](http://www.xanthir.com/b4PY0) ![][*]
+   - “A *Comparison* of Angular, Backbone, CanJS and Ember” by [@sebasporto]() [link](http://sporto.github.io/blog/2013/04/12/comparison-angular-backbone-can-ember/)
+   - “shame.css” (stylesheet dedicated to housing your nasty, hacky, quick-fix *CSS*) by [@csswizardry]() [link](http://csswizardry.com/2013/04/shame-css/)
+   - “An Introduction To *Programming* Type Systems” by [@ZackGrossbart]() [link](http://coding.smashingmagazine.com/2013/04/18/introduction-to-programming-type-systems/)
+ - Content
+   - “Fidus Writer: foxy *CSS Regions* spotted in the wild” [link](http://blogs.adobe.com/webplatform/2013/04/17/fidus-writer-foxy-css-regions-spotted-in-the-wild/)
+   - [@ccoenraets]() has updated his sample *Backbone.js*/*Twitter Bootstrap* application [link](http://coenraets.org/blog/2013/04/sample-application-with-backbone-js-and-twitter-bootstrap-updated-and-improved/) ![][*]
+   - “Kittydar: *Face Detection* for Cats in JavaScript” by [@harthvader]() [link](http://harthur.github.io/kittydar/)
+   - ![][&] [@zachleat]() is documenting discrepancies between pure-*IE8* and faux-IE8 [link](https://gist.github.com/zachleat/5407068)
+   - Ember 101, collection of video + article tutorials for learing *Ember.js* [ember101.com](http://ember101.com/)
+ - Tools
+   - Devtools redirect (lets you redirect web page resources) [link](https://chrome.google.com/webstore/detail/devtools-redirect/jmhdebkkippcccflcoddckhjjfgnfhnp) + demo on [youtube](http://youtu.be/5J2-9lFaESI)
+   - sublime-grunt (Grunt plugin for Sublime Text) [repo](https://github.com/tvooo/sublime-grunt)
+ - Opinion
+   - “Content Parity on the Web” (dedicated mobile sites vs *responsive design*) by [@ChrisFerdinandi]() [link](http://gomakethings.com/content-parity-on-the-web/)
+   - W3C, TC-39 divergence regarding *Futures* [tweet1](https://twitter.com/annevk/status/324550070253006849) [tweet2](https://twitter.com/annevk/status/324573346874421248)
 
 ## April 17th, 2013
 
@@ -240,41 +264,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - “What does the *web platform* need next?” by [@brucel]() [link](http://www.brucelawson.co.uk/2013/what-does-the-web-platform-need-next/) ![][*]
    - “Native apps are eating our lunch. And we're spending hours arguing about syntax.” [link](https://plus.google.com/u/0/111552931212713155841/posts/Tkpqip4uZpB)
    - “*Google* + WhatsApp = The Next *Privacy* Trap” [link](http://www.privacysurgeon.org/blog/incision/why-googles-acquisition-of-whatsapp-would-be-perilous-to-everyones-privacy/)
-
-## April 10th, 2013
-
- - News
-   - *W3C*, releases: 2. WD of *“SVG 2”* [TR](http://www.w3.org/TR/SVG2/), PR of *“Web Storage”* [TR](http://www.w3.org/TR/webstorage/), *RDF* WG published 4 documents [post](http://www.w3.org/News/2013.html#entry-9780)
-   - ![][&] *W3C* issued a call for review of *“Web Storage”*. Comments are welcome through 07 May. [post](http://www.w3.org/News/2013.html#entry-9781)
-   - ![][&] *W3C Audio WG*: “If you want to influence the design of the *Web MIDI API*, now is a really good time to review the draft spec” [tweet](https://twitter.com/w3caudio/status/321579703683145728)
-   - *Mozilla Persona* beta 2 launched [post](https://hacks.mozilla.org/2013/04/persona-beta-2-launch/) (Mozilla Hacks), [post](http://identity.mozilla.com/post/47541633049/persona-beta-2) (Mozilla Identity), [coverage](http://thenextweb.com/socialmedia/2013/04/09/mozillas-seamless-login-system-persona-gets-faster-second-beta-version-built-into-firefox-os/) (TNW) ![][*]
-   - “*Mozilla* seeks to integrate payment system into *Firefox OS*” (CNET) [link](http://news.cnet.com/8301-1023_3-57578426-93/mozilla-seeks-to-integrate-payment-system-into-firefox-os/)
- - FYI
-   - *GitHub* adds *WebGL* powered STL preview [post](https://github.com/blog/1465-stl-file-viewing)
-   - *Yeoman* 1.0 beta 4 released (Windows support, refreshed Angular, Backbone, Ember generators) [post](http://addyosmani.com/blog/yeoman-update-announcing-1-0-beta-4/)
-   - “An Android WebView implementation has been built on top of *Chromium*” [tweet](https://twitter.com/dalmaer/status/321638403936485376)
- - Tutorials
-   - “Detecting *touch*: it’s the ‘why’, not the ‘how’” by [@patrick_h_lauke]() [link](https://hacks.mozilla.org/2013/04/detecting-touch-its-the-why-not-the-how/) ![][*]
-   - “Angry Birds of *JavaScript* Series” by [@elijahmanor]() [link](http://www.elijahmanor.com/2013/03/angry-birds-of-javascript-series.html) ![][*]
-   - “File a *bug*: the missing manual” by [@lizhenry]() [link](http://bookmaniac.org/file-a-bug-the-missing-manual-now-with-unicorns/)
-   - “Improve *Mobile* Support With Server-Side-Enhanced *Responsive Design*” by [@jonarnes]() [link](http://mobile.smashingmagazine.com/2013/04/09/improve-mobile-support-with-server-side-enhanced-responsive-design/)
- - Articles
-   - “Behind the scenes of the new Web Payments API from *Mozilla*” [link](http://blog.digital.telefonica.com/2013/04/09/mozilla-web-payments-api/)
-   - “*CSS* Preload Scanner in *WebKit*” by [@ariyahidayat]() [link](http://ariya.ofilabs.com/2013/04/css-preload-scanner-in-webkit.html)
- - Content
-   - ![][>] “How Fast Are We Going Now?”, [@souders]()’s talk at HTML5 Dev Conf [48min] [link](http://marakana.com/s/post/1432/how_fast_are_we_going_now_web_performance_Steve_Souders_video)
-   - ![][>] “The vanilla web diet”, [@codepo8]()’s keynote at Anglebrackets [53min] [link](http://christianheilmann.com/2013/04/09/the-vanilla-web-diet-keynote-at-anglebrackets-in-las-vegas/)
-   - ![][>] “Breaking the 1000ms ‘time to glass’ mobile barrier”, [@igrigorik]()’s talk at SF HTML5 [46min] [youtube](https://www.youtube.com/watch?v=Il4swGfTOSM)
-   - “Don’t Break the Web: Why *Web Standards* Matter” by [@reybango]() (slides) [link](https://speakerdeck.com/reybango/dont-break-the-web-why-web-standards-matter)
-   - A comparison matrix of browser support of *front-end frameworks* [link](http://usablica.github.io/front-end-frameworks/compare.html)
- - Tools
-   - Responsive Nav (JavaScript plugin For *responsive* navigation) [link](http://coding.smashingmagazine.com/2013/04/09/javascript-plugin-for-responsive-navigation/)
-   - Lungo (*HTML5* cross-device framework) [link](http://lungo.tapquo.com/)
-   - Collage.js (building interactive collages on a limitless two-dimensional canvas) [link](http://oztu.org/collage/)
- - Opinion
-   - “Asm.js, Persona, Rust, and Firefox OS are very cool. *Mozilla* is what Google was in 2005” [tweet](https://twitter.com/JamesLaiCreativ/status/321690567853629441)
-   - “AppGratis pulled from the App Store. Here’s the full story.” [link](http://appgratis.com/blog/2013/04/09/appgratis-pulled-from-the-app-store-heres-the-full-story/)
-   - Should *JSON-P* be forgotten? [tweet](https://twitter.com/WebReflection/status/321681978732711936)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
