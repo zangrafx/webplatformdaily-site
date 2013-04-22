@@ -1,14 +1,49 @@
-**Update!** As you may have noticed, this week’s dailies are being released with an one-day dalay. 
-
 The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files). The README file of the repository also serves as a FAQ. Refer to it for information about this web-site.
 
 ## Sticky
 
- - **Read this!** Re-tweet Tim Berners-Lee’s call to join the action to fix the CFAA [tweet](https://twitter.com/timberners_lee/status/321367692344963072) ![][*]
+ - Tim Berners-Lee’s call to join the action to fix the CFAA [tweet](https://twitter.com/timberners_lee/status/321367692344963072) ![][*]
  - The "Web Platform" *chat room* on Stack Overflow [link](http://chat.stackoverflow.com/rooms/27674/web-platform)
  - Recommended *Twitter* feeds: [@remotesynth](), [@codepo8](), [@smashingmag]()
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
+
+## April 19th, 2013 **but released on April 22nd**
+
+ - News
+   - *W3C* releases:
+     - **New!** 1st WD of *“CSS Overflow”* [TR](http://www.w3.org/TR/css-overflow-3/) [notes](http://www.w3.org/blog/CSS/2013/04/18/css-overflow-module-working-draft-published/)
+     - Updated CR of *“CSS Values and Units”* [TR](http://www.w3.org/TR/css3-values/) [notes](http://www.w3.org/blog/CSS/2013/04/18/css3-values-updated-cr/) (small fixes)
+     - 4th WD of *“CSS Grid Layout”* [TR](http://www.w3.org/TR/css3-grid-layout/) [notes](http://www.w3.org/blog/CSS/2013/04/18/css-grid-layout-overhaul/) (overhauled; **provide feedback**
+     )
+   - *CSS WG* Minutes Telecon 2013-04-17 [notes](http://www.w3.org/blog/CSS/2013/04/18/resolutions-89/) (*CSS Marquee* discontinued, new `cursor` values in *CSS3 UI*)
+   - *`<main>`* element about to be added to the *HTML5* CR spec [message](http://lists.w3.org/Archives/Public/public-html-admin/2013Apr/0047.html)
+   - *Discussion*: making `<img>` elements not load until needed [link](https://www.w3.org/Bugs/Public/show_bug.cgi?id=17842#c26) (related: *“Resource Priorities”* [ED](http://dvcs.w3.org/hg/webperf/raw-file/tip/specs/ResourcePriorities/Overview.html))
+   - *Firefox* 23 now has a faster (more efficient) *`localStorage`* implementation [post](http://www.janbambas.cz/firefox-23-new-faster-localstorage/)
+   - *jQuery* 2.0 released (12% smaller with 12 excludable modules) [release notes](http://blog.jquery.com/2013/04/18/jquery-2-0-released/)
+   - “*LinkedIn* dumped *HTML5* & went native for its *mobile* apps” (VentureBeat) [article](http://venturebeat.com/2013/04/17/linkedin-mobile-web-breakup/)
+   - “*Firefox OS* dev units coming to Geeksphone next week” (engadget) [article](http://www.engadget.com/2013/04/18/firefox-os-dev-units-geeksphone-next-week/)
+ - FYI
+   - The *CSS* `background-position:10px+3em` works differently than you think [tweet](https://twitter.com/tabatkins/status/324949893162610688) + explanation [tweet](https://twitter.com/tabatkins/status/324950004693360640)
+   - [@tabatkins]() updated the “history” part of his *Futures* post to include more background info [post](http://www.xanthir.com/b4PY0)
+   - “Want to know and control what data *Firefox* shares? Data Choices in Preferences.” [tweet](https://twitter.com/robertnyman/status/325148047879307265)
+   - *Heisenbug* = a software bug that seems to disappear or alter its behavior when one attempts to study it
+ - Tutorials
+   - “Touchy-Feely with *DOM Events*: Rethinking Cross-Device User Interaction” by [@girlie_mac]() [link](http://girliemac.com/blog/2013/04/17/touchy-feely-with-dom-events-rethinking-cross-device-user-interaction/) ![][*]
+   - “Feature Detection and Styling For The HTML5 *`<details>`* Element” by [@dudleystorey]() [link](http://demosthenes.info/blog/680/Feature-Detection-and-Styling-For-The-HTML5-details-Element)
+   - “Getting Into *Ember.js*: Part 3” (about data) by [@reybango]() [link](http://net.tutsplus.com/tutorials/javascript-ajax/getting-into-ember-js-part-3/)
+   - “Web Page Clipping with PhantomJS” (*capturing web pages* as images) by [@ariyahidayat]() [link](http://ariya.ofilabs.com/2013/04/web-page-clipping-with-phantomjs.html)
+   - “How to Edit Remote Files With *Sublime Text* via an *SSH Tunnel*” [link](http://log.liminastudio.com/writing/tutorials/sublime-tunnel-of-love-how-to-edit-remote-files-with-sublime-text-via-an-ssh-tunnel)
+ - Content
+   - “Essence of *CoffeeScript*”, *interactive tutorial* (7 lessons, multiple exercises per lesson) [link](http://coffeescript.carbonfive.com/)
+   - Retro Vectors, free high quality *vector stock files* [retrovectors.com](http://retrovectors.com/)
+ - Tools
+   - SourceTree, a free *Git client* for Windows or Mac [link](http://www.sourcetreeapp.com/)
+   - init, extends *HTML5 Boilerplate* with more structure for *SCSS* and JavaScript [repo](https://github.com/drublic/init)
+   - Heck Yes Markdown, *converts web pages* to Markdown [page](http://heckyesmarkdown.com/)
+ - Opinion
+   - ![][>] [@mozillagary]() (Mozilla CEO): “The web needs to be unlocked on *mobile*” [3min] [video](http://allthingsd.com/20130415/firefox-os-wtf/) ![][*]
+   - [@davemethvin](): “*WebKit*, get your bug-ridden house in order” [article](http://news.cnet.com/8301-1023_3-57569342-93/javascript-expert-webkit-get-your-bug-ridden-house-in-order/)
 
 ## April 18th, 2013
 
@@ -227,43 +262,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - Opinion
    - “Why I love *Ember.js*” by [@himkp]() [link](http://fleon.org/post/47401547699/why-i-love-ember-js)
    - “*Adobe*, I AM DISSAPOINT” [tweet](https://twitter.com/simevidas/status/323039021230088192)
-
-## April 11th, 2013
-
- - News
-   - *Mozilla* CEO Gary Kovacs stepping down later this year (+ five other leadership changes) [post](https://blog.mozilla.org/blog/2013/04/10/gearing-up-for-the-next-chapter/)
-   - *CSS WG* Minutes Telecon 2013-04-10 [notes](http://www.w3.org/blog/CSS/2013/04/11/resolutions-88/) (Discussed allowing `#123abc` to be a valid ID selector, to match *HTML5*. *“CSS Variables”* [TR](http://www.w3.org/TR/css-variables/) moves to Last Call.)
-   - April 3rd *Web Platform* Doc Sprint (report) [post](http://blog.webplatform.org/2013/04/doc-sprint-san-francisco-april-3/)
-   - *Firefox* removes support for `<blink>` element [bug](https://bugzilla.mozilla.org/show_bug.cgi?id=857820)
- - FYI
-   - “Mixed Content Blocking Enabled in *Firefox* 23!” [link](https://blog.mozilla.org/tanvi/2013/04/10/mixed-content-blocking-enabled-in-firefox-23/)
-   - *JSFiddle* now accepts donations [link](https://www.gittip.com/JSFiddle/)
-   - *jQuery* 2.0 Beta 3 Released (Node.js and Win 8 Store compatibility, custom builds under 10k bytes) [post](http://blog.jquery.com/2013/04/09/jquery-2-0-beta-3-released/)
-   - *Firefox* *Dev Tools* improved console, before/after comparison [screenshot](http://cl.ly/image/441R2T1M2s1j)
-   - “Using `src="video.ext#t=5,10"` for *HTML5 video* sources starts 5 secs in and plays for 10 secs.” [tweet](https://twitter.com/iandevlin/status/321982668449402880)
- - Tutorials
-   - “Introducing HTML’s new *`<template>`* element” by [@stopsatgreen]() [link](http://www.broken-links.com/2013/04/10/the-template-element/)
-   - “Advanced cross-browser *flexbox*” by [@chrisdavidmills]() [link](http://dev.opera.com/articles/view/advanced-cross-browser-flexbox/)
-   - “Angry Birds of *JavaScript*: Big Brother Bird - *Patterns*” by [@elijahmanor]() [link](http://www.elijahmanor.com/2013/04/angry-birds-of-javascript-big-brother.html) ![][*]
-   - “Certificate-based *Mozilla Persona* IdP” by David Margrave [link](http://unmitigatedrisk.com/?p=328)
-   - “Storing user agent strings in *Google Analytics*” by [@TechPad]() [link](http://techpad.co.uk/content.php?sid=243)
- - Articles
-   - “Element Queries” (concept) by [@tabatkins]() [link](http://www.xanthir.com/b4PR0) ![][*]
-   - “The 10 most exciting *open source* projects on the web” [link](http://www.creativebloq.com/web-design/10-most-exciting-open-source-projects-web-4132351)
-   - “*Parallel Parsing* isn't Hard (Or, Parallel *JSON* via *Web Workers*!)” [link](http://lmeyerov.blogspot.jp/2013/04/parallel-parsing-isnt-hard-or-parallel.html)
-   - “Developer Tools Update – *Firefox* 22” (font inspector, re-paint visualizer) (Mozilla Hacks) [link](https://hacks.mozilla.org/2013/04/developer-tools-update-firefox-22/)
- - Content
-   - Make Good (virtual *volunteering opportunities* for web designers and developers) [link](http://jenmyers.github.io/makegood/)
-   - “Parallelizing the Web Browser” (slides) [pdf](http://www.eecs.berkeley.edu/~lmeyerov/projects/pbrowser/codecon/codecon02.pdf) ![][*]
-   - “Mozilla Rust and Servo” (slides) [pdf](http://people.mozilla.com/~roc/Samsung/MozillaRustAndServo.pdf) (“C++ is a bad language for browsers”)
- - Tools
-   - TopCoat (UI library for creating responsive applications) [link](http://topcoat.io/)
-   - Chrome Logger (Chrome extension for debugging server side applications in the Chrome console) [link](http://craig.is/writing/chrome-logger)
-   - Reactive.js (functional reactive programming in Javascript) [link](http://eng.wealthfront.com/2013/04/reactivejs-functional-reactive.html) 
- - Opinion
-   - “What does the *web platform* need next?” by [@brucel]() [link](http://www.brucelawson.co.uk/2013/what-does-the-web-platform-need-next/) ![][*]
-   - “Native apps are eating our lunch. And we're spending hours arguing about syntax.” [link](https://plus.google.com/u/0/111552931212713155841/posts/Tkpqip4uZpB)
-   - “*Google* + WhatsApp = The Next *Privacy* Trap” [link](http://www.privacysurgeon.org/blog/incision/why-googles-acquisition-of-whatsapp-would-be-perilous-to-everyones-privacy/)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
