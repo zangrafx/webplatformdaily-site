@@ -154,7 +154,11 @@ p {
 .md-data img {
   vertical-align: baseline;
   width: 1em;
-  height: 1em; }
+  height: 1em;
+  background-color: white;
+  outline: 2px solid white; }
+  .md-data img[title="don’t miss"] {
+    margin-left: 5px; }
 
 h2 {
   margin: 2em 0 0.4em;
