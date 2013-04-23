@@ -8,7 +8,39 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
-## April 19th, 2013 **but released on April 22nd**
+## April 20th, 2013 **but released on April 23rd**
+
+ - News
+   - This week at *W3C*: “*HTML5 Video* at Netflix, Intel’s HTML5 App Development Platform, …” [link](http://lists.w3.org/Archives/Public/public-w3c-digest/2013AprJun/0002.html)
+   - Google’s *PageSpeed Service* has improved its *mobile optimizations* [post](http://googledevelopers.blogspot.co.uk/2013/04/pagespeed-service-makes-mobile-sites.html)
+   - *Twitter* to deprecate IE6 and IE7 support for TFW (e.g. Tweet button will cease to be initialized) [post](https://dev.twitter.com/blog/tfw-ie6-ie7-support)
+   - *GitHub* starts rolling out a new security feature: *CSP* (Content Security Policy) [post](https://github.com/blog/1477-content-security-policy) 
+   - “ISOC, IETF Promote Open Standardisation” [article](http://www.ip-watch.org/2013/04/19/isoc-ietf-promote-open-standardisation-consider-whats-open/)
+ - FYI
+   - “Implement *CSS Custom Filters* in Chromium” master bug [link](https://code.google.com/p/chromium/issues/detail?id=233383)
+   - The *MultiPath TCP* project achieved a 51.8 Gbit/second TCP connection [link](http://multipath-tcp.org/)
+   - The minified version of *jQuery* 2.0 provides a source map [link](http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js)
+   - *jQuery* 2.0: “ older Android/*WebKit* 2.x browsers are now the weakest link”
+   - [@mel_in_media]() compiled a huge list of *podcasts* [link](http://www.smashingmagazine.com/2013/04/19/podcasts-for-designers-developers/)
+ - Tutorials
+   - “I know *jQuery*. Now what?” (jQuery vs plain JavaScript) by [@rem]() [link](http://remysharp.com/2013/04/19/i-know-jquery-now-what/) ![][*]
+   - “Checking for `undefined` in *JavaScript*: `===` vs `typeof` vs falsiness” by [@rauschma]() [link](http://www.2ality.com/2013/04/check-undefined.html)
+   - “Introduction to *WebSockets*” by Jesse Cravens [link](http://tech.pro/tutorial/1167/introduction-to-websockets)
+ - Articles
+   - “The Role of *PDF* and *Open Data*” (Standards at Adobe) [link](http://blogs.adobe.com/standards/2013/04/19/the-role-of-pdf-and-open-data/)
+   - “*Futures* Eliminate Time” (they abstract away the concept of time from your code) by [@tabatkins]() [link](http://www.xanthir.com/b4P_0)
+ - Content
+   - Measure your site *performance* on *mobile* when optimized by *PageSpeed Service* [link](http://www.webpagetest.org/compare?mobile=1&aggressive=1) ![][*]
+   - BandFu, an experimental audio playground (powered by the *Web Audio API*) [bandfu.com](https://bandfu.com/)
+   - Bootswatch, tree themes for Twitter *Bootstrap* [bootswatch.com](http://bootswatch.com/)
+   - Responsive multi-Level menus (live demos) [link](http://tympanus.net/Development/ResponsiveMultiLevelMenu/) 
+   - ![][>] Hanselminutes Podcast Ep. 367: “*Firefox OS* and the *open Mobile Web* with [@codepo8]()” [38min] [link](http://www.hanselminutes.com/367/firefox-os-and-the-open-mobile-web-with-christian-heilmann)
+ - Tools
+   - Firefox OS Simulator, Firefox add-on that provides a *test environment for Firefox OS* [link](https://addons.mozilla.org/en-US/firefox/addon/firefox-os-simulator/)
+   - sly, JavaScript library for *one-directional scrolling* [page](http://darsa.in/sly/) + [repo](https://github.com/Darsain/sly)
+   - machina.js, *finite state machines* in JavaScript [repo](https://github.com/ifandelse/machina.js) + [post](http://freshbrewedcode.com/jimcowart/2012/03/12/machina-js-finite-state-machines-in-javascript/)
+
+## April 19th, 2013
 
  - News
    - *W3C* releases:
@@ -224,44 +256,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - Opinion
    - “…the growing pains of the *(web) platform* with respect to *APIs*” [tweet](https://twitter.com/annevk/status/322738312664211460)
    - “Why *Developers* Should Care About Oracle's Upcoming Appeal of the Google Lawsuit” [link](http://blog.cloudbees.com/2013/04/why-developers-should-care-about.html)
-
-## April 12th, 2013
-
- - News
-   - *W3C* releases: 4. WD of “*Clipboard API* and events” [TR](http://www.w3.org/TR/clipboard-apis/), 6. WD of “Internationalization Tag Set” [TR](Internationalization Tag Set), 3. LCWD of “API for Media Resources” [TR](http://www.w3.org/TR/mediaont-api-1.0/) [about](http://www.w3.org/News/2013.html#entry-9786)
-   - ![][&] “*JSON*-LD” specs moved to Last Call [post](http://www.w3.org/News/2013.html#entry-9785) (“Syntax” [TR](http://www.w3.org/TR/json-ld-syntax/), “Algorithms and API” [TR](http://www.w3.org/TR/json-ld-api/))
-   - New in *Blink*: enable stylesheet preloading according to `media` attribute [issue](https://codereview.chromium.org/13945017/)
-   - *Mozilla* is looking for organizations to align with […] the open learning standard for *Web Literacy* [link](https://wiki.mozilla.org/Learning/WebLiteracyStandard)
-   - *Cross-site scripting* attack (via a *Java* applet) wipes out Bitcoin accounts [link](http://techcrunch.com/2013/04/11/mt-gox-cross-site-scripting-attack-wipes-out-bitcoin-accounts/)
- - FYI 
-   - *W3C* TAG meeting 18-20 March 2013 (agenda /w details) [link](http://www.w3.org/2001/tag/2013/03/18-agenda)
-   - *HTML5 Templates* [TR](http://www.w3.org/TR/html-templates/) will be shareable across pages e.g. `<link rel="import" href="templ.html">`
-   - *Modernizr* can now detect pseudo element transitions/animations  [link](https://github.com/Modernizr/Modernizr/pull/896)
-   - List of tools consuming/using *Bower* [link](https://github.com/twitter/bower/issues/354)
-   - Remote Device Access provided by [Nokia](http://www.developer.nokia.com/Devices/Remote_device_access/) and [Samsung](http://developer.samsung.com/remotetestlab/rtlDeviceList.action)
- - Tutorials
-   - “All the Glory of *CSS Transitions*” by [@paulaborowska]() [link](http://www.devgarage.com/css-transitions/)
-   - “Transitional Interfaces, Coded” (adding list items with *CSS animations*) by [@chriscoyier]() (w/ demos) [link](http://css-tricks.com/transitional-interfaces-coded/)
-   - “Easing JavaScript *Memory Profiling* In Chrome *DevTools*” by [@addyosmani]() [link](http://addyosmani.com/blog/taming-the-unicorn-easing-javascript-memory-profiling-in-devtools/) ![][*]
- - Articles
-   - “(Support for) *Media Queries* Within *SVG*” by [@tkadlec]() [link](http://timkadlec.com/2013/04/media-queries-within-svg/) (“based on SVG width” [tweet](https://twitter.com/chriscoyier/status/322375758465093632))
-   - “Automatic (Function) Inlining in *JavaScript* Engines” by [@ariyahidayat]() [link](http://ariya.ofilabs.com/2013/04/automatic-inlining-in-javascript-engines.html)
-   - “A shorthand for designing *UI flows*” by [@rjs]() [link](http://37signals.com/svn/posts/1926-a-shorthand-for-designing-ui-flows)
- - Content
-   - ![][>] “Making the Web Rock: The *Web Audio API*” by [@cwilso]() [46min] [youtube](https://www.youtube.com/watch?v=wZrNI-86zYI)
-   - ![][>] *CSS Regions* and *Exclusions* on *Mobile*, by [@cantrell]() [2min] [link](http://blogs.adobe.com/webplatform/2013/04/10/css-regions-and-exclusions-on-mobile/)
-   - ![][>] “The Breakpoint Ep. 8: *Memory Profiling* with Chrome *DevTools*” [26min] [youtube](https://www.youtube.com/watch?v=L3ugr9BJqIs) ![][*]
-   - “*JavaScript*: Need for Speed”, [@ariyahidayat]()’s slides from [@SFWebPerf]() [speakerdeck](https://speakerdeck.com/ariya/javascript-need-for-speed)
-   - *HTTP* cheat sheets (three A0-sized posters) [link](https://github.com/bigcompany/know-your-http) ![][*]
-   - ![][>] Shop Talk Podcast Ep. 64: Rapidfire #15, hosted by [@chriscoyier]() [56min] [link](http://shoptalkshow.com/episodes/064-rapidfire-15/)
- - Tools
-   - TimeJump (adds “Media Fragments URI” deep linking capabilities to *HTML5 audio/video*) [link](http://davatron5000.github.io/TimeJump/)
-   - Sticky (jQuery plugin for creating simple *notifications*) (similar to “Notifications API”) [link](http://www.andymatthews.net/read/2013/04/10/Sticky-Seriously-simple-notifications-for-jQuery)
-   - pixelplant (converts *Flash* to *HTML5*) [link](http://pixelplant.com/)
-   - grunt-concurrent (run Grunt tasks concurrently) [link](https://github.com/sindresorhus/grunt-concurrent)
- - Opinion
-   - “Why I love *Ember.js*” by [@himkp]() [link](http://fleon.org/post/47401547699/why-i-love-ember-js)
-   - “*Adobe*, I AM DISSAPOINT” [tweet](https://twitter.com/simevidas/status/323039021230088192)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
