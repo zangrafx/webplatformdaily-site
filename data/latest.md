@@ -8,14 +8,47 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
-## April 20th, 2013 **but released on April 23rd**
+## April 22nd, 2013 **but released on April 24rd**
+
+ - News
+   - *Chrome Canary* adds support for *spatial navigation* ([?](http://en.wikipedia.org/wiki/Spatial_navigation)) (behind flag) [link](https://src.chromium.org/viewvc/chrome?revision=194875&view=revision)
+   - *Facebook* et al. launch *Project:Connect*, a series of activities to advance healthy online experiences [link](https://newsroom.fb.com/News/605/Facebook-MacArthur-Foundation-Mozilla-and-%20the-Family-Online-Safety-Institute-Launch-Project-Conne)
+ - FYI
+   - *Promises/A+* opened a Twitter account [@promisesaplus]()
+   - Feature detection for *`@supports`* via `!!window.CSSRule.SUPPORTS_RULE` (breaks in IE8 though) 
+   - NCSA *Mosaic* 1.0 was released 20 years ago [notes](http://1997.webhistory.org/www.lists/www-talk.1993q2/0128.html)
+ - Tutorials
+   - “The concepts of *WebGL*” (Mozilla Hacks) [link](https://hacks.mozilla.org/2013/04/the-concepts-of-webgl/)
+   - “Clown Car Technique for *Responsive Images*” by [@standardista]() [article](https://github.com/estelle/clowncar) + [discussion](https://twitter.com/smashingmag/status/326029464599420928)
+   - “*Responsive* drop shadows” by [@rogerjohansson]() [link](http://www.456bereastreet.com/archive/201304/responsive_drop_shadows/)
+   - “*Responsive* Multi-Level Menu” (shows its submenus in their own context) by [@crnacura]() [link](http://tympanus.net/codrops/2013/04/19/responsive-multi-level-menu/) ![][*]
+   - “Showing *multimedia fallback* content when no supported `<source>` is found” by [@codepo8]() [link](http://christianheilmann.com/2013/04/21/showing-multimedia-fallback-content-when-no-supported-source-is-found/)
+   - “Kick Ass Cross-Platform Workflow With *Grunt*” by [@bittersweetryan]() [link](http://blog.bittersweetryan.com/2013/04/kick-ass-cross-platform-workflow-with.html)
+   - “*AngularJS*: Let's Make a Feed Reader” by [@alex_young]() [link](http://dailyjs.com/2013/04/18/angularjs-2/)
+ - Articles
+   - “*HTML5 `<video>`* bytes on *iOS*” (iOS preloads up to 298K of video data) by [@souders]() [link](http://www.stevesouders.com/blog/2013/04/21/html5-video-bytes-on-ios/)
+ - Content
+   - ![][>] “Making your *HTML5* efforts worthwhile”, [@codepo8]()’s talk from SotB 2013 ([?](http://browser.londonwebstandards.org/)) [24min] [youtube](https://www.youtube.com/watch?v=F-6NKgVSeSs) + [post](http://christianheilmann.com/2013/04/20/making-your-html5-efforts-worthwhile-notes-of-the-sotb3-talk/)
+   - “*Web Components*: Getting Started”, [@stopsatgreen]()’s slides from SotB 2013 [link](https://speakerdeck.com/stopsatgreen/web-components-getting-started)
+   - “Taking Control With Machina.js ”, [@dougneiner]()’s slides from [@jquk]() [link](http://code.dougneiner.com/presentations/machina/)
+ - Tools
+   - Adobe’s CSS FilterLab, a web app for applying *GLSL shaders* to HTML [app](http://html.adobe.com/webplatform/graphics/customfilters/cssfilterlab/) + [intro](http://youtu.be/rcGLBVJ2d_Y)
+   - Flexy Boxes, *flexbox* playground and code generator [link](http://the-echoplex.net/flexyboxes/)
+   - Gridwax, a bookmarklet that adds a *grid overlay* to the web page for alignment testing [page](http://gridwax.gs/)
+   - Unicode Lookup, an *online reference* tool to lookup *Unicode* and HTML special characters [link](http://unicodelookup.com/)
+ - Opinion
+   - “Reflecting on *Texas JavaScript 2013*” by [@philhawksworth]() [link](http://hawksworx.com/blog/reflecting-on-txjs/)
+   - “How To Survive a Ground-Up *Rewrite* Without Losing Your Sanity” by [@danmil]() [link](http://onstartups.com/tabid/3339/bid/97052/Screw-You-Joel-Spolsky-We-re-Rewriting-It-From-Scratch.aspx)
+   - [@webreflection]()’s *`__proto__`* comic [link](http://webreflection.blogspot.com/2013/04/the-proto-comic.html)
+
+## April 20th, 2013
 
  - News
    - This week at *W3C*: “*HTML5 Video* at Netflix, Intel’s HTML5 App Development Platform, …” [link](http://lists.w3.org/Archives/Public/public-w3c-digest/2013AprJun/0002.html)
    - Google’s *PageSpeed Service* has improved its *mobile optimizations* [post](http://googledevelopers.blogspot.co.uk/2013/04/pagespeed-service-makes-mobile-sites.html)
    - *Twitter* to deprecate IE6 and IE7 support for TFW (e.g. Tweet button will cease to be initialized) [post](https://dev.twitter.com/blog/tfw-ie6-ie7-support)
    - *GitHub* starts rolling out a new security feature: *CSP* (Content Security Policy) [post](https://github.com/blog/1477-content-security-policy) 
-   - “ISOC, IETF Promote Open Standardisation” [article](http://www.ip-watch.org/2013/04/19/isoc-ietf-promote-open-standardisation-consider-whats-open/)
+   - “ISOC, IETF Promote Open Standardization” [article](http://www.ip-watch.org/2013/04/19/isoc-ietf-promote-open-standardisation-consider-whats-open/)
  - FYI
    - “Implement *CSS Custom Filters* in Chromium” master bug [link](https://code.google.com/p/chromium/issues/detail?id=233383)
    - The *MultiPath TCP* project achieved a 51.8 Gbit/second TCP connection [link](http://multipath-tcp.org/)
@@ -221,41 +254,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - store (“a better way to use `localStorage` and `sessionStorage`”) [repo](https://github.com/nbubna/store)
  - Opinion
    - “Code Hard or Go Home” (why Google forked *WebKit*) [link](http://hypercritical.co/2013/04/12/code-hard-or-go-home)
-
-## April 13th, 2013
-
- - News
-   - This week at *W3C*: “`<hgroup>` dropped from HTML5, W3C at GSoC 2013, …” (digest by [@koalie]()) [link](http://lists.w3.org/Archives/Public/public-w3c-digest/2013AprJun/0001.html)
-   - Should the *HTML5* structured cloning algorithm become part of *ECMAScript*? [link](http://esdiscuss.org/topic/structudclones)
- - FYI
-   - “In *Chrome* you can `.submit()` forms without adding them to the *DOM*” [tweet](https://twitter.com/LeaVerou/status/322821758069661696)
-   - New *Brackets* build released [post](http://blog.brackets.io/2013/04/12/brackets-sprint-23-build/) ![][*]
- - Tutorials
-   - “How To Benefit From *CSS Generated Content And Counters*” by [@gabromanato]() [link](http://coding.smashingmagazine.com/2013/04/12/css-generated-content-counters/)
-   - Info about the *CSS* `quotes` property, by [@chriscoyier]() [link](http://css-tricks.com/almanac/properties/q/quotes/)
-   - “Understanding *JavaScript* Inheritance” by [@SlexAxton]() [link](http://alexsexton.com/blog/2013/04/understanding-javascript-inheritance/)
-   - “Angry Birds of JavaScript: Mighty Eagle - *Automation*” by [@elijahmanor]() [link](http://www.elijahmanor.com/2013/04/angry-birds-of-javascript-mighty-eagle.html)
-   - “How To Reduce Image Size With *WebP* Automagically” by [@adamdbradley]() [link](http://blog.netdna.com/developer/how-to-reduce-image-size-with-webp-automagically/)
-   - “*CSS* Paint Times and Page Render Weight” by [@duhroach]() [link](http://www.html5rocks.com/en/tutorials/speed/css-paint-times/)
- - Articles
-   - “The Changing *Web Platform* Landscape: More Fragmentation?” by [@vincent_hardy]() [link](http://blogs.adobe.com/digitalmedia/2013/04/the-changing-web-platform-landscape-more-fragmentation/)
-   - “It’s not a *web app*. It’s an app you install from the web.” [link](http://blog.forecast.io/its-not-a-web-app-its-an-app-you-install-from-the-web/)
-   - “*HTML5 Video* Preload” by [@souders]() [link](http://www.stevesouders.com/blog/2013/04/12/html5-video-preload/)
-   - “Transitional Interfaces” by [@pasql]() [link](https://medium.com/design-ux/926eb80d64e3)
- - Content
-   - “Angry Birds of *JavaScript*”, [@elijahmanor]()’s slides from Angle Brackets [link](http://elijahmanor.github.io/talks/angry-birds-javascript/index.html#/introduction)
-   - “The Why and How of *Mixins* in Flight”, [@angustweets]()’s slides [speakerdeck](https://speakerdeck.com/anguscroll/the-why-and-how-of-mixins-in-flight)
-   - Advanced `console.log()`-ing [link](http://adamschwartz.co/log/) ![][*]
-   - *Demo*: “Double ring” (pure *CSS*) [codepen](http://codepen.io/fixcl/details/lvCFr) ![][*]
- - Sites
-   - Starlogs (displays commit logs Star Wars style) [starlogs.net](http://starlogs.net/) (e.g. W3C’s “csswg-drafts” repo [link](http://starlogs.net/#w3c/csswg-drafts))
- - Tools
-   - Helium (scans your site and shows *unused CSS*) [repo](https://github.com/geuis/helium-css)
-   - Chardin.js (“simple *overlay instructions* for your apps”) [link](http://heelhook.github.io/chardin.js/)
-   - tinydown (lightweight *Markdown parser* with support for YouTube videos, gists, …) [repo](https://github.com/WebReflection/tinydown)
- - Opinion
-   - “…the growing pains of the *(web) platform* with respect to *APIs*” [tweet](https://twitter.com/annevk/status/322738312664211460)
-   - “Why *Developers* Should Care About Oracle's Upcoming Appeal of the Google Lawsuit” [link](http://blog.cloudbees.com/2013/04/why-developers-should-care-about.html)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
