@@ -23,7 +23,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - “*Push Notifications* to the Browser With *Server Sent Events*” by Jesse Cravens [link](http://html5hacks.com/blog/2013/04/21/push-notifications-to-the-browser-with-server-sent-events/)
    - “Building a *Google Maps* Application with Updating Markers” by [@cfjedimaster]() [link](http://flippinawesome.org/2013/04/22/google-maps-markers/)
  - Articles
-   - “5 Common Causes of Slow *Website Performance*” by Mark Isham [link](zoompf.com/2013/04/top-5-causes)
+   - “5 Common Causes of Slow *Website Performance*” by Mark Isham [link](http://zoompf.com/2013/04/top-5-causes)
    - “Magic Numbers in *CSS*” (unnamed numerical constants) by [@chriscoyier]() [link](http://css-tricks.com/magic-numbers-in-css/)
    - “*JavaScript* Objects: Inherited a Mess” by [@getify]() [link](http://davidwalsh.name/javascript-objects) (3 part article series)
    - “What’s New in *jQuery* 2.0” by [@craigbuckler]() [link](http://www.sitepoint.com/whats-new-in-jquery-2-0/) ![][*]
