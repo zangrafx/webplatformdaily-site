@@ -8,7 +8,36 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
-## April 22nd, 2013 **but released on April 24rd**
+## April 23rd, 2013 **but released on April 25th**
+
+ - News
+   - *Chrome Canary* adds support for *`@supports`* rule and `CSS.supports()` function ([?](http://dev.w3.org/csswg/css3-conditional/)) [tweet](https://twitter.com/beverloo/status/326332894404558848) + [screen](https://twitter.com/simevidas/status/327221647042027520)
+   - Intent to implement the *`<picture>`* ([?](http://picture.responsiveimages.org/)) element in *Blink* [discussion](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MlE9vYVUlzg/hycQvA2eFn4J)
+   - *Firefox OS* developer preview devices are on sale (Mozilla Hacks) [article](https://hacks.mozilla.org/2013/04/geeksphone-to-start-selling-firefox-os-developer-preview-phones/) (w/ FAQ)
+   - *Facebook* experiments with Google’s *WebP* image format (CNET) [article](http://news.cnet.com/8301-1023_3-57580664-93/facebook-tries-googles-webp-image-format-users-squawk/)
+ - FYI
+   - *Firefox* first browser to support *`<canvas>` blending* ([?](https://dvcs.w3.org/hg/FXTF/rawfile/tip/compositing/index.html#canvascompositingandblending)) [article](http://blogs.adobe.com/webplatform/2013/04/22/canvas-blending-is-now-in-the-firefox-release-channel/) + [demo](http://codepen.io/adobe/full/nmfic) (view in Firefox) ![][*]
+   - *IE10* supports a (non-standard) spread value for *`text-shadow`* [tweet](https://twitter.com/dstorey/status/326497321007325185) (w/ demo and screen)
+ - Tutorials
+   - “Writing Reusable *AngularJS* Components with *Bower*” by [@briantford]() [link](http://briantford.com/blog/angular-bower.html)
+   - “*Push Notifications* to the Browser With *Server Sent Events*” by Jesse Cravens [link](http://html5hacks.com/blog/2013/04/21/push-notifications-to-the-browser-with-server-sent-events/)
+   - “Building a *Google Maps* Application with Updating Markers” by [@cfjedimaster]() [link](http://flippinawesome.org/2013/04/22/google-maps-markers/)
+ - Articles
+   - “5 Common Causes of Slow *Website Performance*” by Mark Isham [link](zoompf.com/2013/04/top-5-causes)
+   - “Magic Numbers in *CSS*” (unnamed numerical constants) by [@chriscoyier]() [link](http://css-tricks.com/magic-numbers-in-css/)
+   - “*JavaScript* Objects: Inherited a Mess” by [@getify]() [link](http://davidwalsh.name/javascript-objects) (3 part article series)
+   - “What’s New in *jQuery* 2.0” by [@craigbuckler]() [link](http://www.sitepoint.com/whats-new-in-jquery-2-0/) ![][*]
+   - “*Transport Layer Security* (TLS)”, chapter 4 of [@igrigorik]()’s upcoming book [link](http://chimera.labs.oreilly.com/books/1230000000545/ch04.html)
+   - “Working with *HTML* markup in Arabic, Hebrew, other *right-to-left* scripts” [link](http://www.w3.org/blog/International/2013/04/22/4-new-articles-about-working-with-html-markup-in-arabic-hebrew-and-other-right-to-left-scripts/) (4 articles)   
+ - Tools
+   - flexgrid, CSS grid framework based on *flexbox* [page](http://ptb2.me/flexgrid/) + [repo](https://github.com/ptb/flexgrid)
+   - Hand.js, a polyfill for supporting *pointer events* on every browser [article](http://blogs.msdn.com/b/eternalcoding/archive/2013/01/16/hand-js-a-polyfill-for-supporting-pointer-events-on-every-browser.aspx)
+   - FitVids.js, a jQuery plugin for *fluid width video embeds* [repo](https://github.com/davatron5000/FitVids.js)
+ - Opinion
+   - “The User’s Choice?” (on offering *native apps* on web sites) by [@zdfs]() [link](https://medium.com/tech-talk/25a7fde0f19b)
+   - “Making the Web the 'Third Ecosystem'” (on mobile) [link](http://blog.digital.telefonica.com/2013/04/12/web-third-ecosystem/)
+
+## April 22nd, 2013
 
  - News
    - *Chrome Canary* adds support for *spatial navigation* ([?](http://en.wikipedia.org/wiki/Spatial_navigation)) (behind flag) [link](https://src.chromium.org/viewvc/chrome?revision=194875&view=revision)
@@ -217,43 +246,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - Breeze.js (*rich data* management library) [page](http://www.breezejs.com/) + [article](http://www.johnpapa.net/spajs04/)
    - Sublime-Text--cdnjs (*Sublime* plugin to add scripts from cdnjs.com) [repo](https://github.com/dafrancis/Sublime-Text--cdnjs)
    - captureCalls.js (capture *stack traces* for any function on every call) [repo](https://github.com/NV/captureCalls.js) + video demo [youtube](https://www.youtube.com/watch?feature=player_embedded&v=jm31znLczrU)
-
-## April 15th, 2013
-
- - News
-   - `<hgroup>` removed from *HTML* 5.1 [message](http://lists.w3.org/Archives/Public/public-html/2013Apr/0060.html)
-   - ![][&] Subheadings added to “Common idioms without dedicated elements” sec. of *HTML* 5.1 [spec](http://www.w3.org/html/wg/drafts/html/master/common-idioms.html#sub-head) [tweet](https://twitter.com/stevefaulkner/status/323390311944568833) ![][*]
-   - Discussion about *“CSS Variables”* syntax change (`set-`/`get()` instead of `var-`/`var()`) [thread](http://lists.w3.org/Archives/Public/www-style/2013Apr/thread.html#msg289)
-   - *“Test the Web Forward”* Seattle event produced 514 tests [tweet](https://twitter.com/IEDevChat/status/323252161301585920)
-   - “How Mozilla's *Firefox OS* Will Open Up The Smartphone Market” (Forbes) [link](http://www.forbes.com/sites/haydnshaughnessy/2013/04/13/how-mozillas-firefox-os-will-open-up-the-smartphone-market/)
-   - “Google, Yahoo executives back *CISPA* through lobbying group” [link](http://www.dailydot.com/news/technet-google-yahoo-lobbying-CISPA/)
-   - “Massive botnet using *brute force attack* to target WordPress sites” [link](http://www.theverge.com/2013/4/13/4218846/massive-botnet-using-brute-force-attack-to-target-wordpress-sites)
- - FYI
-   - ![][&] Taste.js (successor of *TodoMVC*) is in the process of defining its initial feature set [tweet](https://twitter.com/tastejs/status/323121223720640512)
-   - Sass-Mixins repo now available in *Bower* (`bower install sass-mixins`) [tweet](https://twitter.com/drublic/status/323513643532693504)
-   - *DevTools* protip: right-click on functions to jump to their definition [tweet](https://twitter.com/ChromiumDev/status/323247793521176576) (w/ screenshot)
-   - `curl --trace-ascii req.log --trace-time <URL>` (flags in *cURL*, full byte log + timestamps) [tweet](https://twitter.com/igrigorik/status/323154207127502848)
- - Tutorials
-   - [@sierroid]()’s [@WebPlatform]() articles: “*SVG* grand tour” [link](http://docs.webplatform.org/wiki/svg/tutorials/smarter_svg_overview), “*SVG* filters” [link](http://docs.webplatform.org/wiki/svg/tutorials/smarter_svg_filters) ![][*]
-   - “*JavaScript* quirk 2: two “non-values” – `undefined` and `null`” by [@rauschma]() [link](http://www.2ality.com/2013/04/quirk-undefined.html)
-   - “*Flight* Mixins Are Awesome!” by [@WebReflection]() [link](http://webreflection.blogspot.com/2013/04/flight-mixins-are-awesome.html)
-   - “Designing a modern *email*” by [@efedorenko]() [link](http://blog.postmarkapp.com/post/47718375205/designing-a-modern-email)
-   - “Case Study: Google I/O 2013 Experiment” by [@tdreyno]() [link](http://www.html5rocks.com/en/tutorials/casestudies/google-io-2013/)
- - Articles
-   - “A proposal for *DOM* Streams” by [@tabatkins]() [link](http://www.xanthir.com/b4PV0)
-   - “Font Load Tracking with *Futures*” (an attempt to rewrite *“CSS Font Load Events”*) by [@tabatkins]() [link](http://www.xanthir.com/b4PV1)
-   - “Seismic Changes To The *Browser* Landscape: Where We’re Headed Now” by [@dudleystorey]() [link](http://demosthenes.info/blog/683/Seismic-Changes-To-The-Browser-Landscape-Where-Were-Headed-Now)
-   - “The *usability* error you don’t know you’re making” by [@userfocus]() [link](http://www.userfocus.co.uk/articles/speak-your-users-language.html)   
- - Content
-   - ![][>] “… time to brush up your web products”, [@codepo8]()’s keynote at [@frontendunited]() [46min] [youtube](https://www.youtube.com/watch?v=LYFJWJZPmpE)
-   - Responsive Patterns (a collection of patterns and modules for *responsive designs*) [link](http://bradfrost.github.io/this-is-responsive/patterns.html) ![][*]
-   - HTML5 Inline *Workers* [link](http://www.html5rocks.com/en/tutorials/workers/basics/#toc-inlineworkers)
- - Tools
-   - Mozilla TowTruck (real-time collaboration via *WebRTC* and *WebSocket*) [link](https://towtruck.mozillalabs.com/)
-   - stopBefore.js (*debugging* aid, prepends the `debugger` statement to a function) [link](https://gist.github.com/NV/5376464)
-   - store (“a better way to use `localStorage` and `sessionStorage`”) [repo](https://github.com/nbubna/store)
- - Opinion
-   - “Code Hard or Go Home” (why Google forked *WebKit*) [link](http://hypercritical.co/2013/04/12/code-hard-or-go-home)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
