@@ -1,3 +1,5 @@
+**Update!** Dailies are currently released with a 36 hour delay. I’ll catch up by the end of this week though :) (Again, there will be a daily on Sunday.)
+
 The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files). The README file of the repository also serves as a FAQ. Refer to it for information about this web-site.
 
 ## Sticky
