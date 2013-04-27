@@ -10,7 +10,43 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
-## April 23rd, 2013 **but released on April 25th**
+## April 24th, 2013 **but released on April 26th**
+
+ - News
+   - *Adobe* implements *blend modes* for CSS fragment shaders in *Chrome* / *Safari* [post](http://blogs.adobe.com/webplatform/2013/04/23/all-blend-modes-for-css-fragment-shaders-have-landed/) + example [tweet](https://twitter.com/simevidas/status/327924684043743232)
+   - *WebRTC* statistics for Nov 12 - Mar 13, “13% of video calls performed over WebRTC” [infographic](http://webrtcstats.com/first-webrtc-statistics/)
+   - ![][o] Help [@WebPlatform]() integrate JavaScript articles into the *Web Platform Docs* [tweet](https://twitter.com/WebPlatform/status/326715181486972929)
+   - Should *Web Workers* provide a `console` object (for easier *debugging*)? Tickets [mozilla](https://bugzilla.mozilla.org/show_bug.cgi?id=620935) [chromium](http://code.google.com/p/chromium/issues/detail?id=63383) ([via](https://twitter.com/valueof/status/326769268085628928))
+   - Lazy block layout, a web platform primitive for infinite scrolling lists [proposal](https://docs.google.com/document/d/1-tbcMJV8wNbX2g5ehNIcE_1W7Kj_B3g9w1BrUgHnh3U/edit) (in *Chromium*)
+ - FYI
+   - List of *“Intent to Implement”* discussions in the *Blink* dev group [link](https://groups.google.com/a/chromium.org/forum/#!topicsearchin/blink-dev/subject:intent)
+   - “Revision 147503 in *WebKit* and *Blink* is the same, revisions 147504 are different” [tweet](https://twitter.com/beverloo/status/327374388552945664)
+ - Tutorials
+   - Using the *HTML5 `download` attribute* (download files via left click) by [@cfjsvarden]() [link](http://svarden.se/blog/2013-04-22-right-click-and-save-as/)
+   - “Stealing the users back button with the *History API*” (bad practice) by [@ryanseddon]() [link](http://www.thecssninja.com/javascript/stealing-history-api)
+   - “*AngularJS*: 6 Common Pitfalls Using Scopes” by [@knalli]() [link](http://thenittygritty.co/angularjs-pitfalls-using-scopes)
+   - “*Reactive Charts* with *D3* and Reactive.js ” [link](http://eng.wealthfront.com/2013/04/reactive-charts-with-d3-and-reactivejs.html)
+   - “Easy *Open Source* workflow” (how to *contribute* to open source projects) by [@rossbruniges]() [link](http://www.thecssdiv.co.uk/2013/04/easy-open-source-workflow/)
+   - “The Legend of Zelda: A link to the *CSS*” by [@donovanh]() [link](http://hop.ie/blog/zelda/) ![][*]
+ - Articles
+   - “*Javascript* hoisting explained” by [@Kennethtruyers]() [link](http://www.kenneth-truyers.net/2013/04/20/javascript-hoisting-explained/)
+   - “*JavaScript* Objects: Distractions” (explains *`[[Prototype]]`*) by [@getify]() [link](http://davidwalsh.name/javascript-objects-distractions)
+   - “*Facebook* Secrets of *Web Performance*” [link](http://highscalability.com/blog/2013/4/23/facebook-secrets-of-web-performance.html)
+ - Content
+   - Model-driven views, a way to write *dynamic HTML* using HTML [link](https://github.com/toolkitchen/mdv/blob/master/README.md)
+   - Visual demo of how the `background-size` and `background-position` work [link](http://codepen.io/herihehe/full/aLwGt) ![][*]
+   - Demo: Set *SVG*’s color with a color hash like `img.svg#F06D06` [codepen](http://codepen.io/Elbone/pen/fHCjs)
+   - .net Magazine interviewed [@csswizardry]() about *shame.css* [link](http://www.netmagazine.com/news/use-shamecss-house-css-hacks-says-dev-132699)
+ - Tools
+   - TraceGL, a JavaScript *codeflow visualization* and debugging tool using *WebGL* [page](https://trace.gl/) (w/ screencast) ![][*]
+   - Responsive Inspector, a Chrome extension that displays defined *media queries* [post]() (w/ screencast) ![][*]
+   - BonsaiJS, a lightweight *graphics library* with an intuitive graphics API and an *SVG renderer* [page](http://bonsaijs.org/)
+   - Snap.js, a JavaScript library for creating Facebook-style *side menus* [repo](https://github.com/jakiestfu/Snap.js) + [demo](http://jakiestfu.github.io/Snap.js/demo/apps/default.html)
+   - git-up, a Ruby gem that replaces *`git pull`* [repo](https://github.com/aanand/git-up)
+ - Opinion
+   - “Off With Their Heads: Disband the *W3C*?” by [@briankardell]() [post](http://briankardell.wordpress.com/2013/04/23/off-with-their-heads-disband-the-w3c/)
+
+## April 23rd, 2013
 
  - News
    - *Chrome Canary* adds support for *`@supports`* rule and `CSS.supports()` function ([?](http://dev.w3.org/csswg/css3-conditional/)) [tweet](https://twitter.com/beverloo/status/326332894404558848) + [screen](https://twitter.com/simevidas/status/327221647042027520)
@@ -214,40 +250,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - “Getting agreements is hard”, [@sideshowbarker]()’s thoughts on the *W3C* blog [post](http://www.w3.org/QA/2013/04/getting_agreements_is_hard_som.html)
    - ![][>] “The New Prohibition Created By *Copyright*” by [@](waxpancake) [32min] [link](http://www.techdirt.com/articles/20130415/21153522717/andy-baio-new-prohibition-created-copyright.shtml) ![][*]
    - “*jQuery* made me become a programmer” [link](https://medium.com/the-javascript-collection/d9e3f716bb9e)
-
-## April 16th, 2013
-
- - News
-   - “Last week in *WebKit*: a new hope” (Benjamin Poulain’s recap at Surfin’ Safari) [post](https://www.webkit.org/blog/2291/last-week-in-webkit-a-new-hope/)
-   - Microdata API (part of *“HTML Microdata”* [TR](http://www.w3.org/TR/microdata/)) removed from *Chrome* [post](https://plus.google.com/102122664946994504971/posts/7BPx9VxnWAQ?partnerid=gplp0)
-   - *WebKit*/*Blink* open to use *W3C* tests regularly (instead of relying on their own tests) [tweet](https://twitter.com/dirkschulze/status/323979629553676289)
-   - [@annevk]() pushes for *`<blink>`* to be completely removed from the *HTML* standard [link](https://www.w3.org/Bugs/Public/show_bug.cgi?id=21712)
-   - Inapplicable *stylesheets* block rendering in IE and Firefox ([@scottjehl]()’s research + bug tickets) [link](https://github.com/scottjehl/css-inapplicable-load/)
-   - Government funded healthcare project to trial *WebRTC* [link](http://www.pulseitmagazine.com.au/index.php?option=com_content&view=article&id=1382:cystic-fibrosis-project-to-trial-webrtc-home-monitoring-and-shared-ehr&catid=16:australian-ehealth&Itemid=327)
-   - Mozilla to debut *Firefox OS* in five countries in June [link](http://allthingsd.com/20130415/mozilla-will-debut-firefox-os-in-five-countries-by-summer/)
-   - Netflix working […] to implement support for the “*HTML5* Premium Video Extensions” in *Chrome* [link](http://techblog.netflix.com/2013/04/html5-video-at-netflix.html)
- - FYI
-   - Chrome *DevTools* can be “dragged to right” [tweet](https://twitter.com/paul_irish/status/323813248287797248); cool for quick *RWD* testing [link](http://www.welcomebrand.co.uk/thoughts/docking-inspector-for-responsive-design-testing/)
-   - “In a third-party library, is there any way to safely detect if *`DOMContentLoaded`* has fired?” [tweet](https://twitter.com/LeaVerou/status/323781385464717312)
- - Tutorials
-   - “List of *Pseudo-Elements* to Style Form Controls” by [@tjvantoll]() [link](http://tjvantoll.com/2013/04/15/list-of-pseudo-elements-to-style-form-controls/) ![][*]
-   - An introduction to front-end *package management*, by [@codylindley]() [link](http://tech.pro/tutorial/1190/package-managers-an-introductory-guide-for-the-uninitiated-front-end-developer)
-   - “*Responsive* Retrofitting” by [@bencallahan]() [link](http://webstandardssherpa.com/reviews/responsive-retrofitting/) ![][*]
-   - “5 techniques for smooth infinite scrolling in *HTML5*” Trunal Bhanse [link](http://engineering.linkedin.com/linkedin-ipad-5-techniques-smooth-infinite-scrolling-html5)
-   - “*Web Payments* with PaySwarm: Identity (part 1 of 3)” (Mozilla Hacks) [link](https://hacks.mozilla.org/2013/04/web-payments-with-payswarm-identity-part-1-of-3/)
-   - ![][>] “Video Tutorial: *AngularJS* Fundamentals in 60-ish Minutes” by [@DanWahlin]() [71min] [link](http://weblogs.asp.net/dwahlin/archive/2013/04/12/video-tutorial-angularjs-fundamentals-in-60-ish-minutes.aspx)
- - Articles
-   - “Taking the pain out of debugging with *live programming*” (Computerworld) [link](http://www.computerworld.com.au/article/459054/taking_pain_debugging_live_programming/)
-   - “Setting up *Sublime Text* 2” by [@maccaw]() [link](http://blog.alexmaccaw.com/sublime-text)
- - Content
-   - ![][>] “*JavaScript* and new possibilities”, [@robertnyman]()’s talk from [@sthlmjs]() [51min] [youtube](https://www.youtube.com/watch?v=3WY8hKml9_Y)
-   - ![][>] JavaScript Jabber Podcast Ep. 55: “Web Developer Skills” [38min] [link](http://javascriptjabber.com/055-jsj-web-developer-skills/)
-   - ![][>] GitMinutes Podcast Ep. 4: “Marius Mathiesen on Gitorious and Git Infrastructure” [56min] [link](http://episodes.gitminutes.com/2013/04/gitminutes-04-marius-mathiesen-on.html)
- - Tools
-   - Packery (“the bin-packing *layout* library”) [page](http://packery.metafizzy.co/)
-   - Breeze.js (*rich data* management library) [page](http://www.breezejs.com/) + [article](http://www.johnpapa.net/spajs04/)
-   - Sublime-Text--cdnjs (*Sublime* plugin to add scripts from cdnjs.com) [repo](https://github.com/dafrancis/Sublime-Text--cdnjs)
-   - captureCalls.js (capture *stack traces* for any function on every call) [repo](https://github.com/NV/captureCalls.js) + video demo [youtube](https://www.youtube.com/watch?feature=player_embedded&v=jm31znLczrU)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
