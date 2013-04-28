@@ -10,7 +10,41 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
-## April 24th, 2013 **but released on April 26th**
+## April 25th, 2013 **but released on April 27th**
+
+ - News
+   - *CSS WG* Minutes Telecon 2013-04-24 [notes](http://www.w3.org/blog/CSS/2013/04/25/resolution-5/)
+   - Last week in *WebKit*, summary by [@awfulkling]() (i.a. `color-index`, `-webkit-hanging`) [post](https://www.webkit.org/blog/2305/last-week-in-webkit-all-cowhands-on-deck/)
+   - “*Google* implements a feature based on the *EME spec* ([?](http://dvcs.w3.org/hg/html-media/raw-file/tip/encrypted-media/encrypted-media.html)) after a FPWD is voted down.” [tweet1](https://twitter.com/wilto/status/327171467450134528) [tweet2](https://twitter.com/wilto/status/327172129990774784)
+   - “*Blink* opts to not implement *`<picture>`* right now, deciding the `srcset` syntax is sufficient” [tweet](https://twitter.com/RWD/status/327075776266637312)
+   - (Proposed) API to delay the *document load event* [discussion](http://lists.w3.org/Archives/Public/public-whatwg-archive/2013Apr/0110.html) (on WHATWG mailing list)
+   - Chrome Apps Team started work on *`<adview>` element* for embedded ads inside *Chrome Apps* [post](https://plus.google.com/100132233764003563318/posts/hqHFwvZhbDS)
+   - “Unity drops *Flash* support, says Adobe is not firmly committed” (Gamasutra) [article](http://www.gamasutra.com/view/news/191112/Unity_drops_Flash_support_says_Adobe_is_not_firmly_committed.php)
+   - “RuneScape dumps *Java* for HTML5” (CNET) [article](http://news.cnet.com/8301-1023_3-57580221-93/its-about-time-runescape-dumps-java-for-html5/)
+ - FYI
+   - Relationship between the `<picture>` element and the `srcset` attribute (*responsive images*) [spec](http://www.w3.org/TR/html-picture-element/#relationship-to-srcset) ![][*]
+   - Over 25% of Verizon wireless traffic Is now over *IPv6* [post](http://www.internetsociety.org/deploy360/blog/2013/04/over-25-of-verizon-wireless-traffic-is-now-over-ipv6/)
+   - This <http://www.tsa.gov/tsa-pre✓™> is a valid and active *URL*
+   - The *W3C Nu Markup Validator* now has a “Show outline” feature [tweet](https://twitter.com/w3c/status/327116988684066817)
+   - *MDN* has created a wiki reference for the *Web Audio API* [mdn](https://developer.mozilla.org/en-US/docs/Web_Audio_API)
+ - Tutorials
+   - “Introduction to *AngularJS*” by [@phuunet]() [link](http://javascriptplayground.com/blog/2013/04/introduction-angular-js)
+   - “Building A *HTML5 Game* With Phaser” by [@jessefreeman]() [link](http://jessefreeman.com/game-dev/building-a-html5-game-with-phaser/)
+ - Articles
+   - “One less JPG” (*web performance*) by [@ajpiano]() [link](http://fourkitchens.com/blog/2013/04/24/one-less-jpg) ![][*]
+   - “Analyzing the market of *HTML5 games*” by [@austinhallock]() (VentureBeat) [link](http://venturebeat.com/2013/04/22/analyzing-the-market-of-html5-games/)
+   - “The *BackboneJS* Way of Thinking” by [@umarashfaq87]() [link](http://www.to-string.com/2013/04/20/the-backbonejs-way-of-thinking/)
+ - Content
+   - ![][>] “*Performance* Checklist for the *Mobile Web*”, [@duhroach]()’s talk from [@html5devconf]() [53min] [youtube](https://www.youtube.com/watch/?v=0UNWi7FA36M)
+   - *CSS3* Geometry Daily (CSS demos) [link](http://css3geometrydaily.tumblr.com/) 
+ - Tools
+   - LayoutIt, a powerful drag-and-drop *interface builder* for Twitter Bootstrap [page](http://www.layoutit.com/)
+   - bem-tools, an *optimization toolkit* [page](http://bem.info/tools/) ![][*]
+ - Opinion
+   - “The *W3C*’s plan for *DRM* in HTML5 is a betrayal to all Web users” by [@kxra]() [link](http://freeculture.org/blog/2013/04/23/dont-let-the-myths-fool-you-the-w3cs-plan-for-drm-in-html5-is-a-betrayal-to-all-web-users/)
+   - “Why we like *WebP* (image format)” [link](http://geeks.everything.me/2013/04/24/why-we-like-webp/)
+
+## April 24th, 2013
 
  - News
    - *Adobe* implements *blend modes* for CSS fragment shaders in *Chrome* / *Safari* [post](http://blogs.adobe.com/webplatform/2013/04/23/all-blend-modes-for-css-fragment-shaders-have-landed/) + example [tweet](https://twitter.com/simevidas/status/327924684043743232)
@@ -214,42 +248,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - Opinion
    - “Content Parity on the Web” (dedicated mobile sites vs *responsive design*) by [@ChrisFerdinandi]() [link](http://gomakethings.com/content-parity-on-the-web/)
    - W3C, TC-39 divergence regarding *Futures* [tweet1](https://twitter.com/annevk/status/324550070253006849) [tweet2](https://twitter.com/annevk/status/324573346874421248)
-
-## April 17th, 2013
-
- - News
-   - *W3C* releases: 2. WD of *“Media Source Extensions”* [TR](http://www.w3.org/TR/media-source/), 5. WD of *“Emotion Markup Language”* [TR](http://www.w3.org/TR/emotionml/)
-   - *W3C* France launched a new web site: [www.w3c.fr](http://www.w3c.fr/)
-   - [@eseidel]()’s proposal for cleaning up “webkit” prefixes in *Blink* [post](https://groups.google.com/a/chromium.org/d/msg/blink-dev/E0OkYhvF7q8/Q4dUCEz8_YYJ)
-   - *Chrome for Business* introduces “Legacy Browser Support” (opens selected sites in legacy browser) [post](http://googleenterprise.blogspot.co.uk/2013/04/new-chrome-features-bring-modern-web-to.html)
-   - ![][&] *Mozilla* Ignite Challenge seeks feedback on the team pitches [link](https://docs.google.com/spreadsheet/ccc?key=0Au84mgOp1Pj4dHBNVlI0RkRjTXhoX0NldE1mM2dBaUE#gid=2)
-   - *Microsoft Open Technologies* celebrates its first year anniversary [post](http://blogs.msdn.com/b/interoperability/archive/2013/04/16/you-re-invited-to-help-us-celebrate-an-unlikely-pairing-in-open-source.aspx)
- - FYI
-   - The second *Global Accessibility Awareness Day* is on May 9th [link](http://www.sitepoint.com/global-accessibility-awareness-day/)
-   - “Websites are 3.5% faster on desktop, 30% faster on mobile year-over-year” (based on *GA* data) [link](http://analytics.blogspot.com/2013/04/is-web-getting-faster.html)
-   - “*CSS Selectors* Level 4” defines an `:user-error` pseudo-class [link](http://dev.w3.org/csswg/selectors4/#user-error-pseudo)
-   - “*CSS Selectors* Level 4” defines reference combinators, e.g. `label /for/ input { … }` [link](http://dev.w3.org/csswg/selectors4/#idref-combinators)
-   - *`getComputedStyle`* returns `"normal"` in Chrome and `"19.1667px"` in Firefox for `lineHeight` [tweet](https://twitter.com/davidwalshblog/status/324214585496313856)
- - Tutorials
-   - “Getting the *URL* of an *iframe*’s parent” by [@slicknet]() [link](http://www.nczonline.net/blog/2013/04/16/getting-the-url-of-an-iframes-parent/)
-   - “Animating *flexboxes*: the lowdown” by [@chrisdavidmills]() (Dev.Opera) [link](http://dev.opera.com/articles/view/animating-flexboxes-the-lowdown/)
-   - “Create xkcd-Style *Comics* with Comix” by [@davidwalshblog]() [link](http://davidwalsh.name/cmx-js)
- - Articles
-   - “Case Study: Google I/O 2013 Experiment” by [@tdreyno]() [link](http://www.html5rocks.com/en/tutorials/casestudies/google-io-2013/)
-   - “Designing for a *Responsive* Web Means Starting with Type First” by [@paulmckeever]() [link](http://typecast.com/blog/designing-for-a-responsive-web-means-starting-with-type-first)
-   - “Hack Your Maps” (about *responsive* and usable map interfaces) by [@younghahn]() [link](http://alistapart.com/article/hack-your-maps)
- - Content
-   - ![][>] “Demystifying *Regular Expressions*”, [@LeaVerou]()’s talk from Fluent 2012 [48min] [youtube](http://youtu.be/EkluES9Rvak)
-   - [@dam]()’s (*CSS*) Coding Guidelines [link](https://github.com/topcoat/topcoat/wiki/Coding-Guidelines) ![][*]
-   - ![][>] “Low Cost *Usability Testing*”, user tests Amazon’s mobile site [22min] [link](https://www.usertesting.com/videos/GSf4%2begr26E%3d)
- - Tools 
-   - jQuery Builder (builds a *custom version of jQuery* that only includes the modules you need) [link](http://projects.jga.me/jquery-builder/)
-   - DOMLint (*test suite* against HTML/DOM conflicts) [link](http://kangax.github.io/domlint/)
-   - FPSMeter (“simple *JavaScript* library for sexy, fast, and themable FPS meter”) [link](http://darsa.in/fpsmeter/)
- - Opinion
-   - “Getting agreements is hard”, [@sideshowbarker]()’s thoughts on the *W3C* blog [post](http://www.w3.org/QA/2013/04/getting_agreements_is_hard_som.html)
-   - ![][>] “The New Prohibition Created By *Copyright*” by [@](waxpancake) [32min] [link](http://www.techdirt.com/articles/20130415/21153522717/andy-baio-new-prohibition-created-copyright.shtml) ![][*]
-   - “*jQuery* made me become a programmer” [link](https://medium.com/the-javascript-collection/d9e3f716bb9e)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
