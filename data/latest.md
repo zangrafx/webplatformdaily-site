@@ -1,5 +1,3 @@
-**Update!** Dailies are currently released with a 36 hour delay. I’ll catch up by the end of this week though :) (Again, there will be a daily on Sunday.)
-
 The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files). The README file of the repository also serves as a FAQ. Refer to it for information about this web-site.
 
 ## Sticky
@@ -10,7 +8,11 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
-## April 25th, 2013 **but released on April 27th**
+## April 26th, 2013 **will be released in a couple of hours**
+
+- I’ll also try to get today’s daily (Monday 29th) out by the end of the day. 
+
+## April 25th, 2013
 
  - News
    - *CSS WG* Minutes Telecon 2013-04-24 [notes](http://www.w3.org/blog/CSS/2013/04/25/resolution-5/)
