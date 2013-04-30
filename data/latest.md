@@ -34,8 +34,8 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
   - “*JavaScript* Objects: De”construct”ion” by [@getify]() [link](http://davidwalsh.name/javascript-objects-deconstruction)
   - “*Responsive* Fullscreen Layout with Page Transitions” by [@crnacura]() [post](http://tympanus.net/codrops/2013/04/23/fullscreen-layout-with-page-transitions/) (w/ demo) ![][*]
 - Content
-  - “Helping or hurting?”, [@codepo8]()’s talk from [@DevsLoveBacon]() [44min] [link](http://devslovebacon.com/conferences/bacon-2013/talks/helping-or-hurting )
-  - ShopTalk podcast Ep. 66: “RAPIDFIRE” [link](http://shoptalkshow.com/episodes/066-rapidfire-16/)
+  - ![][>] “Helping or hurting?”, [@codepo8]()’s talk from [@DevsLoveBacon]() [44min] [link](http://devslovebacon.com/conferences/bacon-2013/talks/helping-or-hurting )
+  - ![][>] ShopTalk podcast Ep. 66: “RAPIDFIRE” [77min] [link](http://shoptalkshow.com/episodes/066-rapidfire-16/)
   - dotnetConf, a free virtual conference (w/ links to videos) [link](http://live.dotnetconf.net/2013-04)
   - The State Of *HTML5 Video* [report](http://www.longtailvideo.com/html5) ![][*]
   - Unheap, a repository of *jQuery plugins* [page](http://www.unheap.com/)
@@ -246,7 +246,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - Opinion
    - ![][>] [@mozillagary]() (Mozilla CEO): “The web needs to be unlocked on *mobile*” [3min] [video](http://allthingsd.com/20130415/firefox-os-wtf/) ![][*]
    - [@davemethvin](): “*WebKit*, get your bug-ridden house in order” [article](http://news.cnet.com/8301-1023_3-57569342-93/javascript-expert-webkit-get-your-bug-ridden-house-in-order/)
-   
+
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
 [1]: /img/calendar.png "upcoming event"
