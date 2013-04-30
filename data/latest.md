@@ -8,9 +8,43 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
-## April 26th, 2013 **will be released in a couple of hours**
+## April 26th, 2013 **but released on April 29th**
 
-- I’ll also try to get today’s daily (Monday 29th) out by the end of the day. 
+- News
+  - *Firefox development* highlights: HiDPI support, HTML5 notifications, Parallel JS, asm.js, … [post](https://hacks.mozilla.org/2013/04/hidpi-support-html5-notifications-parallel-js-asm-js-and-more-firefox-development-highlights/)
+  - “*Blink*, Testing, and the *W3C*”, on working more closely [post](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/i-U4pJ16Og0/discussion) + [wiki](https://sites.google.com/a/chromium.org/dev/blink/blink-testing-and-the-w3c)
+  - *Test the Web Forward* Seattle event, recap [post](http://blogs.adobe.com/webplatform/2013/04/25/test-the-web-forward-seattle-recap/)
+  - ![][o] Call for participation to get [a11yproject.com](http://a11yproject.com/) ready for *“Global Accessibility Awareness Day”* [post](https://github.com/a11yproject/a11yproject.com/issues/164)
+  - Intent to Implement: *CSS Custom Filters* (aka CSS Shaders) in *Blink* [post](https://groups.google.com/a/chromium.org/d/msg/blink-dev/cl05kpmPTRs/N223ukJrVgAJ)
+  - ![][&] [@annevk]() looking for feedback on *URL comparison* (`:local-link` pseudo-class) [tweet](https://twitter.com/annevk/status/327387417986359297)
+  - *Chrome* gains ability to open MS Word, Excel, PowerPoint files in-browser via extension [post](http://chrome.blogspot.co.uk/2013/04/a-speedy-more-secure-way-to-view.html)
+  - TokBox introduces a *WebRTC* cloud platform [post](http://www.tokbox.com/blog/mantis-next-generation-cloud-technology-for-webrtc/) (w/ short “about” video)
+  - “Experimental *CSS Shaders* Bring Photoshop Filters to the Web” (Wired) [article](http://www.webmonkey.com/2013/04/experimental-css-shaders-bring-photoshop-filters-to-the-web/)
+  - “California Proposes *‘Do Not Track’* (DNT) Honesty Checker” [article](http://www.informationweek.com/security/privacy/california-proposes-do-not-track-honesty/240153657)
+- FYI
+   - Microsoft Open Technologies (*MS OpenTech*) launches new web site [msopentech.com](http://msopentech.com/)
+   - “Workplace *browser diversity* is robust: IE at 40%, Chrome at 28%, Firefox at 25%” [article](http://venturebeat.com/2013/04/24/workplace-browser-usage-ie-chrome-firefox/)
+   - No scaling on the Chromebook Pixel, explains *display resolution vs pixel resolution* [article](http://news.cnet.com/8301-33620_3-57571252-278/the-incredible-unscalable-screen-of-the-chromebook-pixel/)
+- Tutorials
+  - “How To Maintain Hierarchy (in *RWD*) Through Content Choreography” by [@vangogh]() [link](http://www.smashingmagazine.com/2013/04/25/maintain-hierarchy-content-choreography/)
+  - “Using *`tabindex`* with `:focus`” by [@ImpressiveWebs]() [link](http://www.impressivewebs.com/using-tabindex-with-focus/) + my own basic [demo](http://jsfiddle.net/ejCMy/2/)
+  - “Is This Thing On?” (determining the *connection status*) by [@ifandelse]() [link](http://www.icenium.com/community/blog/icenium-team-blog/2013/04/23/is-this-thing-on-part-1)
+  - “Quirks you should be aware of when working with *CSS3 transitions*” by [@rodneyrehm]() [link](http://coding.smashingmagazine.com/2013/04/26/css3-transitions-thank-god-specification/) ![][*]
+  - “Easy *ARIA* Tip #6: Making clickables *accessible*” by [@MarcoInEnglish]() [link](http://www.marcozehe.de/2013/04/24/easy-aria-tip-6-making-clickables-accessible/)
+  - “*JavaScript* Objects: De”construct”ion” by [@getify]() [link](http://davidwalsh.name/javascript-objects-deconstruction)
+  - “*Responsive* Fullscreen Layout with Page Transitions” by [@crnacura]() [post](http://tympanus.net/codrops/2013/04/23/fullscreen-layout-with-page-transitions/) (w/ demo) ![][*]
+- Content
+  - “Helping or hurting?”, [@codepo8]()’s talk from [@DevsLoveBacon]() [44min] [link](http://devslovebacon.com/conferences/bacon-2013/talks/helping-or-hurting )
+  - ShopTalk podcast Ep. 66: “RAPIDFIRE” [link](http://shoptalkshow.com/episodes/066-rapidfire-16/)
+  - dotnetConf, a free virtual conference (w/ links to videos) [link](http://live.dotnetconf.net/2013-04)
+  - The State Of *HTML5 Video* [report](http://www.longtailvideo.com/html5) ![][*]
+  - Unheap, a repository of *jQuery plugins* [page](http://www.unheap.com/)
+- Tools
+   - FastClick, *removes click delays* on browsers with touch UIs [repo](https://github.com/ftlabs/fastclick)
+   - SPDYCheck, checks if a website properly supports the *SPDY protocol* [spdycheck.org](http://spdycheck.org/)
+   - Watch.js, “watch the changes of any object or attribute” [repo](https://github.com/melanke/Watch.JS)
+- Opinion
+   - “Mobile: Never Use *Native Drop-Downs* for Navigation” [post](http://baymard.com/blog/mobile-dropdown-navigation)
 
 ## April 25th, 2013
 
@@ -212,45 +246,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - Opinion
    - ![][>] [@mozillagary]() (Mozilla CEO): “The web needs to be unlocked on *mobile*” [3min] [video](http://allthingsd.com/20130415/firefox-os-wtf/) ![][*]
    - [@davemethvin](): “*WebKit*, get your bug-ridden house in order” [article](http://news.cnet.com/8301-1023_3-57569342-93/javascript-expert-webkit-get-your-bug-ridden-house-in-order/)
-
-## April 18th, 2013
-
- - News
-   - New specification: *“Resource Priorities”* [ED](http://dvcs.w3.org/hg/webperf/raw-file/tip/specs/ResourcePriorities/Overview.html), e.g. `<img src="supplemental.gif" defer>`
-   - ![][o] The *Responsive Images* CG needs help writing layout tests for WebKit and Blink (*`<picture>`*) [message](http://lists.w3.org/Archives/Public/public-respimg/2013Apr/0001.html)
-   - *Microsoft* donated over 400 MSDN JavaScript articles to *Web Platform Docs* [anncmnt](http://lists.w3.org/Archives/Public/public-webplatform/2013Apr/0238.html) [tweet](https://twitter.com/WebPlatform/status/324645876536598529)
-   - FTC chair urges advertising industry to work with *W3C* to develop a *DNT* (Do Not Track) standard [article](http://www.adweek.com/news/technology/ftc-chair-stuns-advertisers-148644)
-   - “The Plot to Block Internet Freedom” [article](http://www.foreignpolicy.com/articles/2013/04/16/plot_block_internet_freedom)
-   - Google adds new *security* measures to protect *Chrome* from malware [post](http://googleonlinesecurity.blogspot.fi/2013/04/new-warnings-about-potentially.html)
-   - Detailed article on *WebRTC* implementation progress in *Firefox* (Mozilla Hacks) [post](https://hacks.mozilla.org/2013/04/webrtc-update-our-first-implementation-will-be-in-release-soon-welcome-to-the-party-but-please-watch-your-head/) ![][*]
-   - *WebRTC* support lands in *Firefox for Android* Nightly (+ instructions, + link to test page) [post](http://www.morbo.org/2013/04/webrtc-support-on-android.html)
- - FYI
-   - Microsoft extends Windows 8 QuickStart offer to Mac and iOS developers [link](http://blogs.parallels.com/consumertech/2013/4/17/microsoft-extends-windows-8-quickstart-offer-to-mac-and-ios.html)
-   - On iOS, *Safari* is 18% faster than the embedded UIWebView, 7% faster than *Chrome* [post](http://www.guypo.com/mobile/ios-browsers-speed-bakeoff/)
-   - *PayPal*’s developer site is quite decent (Mobile SDKs, REST APIs, …) [site](https://developer.paypal.com/)
-   - *Firefox OS* User Guide (huge) [context](https://blog.mozilla.org/sumo/2013/04/17/firefox-os-english-user-guide/) [page](https://support.mozilla.org/en-US/kb/firefox-os-user-guide)
- - Tutorials
-   - “Preventing the *Performance* Hit from *Custom Fonts*” by [@chriscoyier]() [link](http://css-tricks.com/preventing-the-performance-hit-from-custom-fonts/)
-   - “Random Number Generation in *JavaScript*” by [@therealprotonk]() [link](http://weblog.bocoup.com/random-numbers/)
-   - “*IRC* is Back: Here’s Your Starter Guide” by [@reybango]() [link](http://net.tutsplus.com/tutorials/tools-and-tips/irc-is-back-heres-your-starter-guide/) ![][*]
- - Articles
-   - “Explaining *Futures*” by [@tabatkins]() [link](http://www.xanthir.com/b4PY0) ![][*]
-   - “A *Comparison* of Angular, Backbone, CanJS and Ember” by [@sebasporto]() [link](http://sporto.github.io/blog/2013/04/12/comparison-angular-backbone-can-ember/)
-   - “shame.css” (stylesheet dedicated to housing your nasty, hacky, quick-fix *CSS*) by [@csswizardry]() [link](http://csswizardry.com/2013/04/shame-css/)
-   - “An Introduction To *Programming* Type Systems” by [@ZackGrossbart]() [link](http://coding.smashingmagazine.com/2013/04/18/introduction-to-programming-type-systems/)
- - Content
-   - “Fidus Writer: foxy *CSS Regions* spotted in the wild” [link](http://blogs.adobe.com/webplatform/2013/04/17/fidus-writer-foxy-css-regions-spotted-in-the-wild/)
-   - [@ccoenraets]() has updated his sample *Backbone.js*/*Twitter Bootstrap* application [link](http://coenraets.org/blog/2013/04/sample-application-with-backbone-js-and-twitter-bootstrap-updated-and-improved/) ![][*]
-   - “Kittydar: *Face Detection* for Cats in JavaScript” by [@harthvader]() [link](http://harthur.github.io/kittydar/)
-   - ![][&] [@zachleat]() is documenting discrepancies between pure-*IE8* and faux-IE8 [link](https://gist.github.com/zachleat/5407068)
-   - Ember 101, collection of video + article tutorials for learing *Ember.js* [ember101.com](http://ember101.com/)
- - Tools
-   - Devtools redirect (lets you redirect web page resources) [link](https://chrome.google.com/webstore/detail/devtools-redirect/jmhdebkkippcccflcoddckhjjfgnfhnp) + demo on [youtube](http://youtu.be/5J2-9lFaESI)
-   - sublime-grunt (Grunt plugin for Sublime Text) [repo](https://github.com/tvooo/sublime-grunt)
- - Opinion
-   - “Content Parity on the Web” (dedicated mobile sites vs *responsive design*) by [@ChrisFerdinandi]() [link](http://gomakethings.com/content-parity-on-the-web/)
-   - W3C, TC-39 divergence regarding *Futures* [tweet1](https://twitter.com/annevk/status/324550070253006849) [tweet2](https://twitter.com/annevk/status/324573346874421248)
-
+   
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
 [1]: /img/calendar.png "upcoming event"
