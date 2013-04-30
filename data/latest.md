@@ -37,7 +37,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
   - ![][>] “Helping or hurting?”, [@codepo8]()’s talk from [@DevsLoveBacon]() [44min] [link](http://devslovebacon.com/conferences/bacon-2013/talks/helping-or-hurting )
   - ![][>] ShopTalk podcast Ep. 66: “RAPIDFIRE” [77min] [link](http://shoptalkshow.com/episodes/066-rapidfire-16/)
   - dotnetConf, a free virtual conference (w/ links to videos) [link](http://live.dotnetconf.net/2013-04)
-  - The State Of *HTML5 Video* [report](http://www.longtailvideo.com/html5) ![][*]
+  - The State Of *HTML5 `<video>`* [report](http://www.longtailvideo.com/html5) ![][*]
   - Unheap, a repository of *jQuery plugins* [page](http://www.unheap.com/)
 - Tools
    - FastClick, *removes click delays* on browsers with touch UIs [repo](https://github.com/ftlabs/fastclick)
