@@ -37,7 +37,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - Tools
    - sublime-text-refactor, a Sublime Text plugin for *JavaScript refactoring* [link](http://saquery.com/sublime-text-refactoring-plugin/)
    - sublime-levels, a Sublime Text plugin for *scope context coloring* [repo](https://github.com/mazurov/sublime-levels) + [demo](http://mazurov.github.io/eslevels-demo/)
-   - ArgueJS, a JavaScript library for *extending method’s signatures* with optional parametes et al [repo](https://github.com/zvictor/ArgueJs)
+   - ArgueJS, a JavaScript library for *extending method’s signatures* with optional parameters et al [repo](https://github.com/zvictor/ArgueJs)
 
 
 ## April 26th, 2013
