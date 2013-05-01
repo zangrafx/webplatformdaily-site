@@ -1,3 +1,40 @@
+## April 19th, 2013
+
+ - News
+   - *W3C* releases:
+     - **New!** 1st WD of *“CSS Overflow”* [TR](http://www.w3.org/TR/css-overflow-3/) [notes](http://www.w3.org/blog/CSS/2013/04/18/css-overflow-module-working-draft-published/)
+     - Updated CR of *“CSS Values and Units”* [TR](http://www.w3.org/TR/css3-values/) [notes](http://www.w3.org/blog/CSS/2013/04/18/css3-values-updated-cr/) (small fixes)
+     - 4th WD of *“CSS Grid Layout”* [TR](http://www.w3.org/TR/css3-grid-layout/) [notes](http://www.w3.org/blog/CSS/2013/04/18/css-grid-layout-overhaul/) (overhauled; **provide feedback**
+     )
+   - *CSS WG* Minutes Telecon 2013-04-17 [notes](http://www.w3.org/blog/CSS/2013/04/18/resolutions-89/) (*CSS Marquee* discontinued, new `cursor` values in *CSS3 UI*)
+   - *`<main>`* element about to be added to the *HTML5* CR spec [message](http://lists.w3.org/Archives/Public/public-html-admin/2013Apr/0047.html)
+   - *Discussion*: making `<img>` elements not load until needed [link](https://www.w3.org/Bugs/Public/show_bug.cgi?id=17842#c26) (related: *“Resource Priorities”* [ED](http://dvcs.w3.org/hg/webperf/raw-file/tip/specs/ResourcePriorities/Overview.html))
+   - *Firefox* 23 now has a faster (more efficient) *`localStorage`* implementation [post](http://www.janbambas.cz/firefox-23-new-faster-localstorage/)
+   - *jQuery* 2.0 released (12% smaller with 12 excludable modules) [release notes](http://blog.jquery.com/2013/04/18/jquery-2-0-released/)
+   - “*LinkedIn* dumped *HTML5* & went native for its *mobile* apps” (VentureBeat) [article](http://venturebeat.com/2013/04/17/linkedin-mobile-web-breakup/)
+   - “*Firefox OS* dev units coming to Geeksphone next week” (engadget) [article](http://www.engadget.com/2013/04/18/firefox-os-dev-units-geeksphone-next-week/)
+ - FYI
+   - The *CSS* `background-position:10px+3em` works differently than you think [tweet](https://twitter.com/tabatkins/status/324949893162610688) + explanation [tweet](https://twitter.com/tabatkins/status/324950004693360640)
+   - [@tabatkins]() updated the “history” part of his *Futures* post to include more background info [post](http://www.xanthir.com/b4PY0)
+   - “Want to know and control what data *Firefox* shares? Data Choices in Preferences.” [tweet](https://twitter.com/robertnyman/status/325148047879307265)
+   - *Heisenbug* = a software bug that seems to disappear or alter its behavior when one attempts to study it
+ - Tutorials
+   - “Touchy-Feely with *DOM Events*: Rethinking Cross-Device User Interaction” by [@girlie_mac]() [link](http://girliemac.com/blog/2013/04/17/touchy-feely-with-dom-events-rethinking-cross-device-user-interaction/) ![][*]
+   - “Feature Detection and Styling For The HTML5 *`<details>`* Element” by [@dudleystorey]() [link](http://demosthenes.info/blog/680/Feature-Detection-and-Styling-For-The-HTML5-details-Element)
+   - “Getting Into *Ember.js*: Part 3” (about data) by [@reybango]() [link](http://net.tutsplus.com/tutorials/javascript-ajax/getting-into-ember-js-part-3/)
+   - “Web Page Clipping with PhantomJS” (*capturing web pages* as images) by [@ariyahidayat]() [link](http://ariya.ofilabs.com/2013/04/web-page-clipping-with-phantomjs.html)
+   - “How to Edit Remote Files With *Sublime Text* via an *SSH Tunnel*” [link](http://log.liminastudio.com/writing/tutorials/sublime-tunnel-of-love-how-to-edit-remote-files-with-sublime-text-via-an-ssh-tunnel)
+ - Content
+   - “Essence of *CoffeeScript*”, *interactive tutorial* (7 lessons, multiple exercises per lesson) [link](http://coffeescript.carbonfive.com/)
+   - Retro Vectors, free high quality *vector stock files* [retrovectors.com](http://retrovectors.com/)
+ - Tools
+   - SourceTree, a free *Git client* for Windows or Mac [link](http://www.sourcetreeapp.com/)
+   - init, extends *HTML5 Boilerplate* with more structure for *SCSS* and JavaScript [repo](https://github.com/drublic/init)
+   - Heck Yes Markdown, *converts web pages* to Markdown [page](http://heckyesmarkdown.com/)
+ - Opinion
+   - ![][>] [@mozillagary]() (Mozilla CEO): “The web needs to be unlocked on *mobile*” [3min] [video](http://allthingsd.com/20130415/firefox-os-wtf/) ![][*]
+   - [@davemethvin](): “*WebKit*, get your bug-ridden house in order” [article](http://news.cnet.com/8301-1023_3-57569342-93/javascript-expert-webkit-get-your-bug-ridden-house-in-order/)
+
 ## April 18th, 2013
 
  - News

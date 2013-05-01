@@ -8,12 +8,39 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
-## April 29th, 2013 **will be released later today**
+## April 29th, 2013 **but released on April 30th**
 
- - Yea, I’m still in a 24h delay -.- Can’t wait to finally catch up and start releasing dailies on time.
+ - News
+   - This week at *W3C*: Encrypted Media Extensions, DNT, “Show outline” feature in W3C Validator, etc. [link](http://lists.w3.org/Archives/Public/public-w3c-digest/2013AprJun/0004.html)
+   - *Chrome DevTools*, debugging with *source maps* is now enabled by default [tweet](https://twitter.com/ChromiumDev/status/327844558664781824)
+   - *Test the Web Forward* Seattle event, report on Microsoft’s IEBlog [article](http://blogs.msdn.com/b/ie/archive/2013/04/26/test-the-web-forward-seattle-2013.aspx)
+   - Free Software Foundation: “Keep *DRM* out of Web standards”, letter submitted to *W3C* [post](http://www.defectivebydesign.org/sign-on-against-drm-in-html)
+   - ![][&] First draft of Mozilla’s *Web Literacy standard* published [tweet](https://twitter.com/mozilla/status/328161685170954241)
+ - FYI
+   - “iOS Safari uses *MIME sniffing* for `text/plain` documents, leading to *security* vulnerabilities” [tweet](https://twitter.com/mathias/status/327812140473917440)
+   - Non-ASCII characters are allowed in *CSS* class names, e.g. `<div class="ಠ_ಠ">`
+ - Tutorials
+   - “*CSS* Background *Animations*” by [@davidwalshblog]() [link](http://davidwalsh.name/background-animation-css)
+   - “Simple YouTube Menu Effect” (*CSS transforms*, *CSS transitions*) by [@crnacura]() [link](http://tympanus.net/codrops/2013/04/25/simple-youtube-menu-effect/)
+   - “*Promise*-Based Form Validation” by [@pavanpodila]() [link](http://net.tutsplus.com/tutorials/javascript-ajax/promise-based-validation/) ![][*]
+   - “Make Client Side Data Available Server Side” (to avoid *`User-Agent` sniffing*) by [@chriscoyier]() [link](http://css-tricks.com/make-client-side-data-available-server-side/)
+   - “Few Modern *JavaScript* Inconsistencies ” by [@WebReflection]() [link](http://webreflection.blogspot.com/2013/04/few-modern-javascript-inconsistencies.html)
+ - Articles
+   - “I <3 image bytes” by [@souders]() (“Images are the most important bytes in the page”) [link](http://www.stevesouders.com/blog/2013/04/26/i/) ![][*]
+   - “Personal names around the world” by [@r12a]() [article](http://www.w3.org/International/questions/qa-personal-names) at *W3C Internationalization*
+   - “Mozilla *Persona* for the non-web” (Mozilla Hacks) [post](https://hacks.mozilla.org/2013/04/mozilla-persona-for-the-non-web/)
+ - Content
+   - noBackend, “a new approach to build data driven apps without thinking backend” [nobackend.org](http://nobackend.org/)
+   - ![][>] “Dive Into *Mobile Performance*”, [@souders]()’s talk at [@BoxEng]() [72min] [youtube](https://www.youtube.com/playlist?list=PLUO3pFURa-s0XgfU-FDFqzSqGWDRZp2sG)
+   - CSS *animatable properties*, browser support table (which CSS properties can be animated) [link](http://thewebevolved.com/support/animation/properties/) ![][*]
+   - Circular tooltip with pure *CSS transforms* [demo](http://dabblet.com/gist/3979221/cb69c5e8ccf0745fff2c94b47b27b108931f1a15)
+ - Tools
+   - sublime-text-refactor, a Sublime Text plugin for *JavaScript refactoring* [link](http://saquery.com/sublime-text-refactoring-plugin/)
+   - sublime-levels, a Sublime Text plugin for *scope context coloring* [repo](https://github.com/mazurov/sublime-levels) + [demo](http://mazurov.github.io/eslevels-demo/)
+   - ArgueJS, a JavaScript library for *extending method’s signatures* with optional parametes et al [repo](https://github.com/zvictor/ArgueJs)
 
 
-## April 26th, 2013 **but released on April 29th**
+## April 26th, 2013
 
 - News
   - *Firefox development* highlights: HiDPI support, HTML5 notifications, Parallel JS, asm.js, … [post](https://hacks.mozilla.org/2013/04/hidpi-support-html5-notifications-parallel-js-asm-js-and-more-firefox-development-highlights/)
@@ -214,43 +241,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - Firefox OS Simulator, Firefox add-on that provides a *test environment for Firefox OS* [link](https://addons.mozilla.org/en-US/firefox/addon/firefox-os-simulator/)
    - sly, JavaScript library for *one-directional scrolling* [page](http://darsa.in/sly/) + [repo](https://github.com/Darsain/sly)
    - machina.js, *finite state machines* in JavaScript [repo](https://github.com/ifandelse/machina.js) + [post](http://freshbrewedcode.com/jimcowart/2012/03/12/machina-js-finite-state-machines-in-javascript/)
-
-## April 19th, 2013
-
- - News
-   - *W3C* releases:
-     - **New!** 1st WD of *“CSS Overflow”* [TR](http://www.w3.org/TR/css-overflow-3/) [notes](http://www.w3.org/blog/CSS/2013/04/18/css-overflow-module-working-draft-published/)
-     - Updated CR of *“CSS Values and Units”* [TR](http://www.w3.org/TR/css3-values/) [notes](http://www.w3.org/blog/CSS/2013/04/18/css3-values-updated-cr/) (small fixes)
-     - 4th WD of *“CSS Grid Layout”* [TR](http://www.w3.org/TR/css3-grid-layout/) [notes](http://www.w3.org/blog/CSS/2013/04/18/css-grid-layout-overhaul/) (overhauled; **provide feedback**
-     )
-   - *CSS WG* Minutes Telecon 2013-04-17 [notes](http://www.w3.org/blog/CSS/2013/04/18/resolutions-89/) (*CSS Marquee* discontinued, new `cursor` values in *CSS3 UI*)
-   - *`<main>`* element about to be added to the *HTML5* CR spec [message](http://lists.w3.org/Archives/Public/public-html-admin/2013Apr/0047.html)
-   - *Discussion*: making `<img>` elements not load until needed [link](https://www.w3.org/Bugs/Public/show_bug.cgi?id=17842#c26) (related: *“Resource Priorities”* [ED](http://dvcs.w3.org/hg/webperf/raw-file/tip/specs/ResourcePriorities/Overview.html))
-   - *Firefox* 23 now has a faster (more efficient) *`localStorage`* implementation [post](http://www.janbambas.cz/firefox-23-new-faster-localstorage/)
-   - *jQuery* 2.0 released (12% smaller with 12 excludable modules) [release notes](http://blog.jquery.com/2013/04/18/jquery-2-0-released/)
-   - “*LinkedIn* dumped *HTML5* & went native for its *mobile* apps” (VentureBeat) [article](http://venturebeat.com/2013/04/17/linkedin-mobile-web-breakup/)
-   - “*Firefox OS* dev units coming to Geeksphone next week” (engadget) [article](http://www.engadget.com/2013/04/18/firefox-os-dev-units-geeksphone-next-week/)
- - FYI
-   - The *CSS* `background-position:10px+3em` works differently than you think [tweet](https://twitter.com/tabatkins/status/324949893162610688) + explanation [tweet](https://twitter.com/tabatkins/status/324950004693360640)
-   - [@tabatkins]() updated the “history” part of his *Futures* post to include more background info [post](http://www.xanthir.com/b4PY0)
-   - “Want to know and control what data *Firefox* shares? Data Choices in Preferences.” [tweet](https://twitter.com/robertnyman/status/325148047879307265)
-   - *Heisenbug* = a software bug that seems to disappear or alter its behavior when one attempts to study it
- - Tutorials
-   - “Touchy-Feely with *DOM Events*: Rethinking Cross-Device User Interaction” by [@girlie_mac]() [link](http://girliemac.com/blog/2013/04/17/touchy-feely-with-dom-events-rethinking-cross-device-user-interaction/) ![][*]
-   - “Feature Detection and Styling For The HTML5 *`<details>`* Element” by [@dudleystorey]() [link](http://demosthenes.info/blog/680/Feature-Detection-and-Styling-For-The-HTML5-details-Element)
-   - “Getting Into *Ember.js*: Part 3” (about data) by [@reybango]() [link](http://net.tutsplus.com/tutorials/javascript-ajax/getting-into-ember-js-part-3/)
-   - “Web Page Clipping with PhantomJS” (*capturing web pages* as images) by [@ariyahidayat]() [link](http://ariya.ofilabs.com/2013/04/web-page-clipping-with-phantomjs.html)
-   - “How to Edit Remote Files With *Sublime Text* via an *SSH Tunnel*” [link](http://log.liminastudio.com/writing/tutorials/sublime-tunnel-of-love-how-to-edit-remote-files-with-sublime-text-via-an-ssh-tunnel)
- - Content
-   - “Essence of *CoffeeScript*”, *interactive tutorial* (7 lessons, multiple exercises per lesson) [link](http://coffeescript.carbonfive.com/)
-   - Retro Vectors, free high quality *vector stock files* [retrovectors.com](http://retrovectors.com/)
- - Tools
-   - SourceTree, a free *Git client* for Windows or Mac [link](http://www.sourcetreeapp.com/)
-   - init, extends *HTML5 Boilerplate* with more structure for *SCSS* and JavaScript [repo](https://github.com/drublic/init)
-   - Heck Yes Markdown, *converts web pages* to Markdown [page](http://heckyesmarkdown.com/)
- - Opinion
-   - ![][>] [@mozillagary]() (Mozilla CEO): “The web needs to be unlocked on *mobile*” [3min] [video](http://allthingsd.com/20130415/firefox-os-wtf/) ![][*]
-   - [@davemethvin](): “*WebKit*, get your bug-ridden house in order” [article](http://news.cnet.com/8301-1023_3-57569342-93/javascript-expert-webkit-get-your-bug-ridden-house-in-order/)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
