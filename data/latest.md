@@ -8,7 +8,33 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
-## April 29th, 2013 **but released on April 30th**
+## April 30th, 2013 **but released on May 1st**
+ 
+- News
+  - *Twentieth anniversary* of a free, open web [post](http://www.w3.org/community/webhistory/2013/04/30/twentieth-anniversary-of-a-free-open-web/) + restoring the *first web site* [page](http://first-website.web.cern.ch/)
+  - “Global perceptions of W3C” *survey* [tweet](https://twitter.com/w3c/status/328946308146688001) (w/ prize: iPad Mini)
+  - Developer Economics *survey* “on the state of the developer nation” [link](http://visionmobile.com/DS13Devs)
+  - UK gov’t passes *“Instagram Act”* which permits commercial exploitation of unidentified work [article](http://www.theregister.co.uk/2013/04/29/err_act_landgrab/)
+  - *Mozilla WebFWD* seeks HTML5 app developers for 3-month global accelerator program [tweet](https://twitter.com/mozlabs/status/328940027994316801)
+- Tutorials
+  - “*CSS Grid Layout*: Named Grid Lines and areas” by [@rachelandrew]() [link](http://www.rachelandrew.co.uk/archives/2013/04/29/css-grid-layout-named-grid-lines-and-areas/)
+  - “Author In *ES6*, Transpile To ES5 As A Build-step: A Workflow For *Grunt*” by [@addyosmani]() [link](http://addyosmani.com/blog/author-in-es6-transpile-to-es5-as-a-build-step-a-workflow-for-grunt/)
+  - “9 Ways to Optimize Your Front End *Performance*” by [@davidwalshblog]() [link](http://tech.pro/tutorial/1254/9-ways-to-optimize-your-front-end-performance) ![][*]
+  - “Create Your First *Mobile App* with *PhoneGap* Build” by [@remotesynth]() [link](http://flippinawesome.org/2013/04/29/phonegap-build-step-7/) (7 part series)
+  - “Turn Your Web Application into a *Firefox OS App* in 5 Minutes” by [@davidwalshblog]() [link](http://davidwalsh.name/firefox-app)
+  - “*Real Time Multiplayer* in HTML5” (/w WebSocket, Node.js, `<canvas>`) by [@___discovery]() [link](http://www.htmlgoodies.com/html5/client/real-time-multiplayer-in-html5.html)
+- Articles
+  - “How to Make Your *Open Source Project* Really Awesome” by [@michaelklishin]() [link](http://blog.clojurewerkz.org/blog/2013/04/20/how-to-make-your-open-source-project-really-awesome/)
+  - “*State of the Browser 2013*: conference writeup” (Guardian) [link](http://www.guardian.co.uk/info/developer-blog/2013/apr/23/state-of-the-browser-2013-notes)
+- Content
+  - ![][>] “Upgrade From Mouse to *Pointer Events*”, [@boyofgreen]()’s video presentation [6min] [link](http://channel9.msdn.com/posts/Easy-Multi-touch-Web-Apps-Upgrade-From-Mouse-to-Pointer-Events) ![][*]
+  - [@maccymacx]()’s sketchnotes from State of the Browser 2013 [flickr](http://www.flickr.com/photos/makaylalewis/8672796816/in/set-72157633305467464/) ![][*] **MOTHER OF GOD**
+- Tools
+  - sweet.js by Mozilla, brings *hygienic macros* from languages like Scheme and Rust to JavaScript [page](http://sweetjs.org/)
+  - Breakpoint, a Compass extension for managing *media queries* in *Sass* [page](http://breakpoint-sass.com/)
+  - iio Engine, an *Interactive App Framework* for HTML5 built with Canvas & JavaScript [page](http://iioengine.com/)
+
+## April 29th, 2013
 
  - News
    - This week at *W3C*: Encrypted Media Extensions, DNT, “Show outline” feature in W3C Validator, etc. [link](http://lists.w3.org/Archives/Public/public-w3c-digest/2013AprJun/0004.html)
@@ -209,38 +235,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - “Reflecting on *Texas JavaScript 2013*” by [@philhawksworth]() [link](http://hawksworx.com/blog/reflecting-on-txjs/)
    - “How To Survive a Ground-Up *Rewrite* Without Losing Your Sanity” by [@danmil]() [link](http://onstartups.com/tabid/3339/bid/97052/Screw-You-Joel-Spolsky-We-re-Rewriting-It-From-Scratch.aspx)
    - [@webreflection]()’s *`__proto__`* comic [link](http://webreflection.blogspot.com/2013/04/the-proto-comic.html)
-
-## April 20th, 2013
-
- - News
-   - This week at *W3C*: “*HTML5 Video* at Netflix, Intel’s HTML5 App Development Platform, …” [link](http://lists.w3.org/Archives/Public/public-w3c-digest/2013AprJun/0002.html)
-   - Google’s *PageSpeed Service* has improved its *mobile optimizations* [post](http://googledevelopers.blogspot.co.uk/2013/04/pagespeed-service-makes-mobile-sites.html)
-   - *Twitter* to deprecate IE6 and IE7 support for TFW (e.g. Tweet button will cease to be initialized) [post](https://dev.twitter.com/blog/tfw-ie6-ie7-support)
-   - *GitHub* starts rolling out a new security feature: *CSP* (Content Security Policy) [post](https://github.com/blog/1477-content-security-policy) 
-   - “ISOC, IETF Promote Open Standardization” [article](http://www.ip-watch.org/2013/04/19/isoc-ietf-promote-open-standardisation-consider-whats-open/)
- - FYI
-   - “Implement *CSS Custom Filters* in Chromium” master bug [link](https://code.google.com/p/chromium/issues/detail?id=233383)
-   - The *MultiPath TCP* project achieved a 51.8 Gbit/second TCP connection [link](http://multipath-tcp.org/)
-   - The minified version of *jQuery* 2.0 provides a source map [link](http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js)
-   - *jQuery* 2.0: “ older Android/*WebKit* 2.x browsers are now the weakest link”
-   - [@mel_in_media]() compiled a huge list of *podcasts* [link](http://www.smashingmagazine.com/2013/04/19/podcasts-for-designers-developers/)
- - Tutorials
-   - “I know *jQuery*. Now what?” (jQuery vs plain JavaScript) by [@rem]() [link](http://remysharp.com/2013/04/19/i-know-jquery-now-what/) ![][*]
-   - “Checking for `undefined` in *JavaScript*: `===` vs `typeof` vs falsiness” by [@rauschma]() [link](http://www.2ality.com/2013/04/check-undefined.html)
-   - “Introduction to *WebSockets*” by Jesse Cravens [link](http://tech.pro/tutorial/1167/introduction-to-websockets)
- - Articles
-   - “The Role of *PDF* and *Open Data*” (Standards at Adobe) [link](http://blogs.adobe.com/standards/2013/04/19/the-role-of-pdf-and-open-data/)
-   - “*Futures* Eliminate Time” (they abstract away the concept of time from your code) by [@tabatkins]() [link](http://www.xanthir.com/b4P_0)
- - Content
-   - Measure your site *performance* on *mobile* when optimized by *PageSpeed Service* [link](http://www.webpagetest.org/compare?mobile=1&aggressive=1) ![][*]
-   - BandFu, an experimental audio playground (powered by the *Web Audio API*) [bandfu.com](https://bandfu.com/)
-   - Bootswatch, tree themes for Twitter *Bootstrap* [bootswatch.com](http://bootswatch.com/)
-   - Responsive multi-Level menus (live demos) [link](http://tympanus.net/Development/ResponsiveMultiLevelMenu/) 
-   - ![][>] Hanselminutes Podcast Ep. 367: “*Firefox OS* and the *open Mobile Web* with [@codepo8]()” [38min] [link](http://www.hanselminutes.com/367/firefox-os-and-the-open-mobile-web-with-christian-heilmann)
- - Tools
-   - Firefox OS Simulator, Firefox add-on that provides a *test environment for Firefox OS* [link](https://addons.mozilla.org/en-US/firefox/addon/firefox-os-simulator/)
-   - sly, JavaScript library for *one-directional scrolling* [page](http://darsa.in/sly/) + [repo](https://github.com/Darsain/sly)
-   - machina.js, *finite state machines* in JavaScript [repo](https://github.com/ifandelse/machina.js) + [post](http://freshbrewedcode.com/jimcowart/2012/03/12/machina-js-finite-state-machines-in-javascript/)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
