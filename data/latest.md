@@ -1,3 +1,5 @@
+**Update!** Unless I die or something :), the next Monday daily will be released on time (i.e. on the same day in the morning hours, Pacific Time), and will thus finally end the delays I had to deal with over the last few weeks. To make this happen, I'm going to release the Thursday and Friday dailies over the weekend, and there won't be a Saturday daily (its content will be merged into the Monday daily).
+
 The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files). The README file of the repository also serves as a FAQ. Refer to it for information about this web-site.
 
 ## Sticky
@@ -8,7 +10,45 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
-## April 30th, 2013 **but released on May 1st**
+## May 1st, 2013 **but released on May 3rd**
+
+ - News
+   - New *W3C* releases:
+     - 4th WD of *“Tracking Preference Expression (DNT)”* [TR](http://www.w3.org/TR/tracking-dnt/) + [diff](http://services.w3.org/htmldiff?doc1=http://www.w3.org/TR/2012/WD-tracking-dnt-20121002/&doc2=http://www.w3.org/TR/2013/WD-tracking-dnt-20130430/)
+     - 4th WD of *“Tracking Compliance and Scope”* [TR](http://www.w3.org/TR/tracking-compliance/) + [diff](http://services.w3.org/htmldiff?doc1=http://www.w3.org/TR/2012/WD-tracking-compliance-20121002/&doc2=http://www.w3.org/TR/2013/WD-tracking-compliance-20130430/)
+     - *“Publishing and Linking on the Web”* [TR](http://www.w3.org/TR/publishing-linking/) + [diff](http://services.w3.org/htmldiff?doc1=http://www.w3.org/TR/2012/WD-publishing-linking-20121025/&doc2=http://www.w3.org/TR/2013/NOTE-publishing-linking-20130430/) (published as group note)
+     - PROV documents published as recommendations [post](http://www.w3.org/News/2013.html#entry-9805) (representing *provenance ([?](http://en.wiktionary.org/wiki/provenance)) information*)
+   - ![][1] A *WebPlatform* documentation sprint to be held on May 22 in NYC [details](http://wpd-nyc.eventbrite.com/)
+   - *“Smart Return key”* functionality added to console in *WebKit Nightly* [link](http://www.screenr.com/rEw7) (short screencast) 
+   - “*Do Not Track* Framework Doc Stirs Controversy Ahead of *W3C* Meeting” [article](http://www.adweek.com/news/technology/do-not-track-framework-doc-stirs-controversy-ahead-w3c-meeting-149041)
+   - “Financial Times: ‘There is no drawback to working in *HTML5*’” (Guardian) [article](http://www.guardian.co.uk/media/appsblog/2013/apr/29/financial-times-html5-no-drawbacks)
+ - FYI
+   - Use *W3C*’s “Diff Service” [link](http://services.w3.org/htmldiff) to compare different publications of a spec [example](http://services.w3.org/htmldiff?doc1=http://www.w3.org/TR/2012/WD-tracking-dnt-20121002/&doc2=http://www.w3.org/TR/2013/WD-tracking-dnt-20130430/) ![][*]
+   - *W3C* provides “comma-tools” [link](http://www.w3.org/,tools) (example: adding `“,text”` to URL for plain-text version of a spec [link](http://www.w3.org/TR/css-variables/,text))
+   - “Don't use `<hx>` to mark up *subheadings* (unless you intend to start a new section)” [tweet](https://twitter.com/stevefaulkner/status/329213290146308097)
+   - MDN provides a good guide for the *Firefox OS Simulator* [MDN](https://developer.mozilla.org/en-US/docs/Tools/Firefox_OS_Simulator)
+   - Which companies help *protect your data* from the government? [report](https://www.eff.org/who-has-your-back-2013)
+ - Tutorials
+   - “*CDNs* fail, but your scripts don't have to - fallback from CDN to local” by [@shanselman]() [link](http://www.hanselman.com/blog/CDNsFailButYourScriptsDontHaveToFallbackFromCDNToLocalJQuery.aspx)
+   - Setting up *Sublime Text*, by [@dandenney]() [link](http://drewbarontini.com/setup/sublime-text)
+   - “*Web Payments* with PaySwarm” by [@manusporny]() [link](https://hacks.mozilla.org/2013/04/web-payments-with-payswarm-purchasing-part-3-of-3/) (3 part series)
+   - “Getting Into *Ember*: Part 4 (client-side templates with *Handlebars*)” by [@reybango]() [link](http://net.tutsplus.com/tutorials/javascript-ajax/getting-into-ember-part-4/)
+ - Articles
+   - “*Embedding Canvas and SVG* charts in emails” by [@thomasfuchs]() [link](http://mir.aculo.us/2013/04/30/embed-canvas-and-svg-charts-in-emails/)
+   - “What are *Responsive Websites* made of?” (the state of RWD sites) by [@guypod]() [link](http://www.guypo.com/mobile/what-are-responsive-websites-made-of/)
+   - “*Blink* and the end of *vendor prefixes*” by [@slicknet]() [link](http://www.nczonline.net/blog/2013/04/30/blink-and-the-end-of-vendor-prefixes/)
+ - Content 
+   - Interview: Paul Groth and Luc Moreau on *Provenance* (W3C blog) [post](http://www.w3.org/QA/2013/04/interview_paul_groth_and_luc_m.html)
+   - *“Can I use”* data presented as a chart, by [@mastahyeti]() [link](http://btoe.ws/browserstats) ![][*] 
+   - Gesture controlled sound generator (*WebRTC* + *Web Audio API*) [link](http://www.g200kg.com/teburin/)
+ - Tools
+   - Light Table, an *interactive IDE* with real time feedback [post](http://www.chris-granger.com/2013/04/28/light-table-040/) (/w screencast)
+   - Benchmark.js, a JavaScript benchmarking library with support for *high-resolution timers* [page](http://benchmarkjs.com/)
+ - Opinion
+   - “Twenty years of a *free and open www*” by Robert Cailliau (collaborator at CERN) [link](http://home.web.cern.ch/cern-people/opinion/2013/04/twenty-years-free-and-open-www)
+   - “Why and How *Firefox OS* is Better than Android and iOS?” [post](http://propakistani.pk/2013/04/29/how-and-why-firefox-os-is-better-than-android-and-ios/) 
+
+## April 30th, 2013
  
 - News
   - *Twentieth anniversary* of a free, open web [post](http://www.w3.org/community/webhistory/2013/04/30/twentieth-anniversary-of-a-free-open-web/) + restoring the *first web site* [page](http://first-website.web.cern.ch/)
@@ -202,39 +242,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - Opinion
    - “The User’s Choice?” (on offering *native apps* on web sites) by [@zdfs]() [link](https://medium.com/tech-talk/25a7fde0f19b)
    - “Making the Web the 'Third Ecosystem'” (on mobile) [link](http://blog.digital.telefonica.com/2013/04/12/web-third-ecosystem/)
-
-## April 22nd, 2013
-
- - News
-   - *Chrome Canary* adds support for *spatial navigation* ([?](http://en.wikipedia.org/wiki/Spatial_navigation)) (behind flag) [link](https://src.chromium.org/viewvc/chrome?revision=194875&view=revision)
-   - *Facebook* et al. launch *Project:Connect*, a series of activities to advance healthy online experiences [link](https://newsroom.fb.com/News/605/Facebook-MacArthur-Foundation-Mozilla-and-%20the-Family-Online-Safety-Institute-Launch-Project-Conne)
- - FYI
-   - *Promises/A+* opened a Twitter account [@promisesaplus]()
-   - Feature detection for *`@supports`* via `!!window.CSSRule.SUPPORTS_RULE` (breaks in IE8 though) 
-   - NCSA *Mosaic* 1.0 was released 20 years ago [notes](http://1997.webhistory.org/www.lists/www-talk.1993q2/0128.html)
- - Tutorials
-   - “The concepts of *WebGL*” (Mozilla Hacks) [link](https://hacks.mozilla.org/2013/04/the-concepts-of-webgl/)
-   - “Clown Car Technique for *Responsive Images*” by [@standardista]() [article](https://github.com/estelle/clowncar) + [discussion](https://twitter.com/smashingmag/status/326029464599420928)
-   - “*Responsive* drop shadows” by [@rogerjohansson]() [link](http://www.456bereastreet.com/archive/201304/responsive_drop_shadows/)
-   - “*Responsive* Multi-Level Menu” (shows its submenus in their own context) by [@crnacura]() [link](http://tympanus.net/codrops/2013/04/19/responsive-multi-level-menu/) ![][*]
-   - “Showing *multimedia fallback* content when no supported `<source>` is found” by [@codepo8]() [link](http://christianheilmann.com/2013/04/21/showing-multimedia-fallback-content-when-no-supported-source-is-found/)
-   - “Kick Ass Cross-Platform Workflow With *Grunt*” by [@bittersweetryan]() [link](http://blog.bittersweetryan.com/2013/04/kick-ass-cross-platform-workflow-with.html)
-   - “*AngularJS*: Let's Make a Feed Reader” by [@alex_young]() [link](http://dailyjs.com/2013/04/18/angularjs-2/)
- - Articles
-   - “*HTML5 `<video>`* bytes on *iOS*” (iOS preloads up to 298K of video data) by [@souders]() [link](http://www.stevesouders.com/blog/2013/04/21/html5-video-bytes-on-ios/)
- - Content
-   - ![][>] “Making your *HTML5* efforts worthwhile”, [@codepo8]()’s talk from SotB 2013 ([?](http://browser.londonwebstandards.org/)) [24min] [youtube](https://www.youtube.com/watch?v=F-6NKgVSeSs) + [post](http://christianheilmann.com/2013/04/20/making-your-html5-efforts-worthwhile-notes-of-the-sotb3-talk/)
-   - “*Web Components*: Getting Started”, [@stopsatgreen]()’s slides from SotB 2013 [link](https://speakerdeck.com/stopsatgreen/web-components-getting-started)
-   - “Taking Control With Machina.js ”, [@dougneiner]()’s slides from [@jquk]() [link](http://code.dougneiner.com/presentations/machina/)
- - Tools
-   - Adobe’s CSS FilterLab, a web app for applying *GLSL shaders* to HTML [app](http://html.adobe.com/webplatform/graphics/customfilters/cssfilterlab/) + [intro](http://youtu.be/rcGLBVJ2d_Y)
-   - Flexy Boxes, *flexbox* playground and code generator [link](http://the-echoplex.net/flexyboxes/)
-   - Gridwax, a bookmarklet that adds a *grid overlay* to the web page for alignment testing [page](http://gridwax.gs/)
-   - Unicode Lookup, an *online reference* tool to lookup *Unicode* and HTML special characters [link](http://unicodelookup.com/)
- - Opinion
-   - “Reflecting on *Texas JavaScript 2013*” by [@philhawksworth]() [link](http://hawksworx.com/blog/reflecting-on-txjs/)
-   - “How To Survive a Ground-Up *Rewrite* Without Losing Your Sanity” by [@danmil]() [link](http://onstartups.com/tabid/3339/bid/97052/Screw-You-Joel-Spolsky-We-re-Rewriting-It-From-Scratch.aspx)
-   - [@webreflection]()’s *`__proto__`* comic [link](http://webreflection.blogspot.com/2013/04/the-proto-comic.html)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
