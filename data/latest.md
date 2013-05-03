@@ -4,7 +4,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
 
 ## Sticky
 
- - Tim Berners-Lee’s call to join the action to fix the CFAA [tweet](https://twitter.com/timberners_lee/status/321367692344963072) ![][*]
  - The "Web Platform" *chat room* on Stack Overflow [link](http://chat.stackoverflow.com/rooms/27674/web-platform)
  - Recommended *Twitter* feeds: [@remotesynth](), [@codepo8](), [@smashingmag]()
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
