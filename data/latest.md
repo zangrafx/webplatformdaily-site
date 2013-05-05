@@ -1,7 +1,5 @@
-**Update!** Unless I die or something :), the next Monday daily will be released on time (i.e. on the same day in the morning hours, Pacific Time), and will thus finally end the delays I had to deal with over the last few weeks. To make this happen, I'm going to release the Thursday and Friday dailies over the weekend, and there won't be a Saturday daily (its content will be merged into the Monday daily).
-
 The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files). The README file of the repository also serves as a FAQ. Refer to it for information about this web-site.
-
+ 
 ## Sticky
 
  - The "Web Platform" *chat room* on Stack Overflow [link](http://chat.stackoverflow.com/rooms/27674/web-platform)
