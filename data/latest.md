@@ -7,7 +7,44 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
-## May 1st, 2013 **but released on May 3rd**
+## May 6th, 2013
+
+ - News
+   - New *W3C* releases:
+     - 3rd WD of *“CSS Selectors Level 4”* [TR](http://www.w3.org/TR/selectors4/) + [diff](http://services.w3.org/htmldiff?doc1=http://www.w3.org/TR/2012/WD-selectors4-20120823/&doc2=http://www.w3.org/TR/2013/WD-selectors4-20130502/) + [notes](http://www.w3.org/blog/CSS/2013/05/02/selectors4-update/)
+     - 1st WD of *“vCard Ontology”* [TR](http://www.w3.org/TR/vcard-rdf/) (describes a mapping of the vCard specification ([RFC](http://tools.ietf.org/html/rfc6350)) to RDF/OWL)
+   - [@LeaVerou]() on the latest developments at the *W3C* (diverse info) [article](http://www.netmagazine.com/features/hot-web-standards-marchapril-2013) ![][*]
+   - New in *Chrome DevTools*: An exclusive touch cursor while emulating *touch events* [post](https://plus.google.com/+PaulIrish/posts/ZNsF3t8h2WX)
+   - Future of the web and JavaScript programming *survey* [link](http://cos.github.io/js-ceres/)
+   - “California May Join EU in Two-Front Internet *Privacy* Push” (Bloomberg) [article](http://go.bloomberg.com/bgov-briefs/2013/05/01/california-may-join-eu-in-two-front-internet-privacy-push/)
+ - FYI
+   - Why you should consider using *Zopfli* instead of `gzip` [post](https://plus.google.com/u/0/106697091536876736486/posts/ea4Sy8bwAoU)
+   - *Chrome* Canary is now advertising *`image/webp`* in its `Accept` header for all image requests [post](http://www.igvita.com/2013/05/01/deploying-webp-via-accept-content-negotiation/)
+   - *Firefox OS Simulator* 3.0 released [post](https://hacks.mozilla.org/2013/05/firefox-os-simulator-3-0-released/)
+ - Tutorials
+   - “Automatic *`<figure>`* Numbering with *CSS Counters*” by [@HugoGiraudel]() [link](http://tympanus.net/codrops/2013/05/02/automatic-figure-numbering-with-css-counters/)
+   - “All About HTML5 *`<canvas>`*” by [@mollydotcom]() [link](http://blog.smartbear.com/software-quality/bid/283454/All-About-HTML5)
+   - “Methods for Modifying Objects in *OOCSS*” by [@OliverJAsh]() [link](http://oliverjash.me/2012/09/07/methods-for-modifying-objects-in-oocss.html) ![][*]
+ - Articles
+   - “The *Chromium Embedded Framework*” (displays HTML content in desktop applications) [link](http://blogs.adobe.com/webplatform/2013/05/01/the-chromium-embedded-framework/)
+   - “The top five JavaScript *graphical libraries*” (D3, Bonsai, Raphael, …) [link](http://www.netmagazine.com/features/essential-javascript-top-five-graphical-libraries)
+   - “Open Peer and the Frontiers of *WebRTC*” by [@JugglinMike]() [link](http://weblog.bocoup.com/open-peer-and-webrtc/)
+   - “It’s Time To Get Formal With *Linked Data*” by [@Jenz514]() [link](http://semanticweb.com/author/jennyzaino)
+ - Content
+   - ![][>] [@bdconf]() podcast #27: “*Web Tools* for the Open Web with [@divya]()” [27min] [link](http://fsm.bdconf.com/podcast/web-tools-for-the-open-web-with-divya-manian)
+   - ![][>] 42 *AngularJS* tutorial videos by [@johnlindquist]() [167min] [link](http://www.egghead.io/)
+   - Videos from this year’s *Google Test Automation Conference* [youtube](https://www.youtube.com/playlist?list=PLSIUOFhnxEiCODb8XQB-RUQ0RGNZ2yW7d) (playlist)
+ - Tools
+   - hapi, a *server framework for Node.js* [page](http://spumko.github.io/) + [post](https://medium.com/what-i-learned-building/a525df6c0b0c)
+   - intern, a “next-generation” *JavaScript testing stack* [page](http://theintern.io/)
+   - toastr, a jQuery plugin for *non-blocking notifications* [page](http://codeseven.github.io/toastr/)
+   - Magnific Popup, a jQuery plugin for *responsive lightboxes* [page](http://dimsemenov.com/plugins/magnific-popup/) + [post](http://coding.smashingmagazine.com/2013/05/02/truly-responsive-lightbox/)
+   - CSSmatic, a collections of CSS tools: gradient generator, border radius, … [page](http://cssmatic.com/) ![][*]
+   -  autoprefixer, parses CSS and *adds prefixed properties and values* [repo](https://github.com/ai/autoprefixer)
+ - Opinion
+   - “WYSIWTF” (separation of content and presentation) by [@karenmcgrane]() [link](http://alistapart.com/column/wysiwtf)
+
+## May 1st, 2013
 
  - News
    - New *W3C* releases:
@@ -210,35 +247,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - git-up, a Ruby gem that replaces *`git pull`* [repo](https://github.com/aanand/git-up)
  - Opinion
    - “Off With Their Heads: Disband the *W3C*?” by [@briankardell]() [post](http://briankardell.wordpress.com/2013/04/23/off-with-their-heads-disband-the-w3c/)
-
-## April 23rd, 2013
-
- - News
-   - *Chrome Canary* adds support for *`@supports`* rule and `CSS.supports()` function ([?](http://dev.w3.org/csswg/css3-conditional/)) [tweet](https://twitter.com/beverloo/status/326332894404558848) + [screen](https://twitter.com/simevidas/status/327221647042027520)
-   - Intent to implement the *`<picture>`* ([?](http://picture.responsiveimages.org/)) element in *Blink* [discussion](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MlE9vYVUlzg/hycQvA2eFn4J)
-   - *Firefox OS* developer preview devices are on sale (Mozilla Hacks) [article](https://hacks.mozilla.org/2013/04/geeksphone-to-start-selling-firefox-os-developer-preview-phones/) (w/ FAQ)
-   - *Facebook* experiments with Google’s *WebP* image format (CNET) [article](http://news.cnet.com/8301-1023_3-57580664-93/facebook-tries-googles-webp-image-format-users-squawk/)
- - FYI
-   - *Firefox* first browser to support *`<canvas>` blending* ([?](https://dvcs.w3.org/hg/FXTF/rawfile/tip/compositing/index.html#canvascompositingandblending)) [article](http://blogs.adobe.com/webplatform/2013/04/22/canvas-blending-is-now-in-the-firefox-release-channel/) + [demo](http://codepen.io/adobe/full/nmfic) (view in Firefox) ![][*]
-   - *IE10* supports a (non-standard) spread value for *`text-shadow`* [tweet](https://twitter.com/dstorey/status/326497321007325185) (w/ demo and screen)
- - Tutorials
-   - “Writing Reusable *AngularJS* Components with *Bower*” by [@briantford]() [link](http://briantford.com/blog/angular-bower.html)
-   - “*Push Notifications* to the Browser With *Server Sent Events*” by Jesse Cravens [link](http://html5hacks.com/blog/2013/04/21/push-notifications-to-the-browser-with-server-sent-events/)
-   - “Building a *Google Maps* Application with Updating Markers” by [@cfjedimaster]() [link](http://flippinawesome.org/2013/04/22/google-maps-markers/)
- - Articles
-   - “5 Common Causes of Slow *Website Performance*” by Mark Isham [link](http://zoompf.com/2013/04/top-5-causes)
-   - “Magic Numbers in *CSS*” (unnamed numerical constants) by [@chriscoyier]() [link](http://css-tricks.com/magic-numbers-in-css/)
-   - “*JavaScript* Objects: Inherited a Mess” by [@getify]() [link](http://davidwalsh.name/javascript-objects) (3 part article series)
-   - “What’s New in *jQuery* 2.0” by [@craigbuckler]() [link](http://www.sitepoint.com/whats-new-in-jquery-2-0/) ![][*]
-   - “*Transport Layer Security* (TLS)”, chapter 4 of [@igrigorik]()’s upcoming book [link](http://chimera.labs.oreilly.com/books/1230000000545/ch04.html)
-   - “Working with *HTML* markup in Arabic, Hebrew, other *right-to-left* scripts” [link](http://www.w3.org/blog/International/2013/04/22/4-new-articles-about-working-with-html-markup-in-arabic-hebrew-and-other-right-to-left-scripts/) (4 articles)   
- - Tools
-   - flexgrid, CSS grid framework based on *flexbox* [page](http://ptb2.me/flexgrid/) + [repo](https://github.com/ptb/flexgrid)
-   - Hand.js, a polyfill for supporting *pointer events* on every browser [article](http://blogs.msdn.com/b/eternalcoding/archive/2013/01/16/hand-js-a-polyfill-for-supporting-pointer-events-on-every-browser.aspx)
-   - FitVids.js, a jQuery plugin for *fluid width video embeds* [repo](https://github.com/davatron5000/FitVids.js)
- - Opinion
-   - “The User’s Choice?” (on offering *native apps* on web sites) by [@zdfs]() [link](https://medium.com/tech-talk/25a7fde0f19b)
-   - “Making the Web the 'Third Ecosystem'” (on mobile) [link](http://blog.digital.telefonica.com/2013/04/12/web-third-ecosystem/)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
