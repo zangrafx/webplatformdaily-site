@@ -7,6 +7,40 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
+## May 7th, 2013
+
+ - News
+   - ![][&] [@annevk]() looking for feedback on *ZIP Archive API* and *HTTP authentication* [tweet](https://twitter.com/annevk/status/330306186542989313)
+   - Subject indicators (which enable *“parent selectors”*) to be disabled in *CSS* style sheets [tweet](https://twitter.com/LeaVerou/status/331123085648478208)
+   - The *Web Audio API* implementation in *Firefox* is making progress [post](http://robert.ocallahan.org/2013/05/web-audio-progress.html) (complete in Firefox 24?)
+   - [@FremyCompany]() reveals more new features in leaked *IE11* build [post](http://fremycompany.com/BG/2013/Internet-Explorer-11-9385-new-features-771/) ![][*]
+   - *Mozilla* & OTOY announce *codec which runs desktop apps* and HD video in-browser [CNET](http://reviews.cnet.com/8301-3514_7-57582743/mozilla-look-ma-no-plug-in-for-video-apps/) [VB](http://venturebeat.com/2013/05/03/mozilla-windows/) [TNW](http://thenextweb.com/insider/2013/05/03/mozilla-teams-up-with-3d-rendering-company-otoy-to-bring-desktop-apps-and-hd-video-to-the-browser/) ![][*]
+   - “Tor Books UK Says Ditching *DRM* Showed No Increase In Piracy” (Techdirt) [article](http://www.techdirt.com/articles/20130430/22322922899/tor-books-uk-says-ditching-drm-showed-no-increase-piracy.shtml)
+   - *Mozilla Dev Derby* May contest: *`getUserMedia`* [link](https://developer.mozilla.org/en-US/demos/devderby) (w/ prizes)
+ - FYI
+   - *js1k* 2013 winners announced [link](http://js1k.com/2013-spring/)
+   - List of *“Can I Use”* visualizations [link](https://github.com/Fyrd/caniuse/wiki)
+ - Tutorials
+   - “A look into the *`cubic-bezier`* function in *CSS Transitions*” by [@tfirdaus]() [link](http://www.hongkiat.com/blog/css-cubic-bezier/)
+   - “How to *mark up subheadings*, subtitles, alternative titles and taglines” by [@stevefaulkner]() [link](http://html5doctor.com/howto-subheadings/) ![][*]
+   - “The CSS *`:empty`* Selector” (w/ usage examples) by [@dudleystorey]() [link](http://demosthenes.info/blog/692/Vanishing-Acts-The-CSS-empty-Selector)
+   - “How to install and run *IE VMs*” by [@xdissent]() [link](https://github.com/xdissent/ievms)
+ - Articles
+   - Tricking the user into revealing his *browsing history*, by [@lcamtuf]() [link](http://lcamtuf.blogspot.com/2013/05/some-harmless-old-fashioned-fun-with-css.html)
+   - *CSS style sheets* deserve better *documentation*, by [@byrichardpowell]() [link](http://www.byrichardpowell.co.uk/post/48682993574/on-css-documentation)
+ - Content
+   - Overview of *HTTP/2.0*, slides by [@mnot]() [link](http://www.mnot.net/talks/http2-wtf/)
+   - Some really great insights on *using GitHub at work* being shared [link](https://gist.github.com/nzakas/5511916)
+   - ![][>] 5 Talks to Learn More About *Node.js* [post](http://blog.modulus.io/five-talks-learn-more-nodejs)
+ - Tools
+   - CSS Modal, responsive *modal windows* with pure CSS [page](http://drublic.github.io/css-modal/)
+   - ExplainJS, provide script URL and view its *comments and code side-by-side* [page](http://www.explainjs.com/)
+   - is-near, JavaScript function that calculates if the *mouse position* is near to a given element [repo](https://github.com/pazguille/is-near)
+ - Opinion
+   - “*W3C* Specifications Should Use an *Open License*” by [@robinberjon]() [link](http://www.berjon.com/blog/2013/04/w3c-open-license.html)
+   - “Today I Saw The Future” by [@BrendanEich]() [link](https://brendaneich.com/2013/05/today-i-saw-the-future/) ![][*]
+   - “The *W3C*'s Soul at Stake ” (Free Software Foundation) [link](https://www.fsf.org/blogs/rms/w3c-soul-at-stake)
+
 ## May 6th, 2013
 
  - News
@@ -211,42 +245,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - Opinion
    - “The *W3C*’s plan for *DRM* in HTML5 is a betrayal to all Web users” by [@kxra]() [link](http://freeculture.org/blog/2013/04/23/dont-let-the-myths-fool-you-the-w3cs-plan-for-drm-in-html5-is-a-betrayal-to-all-web-users/)
    - “Why we like *WebP* (image format)” [link](http://geeks.everything.me/2013/04/24/why-we-like-webp/)
-
-## April 24th, 2013
-
- - News
-   - *Adobe* implements *blend modes* for CSS fragment shaders in *Chrome* / *Safari* [post](http://blogs.adobe.com/webplatform/2013/04/23/all-blend-modes-for-css-fragment-shaders-have-landed/) + example [tweet](https://twitter.com/simevidas/status/327924684043743232)
-   - *WebRTC* statistics for Nov 12 - Mar 13, “13% of video calls performed over WebRTC” [infographic](http://webrtcstats.com/first-webrtc-statistics/)
-   - ![][o] Help [@WebPlatform]() integrate JavaScript articles into the *Web Platform Docs* [tweet](https://twitter.com/WebPlatform/status/326715181486972929)
-   - Should *Web Workers* provide a `console` object (for easier *debugging*)? Tickets [mozilla](https://bugzilla.mozilla.org/show_bug.cgi?id=620935) [chromium](http://code.google.com/p/chromium/issues/detail?id=63383) ([via](https://twitter.com/valueof/status/326769268085628928))
-   - Lazy block layout, a web platform primitive for infinite scrolling lists [proposal](https://docs.google.com/document/d/1-tbcMJV8wNbX2g5ehNIcE_1W7Kj_B3g9w1BrUgHnh3U/edit) (in *Chromium*)
- - FYI
-   - List of *“Intent to Implement”* discussions in the *Blink* dev group [link](https://groups.google.com/a/chromium.org/forum/#!topicsearchin/blink-dev/subject:intent)
-   - “Revision 147503 in *WebKit* and *Blink* is the same, revisions 147504 are different” [tweet](https://twitter.com/beverloo/status/327374388552945664)
- - Tutorials
-   - Using the *HTML5 `download` attribute* (download files via left click) by [@cfjsvarden]() [link](http://svarden.se/blog/2013-04-22-right-click-and-save-as/)
-   - “Stealing the users back button with the *History API*” (bad practice) by [@ryanseddon]() [link](http://www.thecssninja.com/javascript/stealing-history-api)
-   - “*AngularJS*: 6 Common Pitfalls Using Scopes” by [@knalli]() [link](http://thenittygritty.co/angularjs-pitfalls-using-scopes)
-   - “*Reactive Charts* with *D3* and Reactive.js ” [link](http://eng.wealthfront.com/2013/04/reactive-charts-with-d3-and-reactivejs.html)
-   - “Easy *Open Source* workflow” (how to *contribute* to open source projects) by [@rossbruniges]() [link](http://www.thecssdiv.co.uk/2013/04/easy-open-source-workflow/)
-   - “The Legend of Zelda: A link to the *CSS*” by [@donovanh]() [link](http://hop.ie/blog/zelda/) ![][*]
- - Articles
-   - “*Javascript* hoisting explained” by [@Kennethtruyers]() [link](http://www.kenneth-truyers.net/2013/04/20/javascript-hoisting-explained/)
-   - “*JavaScript* Objects: Distractions” (explains *`[[Prototype]]`*) by [@getify]() [link](http://davidwalsh.name/javascript-objects-distractions)
-   - “*Facebook* Secrets of *Web Performance*” [link](http://highscalability.com/blog/2013/4/23/facebook-secrets-of-web-performance.html)
- - Content
-   - Model-driven views, a way to write *dynamic HTML* using HTML [link](https://github.com/toolkitchen/mdv/blob/master/README.md)
-   - Visual demo of how the `background-size` and `background-position` work [link](http://codepen.io/herihehe/full/aLwGt) ![][*]
-   - Demo: Set *SVG*’s color with a color hash like `img.svg#F06D06` [codepen](http://codepen.io/Elbone/pen/fHCjs)
-   - .net Magazine interviewed [@csswizardry]() about *shame.css* [link](http://www.netmagazine.com/news/use-shamecss-house-css-hacks-says-dev-132699)
- - Tools
-   - TraceGL, a JavaScript *codeflow visualization* and debugging tool using *WebGL* [page](https://trace.gl/) (w/ screencast) ![][*]
-   - Responsive Inspector, a Chrome extension that displays defined *media queries* [post]() (w/ screencast) ![][*]
-   - BonsaiJS, a lightweight *graphics library* with an intuitive graphics API and an *SVG renderer* [page](http://bonsaijs.org/)
-   - Snap.js, a JavaScript library for creating Facebook-style *side menus* [repo](https://github.com/jakiestfu/Snap.js) + [demo](http://jakiestfu.github.io/Snap.js/demo/apps/default.html)
-   - git-up, a Ruby gem that replaces *`git pull`* [repo](https://github.com/aanand/git-up)
- - Opinion
-   - “Off With Their Heads: Disband the *W3C*?” by [@briankardell]() [post](http://briankardell.wordpress.com/2013/04/23/off-with-their-heads-disband-the-w3c/)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
