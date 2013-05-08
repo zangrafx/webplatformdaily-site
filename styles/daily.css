@@ -185,7 +185,7 @@ a {
     background-color: rgba(0, 119, 204, 0.1);
     border-radius: 5px; }
   a:focus {
-    outline: 2px solid orangered; }
+    outline: 1px dashed orangered; }
 
 .twitter-link {
   font-weight: inherit; }
