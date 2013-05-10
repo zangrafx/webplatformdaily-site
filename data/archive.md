@@ -1,3 +1,37 @@
+## April 25th, 2013
+
+ - News
+   - *CSS WG* Minutes Telecon 2013-04-24 [notes](http://www.w3.org/blog/CSS/2013/04/25/resolution-5/)
+   - Last week in *WebKit*, summary by [@awfulkling]() (i.a. `color-index`, `-webkit-hanging`) [post](https://www.webkit.org/blog/2305/last-week-in-webkit-all-cowhands-on-deck/)
+   - “*Google* implements a feature based on the *EME spec* ([?](http://dvcs.w3.org/hg/html-media/raw-file/tip/encrypted-media/encrypted-media.html)) after a FPWD is voted down.” [tweet1](https://twitter.com/wilto/status/327171467450134528) [tweet2](https://twitter.com/wilto/status/327172129990774784)
+   - “*Blink* opts to not implement *`<picture>`* right now, deciding the `srcset` syntax is sufficient” [tweet](https://twitter.com/RWD/status/327075776266637312)
+   - (Proposed) API to delay the *document load event* [discussion](http://lists.w3.org/Archives/Public/public-whatwg-archive/2013Apr/0110.html) (on WHATWG mailing list)
+   - Chrome Apps Team started work on *`<adview>` element* for embedded ads inside *Chrome Apps* [post](https://plus.google.com/100132233764003563318/posts/hqHFwvZhbDS)
+   - “Unity drops *Flash* support, says Adobe is not firmly committed” (Gamasutra) [article](http://www.gamasutra.com/view/news/191112/Unity_drops_Flash_support_says_Adobe_is_not_firmly_committed.php)
+   - “RuneScape dumps *Java* for HTML5” (CNET) [article](http://news.cnet.com/8301-1023_3-57580221-93/its-about-time-runescape-dumps-java-for-html5/)
+ - FYI
+   - Relationship between the `<picture>` element and the `srcset` attribute (*responsive images*) [spec](http://www.w3.org/TR/html-picture-element/#relationship-to-srcset) ![][*]
+   - Over 25% of Verizon wireless traffic Is now over *IPv6* [post](http://www.internetsociety.org/deploy360/blog/2013/04/over-25-of-verizon-wireless-traffic-is-now-over-ipv6/)
+   - This <http://www.tsa.gov/tsa-pre✓™> is a valid and active *URL*
+   - The *W3C Nu Markup Validator* now has a “Show outline” feature [tweet](https://twitter.com/w3c/status/327116988684066817)
+   - *MDN* has created a wiki reference for the *Web Audio API* [mdn](https://developer.mozilla.org/en-US/docs/Web_Audio_API)
+ - Tutorials
+   - “Introduction to *AngularJS*” by [@phuunet]() [link](http://javascriptplayground.com/blog/2013/04/introduction-angular-js)
+   - “Building A *HTML5 Game* With Phaser” by [@jessefreeman]() [link](http://jessefreeman.com/game-dev/building-a-html5-game-with-phaser/)
+ - Articles
+   - “One less JPG” (*web performance*) by [@ajpiano]() [link](http://fourkitchens.com/blog/2013/04/24/one-less-jpg) ![][*]
+   - “Analyzing the market of *HTML5 games*” by [@austinhallock]() (VentureBeat) [link](http://venturebeat.com/2013/04/22/analyzing-the-market-of-html5-games/)
+   - “The *BackboneJS* Way of Thinking” by [@umarashfaq87]() [link](http://www.to-string.com/2013/04/20/the-backbonejs-way-of-thinking/)
+ - Content
+   - ![][>] “*Performance* Checklist for the *Mobile Web*”, [@duhroach]()’s talk from [@html5devconf]() [53min] [youtube](https://www.youtube.com/watch/?v=0UNWi7FA36M)
+   - *CSS3* Geometry Daily (CSS demos) [link](http://css3geometrydaily.tumblr.com/) 
+ - Tools
+   - LayoutIt, a powerful drag-and-drop *interface builder* for Twitter Bootstrap [page](http://www.layoutit.com/)
+   - bem-tools, an *optimization toolkit* [page](http://bem.info/tools/) ![][*]
+ - Opinion
+   - “The *W3C*’s plan for *DRM* in HTML5 is a betrayal to all Web users” by [@kxra]() [link](http://freeculture.org/blog/2013/04/23/dont-let-the-myths-fool-you-the-w3cs-plan-for-drm-in-html5-is-a-betrayal-to-all-web-users/)
+   - “Why we like *WebP* (image format)” [link](http://geeks.everything.me/2013/04/24/why-we-like-webp/)
+
 ## April 24th, 2013
 
  - News
@@ -310,6 +344,41 @@
    - store (“a better way to use `localStorage` and `sessionStorage`”) [repo](https://github.com/nbubna/store)
  - Opinion
    - “Code Hard or Go Home” (why Google forked *WebKit*) [link](http://hypercritical.co/2013/04/12/code-hard-or-go-home)
+
+## April 13th, 2013
+
+ - News
+   - This week at *W3C*: “`<hgroup>` dropped from HTML5, W3C at GSoC 2013, …” (digest by [@koalie]()) [link](http://lists.w3.org/Archives/Public/public-w3c-digest/2013AprJun/0001.html)
+   - Should the *HTML5* structured cloning algorithm become part of *ECMAScript*? [link](http://esdiscuss.org/topic/structudclones)
+ - FYI
+   - “In *Chrome* you can `.submit()` forms without adding them to the *DOM*” [tweet](https://twitter.com/LeaVerou/status/322821758069661696)
+   - New *Brackets* build released [post](http://blog.brackets.io/2013/04/12/brackets-sprint-23-build/) ![][*]
+ - Tutorials
+   - “How To Benefit From *CSS Generated Content And Counters*” by [@gabromanato]() [link](http://coding.smashingmagazine.com/2013/04/12/css-generated-content-counters/)
+   - Info about the *CSS* `quotes` property, by [@chriscoyier]() [link](http://css-tricks.com/almanac/properties/q/quotes/)
+   - “Understanding *JavaScript* Inheritance” by [@SlexAxton]() [link](http://alexsexton.com/blog/2013/04/understanding-javascript-inheritance/)
+   - “Angry Birds of JavaScript: Mighty Eagle - *Automation*” by [@elijahmanor]() [link](http://www.elijahmanor.com/2013/04/angry-birds-of-javascript-mighty-eagle.html)
+   - “How To Reduce Image Size With *WebP* Automagically” by [@adamdbradley]() [link](http://blog.netdna.com/developer/how-to-reduce-image-size-with-webp-automagically/)
+   - “*CSS* Paint Times and Page Render Weight” by [@duhroach]() [link](http://www.html5rocks.com/en/tutorials/speed/css-paint-times/)
+ - Articles
+   - “The Changing *Web Platform* Landscape: More Fragmentation?” by [@vincent_hardy]() [link](http://blogs.adobe.com/digitalmedia/2013/04/the-changing-web-platform-landscape-more-fragmentation/)
+   - “It’s not a *web app*. It’s an app you install from the web.” [link](http://blog.forecast.io/its-not-a-web-app-its-an-app-you-install-from-the-web/)
+   - “*HTML5 Video* Preload” by [@souders]() [link](http://www.stevesouders.com/blog/2013/04/12/html5-video-preload/)
+   - “Transitional Interfaces” by [@pasql]() [link](https://medium.com/design-ux/926eb80d64e3)
+ - Content
+   - “Angry Birds of *JavaScript*”, [@elijahmanor]()’s slides from Angle Brackets [link](http://elijahmanor.github.io/talks/angry-birds-javascript/index.html#/introduction)
+   - “The Why and How of *Mixins* in Flight”, [@angustweets]()’s slides [speakerdeck](https://speakerdeck.com/anguscroll/the-why-and-how-of-mixins-in-flight)
+   - Advanced `console.log()`-ing [link](http://adamschwartz.co/log/) ![][*]
+   - *Demo*: “Double ring” (pure *CSS*) [codepen](http://codepen.io/fixcl/details/lvCFr) ![][*]
+ - Sites
+   - Starlogs (displays commit logs Star Wars style) [starlogs.net](http://starlogs.net/) (e.g. W3C’s “csswg-drafts” repo [link](http://starlogs.net/#w3c/csswg-drafts))
+ - Tools
+   - Helium (scans your site and shows *unused CSS*) [repo](https://github.com/geuis/helium-css)
+   - Chardin.js (“simple *overlay instructions* for your apps”) [link](http://heelhook.github.io/chardin.js/)
+   - tinydown (lightweight *Markdown parser* with support for YouTube videos, gists, …) [repo](https://github.com/WebReflection/tinydown)
+ - Opinion
+   - “…the growing pains of the *(web) platform* with respect to *APIs*” [tweet](https://twitter.com/annevk/status/322738312664211460)
+   - “Why *Developers* Should Care About Oracle's Upcoming Appeal of the Google Lawsuit” [link](http://blog.cloudbees.com/2013/04/why-developers-should-care-about.html)
 
 ## April 12th, 2013
 
@@ -1140,41 +1209,6 @@
  - Visualize and manipulate *CSS transition* functions [cssglue.com/cubic](http://cssglue.com/cubic)
  - Working Draft Ep. 111 - Performance-Proxy, Media Queries Level 4, http-client-hints (podcast) [link](http://workingdraft.de/111/)
  - StyleDocco (automatically generate a style guide from your *stylesheets*) [repo](https://github.com/jacobrask/styledocco)
-
- ## April 13th, 2013
-
- - News
-   - This week at *W3C*: “`<hgroup>` dropped from HTML5, W3C at GSoC 2013, …” (digest by [@koalie]()) [link](http://lists.w3.org/Archives/Public/public-w3c-digest/2013AprJun/0001.html)
-   - Should the *HTML5* structured cloning algorithm become part of *ECMAScript*? [link](http://esdiscuss.org/topic/structudclones)
- - FYI
-   - “In *Chrome* you can `.submit()` forms without adding them to the *DOM*” [tweet](https://twitter.com/LeaVerou/status/322821758069661696)
-   - New *Brackets* build released [post](http://blog.brackets.io/2013/04/12/brackets-sprint-23-build/) ![][*]
- - Tutorials
-   - “How To Benefit From *CSS Generated Content And Counters*” by [@gabromanato]() [link](http://coding.smashingmagazine.com/2013/04/12/css-generated-content-counters/)
-   - Info about the *CSS* `quotes` property, by [@chriscoyier]() [link](http://css-tricks.com/almanac/properties/q/quotes/)
-   - “Understanding *JavaScript* Inheritance” by [@SlexAxton]() [link](http://alexsexton.com/blog/2013/04/understanding-javascript-inheritance/)
-   - “Angry Birds of JavaScript: Mighty Eagle - *Automation*” by [@elijahmanor]() [link](http://www.elijahmanor.com/2013/04/angry-birds-of-javascript-mighty-eagle.html)
-   - “How To Reduce Image Size With *WebP* Automagically” by [@adamdbradley]() [link](http://blog.netdna.com/developer/how-to-reduce-image-size-with-webp-automagically/)
-   - “*CSS* Paint Times and Page Render Weight” by [@duhroach]() [link](http://www.html5rocks.com/en/tutorials/speed/css-paint-times/)
- - Articles
-   - “The Changing *Web Platform* Landscape: More Fragmentation?” by [@vincent_hardy]() [link](http://blogs.adobe.com/digitalmedia/2013/04/the-changing-web-platform-landscape-more-fragmentation/)
-   - “It’s not a *web app*. It’s an app you install from the web.” [link](http://blog.forecast.io/its-not-a-web-app-its-an-app-you-install-from-the-web/)
-   - “*HTML5 Video* Preload” by [@souders]() [link](http://www.stevesouders.com/blog/2013/04/12/html5-video-preload/)
-   - “Transitional Interfaces” by [@pasql]() [link](https://medium.com/design-ux/926eb80d64e3)
- - Content
-   - “Angry Birds of *JavaScript*”, [@elijahmanor]()’s slides from Angle Brackets [link](http://elijahmanor.github.io/talks/angry-birds-javascript/index.html#/introduction)
-   - “The Why and How of *Mixins* in Flight”, [@angustweets]()’s slides [speakerdeck](https://speakerdeck.com/anguscroll/the-why-and-how-of-mixins-in-flight)
-   - Advanced `console.log()`-ing [link](http://adamschwartz.co/log/) ![][*]
-   - *Demo*: “Double ring” (pure *CSS*) [codepen](http://codepen.io/fixcl/details/lvCFr) ![][*]
- - Sites
-   - Starlogs (displays commit logs Star Wars style) [starlogs.net](http://starlogs.net/) (e.g. W3C’s “csswg-drafts” repo [link](http://starlogs.net/#w3c/csswg-drafts))
- - Tools
-   - Helium (scans your site and shows *unused CSS*) [repo](https://github.com/geuis/helium-css)
-   - Chardin.js (“simple *overlay instructions* for your apps”) [link](http://heelhook.github.io/chardin.js/)
-   - tinydown (lightweight *Markdown parser* with support for YouTube videos, gists, …) [repo](https://github.com/WebReflection/tinydown)
- - Opinion
-   - “…the growing pains of the *(web) platform* with respect to *APIs*” [tweet](https://twitter.com/annevk/status/322738312664211460)
-   - “Why *Developers* Should Care About Oracle's Upcoming Appeal of the Google Lawsuit” [link](http://blog.cloudbees.com/2013/04/why-developers-should-care-about.html)
 
  [*]: /img/star.png "don’t miss"
  [+]: /img/funding.png "seeks funding"

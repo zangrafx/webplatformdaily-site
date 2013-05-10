@@ -7,6 +7,47 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
+## May 9th, 2013
+
+ - News
+   - [@t]()’s (Mozilla’s web standards lead) thoughts on reforming the *W3C* [post](http://tantek.com/2013/128/b1/reforming-w3c-advisory-board)
+   - ![][o] [@WebPlatform]() announces “*Web Platform Wednesdays*” [post](http://blog.webplatform.org/2013/05/web-platform-wednesdays/)
+   - ![][&] [@robinberjon]()’s take on *Web Intents/Activities*: “Web Wishes” (unofficial draft) [tweet](https://twitter.com/robinberjon/status/332164907824979969)
+   - *ES6 Generators* landed in V8 (expected in Chrome 29) [post](http://wingolog.org/archives/2013/05/08/generators-in-v8) 
+   - [@openstreetmap]() launches iD, its *in-browser map editor* written in JavaScript [article](http://mapbox.com/blog/new-map-editor-launches-openstreetmap/) + [repo](https://github.com/systemed/iD)
+ - FYI
+   - Mozilla’s *Open Badges* FAQ [link](http://dougbelshaw.com/blog/2013/05/08/answering-your-questions-about-open-badges/)
+   - *JSHint* 2.0.0 is out, brings partial support for *EcmaScript 6* [post](http://www.jshint.com/blog/2013-05-07/2-0-0/)
+   - New *Chrome DevTools docs* pages: Mobile emulation [link](https://developers.google.com/chrome-developer-tools/docs/mobile-emulation), 
+Authoring & development workflow [link](https://developers.google.com/chrome-developer-tools/docs/authoring-development-workflow)
+ - Tutorials
+   - “*HTML5 Datalists*: What They Are They and When to Use Them” by [@tjvantoll]() [link](http://msdn.microsoft.com/en-us/magazine/dn133614.aspx)
+   - “*Chroma Key Video Effects* Using JavaScript and the HTML5 *`<canvas>`* Element” by [@boyofgreen]() [link](http://tech.pro/tutorial/1281/chroma-key-video-effects-using-javascript-and-the-html5-canvas-element)
+   - “Embedding *WebRTC Video Chat* Right Into Your Website” (Mozilla Hacks) [link](https://hacks.mozilla.org/2013/05/embedding-webrtc-video-chat-right-into-your-website/) (w/ video demo)
+   - “Line Clampin’” (*limiting text to a number of lines*) by [@chriscoyier]() [link](http://css-tricks.com/line-clampin/)
+   - “Use *ECMAScript 6* Today” by [@sayanee_]() [link](http://net.tutsplus.com/articles/news/ecmascript-6-today/)
+   - “*RequireJS* Fundamentals” by [@burkeholland]() [link](http://www.kendoui.com/blogs/teamblog/posts/13-05-08/requirejs-fundamentals.aspx)
+   - “*Avoiding Unnecessary Paints*” (during page scrolling) by [@aerotwist]() [link](http://www.html5rocks.com/en/tutorials/speed/unnecessary-paints/)
+ - Articles
+   - “10 things you need to know about *Firefox OS*”, interview with [@codepo8]() [link](http://www.netmagazine.com/features/10-things-developers-need-know-about-firefox-os)
+   - “How many *stacked `<canvas>` elements* is too much?” by [@andrewmcgivery]() [link](http://mcgivery.com/how-many-stacked-canvas-elements-is-too-much/)
+   - “The flag object” (*OOCSS*) by [@csswizardry]() [link](http://csswizardry.com/2013/05/the-flag-object/)
+   - “You Can't *Detect A Touchscreen*” by [@StuCoxMedia]() [link](http://www.stucox.com/blog/you-cant-detect-a-touchscreen/) ![][*]
+   - “An Overview of HTML5, PhoneGap, and Mobile Apps” (*web/wrapped/hybrid apps*) by [@DanB]() [link](http://bricklin.com/html5gap.htm)
+ - Content
+   - *Adobe MAX* ([@adobemax]()) 2013 conference videos are available on Adobe TV [link](http://tv.adobe.com/show/max-2013/)
+   - ![][>] “Improving Your 2013 Productivity With The *Chrome DevTools*” by [@addyosmani]() [18min] [youtube](https://www.youtube.com/watch?v=kVSo4buDAEE) ![][*]
+   - ![][>] “Automating Your Front-End Workflow With *Yeoman*” by [@addyosmani]() [15min] [youtube](https://www.youtube.com/watch?v=iUQ1fvdO9GY)
+   - “A Collection of *Page Transitions*” (with CSS Animations) by [@o_telho]() [demo-page](http://tympanus.net/Development/PageTransitions/) + [post](http://tympanus.net/codrops/2013/05/07/a-collection-of-page-transitions/) ![][*]
+   - *MPEG1 video decoder* in JavaScript [post](http://phoboslab.org/log/2013/05/mpeg1-video-decoder-in-javascript) (w/ demo)
+  - ![][>] “Introduction to *PhoneGap Build* - Building your first app” [11min] [link](http://tv.adobe.com/watch/building-mobile-apps-with-phonegap-build/introduction-to-phonegap-build-building-your-first-app)
+   - ![][>] “Web Performance Testing with *WebDriver*” by [@klepikovm]() [14min] [youtube](https://www.youtube.com/watch?v=0_kAPWSZNY4)
+ - Tools
+   - web-animations-js, an experimental emulator of the *Web Animations* ([?](https://dvcs.w3.org/hg/FXTF/raw-file/default/web-anim/index.html)) specification [article](http://toolkitchen.github.io/platform/web-animations.html) + [repo](https://github.com/web-animations/web-animations-js)
+ - Opinion
+   - “*CSS* is not an amoral monster” by [@bhenick]() [link](http://undercaffeinated.tumblr.com/post/49878531442/css-is-not-an-amoral-monster)
+   - “Why *JavaScript* Is Doomed” by [@jsonmez]() [link](http://simpleprogrammer.com/2013/05/06/why-javascript-is-doomed/)
+
 ## May 7th, 2013
 
  - News
@@ -211,40 +252,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - Watch.js, “watch the changes of any object or attribute” [repo](https://github.com/melanke/Watch.JS)
 - Opinion
    - “Mobile: Never Use *Native Drop-Downs* for Navigation” [post](http://baymard.com/blog/mobile-dropdown-navigation)
-
-## April 25th, 2013
-
- - News
-   - *CSS WG* Minutes Telecon 2013-04-24 [notes](http://www.w3.org/blog/CSS/2013/04/25/resolution-5/)
-   - Last week in *WebKit*, summary by [@awfulkling]() (i.a. `color-index`, `-webkit-hanging`) [post](https://www.webkit.org/blog/2305/last-week-in-webkit-all-cowhands-on-deck/)
-   - “*Google* implements a feature based on the *EME spec* ([?](http://dvcs.w3.org/hg/html-media/raw-file/tip/encrypted-media/encrypted-media.html)) after a FPWD is voted down.” [tweet1](https://twitter.com/wilto/status/327171467450134528) [tweet2](https://twitter.com/wilto/status/327172129990774784)
-   - “*Blink* opts to not implement *`<picture>`* right now, deciding the `srcset` syntax is sufficient” [tweet](https://twitter.com/RWD/status/327075776266637312)
-   - (Proposed) API to delay the *document load event* [discussion](http://lists.w3.org/Archives/Public/public-whatwg-archive/2013Apr/0110.html) (on WHATWG mailing list)
-   - Chrome Apps Team started work on *`<adview>` element* for embedded ads inside *Chrome Apps* [post](https://plus.google.com/100132233764003563318/posts/hqHFwvZhbDS)
-   - “Unity drops *Flash* support, says Adobe is not firmly committed” (Gamasutra) [article](http://www.gamasutra.com/view/news/191112/Unity_drops_Flash_support_says_Adobe_is_not_firmly_committed.php)
-   - “RuneScape dumps *Java* for HTML5” (CNET) [article](http://news.cnet.com/8301-1023_3-57580221-93/its-about-time-runescape-dumps-java-for-html5/)
- - FYI
-   - Relationship between the `<picture>` element and the `srcset` attribute (*responsive images*) [spec](http://www.w3.org/TR/html-picture-element/#relationship-to-srcset) ![][*]
-   - Over 25% of Verizon wireless traffic Is now over *IPv6* [post](http://www.internetsociety.org/deploy360/blog/2013/04/over-25-of-verizon-wireless-traffic-is-now-over-ipv6/)
-   - This <http://www.tsa.gov/tsa-pre✓™> is a valid and active *URL*
-   - The *W3C Nu Markup Validator* now has a “Show outline” feature [tweet](https://twitter.com/w3c/status/327116988684066817)
-   - *MDN* has created a wiki reference for the *Web Audio API* [mdn](https://developer.mozilla.org/en-US/docs/Web_Audio_API)
- - Tutorials
-   - “Introduction to *AngularJS*” by [@phuunet]() [link](http://javascriptplayground.com/blog/2013/04/introduction-angular-js)
-   - “Building A *HTML5 Game* With Phaser” by [@jessefreeman]() [link](http://jessefreeman.com/game-dev/building-a-html5-game-with-phaser/)
- - Articles
-   - “One less JPG” (*web performance*) by [@ajpiano]() [link](http://fourkitchens.com/blog/2013/04/24/one-less-jpg) ![][*]
-   - “Analyzing the market of *HTML5 games*” by [@austinhallock]() (VentureBeat) [link](http://venturebeat.com/2013/04/22/analyzing-the-market-of-html5-games/)
-   - “The *BackboneJS* Way of Thinking” by [@umarashfaq87]() [link](http://www.to-string.com/2013/04/20/the-backbonejs-way-of-thinking/)
- - Content
-   - ![][>] “*Performance* Checklist for the *Mobile Web*”, [@duhroach]()’s talk from [@html5devconf]() [53min] [youtube](https://www.youtube.com/watch/?v=0UNWi7FA36M)
-   - *CSS3* Geometry Daily (CSS demos) [link](http://css3geometrydaily.tumblr.com/) 
- - Tools
-   - LayoutIt, a powerful drag-and-drop *interface builder* for Twitter Bootstrap [page](http://www.layoutit.com/)
-   - bem-tools, an *optimization toolkit* [page](http://bem.info/tools/) ![][*]
- - Opinion
-   - “The *W3C*’s plan for *DRM* in HTML5 is a betrayal to all Web users” by [@kxra]() [link](http://freeculture.org/blog/2013/04/23/dont-let-the-myths-fool-you-the-w3cs-plan-for-drm-in-html5-is-a-betrayal-to-all-web-users/)
-   - “Why we like *WebP* (image format)” [link](http://geeks.everything.me/2013/04/24/why-we-like-webp/)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
