@@ -25,6 +25,8 @@ I gather the content from Twitter, i.e. from the tweets of the ~130 people I fol
  - web-browsers (including their development tools)
  - front-end web-development in general
  - open source to some degree (e.g. GitHub related content)
+ - openness (open data)
+ - privacy
 
 ## How do you decide what goes into a daily?
 
