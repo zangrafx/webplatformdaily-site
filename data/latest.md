@@ -11,9 +11,9 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - News
    - New *W3C* releases:
      - 1st WD of “*Encrypted Media Extensions*” (*DRM*) [TR](http://www.w3.org/TR/encrypted-media/) + [post](http://www.w3.org/QA/2013/05/perspectives_on_encrypted_medi.html) by W3C CEO + [coverage](http://news.cnet.com/8301-1023_3-57583619-93/w3c-proceeds-with-web-video-encryption-despite-opposition/) on CNET
-     - PR of “*Touch Events*” [TR](http://www.w3.org/TR/touch-events/)
-     - CR of “*Pointer Events*” [TR](http://www.w3.org/TR/pointerevents/)
-     - CR of “*HTML Media Capture*” (`capture` attribute) [TR](http://www.w3.org/TR/html-media-capture/)
+     - PR of “*Touch Events*” [TR](http://www.w3.org/TR/touch-events/) + [diff](http://www.w3.org/TR/2013/PR-touch-events-20130509/,diff)
+     - CR of “*Pointer Events*” [TR](http://www.w3.org/TR/pointerevents/) + [diff](http://www.w3.org/TR/2013/CR-pointerevents-20130509/,diff)
+     - CR of “*HTML Media Capture*” (`capture` attribute) [TR](http://www.w3.org/TR/html-media-capture/) + [diff](http://www.w3.org/TR/2013/CR-html-media-capture-20130509/,diff)
    - *Blink*’s *CSS Shaders* implementation halted: [discussion](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/cl05kpmPTRs/epUgaO5JzW4J) on blink-dev
    - *Firefox Nightly* adds *AppCache debug tools*, w/ manifest validation [post](http://flailingmonkey.com/application-cache-not-a-douchebag) ![][*]
    - “Google's *VP9 video codec* nearly done; YouTube will use it” [article](http://news.cnet.com/8301-1023_3-57584018-93/googles-vp9-video-codec-nearly-done-youtube-will-use-it/)
