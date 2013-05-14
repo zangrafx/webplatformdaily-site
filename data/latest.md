@@ -2,10 +2,56 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  
 ## Sticky
 
- - The "Web Platform" *chat room* on Stack Overflow [link](http://chat.stackoverflow.com/rooms/27674/web-platform)
  - Recommended *Twitter* feeds: [@remotesynth](), [@codepo8](), [@smashingmag]()
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
+
+## May 13th, 2013
+
+ - News
+   - New *W3C* releases:
+     - 1st WD of “*Encrypted Media Extensions*” (*DRM*) [TR](http://www.w3.org/TR/encrypted-media/) + [post](http://www.w3.org/QA/2013/05/perspectives_on_encrypted_medi.html) by W3C CEO + [coverage](http://news.cnet.com/8301-1023_3-57583619-93/w3c-proceeds-with-web-video-encryption-despite-opposition/) on CNET
+     - PR of “*Touch Events*” [TR](http://www.w3.org/TR/touch-events/)
+     - CR of “*Pointer Events*” [TR](http://www.w3.org/TR/pointerevents/)
+     - CR of “*HTML Media Capture*” (`capture` attribute) [TR](http://www.w3.org/TR/html-media-capture/)
+   - *Blink*’s *CSS Shaders* implementation halted: [discussion](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/cl05kpmPTRs/epUgaO5JzW4J) on blink-dev
+   - *Firefox Nightly* adds *AppCache debug tools*, w/ manifest validation [post](http://flailingmonkey.com/application-cache-not-a-douchebag) ![][*]
+   - “Google's *VP9 video codec* nearly done; YouTube will use it” [article](http://news.cnet.com/8301-1023_3-57584018-93/googles-vp9-video-codec-nearly-done-youtube-will-use-it/)
+   - New *privacy bill* requires apps to disclose how they share *personal data* [article](http://arstechnica.com/tech-policy/2013/05/new-privacy-bill-requires-apps-to-disclose-how-they-share-personal-data/)
+   - “Appeals court ruling could be 'death' of *software patents*” [article](http://www.networkworld.com/news/2013/051013-appeals-court-ruling-could-be-269658.html)
+   - Obama signs executive order […] to make *government-held data more accessible* to the public [link](http://www.whitehouse.gov/blog/2013/05/09/landmark-steps-liberate-open-data)
+ - FYI
+   - The state of *Do Not Track* in Firefox (visualizations of adoption rate) [link](https://dnt-dashboard.mozilla.org/)
+   - The idea of a *Global Accessibility Awareness Day* started with [@joedevon]()’s blog [post](http://mysqltalk.wordpress.com/2011/11/27/challenge-accessibility-know-how-needs-to-go-mainstream-with-developers-now/)
+   - *IE10* is now the most popular version of IE globally (according to StatCounter) [tweet](https://twitter.com/dstorey/status/333862146540716032)
+ - Tutorials 
+   - “Is This Thing On? Part 2” (determining the *connection status* with state machines) by [@ifandelse]() [link](http://www.icenium.com/community/blog/icenium-team-blog/2013/05/09/is-this-thing-on-%28part-2%29)
+   - “10 Easy *Accessibility* Tips Anyone Can Use” by [@jared_w_smith]() [link](http://webaim.org/blog/10-easy-accessibility-tips/)
+   - “How To Avoid Duplicate Downloads In *Responsive Images*” (*`<picture>`* element) by [@newtron]() [link](http://mobile.smashingmagazine.com/2013/05/10/how-to-avoid-duplicate-downloads-in-responsive-images/)
+   - “Continuous Monitoring of JavaScript *Code Complexity*” by [@ariyahidayat]() [link](http://ariya.ofilabs.com/2013/05/continuous-monitoring-of-javascript-code-complexity.html)
+   - “*AngularJS*: Managing Feeds” by [@alex_young]() [link](http://dailyjs.com/2013/05/09/angularjs-4/)
+ - Articles
+   - “Adobe Explores the Future of *Responsive Digital Layout*” [link](http://blogs.adobe.com/webplatform/2013/05/06/adobe-explores-the-future-of-responsive-digital-layout-with-national-geographic-content/) (w/ screencast) ![][*]
+   - “Techniques for *reducing page load times* and *serving images responsibly*” by [@nialljthompson]() [link](http://dandelion-burdock.com/articles/view/the-weight-of-the-web)
+   - “Celebrating Global *Accessibility Awareness* Day” (how to raise your own awareness) by [@slicknet]() [link](http://tech.blog.box.com/2013/05/celebrating-global-accessibility-awareness-day/)
+   - “Case study: How effective are *CDNs* for *mobile* visitors?” by [@tameverts]() [link](http://www.webperformancetoday.com/2013/05/09/case-study-cdn-content-delivery-network-mobile-3g/)
+   - The *HTML5 outline algorithm* (the topic is a bug in JAWS, but has useful content) [link](http://juicystudio.com/article/html5-outline-algorithm-jaws.php)
+   - About the *“art direction” use-case* ([?](http://usecases.responsiveimages.org/#art-direction)) for responsive images, by [@yoavweiss]() [link](http://blog.yoav.ws/2013/05/How-Big-Is-Art-Direction)
+ - Content
+   - ![][>] “*Grunt JS Automation* for the Lazy Developer”, [@ginader]()’s talk from [@html5devconf]() [51min] [youtube](https://www.youtube.com/watch?v=bntNYzCrzvE) ![][*]
+   - ![][>] Hanselminutes podcast #370: [@garannm]() talks about *developer monoculture* [33min] [link](http://www.hanselminutes.com/370/bacon-is-bad-for-you-on-developer-monoculture-with-garann-means)
+   - ![][>] JavaScript Jabber podcast #58: “Building *Accessible Websites*” [49min] [link](http://javascriptjabber.com/058-jsj-building-accessible-websites-with-brian-hogan/)
+   - “*HTTP/2.0*: Challenges and Opportunities”, [@mnot]()’s slide deck [link](http://www.mnot.net/talks/http2-challenges/)
+   - Breakouts, “the TodoMVC of *JavaScript game engines*” (helps you choose one) [page](http://city41.github.io/breakouts/)
+   - Flipping through a slide deck with *hand gestures* [post](http://www.chromeexperiments.com/detail/gesture-based-revealjs/) (w/ video demo)
+   - Interview with [@addyosmani]() about JavaScript, Google, … [link](http://net.tutsplus.com/articles/interviews/master-developers-addy-osmani/)
+ - Tools
+   - ClippingMagic, online tool for *removing image backgrounds* (powered by HTML5 Canvas) [page](http://clippingmagic.com/)
+   - unveil.js, a lightweight jQuery plugin for *lazy loading images* [page](http://luis-almeida.github.io/unveil/) (w/ demo) + [repo](https://github.com/luis-almeida/unveil/)
+   - [@heydonworks]()’s lightweight jQuery plugin that *makes “clickables” more accessible* [page](http://www.heydonworks.com/article/accessible-buttons-jquery-plugin)
+   - Handy Sass Mixins, a *collection of Sass mixins* for media queries, retina images, clearfix, etc. [link](http://web-design-weekly.com/2013/05/12/handy-sass-mixins/)
+ - Opinion
+   - “The Evolution of the Web, in a Blink” by [@vijithassar]() [link](http://www.newyorker.com/online/blogs/elements/2013/05/the-evolution-of-the-web-in-a-blink.html)
 
 ## May 9th, 2013
 
@@ -213,45 +259,6 @@ Authoring & development workflow [link](https://developers.google.com/chrome-dev
    - sublime-text-refactor, a Sublime Text plugin for *JavaScript refactoring* [link](http://saquery.com/sublime-text-refactoring-plugin/)
    - sublime-levels, a Sublime Text plugin for *scope context coloring* [repo](https://github.com/mazurov/sublime-levels) + [demo](http://mazurov.github.io/eslevels-demo/)
    - ArgueJS, a JavaScript library for *extending method’s signatures* with optional parameters et al [repo](https://github.com/zvictor/ArgueJs)
-
-
-## April 26th, 2013
-
-- News
-  - *Firefox development* highlights: HiDPI support, HTML5 notifications, Parallel JS, asm.js, … [post](https://hacks.mozilla.org/2013/04/hidpi-support-html5-notifications-parallel-js-asm-js-and-more-firefox-development-highlights/)
-  - “*Blink*, Testing, and the *W3C*”, on working more closely [post](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/i-U4pJ16Og0/discussion) + [wiki](https://sites.google.com/a/chromium.org/dev/blink/blink-testing-and-the-w3c)
-  - *Test the Web Forward* Seattle event, recap [post](http://blogs.adobe.com/webplatform/2013/04/25/test-the-web-forward-seattle-recap/)
-  - ![][o] Call for participation to get [a11yproject.com](http://a11yproject.com/) ready for *“Global Accessibility Awareness Day”* [post](https://github.com/a11yproject/a11yproject.com/issues/164)
-  - Intent to Implement: *CSS Custom Filters* (aka CSS Shaders) in *Blink* [post](https://groups.google.com/a/chromium.org/d/msg/blink-dev/cl05kpmPTRs/N223ukJrVgAJ)
-  - ![][&] [@annevk]() looking for feedback on *URL comparison* (`:local-link` pseudo-class) [tweet](https://twitter.com/annevk/status/327387417986359297)
-  - *Chrome* gains ability to open MS Word, Excel, PowerPoint files in-browser via extension [post](http://chrome.blogspot.co.uk/2013/04/a-speedy-more-secure-way-to-view.html)
-  - TokBox introduces a *WebRTC* cloud platform [post](http://www.tokbox.com/blog/mantis-next-generation-cloud-technology-for-webrtc/) (w/ short “about” video)
-  - “Experimental *CSS Shaders* Bring Photoshop Filters to the Web” (Wired) [article](http://www.webmonkey.com/2013/04/experimental-css-shaders-bring-photoshop-filters-to-the-web/)
-  - “California Proposes *‘Do Not Track’* (DNT) Honesty Checker” [article](http://www.informationweek.com/security/privacy/california-proposes-do-not-track-honesty/240153657)
-- FYI
-   - Microsoft Open Technologies (*MS OpenTech*) launches new web site [msopentech.com](http://msopentech.com/)
-   - “Workplace *browser diversity* is robust: IE at 40%, Chrome at 28%, Firefox at 25%” [article](http://venturebeat.com/2013/04/24/workplace-browser-usage-ie-chrome-firefox/)
-   - No scaling on the Chromebook Pixel, explains *display resolution vs pixel resolution* [article](http://news.cnet.com/8301-33620_3-57571252-278/the-incredible-unscalable-screen-of-the-chromebook-pixel/)
-- Tutorials
-  - “How To Maintain Hierarchy (in *RWD*) Through Content Choreography” by [@vangogh]() [link](http://www.smashingmagazine.com/2013/04/25/maintain-hierarchy-content-choreography/)
-  - “Using *`tabindex`* with `:focus`” by [@ImpressiveWebs]() [link](http://www.impressivewebs.com/using-tabindex-with-focus/) + my own basic [demo](http://jsfiddle.net/ejCMy/2/)
-  - “Is This Thing On?” (determining the *connection status*) by [@ifandelse]() [link](http://www.icenium.com/community/blog/icenium-team-blog/2013/04/23/is-this-thing-on-part-1)
-  - “Quirks you should be aware of when working with *CSS3 transitions*” by [@rodneyrehm]() [link](http://coding.smashingmagazine.com/2013/04/26/css3-transitions-thank-god-specification/) ![][*]
-  - “Easy *ARIA* Tip #6: Making clickables *accessible*” by [@MarcoInEnglish]() [link](http://www.marcozehe.de/2013/04/24/easy-aria-tip-6-making-clickables-accessible/)
-  - “*JavaScript* Objects: De”construct”ion” by [@getify]() [link](http://davidwalsh.name/javascript-objects-deconstruction)
-  - “*Responsive* Fullscreen Layout with Page Transitions” by [@crnacura]() [post](http://tympanus.net/codrops/2013/04/23/fullscreen-layout-with-page-transitions/) (w/ demo) ![][*]
-- Content
-  - ![][>] “Helping or hurting?”, [@codepo8]()’s talk from [@DevsLoveBacon]() [44min] [link](http://devslovebacon.com/conferences/bacon-2013/talks/helping-or-hurting )
-  - ![][>] ShopTalk podcast Ep. 66: “RAPIDFIRE” [77min] [link](http://shoptalkshow.com/episodes/066-rapidfire-16/)
-  - dotnetConf, a free virtual conference (w/ links to videos) [link](http://live.dotnetconf.net/2013-04)
-  - The State Of *HTML5 `<video>`* [report](http://www.longtailvideo.com/html5) ![][*]
-  - Unheap, a repository of *jQuery plugins* [page](http://www.unheap.com/)
-- Tools
-   - FastClick, *removes click delays* on browsers with touch UIs [repo](https://github.com/ftlabs/fastclick)
-   - SPDYCheck, checks if a website properly supports the *SPDY protocol* [spdycheck.org](http://spdycheck.org/)
-   - Watch.js, “watch the changes of any object or attribute” [repo](https://github.com/melanke/Watch.JS)
-- Opinion
-   - “Mobile: Never Use *Native Drop-Downs* for Navigation” [post](http://baymard.com/blog/mobile-dropdown-navigation)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"

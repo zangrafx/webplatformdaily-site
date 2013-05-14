@@ -1,3 +1,42 @@
+## April 26th, 2013
+
+- News
+  - *Firefox development* highlights: HiDPI support, HTML5 notifications, Parallel JS, asm.js, … [post](https://hacks.mozilla.org/2013/04/hidpi-support-html5-notifications-parallel-js-asm-js-and-more-firefox-development-highlights/)
+  - “*Blink*, Testing, and the *W3C*”, on working more closely [post](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/i-U4pJ16Og0/discussion) + [wiki](https://sites.google.com/a/chromium.org/dev/blink/blink-testing-and-the-w3c)
+  - *Test the Web Forward* Seattle event, recap [post](http://blogs.adobe.com/webplatform/2013/04/25/test-the-web-forward-seattle-recap/)
+  - ![][o] Call for participation to get [a11yproject.com](http://a11yproject.com/) ready for *“Global Accessibility Awareness Day”* [post](https://github.com/a11yproject/a11yproject.com/issues/164)
+  - Intent to Implement: *CSS Custom Filters* (aka CSS Shaders) in *Blink* [post](https://groups.google.com/a/chromium.org/d/msg/blink-dev/cl05kpmPTRs/N223ukJrVgAJ)
+  - ![][&] [@annevk]() looking for feedback on *URL comparison* (`:local-link` pseudo-class) [tweet](https://twitter.com/annevk/status/327387417986359297)
+  - *Chrome* gains ability to open MS Word, Excel, PowerPoint files in-browser via extension [post](http://chrome.blogspot.co.uk/2013/04/a-speedy-more-secure-way-to-view.html)
+  - TokBox introduces a *WebRTC* cloud platform [post](http://www.tokbox.com/blog/mantis-next-generation-cloud-technology-for-webrtc/) (w/ short “about” video)
+  - “Experimental *CSS Shaders* Bring Photoshop Filters to the Web” (Wired) [article](http://www.webmonkey.com/2013/04/experimental-css-shaders-bring-photoshop-filters-to-the-web/)
+  - “California Proposes *‘Do Not Track’* (DNT) Honesty Checker” [article](http://www.informationweek.com/security/privacy/california-proposes-do-not-track-honesty/240153657)
+- FYI
+   - Microsoft Open Technologies (*MS OpenTech*) launches new web site [msopentech.com](http://msopentech.com/)
+   - “Workplace *browser diversity* is robust: IE at 40%, Chrome at 28%, Firefox at 25%” [article](http://venturebeat.com/2013/04/24/workplace-browser-usage-ie-chrome-firefox/)
+   - No scaling on the Chromebook Pixel, explains *display resolution vs pixel resolution* [article](http://news.cnet.com/8301-33620_3-57571252-278/the-incredible-unscalable-screen-of-the-chromebook-pixel/)
+- Tutorials
+  - “How To Maintain Hierarchy (in *RWD*) Through Content Choreography” by [@vangogh]() [link](http://www.smashingmagazine.com/2013/04/25/maintain-hierarchy-content-choreography/)
+  - “Using *`tabindex`* with `:focus`” by [@ImpressiveWebs]() [link](http://www.impressivewebs.com/using-tabindex-with-focus/) + my own basic [demo](http://jsfiddle.net/ejCMy/2/)
+  - “Is This Thing On?” (determining the *connection status*) by [@ifandelse]() [link](http://www.icenium.com/community/blog/icenium-team-blog/2013/04/23/is-this-thing-on-part-1)
+  - “Quirks you should be aware of when working with *CSS3 transitions*” by [@rodneyrehm]() [link](http://coding.smashingmagazine.com/2013/04/26/css3-transitions-thank-god-specification/) ![][*]
+  - “Easy *ARIA* Tip #6: Making clickables *accessible*” by [@MarcoInEnglish]() [link](http://www.marcozehe.de/2013/04/24/easy-aria-tip-6-making-clickables-accessible/)
+  - “*JavaScript* Objects: De”construct”ion” by [@getify]() [link](http://davidwalsh.name/javascript-objects-deconstruction)
+  - “*Responsive* Fullscreen Layout with Page Transitions” by [@crnacura]() [post](http://tympanus.net/codrops/2013/04/23/fullscreen-layout-with-page-transitions/) (w/ demo) ![][*]
+- Content
+  - ![][>] “Helping or hurting?”, [@codepo8]()’s talk from [@DevsLoveBacon]() [44min] [link](http://devslovebacon.com/conferences/bacon-2013/talks/helping-or-hurting )
+  - ![][>] ShopTalk podcast Ep. 66: “RAPIDFIRE” [77min] [link](http://shoptalkshow.com/episodes/066-rapidfire-16/)
+  - dotnetConf, a free virtual conference (w/ links to videos) [link](http://live.dotnetconf.net/2013-04)
+  - The State Of *HTML5 `<video>`* [report](http://www.longtailvideo.com/html5) ![][*]
+  - Unheap, a repository of *jQuery plugins* [page](http://www.unheap.com/)
+- Tools
+   - FastClick, *removes click delays* on browsers with touch UIs [repo](https://github.com/ftlabs/fastclick)
+   - SPDYCheck, checks if a website properly supports the *SPDY protocol* [spdycheck.org](http://spdycheck.org/)
+   - Watch.js, “watch the changes of any object or attribute” [repo](https://github.com/melanke/Watch.JS)
+- Opinion
+   - “Mobile: Never Use *Native Drop-Downs* for Navigation” [post](http://baymard.com/blog/mobile-dropdown-navigation)
+
+
 ## April 25th, 2013
 
  - News
