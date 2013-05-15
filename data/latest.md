@@ -6,6 +6,39 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
+## May 14th, 2013
+
+ - News
+   - ![][&] Submit questions for the Fireside Chat with the *Blink team* at I/O (May 15, 5:30PM PDT) [tweet](https://twitter.com/ChromiumDev/status/333987200205213697)
+   - Samsung and *Opera* working together to bring Opera onto Samsung’s Blu-ray players [tweet](https://twitter.com/opera/status/333953715688067074)
+ - FYI
+   - 6 *Mozilla GitHub Projects* to Hack On [link](http://tech.pro/blog/1275/6-mozilla-github-projects-to-hack-on) ![][*]
+   - GIF images are not limited to 256 colors: *True-Color GIF* example [link](http://phil.ipal.org/tc.html)
+   - A a brief history of *detecting `localStorage`* [gist](https://gist.github.com/paulirish/5558557)
+   - *Mothereffing·animated·gif* updated, now supports transparency [tweet](https://twitter.com/paul_irish/status/334080001290940417)
+ - Tutorials
+   - “Speed Up App Development with *X-Tag* and *Web Components*” by [@csuwldcat]() [link](https://hacks.mozilla.org/2013/05/speed-up-app-development-with-x-tag-and-web-components/) (Mozilla Hacks) ![][*]
+   - “Define flow areas directly with *CSS Regions*” by [@alanstearns]() [link](http://blogs.adobe.com/webplatform/2013/05/13/define-flow-areas-directly-with-css-regions/) (Adobe)
+   - “Multiple Background *CSS Animations*” by [@davidwalshblog]() [link](http://davidwalsh.name/multiple-background-css-animations)
+   - “Creating Image Galleries with Clipped Images Using *CSS Pointer Events* and SVG” by [@zoltandulac]() [link](http://flippinawesome.org/2013/05/13/creating-image-galleries-with-clipped-images-using-css-pointer-events-and-svg/)
+   - “JavaScript Design Patterns - The *Revealing Module Pattern*” by [@cfjedimaster]() [link](http://www.raymondcamden.com/index.cfm/2013/5/13/JavaScript-Design-Patterns--The-Revealing-Module-Pattern)
+ - Articles
+   - “Moving beyond `window.onload()`” (*web performance* metrics) by [@souders]() [link](http://www.stevesouders.com/blog/2013/05/13/moving-beyond-window-onload/)
+   - “Making the *web platform* more suitable for ‘apps’” by [@annevk]() [link](http://annevankesteren.nl/2013/05/applifying)
+   - “New Layouts for the *Multi-Device Web*” by [@lukew]() [link](http://www.lukew.com/ff/entry.asp?1721)
+ - Content
+   - ![][>] “Fast *Performance* with CSS on Mobile”, [@paul_irish]()’s talk from [@adobemax]() [72min] [link](http://www.adobe.com/inspire/2013/05/irish-fast-css-on-mobile.html)
+   - ![][>] [@txjs]() (Texas JavaScript) 2013 talks on [vimeo](https://vimeo.com/channels/txjs2013) ![][*]
+   - Interview with [@paul_irish]() about *Blink* [link](http://alistapart.com/blog/post/paul-irish-on-chrome-moving-to-blink)
+ - Sites
+   - Responsive Resources, a coll. of resources about the various aspects of *responsive web design* [page](http://bradfrost.github.io/this-is-responsive/resources.html)
+ - Tools
+   - mozVibrate-polyfill, a polyfill for the *`mozVibrate` API* of Firefox OS (*Vibration API* [?](http://www.w3.org/TR/vibration/)) [repo](https://github.com/codepo8/mozVibrate-polyfill)
+   - Codeblock.js, editable and *runnable JavaScript code blocks* [page](http://filepicker.github.io/codeblock.js/) (w/ demos)
+ - Opinion
+   - “No, *HTML5* does not have a *performance issue*.” by [@pbakaus]() [link](http://paulbakaus.com/2013/05/13/no-html5-does-not-have-a-performance-issue/)
+   - “Overwhelmed by *JavaScript Dependencies*” by [@faassen]() [link](http://blog.startifact.com/posts/overwhelmed-by-javascript-dependencies.html)
+
 ## May 13th, 2013
 
  - News
@@ -228,37 +261,6 @@ Authoring & development workflow [link](https://developers.google.com/chrome-dev
   - sweet.js by Mozilla, brings *hygienic macros* from languages like Scheme and Rust to JavaScript [page](http://sweetjs.org/)
   - Breakpoint, a Compass extension for managing *media queries* in *Sass* [page](http://breakpoint-sass.com/)
   - iio Engine, an *Interactive App Framework* for HTML5 built with Canvas & JavaScript [page](http://iioengine.com/)
-
-## April 29th, 2013
-
- - News
-   - This week at *W3C*: Encrypted Media Extensions, DNT, “Show outline” feature in W3C Validator, etc. [link](http://lists.w3.org/Archives/Public/public-w3c-digest/2013AprJun/0004.html)
-   - *Chrome DevTools*, debugging with *source maps* is now enabled by default [tweet](https://twitter.com/ChromiumDev/status/327844558664781824)
-   - *Test the Web Forward* Seattle event, report on Microsoft’s IEBlog [article](http://blogs.msdn.com/b/ie/archive/2013/04/26/test-the-web-forward-seattle-2013.aspx)
-   - Free Software Foundation: “Keep *DRM* out of Web standards”, letter submitted to *W3C* [post](http://www.defectivebydesign.org/sign-on-against-drm-in-html)
-   - ![][&] First draft of Mozilla’s *Web Literacy standard* published [tweet](https://twitter.com/mozilla/status/328161685170954241)
- - FYI
-   - “iOS Safari uses *MIME sniffing* for `text/plain` documents, leading to *security* vulnerabilities” [tweet](https://twitter.com/mathias/status/327812140473917440)
-   - Non-ASCII characters are allowed in *CSS* class names, e.g. `<div class="ಠ_ಠ">`
- - Tutorials
-   - “*CSS* Background *Animations*” by [@davidwalshblog]() [link](http://davidwalsh.name/background-animation-css)
-   - “Simple YouTube Menu Effect” (*CSS transforms*, *CSS transitions*) by [@crnacura]() [link](http://tympanus.net/codrops/2013/04/25/simple-youtube-menu-effect/)
-   - “*Promise*-Based Form Validation” by [@pavanpodila]() [link](http://net.tutsplus.com/tutorials/javascript-ajax/promise-based-validation/) ![][*]
-   - “Make Client Side Data Available Server Side” (to avoid *`User-Agent` sniffing*) by [@chriscoyier]() [link](http://css-tricks.com/make-client-side-data-available-server-side/)
-   - “Few Modern *JavaScript* Inconsistencies ” by [@WebReflection]() [link](http://webreflection.blogspot.com/2013/04/few-modern-javascript-inconsistencies.html)
- - Articles
-   - “I <3 image bytes” by [@souders]() (“Images are the most important bytes in the page”) [link](http://www.stevesouders.com/blog/2013/04/26/i/) ![][*]
-   - “Personal names around the world” by [@r12a]() [article](http://www.w3.org/International/questions/qa-personal-names) at *W3C Internationalization*
-   - “Mozilla *Persona* for the non-web” (Mozilla Hacks) [post](https://hacks.mozilla.org/2013/04/mozilla-persona-for-the-non-web/)
- - Content
-   - noBackend, “a new approach to build data driven apps without thinking backend” [nobackend.org](http://nobackend.org/)
-   - ![][>] “Dive Into *Mobile Performance*”, [@souders]()’s talk at [@BoxEng]() [72min] [youtube](https://www.youtube.com/playlist?list=PLUO3pFURa-s0XgfU-FDFqzSqGWDRZp2sG)
-   - CSS *animatable properties*, browser support table (which CSS properties can be animated) [link](http://thewebevolved.com/support/animation/properties/) ![][*]
-   - Circular tooltip with pure *CSS transforms* [demo](http://dabblet.com/gist/3979221/cb69c5e8ccf0745fff2c94b47b27b108931f1a15)
- - Tools
-   - sublime-text-refactor, a Sublime Text plugin for *JavaScript refactoring* [link](http://saquery.com/sublime-text-refactoring-plugin/)
-   - sublime-levels, a Sublime Text plugin for *scope context coloring* [repo](https://github.com/mazurov/sublime-levels) + [demo](http://mazurov.github.io/eslevels-demo/)
-   - ArgueJS, a JavaScript library for *extending method’s signatures* with optional parameters et al [repo](https://github.com/zvictor/ArgueJs)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"

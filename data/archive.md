@@ -1,3 +1,34 @@
+## April 29th, 2013
+
+ - News
+   - This week at *W3C*: Encrypted Media Extensions, DNT, “Show outline” feature in W3C Validator, etc. [link](http://lists.w3.org/Archives/Public/public-w3c-digest/2013AprJun/0004.html)
+   - *Chrome DevTools*, debugging with *source maps* is now enabled by default [tweet](https://twitter.com/ChromiumDev/status/327844558664781824)
+   - *Test the Web Forward* Seattle event, report on Microsoft’s IEBlog [article](http://blogs.msdn.com/b/ie/archive/2013/04/26/test-the-web-forward-seattle-2013.aspx)
+   - Free Software Foundation: “Keep *DRM* out of Web standards”, letter submitted to *W3C* [post](http://www.defectivebydesign.org/sign-on-against-drm-in-html)
+   - ![][&] First draft of Mozilla’s *Web Literacy standard* published [tweet](https://twitter.com/mozilla/status/328161685170954241)
+ - FYI
+   - “iOS Safari uses *MIME sniffing* for `text/plain` documents, leading to *security* vulnerabilities” [tweet](https://twitter.com/mathias/status/327812140473917440)
+   - Non-ASCII characters are allowed in *CSS* class names, e.g. `<div class="ಠ_ಠ">`
+ - Tutorials
+   - “*CSS* Background *Animations*” by [@davidwalshblog]() [link](http://davidwalsh.name/background-animation-css)
+   - “Simple YouTube Menu Effect” (*CSS transforms*, *CSS transitions*) by [@crnacura]() [link](http://tympanus.net/codrops/2013/04/25/simple-youtube-menu-effect/)
+   - “*Promise*-Based Form Validation” by [@pavanpodila]() [link](http://net.tutsplus.com/tutorials/javascript-ajax/promise-based-validation/) ![][*]
+   - “Make Client Side Data Available Server Side” (to avoid *`User-Agent` sniffing*) by [@chriscoyier]() [link](http://css-tricks.com/make-client-side-data-available-server-side/)
+   - “Few Modern *JavaScript* Inconsistencies ” by [@WebReflection]() [link](http://webreflection.blogspot.com/2013/04/few-modern-javascript-inconsistencies.html)
+ - Articles
+   - “I <3 image bytes” by [@souders]() (“Images are the most important bytes in the page”) [link](http://www.stevesouders.com/blog/2013/04/26/i/) ![][*]
+   - “Personal names around the world” by [@r12a]() [article](http://www.w3.org/International/questions/qa-personal-names) at *W3C Internationalization*
+   - “Mozilla *Persona* for the non-web” (Mozilla Hacks) [post](https://hacks.mozilla.org/2013/04/mozilla-persona-for-the-non-web/)
+ - Content
+   - noBackend, “a new approach to build data driven apps without thinking backend” [nobackend.org](http://nobackend.org/)
+   - ![][>] “Dive Into *Mobile Performance*”, [@souders]()’s talk at [@BoxEng]() [72min] [youtube](https://www.youtube.com/playlist?list=PLUO3pFURa-s0XgfU-FDFqzSqGWDRZp2sG)
+   - CSS *animatable properties*, browser support table (which CSS properties can be animated) [link](http://thewebevolved.com/support/animation/properties/) ![][*]
+   - Circular tooltip with pure *CSS transforms* [demo](http://dabblet.com/gist/3979221/cb69c5e8ccf0745fff2c94b47b27b108931f1a15)
+ - Tools
+   - sublime-text-refactor, a Sublime Text plugin for *JavaScript refactoring* [link](http://saquery.com/sublime-text-refactoring-plugin/)
+   - sublime-levels, a Sublime Text plugin for *scope context coloring* [repo](https://github.com/mazurov/sublime-levels) + [demo](http://mazurov.github.io/eslevels-demo/)
+   - ArgueJS, a JavaScript library for *extending method’s signatures* with optional parameters et al [repo](https://github.com/zvictor/ArgueJs)
+
 ## April 26th, 2013
 
 - News
