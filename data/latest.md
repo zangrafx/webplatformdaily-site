@@ -6,6 +6,49 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
+## May 15th, 2013 **released with dalay**
+
+ - News
+   - New *W3C* releases:
+     - 2nd WD of “*CSS Box Alignment*” [TR](http://www.w3.org/TR/css3-align/) + [diff](http://www.w3.org/TR/2013/WD-css3-align-20130514/,diff)
+     - REC of “*Page Visibility*” [TR](http://www.w3.org/TR/page-visibility/) + [diff](http://http://www.w3.org/TR/2013/REC-page-visibility-20130514/,diff)
+     - 3rd WD of “*Shadow DOM*” [TR](http://www.w3.org/TR/shadow-dom/) + [diff](http://www.w3.org/TR/2013/WD-shadow-dom-20130514/,diff)
+     - **New:** 1st WD of “*Custom Elements*” [TR](http://www.w3.org/TR/custom-elements/) (define and use new types of DOM elements in a document)
+     - **New:** 1st WD of “*HTML Imports*” [TR](http://www.w3.org/TR/html-imports/) (include and reuse HTML documents in other HTML documents)
+     - **New:** 1st WD of “*Raw Socket API*” [TR](http://www.w3.org/TR/raw-sockets/) (provides APIs to raw UDP sockets and TCP client/server sockets)
+   - New *ECMAScript 6* draft spec released (15th revision) [page](http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts) w/ changelog
+   - *Firefox 21* released: [notes](http://www.mozilla.org/en-US/firefox/21.0/releasenotes/), [info](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/21) for devs, [post](https://blog.mozilla.org/futurereleases/2013/05/14/firefox-heal-thyself/) on “Health Report”, [info]() on *`crypto.getRandomValues`*
+   - *CSS Exclusions and Shapes* enabled by default *WebKit Nightly*, sources: [1](https://twitter.com/bear_travis/status/334395548775903232) and [2](https://twitter.com/divya/status/334401094497218560)
+   - “W3C *Pointer Events* Gains Momentum Within Web Communities” [article](http://msopentech.com/blog/2013/05/14/w3c-pointer-events-gains-momentum-within-web-communities/)
+   - “Latest study finds IE10 is better at *blocking malware* than Chrome, Safari, Firefox, and Opera” [article](http://thenextweb.com/insider/2013/05/14/latest-study-finds-ie10-is-better-at-blocking-malware-than-chrome-safari-firefox-and-opera/)
+   - “Microsoft fixes two critical *IE security flaws*, including 'nuke' zero-day” [article](http://www.zdnet.com/microsoft-fixes-two-critical-ie-security-flaws-including-nuke-zero-day-7000015369/)
+ - FYI
+   - IE since version 9 supports the *JPEG XR* image format, [twitter](https://twitter.com/dstorey/status/334593846711308288) discussion (about browser support)
+   - “*CSS Variables* spec gets prepared for LC, the implementation in WebKit prepared for removal”, [tweet](https://twitter.com/dirkschulze/status/334323117293989888)
+ - Tutorials
+   - An extensive tutorial on *JavaScript regular expressions*, [@codylindley]()’s [post](http://tech.pro/tutorial/1214/javascript-regular-expression-enlightenment) ![][*]
+   - Web-applications done right with *Ember.js*, [@joachimhs]()’s [post](http://www.infoq.com/articles/Emberjs-Web-Applications) (extensive, w/ code for demo app)
+   - Applying *custom styles* to maps from *Google Maps*, [@creatiface]()’s [post](http://www.hongkiat.com/blog/google-maps-styles/) (w/ demo)
+   - Improving the *accessibility* of *required form fields*, [@rogerhudson]()’s [post](http://usability.com.au/2013/05/accessible-forms-2-required-fields-and-extra-information/)
+   - *Detecting media query changes* in JavaScript with *CSS Animations*, [@MisterJack]()’s [post](http://css-tricks.com/media-query-change-detection-in-javascript-through-css-animations/)
+   - Creating a playable Pong game with *pure CSS*, [@alexmwalker]()’s [post](http://www.sitepoint.com/css3-pong-insane-things-to-do-with-css/) ![][*]
+   - Building rich JavaScript front ends with *Grunt*, Al Scott’s [post](http://spin.atomicobject.com/2013/05/13/javascript-front-end-grunt/)
+   - Distributing *optimized assets* with Google’s *`ngx_pagespeed`* and Amazon’s CloudFront CDN [@dwlz]()’s [post](http://dlo.me/archives/2013/05/14/nginx-pagespeed-cloudfront/)
+ - Articles
+   - A hybrid client- and server-side approach to deliver the best *user experience* [@luca_passani]()’s [post](http://mobile.smashingmagazine.com/2013/05/14/providing-the-best-mobile-user-experience-possible/)
+   - Compilation of 20 web development *best practices*, [@davemethvin]()/[@reybango]()’s [post](http://www.modern.ie/en-us/cross-browser-best-practices) ![][*]
+   - Mozilla’s [@codepo8]() answers a few questions about “mobile web” and *sites vs. apps* [post](http://christianheilmann.com/2013/05/15/a-few-questions-and-answers-about-mobile-web-and-sites-vs-apps/)
+ - Content
+   - ![][>] “The Road to *Node.js* v1.0”, [@izs]()’s [talk](http://blog.strongloop.com/the-road-to-node-js-v1-0/) about upcoming *Node.js* development [15min]
+   - How to deal with images in *Responsive Web Design*, [@davatron5000]()’s [slides](https://speakerdeck.com/davatron5000/mo-pixels-mo-problems) from [@artifactconf]() ![][*]
+ - Sites 
+   - GoodUI, guidelines for *creating good user interfaces* [goodui.org](http://www.goodui.org/)
+ - Tools
+   - waax, a JavaScript library built on top of the *Web Audio API* [repo](https://github.com/hoch/waax)
+   - hyperagent.js, a JavaScript library for consuming HAL *hypermedia APIs* in the browser [page](http://weluse.github.io/hyperagent/)
+ - Opinion
+   - “The Elusive Universal *Web Bytecode*”, [@kripken]()’s [post](http://mozakai.blogspot.com/2013/05/the-elusive-universal-web-bytecode.html)
+
 ## May 14th, 2013
 
  - News
@@ -235,32 +278,6 @@ Authoring & development workflow [link](https://developers.google.com/chrome-dev
  - Opinion
    - “Twenty years of a *free and open www*” by Robert Cailliau (collaborator at CERN) [link](http://home.web.cern.ch/cern-people/opinion/2013/04/twenty-years-free-and-open-www)
    - “Why and How *Firefox OS* is Better than Android and iOS?” [post](http://propakistani.pk/2013/04/29/how-and-why-firefox-os-is-better-than-android-and-ios/) 
-
-## April 30th, 2013
- 
-- News
-  - *Twentieth anniversary* of a free, open web [post](http://www.w3.org/community/webhistory/2013/04/30/twentieth-anniversary-of-a-free-open-web/) + restoring the *first web site* [page](http://first-website.web.cern.ch/)
-  - “Global perceptions of W3C” *survey* [tweet](https://twitter.com/w3c/status/328946308146688001) (w/ prize: iPad Mini)
-  - Developer Economics *survey* “on the state of the developer nation” [link](http://visionmobile.com/DS13Devs)
-  - UK gov’t passes *“Instagram Act”* which permits commercial exploitation of unidentified work [article](http://www.theregister.co.uk/2013/04/29/err_act_landgrab/)
-  - *Mozilla WebFWD* seeks HTML5 app developers for 3-month global accelerator program [tweet](https://twitter.com/mozlabs/status/328940027994316801)
-- Tutorials
-  - “*CSS Grid Layout*: Named Grid Lines and areas” by [@rachelandrew]() [link](http://www.rachelandrew.co.uk/archives/2013/04/29/css-grid-layout-named-grid-lines-and-areas/)
-  - “Author In *ES6*, Transpile To ES5 As A Build-step: A Workflow For *Grunt*” by [@addyosmani]() [link](http://addyosmani.com/blog/author-in-es6-transpile-to-es5-as-a-build-step-a-workflow-for-grunt/)
-  - “9 Ways to Optimize Your Front End *Performance*” by [@davidwalshblog]() [link](http://tech.pro/tutorial/1254/9-ways-to-optimize-your-front-end-performance) ![][*]
-  - “Create Your First *Mobile App* with *PhoneGap* Build” by [@remotesynth]() [link](http://flippinawesome.org/2013/04/29/phonegap-build-step-7/) (7 part series)
-  - “Turn Your Web Application into a *Firefox OS App* in 5 Minutes” by [@davidwalshblog]() [link](http://davidwalsh.name/firefox-app)
-  - “*Real Time Multiplayer* in HTML5” (/w WebSocket, Node.js, `<canvas>`) by [@___discovery]() [link](http://www.htmlgoodies.com/html5/client/real-time-multiplayer-in-html5.html)
-- Articles
-  - “How to Make Your *Open Source Project* Really Awesome” by [@michaelklishin]() [link](http://blog.clojurewerkz.org/blog/2013/04/20/how-to-make-your-open-source-project-really-awesome/)
-  - “*State of the Browser 2013*: conference writeup” (Guardian) [link](http://www.guardian.co.uk/info/developer-blog/2013/apr/23/state-of-the-browser-2013-notes)
-- Content
-  - ![][>] “Upgrade From Mouse to *Pointer Events*”, [@boyofgreen]()’s video presentation [6min] [link](http://channel9.msdn.com/posts/Easy-Multi-touch-Web-Apps-Upgrade-From-Mouse-to-Pointer-Events) ![][*]
-  - [@maccymacx]()’s sketchnotes from State of the Browser 2013 [flickr](http://www.flickr.com/photos/makaylalewis/8672796816/in/set-72157633305467464/) ![][*] **MOTHER OF GOD**
-- Tools
-  - sweet.js by Mozilla, brings *hygienic macros* from languages like Scheme and Rust to JavaScript [page](http://sweetjs.org/)
-  - Breakpoint, a Compass extension for managing *media queries* in *Sass* [page](http://breakpoint-sass.com/)
-  - iio Engine, an *Interactive App Framework* for HTML5 built with Canvas & JavaScript [page](http://iioengine.com/)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
