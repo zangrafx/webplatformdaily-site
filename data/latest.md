@@ -2,11 +2,16 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  
 ## Sticky
 
+ - **Dear publishers:** Every article should have an *easily digestible intro paragraph* [tweet](https://twitter.com/simevidas/status/332853743676690435) ![][*]
  - Recommended *Twitter* feeds: [@remotesynth](), [@codepo8](), [@smashingmag]()
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
-## May 15th, 2013 **released with dalay**
+## May 16th, 2013 **later today**
+
+ - This one, later today (Saturday), the May 17th issue, tomorrow (Sunday). Both in the late afternoon/early evening hours (EU).
+
+## May 15th, 2013
 
  - News
    - New *W3C* releases:
