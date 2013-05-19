@@ -2,14 +2,45 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  
 ## Sticky
 
- - **Dear publishers:** Every article should have an *easily digestible intro paragraph* [tweet](https://twitter.com/simevidas/status/332853743676690435) ![][*]
+ - **Dear publishers:** Every article should have an *easily digestible intro paragraph*. [tweet](https://twitter.com/simevidas/status/332853743676690435) ![][*]
  - Recommended *Twitter* feeds: [@remotesynth](), [@codepo8](), [@smashingmag]()
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
-## May 16th, 2013 **later today**
+## May 16th, 2013
 
- - This one, later today (Saturday), the May 17th issue, tomorrow (Sunday). Both in the late afternoon/early evening hours (EU).
+ - News
+   - How can *W3C* improve its web site? Let them know! [survey](http://www.w3.org/News/2013.html#entry-9822)
+   - *CSS WG* Minutes Telecon 2013-05-15 [notes](http://www.w3.org/blog/CSS/2013/05/16/resolutions-92/) (i.a. `calc()` can be used inside media queries)
+   - Mozilla is testing a new *cookie policy* (blocking cookies from not-visited-sites), [@BrendanEich]()’s [post](https://brendaneich.com/2013/05/c-is-for-cookie/) ![][*]
+   - *Firefox 22* (currently in beta) brings *accessibility* improvements [post](http://asurkov.blogspot.ie/2013/05/accessible-mozilla-tech-overview-of.html)
+   - *Google Now* announced for desktop Chrome and Chrome OS [post](http://insidesearch.blogspot.co.uk/2013/05/a-multi-screen-and-conversational.html)
+   - *Firefox OS* puts a good $50 smartphone within reach, ZDNet [article](http://www.zdnet.com/firefox-os-puts-a-good-50-smartphone-within-reach-7000015212/)
+ - FYI
+   - `Object.setPrototypeOf` has been added to the latest *ECMAScript 6* [draft](http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts) + [discussion](https://twitter.com/WebReflection/status/334888545258987520) on Twitter
+   - Conformant implementations of *Promises/A+* [list](https://github.com/promises-aplus/promises-spec/blob/master/implementations.md)
+    - What does *Microsoft Open Technologies* do? [page](http://msopentech.com/what-we-do/)
+ - Tutorials
+   - Defining sensible *responsive image breakpoints* [@grigs]()’s [post](http://blog.cloudfour.com/sensible-jumps-in-responsive-image-file-sizes/) ![][*]
+   - Making browsers use a *high-res version* of an image *when printing*, [@rogerjohansson]()’s [post](http://www.456bereastreet.com/archive/201305/replacing_images_when_printing/)
+   - Using *`aria-expanded`* to indicate the *state of a collapsible element*, [@wcagtest]()’s [post](http://www.3needs.org/en/testing/code/aria-expanded.html)
+   - Using *dispatch tables* to avoid conditionals in JavaScript, [@joshuacc]()’s [post](http://designpepper.com/blog/drips/using-dispatch-tables-to-avoid-conditionals-in-javascript) + my [response](https://twitter.com/simevidas/status/335495290436075523)
+   - Setting up *CSS Counters*, [@davidwalshblog]()’s [post](http://davidwalsh.name/css-counters) (short, w/ demos)
+   - Dealing with IE8 when performing *cross-domain Ajax requests*, [@andrewmcgivery]()’s [post](http://mcgivery.com/ie8-and-cors/)
+ - Content
+   - ![][>] Pairing the strengths of *OOCSS* and *Sass*, [@stubbornella]()’s 28-min [talk](https://vimeo.com/66039168) from [@txjs]() ’13 ![][*]
+   - ![][>] *Automating performance* best practices with PageSpeed, [@igrigorik]()’s 47-min [talk](https://developers.google.com/events/io/sessions/325313237) from IO ’13
+   - ![][>] Google’s [@paul_irish]() and [@jkomoros]() talk about the *Blink* rendering engine, 9-min [video](https://developers.google.com/live/shows/563395274/) discussion
+   - ![][>] Google’s [@duhroach]() and [@igrigorik]() talk about *web app performance*, 9-min [video](https://developers.google.com/live/shows/564671231/) discussion
+   - Why do users click randomly and rapidly when an application hangs?, [discussion](http://ux.stackexchange.com/questions/39413/why-do-users-click-randomly-and-rapidly-when-an-application-hangs)
+ - Sites
+   - The Last Website, a storytelling experiment (uses *HTML5 `<audio>`*) [lastwebsite.io](http://www.lastwebsite.io/)
+ - Tools
+   - csswizardry-grids, a simple, fluid, nestable, flexible, Sass-based, *responsive grid system* [repo](https://github.com/csswizardry/csswizardry-grids)
+   - Gliffy, an HTML5 Chrome packaged app for *drawing diagrams and flowcharts* [post](https://plus.google.com/+GoogleChromeDevelopers/posts/XKLH2krXxSf) (works offline) ![][*]
+ - Opinion
+   - What benefit do you gain by arbitrarily *dividing the entire web into two classes*?, [@adactio]()’s [post](http://adactio.com/journal/6246/)
+   - Is *front end development* relatively easier than other fields of engineering?, [quora](http://www.quora.com/Startups/Why-are-front-end-developers-so-high-in-demand-at-startups-if-front-end-development-is-relatively-easier-than-other-fields-of-engineering) discussion
 
 ## May 15th, 2013
 
@@ -245,44 +276,6 @@ Authoring & development workflow [link](https://developers.google.com/chrome-dev
    -  autoprefixer, parses CSS and *adds prefixed properties and values* [repo](https://github.com/ai/autoprefixer)
  - Opinion
    - “WYSIWTF” (separation of content and presentation) by [@karenmcgrane]() [link](http://alistapart.com/column/wysiwtf)
-
-## May 1st, 2013
-
- - News
-   - New *W3C* releases:
-     - 4th WD of *“Tracking Preference Expression (DNT)”* [TR](http://www.w3.org/TR/tracking-dnt/) + [diff](http://services.w3.org/htmldiff?doc1=http://www.w3.org/TR/2012/WD-tracking-dnt-20121002/&doc2=http://www.w3.org/TR/2013/WD-tracking-dnt-20130430/)
-     - 4th WD of *“Tracking Compliance and Scope”* [TR](http://www.w3.org/TR/tracking-compliance/) + [diff](http://services.w3.org/htmldiff?doc1=http://www.w3.org/TR/2012/WD-tracking-compliance-20121002/&doc2=http://www.w3.org/TR/2013/WD-tracking-compliance-20130430/)
-     - *“Publishing and Linking on the Web”* [TR](http://www.w3.org/TR/publishing-linking/) + [diff](http://services.w3.org/htmldiff?doc1=http://www.w3.org/TR/2012/WD-publishing-linking-20121025/&doc2=http://www.w3.org/TR/2013/NOTE-publishing-linking-20130430/) (published as group note)
-     - PROV documents published as recommendations [post](http://www.w3.org/News/2013.html#entry-9805) (representing *provenance ([?](http://en.wiktionary.org/wiki/provenance)) information*)
-   - ![][1] A *WebPlatform* documentation sprint to be held on May 22 in NYC [details](http://wpd-nyc.eventbrite.com/)
-   - *“Smart Return key”* functionality added to console in *WebKit Nightly* [link](http://www.screenr.com/rEw7) (short screencast) 
-   - “*Do Not Track* Framework Doc Stirs Controversy Ahead of *W3C* Meeting” [article](http://www.adweek.com/news/technology/do-not-track-framework-doc-stirs-controversy-ahead-w3c-meeting-149041)
-   - “Financial Times: ‘There is no drawback to working in *HTML5*’” (Guardian) [article](http://www.guardian.co.uk/media/appsblog/2013/apr/29/financial-times-html5-no-drawbacks)
- - FYI
-   - Use *W3C*’s “Diff Service” [link](http://services.w3.org/htmldiff) to compare different publications of a spec [example](http://services.w3.org/htmldiff?doc1=http://www.w3.org/TR/2012/WD-tracking-dnt-20121002/&doc2=http://www.w3.org/TR/2013/WD-tracking-dnt-20130430/) ![][*]
-   - *W3C* provides “comma-tools” [link](http://www.w3.org/,tools) (example: adding `“,text”` to URL for plain-text version of a spec [link](http://www.w3.org/TR/css-variables/,text))
-   - “Don't use `<hx>` to mark up *subheadings* (unless you intend to start a new section)” [tweet](https://twitter.com/stevefaulkner/status/329213290146308097)
-   - MDN provides a good guide for the *Firefox OS Simulator* [MDN](https://developer.mozilla.org/en-US/docs/Tools/Firefox_OS_Simulator)
-   - Which companies help *protect your data* from the government? [report](https://www.eff.org/who-has-your-back-2013)
- - Tutorials
-   - “*CDNs* fail, but your scripts don't have to - fallback from CDN to local” by [@shanselman]() [link](http://www.hanselman.com/blog/CDNsFailButYourScriptsDontHaveToFallbackFromCDNToLocalJQuery.aspx)
-   - Setting up *Sublime Text*, by [@dandenney]() [link](http://drewbarontini.com/setup/sublime-text)
-   - “*Web Payments* with PaySwarm” by [@manusporny]() [link](https://hacks.mozilla.org/2013/04/web-payments-with-payswarm-purchasing-part-3-of-3/) (3 part series)
-   - “Getting Into *Ember*: Part 4 (client-side templates with *Handlebars*)” by [@reybango]() [link](http://net.tutsplus.com/tutorials/javascript-ajax/getting-into-ember-part-4/)
- - Articles
-   - “*Embedding Canvas and SVG* charts in emails” by [@thomasfuchs]() [link](http://mir.aculo.us/2013/04/30/embed-canvas-and-svg-charts-in-emails/)
-   - “What are *Responsive Websites* made of?” (the state of RWD sites) by [@guypod]() [link](http://www.guypo.com/mobile/what-are-responsive-websites-made-of/)
-   - “*Blink* and the end of *vendor prefixes*” by [@slicknet]() [link](http://www.nczonline.net/blog/2013/04/30/blink-and-the-end-of-vendor-prefixes/)
- - Content 
-   - Interview: Paul Groth and Luc Moreau on *Provenance* (W3C blog) [post](http://www.w3.org/QA/2013/04/interview_paul_groth_and_luc_m.html)
-   - *“Can I use”* data presented as a chart, by [@mastahyeti]() [link](http://btoe.ws/browserstats) ![][*] 
-   - Gesture controlled sound generator (*WebRTC* + *Web Audio API*) [link](http://www.g200kg.com/teburin/)
- - Tools
-   - Light Table, an *interactive IDE* with real time feedback [post](http://www.chris-granger.com/2013/04/28/light-table-040/) (/w screencast)
-   - Benchmark.js, a JavaScript benchmarking library with support for *high-resolution timers* [page](http://benchmarkjs.com/)
- - Opinion
-   - “Twenty years of a *free and open www*” by Robert Cailliau (collaborator at CERN) [link](http://home.web.cern.ch/cern-people/opinion/2013/04/twenty-years-free-and-open-www)
-   - “Why and How *Firefox OS* is Better than Android and iOS?” [post](http://propakistani.pk/2013/04/29/how-and-why-firefox-os-is-better-than-android-and-ios/) 
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
