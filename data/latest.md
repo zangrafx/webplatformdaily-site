@@ -7,6 +7,44 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
+## May 20th, 2013 **Later today**
+
+## May 17th, 2013
+
+ - News
+   - New W3C releases:
+     - 2nd WD of “*Media Capture and Streams*” [TR](http://www.w3.org/TR/mediacapture-streams/) + [diff](http://www.w3.org/TR/2013/WD-mediacapture-streams-20130516/,diff)
+     - **New:** 1st WD of “*The `app:` URI scheme*” [TR](http://www.w3.org/TR/app-uri/) (addressing resources inside a packaged application)
+     - **New:** 1st WD of “*Messaging API*” [TR](http://www.w3.org/TR/messaging/) (access to mobile messaging services like SMS)
+   - *Chrome Packaged Apps* (HTML5 apps) confirmed for Android [tweet](https://twitter.com/joelambert/status/334911849562775552)
+   - Google likes the look of Microsoft multitouch for Web (*Pointer Events*), CNET [article](http://news.cnet.com/8301-1023_3-57584959-93/google-likes-the-look-of-microsoft-multitouch-for-web/)
+ - FYI
+   - You can import your *Google Analytics* data to *Can I Use* [tweet](https://twitter.com/chriscoyier/status/335134971406712832)
+   - *GitHub* starts performing *repository redirects* [post](https://github.com/blog/1508-repository-redirects-are-here)
+ - Tutorials
+   - Using *Mozilla Persona* in a simple example application, [@zeMirco]()’s [post](http://mircozeiss.com/mozilla-persona-example-app-with-express-and-couchdb/)
+   - Building a *real-time chat app with Node.js*, Socket.io and Express, [@KrasimirTsonev]()’s [post](http://net.tutsplus.com/tutorials/javascript-ajax/real-time-chat-with-nodejs-socket-io-and-expressjs/)
+   - Building a *note-taking app with IndexedDB*, Redis and Node.js, [@ednapiranha]()’s [post](https://hacks.mozilla.org/2013/05/building-a-notes-app-with-indexeddb-redis-and-node-js/)
+ - Articles
+   - *Paint profiling* a janky web-page in Chrome DevTools, [@addyosmani]()’s [post](http://addyosmani.com/blog/jank-busting-with-daft-punk/) ![][*]
+   - ![][>] Applying the “*vanilla web diet*” principles, [@codepo8]()’s [post](http://christianheilmann.com/2013/05/17/giving-image-swivel-the-vanilla-web-diet-treatment/) (w/ 26-min screencast) ![][*]
+   - A couple of examples why the *DOM is a mess*, [@garethheyes]()’s [post](http://www.thespanner.co.uk/2013/05/16/dom-clobbering/)
+   - About Chrome’s upcoming *`requestAutocomplete()`* API, [@maccaw]()’s [post](http://blog.alexmaccaw.com/requestautocomplete)
+ - Content
+   - ![][>] “*Mobile HTML*: The Future of Your Sites”, [@beverloo]()/[@paul_kinlan]()’s 38-min [talk](https://www.youtube.com/watch?v=EPYnGFEcis4) at IO ’13 + [slides](http://mobile-html.appspot.com) ![][*]
+   - ![][>] “Upgrading to a *Chrome Packaged App*”, [@joemarini]()’s 44-min [talk](https://www.youtube.com/watch?v=e0W2szZ2qhg) at IO ’13
+   - *HTML5 Game Development* for the Mobile Web, [@photonstorm]()’s PDF [slidedeck](http://www.photonstorm.com/archives/9980/my-adobe-max-slides-html5-game-development-for-the-mobile-web)
+   - ![][>] *PhoneGap* at [@adobemax]() 2013 [report](http://phonegap.com/blog/2013/05/15/phonegap-at-max/) (w/ videos)
+   - ![][>] [@Future_Insights]() attendees share *advice on mobile development*, short 2-min [video](http://blog.newrelic.com/2013/05/09/17-pieces-of-the-best-advice-on-mobile-development/)
+ - Sites
+   - *Responsive Images* Community Group, [responsiveimages.org](http://responsiveimages.org/)
+ - Tools
+   - Prepros, a *on-the-fly compiler* (Saas, CoffeeScript,…) with *live browser refresh* [page](http://alphapixels.com/prepros/) ![][*]
+   - Hashify, an online tool lets you *deliver messages via URLs* [page](http://http://hashify.me)
+   - Bookshelf.js, a Promise based *Node.js ORM* [page](http://bookshelfjs.org/)
+ - Opinion
+   - “What's next Google? Dropping SMTP support?”, [@eschnou]()’s [post](http://eschnou.com/entry/whats-next-google--dropping-smtp-support--62-24930.html)
+
 ## May 16th, 2013
 
  - News
@@ -239,43 +277,6 @@ Authoring & development workflow [link](https://developers.google.com/chrome-dev
    - “*W3C* Specifications Should Use an *Open License*” by [@robinberjon]() [link](http://www.berjon.com/blog/2013/04/w3c-open-license.html)
    - “Today I Saw The Future” by [@BrendanEich]() [link](https://brendaneich.com/2013/05/today-i-saw-the-future/) ![][*]
    - “The *W3C*'s Soul at Stake ” (Free Software Foundation) [link](https://www.fsf.org/blogs/rms/w3c-soul-at-stake)
-
-## May 6th, 2013
-
- - News
-   - New *W3C* releases:
-     - 3rd WD of *“CSS Selectors Level 4”* [TR](http://www.w3.org/TR/selectors4/) + [diff](http://services.w3.org/htmldiff?doc1=http://www.w3.org/TR/2012/WD-selectors4-20120823/&doc2=http://www.w3.org/TR/2013/WD-selectors4-20130502/) + [notes](http://www.w3.org/blog/CSS/2013/05/02/selectors4-update/)
-     - 1st WD of *“vCard Ontology”* [TR](http://www.w3.org/TR/vcard-rdf/) (describes a mapping of the vCard specification ([RFC](http://tools.ietf.org/html/rfc6350)) to RDF/OWL)
-   - [@LeaVerou]() on the latest developments at the *W3C* (diverse info) [article](http://www.netmagazine.com/features/hot-web-standards-marchapril-2013) ![][*]
-   - New in *Chrome DevTools*: An exclusive touch cursor while emulating *touch events* [post](https://plus.google.com/+PaulIrish/posts/ZNsF3t8h2WX)
-   - Future of the web and JavaScript programming *survey* [link](http://cos.github.io/js-ceres/)
-   - “California May Join EU in Two-Front Internet *Privacy* Push” (Bloomberg) [article](http://go.bloomberg.com/bgov-briefs/2013/05/01/california-may-join-eu-in-two-front-internet-privacy-push/)
- - FYI
-   - Why you should consider using *Zopfli* instead of `gzip` [post](https://plus.google.com/u/0/106697091536876736486/posts/ea4Sy8bwAoU)
-   - *Chrome* Canary is now advertising *`image/webp`* in its `Accept` header for all image requests [post](http://www.igvita.com/2013/05/01/deploying-webp-via-accept-content-negotiation/)
-   - *Firefox OS Simulator* 3.0 released [post](https://hacks.mozilla.org/2013/05/firefox-os-simulator-3-0-released/)
- - Tutorials
-   - “Automatic *`<figure>`* Numbering with *CSS Counters*” by [@HugoGiraudel]() [link](http://tympanus.net/codrops/2013/05/02/automatic-figure-numbering-with-css-counters/)
-   - “All About HTML5 *`<canvas>`*” by [@mollydotcom]() [link](http://blog.smartbear.com/software-quality/bid/283454/All-About-HTML5)
-   - “Methods for Modifying Objects in *OOCSS*” by [@OliverJAsh]() [link](http://oliverjash.me/2012/09/07/methods-for-modifying-objects-in-oocss.html) ![][*]
- - Articles
-   - “The *Chromium Embedded Framework*” (displays HTML content in desktop applications) [link](http://blogs.adobe.com/webplatform/2013/05/01/the-chromium-embedded-framework/)
-   - “The top five JavaScript *graphical libraries*” (D3, Bonsai, Raphael, …) [link](http://www.netmagazine.com/features/essential-javascript-top-five-graphical-libraries)
-   - “Open Peer and the Frontiers of *WebRTC*” by [@JugglinMike]() [link](http://weblog.bocoup.com/open-peer-and-webrtc/)
-   - “It’s Time To Get Formal With *Linked Data*” by [@Jenz514]() [link](http://semanticweb.com/author/jennyzaino)
- - Content
-   - ![][>] [@bdconf]() podcast #27: “*Web Tools* for the Open Web with [@divya]()” [27min] [link](http://fsm.bdconf.com/podcast/web-tools-for-the-open-web-with-divya-manian)
-   - ![][>] 42 *AngularJS* tutorial videos by [@johnlindquist]() [167min] [link](http://www.egghead.io/)
-   - Videos from this year’s *Google Test Automation Conference* [youtube](https://www.youtube.com/playlist?list=PLSIUOFhnxEiCODb8XQB-RUQ0RGNZ2yW7d) (playlist)
- - Tools
-   - hapi, a *server framework for Node.js* [page](http://spumko.github.io/) + [post](https://medium.com/what-i-learned-building/a525df6c0b0c)
-   - intern, a “next-generation” *JavaScript testing stack* [page](http://theintern.io/)
-   - toastr, a jQuery plugin for *non-blocking notifications* [page](http://codeseven.github.io/toastr/)
-   - Magnific Popup, a jQuery plugin for *responsive lightboxes* [page](http://dimsemenov.com/plugins/magnific-popup/) + [post](http://coding.smashingmagazine.com/2013/05/02/truly-responsive-lightbox/)
-   - CSSmatic, a collections of CSS tools: gradient generator, border radius, … [page](http://cssmatic.com/) ![][*]
-   -  autoprefixer, parses CSS and *adds prefixed properties and values* [repo](https://github.com/ai/autoprefixer)
- - Opinion
-   - “WYSIWTF” (separation of content and presentation) by [@karenmcgrane]() [link](http://alistapart.com/column/wysiwtf)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
