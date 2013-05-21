@@ -7,7 +7,43 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
-## May 20th, 2013 **Later today**
+## May 20th, 2013
+
+ - News
+   - *Polymer*: Google’s new UI framework built on *Web Components* [page](http://polymer-project.appspot.com/) ![][*]
+   - Info about status of *CSS Text Decoration* in WebKit and Blink [post](http://www.abinader.com.br/2013/05/15/css-level-3-text-decoration-on-webkit-and-blink-status/)
+   - *Mixed Content Blocker* enabled by default in Firefox 23 (currently in Aurora channel) [post](https://blog.mozilla.org/security/2013/05/16/mixed-content-blocking-in-firefox-aurora/)
+   - “*WebRTC* is growing fast: soon to surpass one billion devices”, [article](http://gigaom.com/2013/05/17/webrtc-one-billion-endpoints/)
+   - “Google cuts network usage by terabytes by switching to *WebP*”, CNET [article](http://news.cnet.com/8301-1023_3-57585114-93/google-cuts-network-usage-by-terabytes-by-switching-to-webp/)
+ - FYI
+   - Proposed charter for *JSON* WG at IETF [link](http://datatracker.ietf.org/doc/charter-ietf-json/)
+   - *Codepen* added a neat explainer cartoon [link](http://blog.codepen.io/2013/05/17/the-codepen-intro-cartoon/)
+ - Tutorials
+   - A beginner’s guide to *HTTP cache headers* (`cache-control`, `expires`, …), [@ksgyoung]()’s [post](http://www.mobify.com/blog/beginners-guide-to-http-cache-headers/) ![][*]
+   - Creating a video player using *Custom Elements*, [@vimpyboy]()’s [post](http://weblogs.asp.net/mikaelsoderstrom/archive/2013/05/17/create-a-video-player-using-custom-elements.aspx) (first *Polymer* tutorial afaik)
+   - Creating a horizontal slider with *sliding background images*, [@chriscoyier]()’s [post](http://css-tricks.com/slider-with-sliding-backgrounds/) (cool-looking)
+   - Creating a *responsive grid* layout with *CSS Flexbox*, [@crnacura]()’s [post](http://tympanus.net/codrops/2013/05/17/product-grid-layout/) ![][*] (w/ demo page)
+   - Creating pixel-perfect *breadcrumb navigation* with pure CSS, [@ruby_on_tails]()’s video [tutorial](http://thecodeplayer.com/walkthrough/css3-breadcrumb-navigation)
+   - Writing a short *unit test* to test the main controller of an *AngularJS* app, [@alex_young]()’s [post](http://dailyjs.com/2013/05/16/angularjs-5/)
+ - Articles
+   - Google’s *Polymer* and the future of web UI frameworks, [@rauschma]()’s [post](http://www.2ality.com/2013/05/google-polymer.html)
+   - Creating a “*performance culture*” at your workplace, [@souders]()’s [post](http://www.stevesouders.com/blog/2013/05/17/creating-a-performance-culture/)
+   - *Typographic design patterns* and current practices, [@Smash_scribe]()’s [post](http://www.smashingmagazine.com/2013/05/17/typographic-design-patterns-practices-case-study-2013/)
+   - How *eBay* built its first *Node.js* application, [@senthil_hi]()’s [post](http://www.ebaytechblog.com/2013/05/17/how-we-built-ebays-first-node-js-application/)
+ - Content
+   - ![][>] Clientside *package management* (*Bower*), [@danheberden]()’s 34-min [talk](https://developers.google.com/events/io/sessions/325634001) from IO ’13
+   - ![][>] *Web Components*: a tectonic shift for web development, [@ebidel]()’s 33-min [talk](https://developers.google.com/events/io/sessions/318907648) from IO ’13 ![][*]
+   - ![][>] Creating a *native mobile app experience* with web technologies, short 3-min [video](http://blogs.adobe.com/webplatform/2013/05/16/creating-an-installed-application-experience-on-mobile-with-web-technologies/) demo on live site
+   - *Developing for touch*, [@ppk]()’s PDF [slidedeck](http://quirksmode.org/presentations/Spring2013/touchevents_mobilism.pdf) from [@mobilismconf]()
+   - Learn about *Chrome packaged apps* from this [document](http://goo.gl/UHCS8) (detailed guide)
+ - Sites
+   - HTML5 Game Developers Forum [html5gamedevs.com](http://www.html5gamedevs.com/)
+ - Tools
+   - Coquette, a JavaScript *game micro-framework* [page](http://coquette.maryrosecook.com/)
+   - grunt-bower-install, a Grunt plugin which *adds `<script>`s for your Bower components* [page](http://stephenplusplus.github.io/grunt-bower-install/)
+   - GDrives, provides short URLs (e.g. `http://gdriv.es/foo`) for *Google Drive hosted web-sites* [page](http://gdriv.es/)
+ - Opinion
+   - “*Social login buttons* aren’t worth it”, [@aarron]()’s [post](http://blog.mailchimp.com/social-login-buttons-arent-worth-it/)
 
 ## May 17th, 2013
 
@@ -243,40 +279,6 @@ Authoring & development workflow [link](https://developers.google.com/chrome-dev
  - Opinion
    - “*CSS* is not an amoral monster” by [@bhenick]() [link](http://undercaffeinated.tumblr.com/post/49878531442/css-is-not-an-amoral-monster)
    - “Why *JavaScript* Is Doomed” by [@jsonmez]() [link](http://simpleprogrammer.com/2013/05/06/why-javascript-is-doomed/)
-
-## May 7th, 2013
-
- - News
-   - ![][&] [@annevk]() looking for feedback on *ZIP Archive API* and *HTTP authentication* [tweet](https://twitter.com/annevk/status/330306186542989313)
-   - Subject indicators (which enable *“parent selectors”*) to be disabled in *CSS* style sheets [tweet](https://twitter.com/LeaVerou/status/331123085648478208)
-   - The *Web Audio API* implementation in *Firefox* is making progress [post](http://robert.ocallahan.org/2013/05/web-audio-progress.html) (complete in Firefox 24?)
-   - [@FremyCompany]() reveals more new features in leaked *IE11* build [post](http://fremycompany.com/BG/2013/Internet-Explorer-11-9385-new-features-771/) ![][*]
-   - *Mozilla* & OTOY announce *codec which runs desktop apps* and HD video in-browser [CNET](http://reviews.cnet.com/8301-3514_7-57582743/mozilla-look-ma-no-plug-in-for-video-apps/) [VB](http://venturebeat.com/2013/05/03/mozilla-windows/) [TNW](http://thenextweb.com/insider/2013/05/03/mozilla-teams-up-with-3d-rendering-company-otoy-to-bring-desktop-apps-and-hd-video-to-the-browser/) ![][*]
-   - “Tor Books UK Says Ditching *DRM* Showed No Increase In Piracy” (Techdirt) [article](http://www.techdirt.com/articles/20130430/22322922899/tor-books-uk-says-ditching-drm-showed-no-increase-piracy.shtml)
-   - *Mozilla Dev Derby* May contest: *`getUserMedia`* [link](https://developer.mozilla.org/en-US/demos/devderby) (w/ prizes)
- - FYI
-   - *js1k* 2013 winners announced [link](http://js1k.com/2013-spring/)
-   - List of *“Can I Use”* visualizations [link](https://github.com/Fyrd/caniuse/wiki)
- - Tutorials
-   - “A look into the *`cubic-bezier`* function in *CSS Transitions*” by [@tfirdaus]() [link](http://www.hongkiat.com/blog/css-cubic-bezier/)
-   - “How to *mark up subheadings*, subtitles, alternative titles and taglines” by [@stevefaulkner]() [link](http://html5doctor.com/howto-subheadings/) ![][*]
-   - “The CSS *`:empty`* Selector” (w/ usage examples) by [@dudleystorey]() [link](http://demosthenes.info/blog/692/Vanishing-Acts-The-CSS-empty-Selector)
-   - “How to install and run *IE VMs*” by [@xdissent]() [link](https://github.com/xdissent/ievms)
- - Articles
-   - Tricking the user into revealing his *browsing history*, by [@lcamtuf]() [link](http://lcamtuf.blogspot.com/2013/05/some-harmless-old-fashioned-fun-with-css.html)
-   - *CSS style sheets* deserve better *documentation*, by [@byrichardpowell]() [link](http://www.byrichardpowell.co.uk/post/48682993574/on-css-documentation)
- - Content
-   - Overview of *HTTP/2.0*, slides by [@mnot]() [link](http://www.mnot.net/talks/http2-wtf/)
-   - Some really great insights on *using GitHub at work* being shared [link](https://gist.github.com/nzakas/5511916)
-   - ![][>] 5 Talks to Learn More About *Node.js* [post](http://blog.modulus.io/five-talks-learn-more-nodejs)
- - Tools
-   - CSS Modal, responsive *modal windows* with pure CSS [page](http://drublic.github.io/css-modal/)
-   - ExplainJS, provide script URL and view its *comments and code side-by-side* [page](http://www.explainjs.com/)
-   - is-near, JavaScript function that calculates if the *mouse position* is near to a given element [repo](https://github.com/pazguille/is-near)
- - Opinion
-   - “*W3C* Specifications Should Use an *Open License*” by [@robinberjon]() [link](http://www.berjon.com/blog/2013/04/w3c-open-license.html)
-   - “Today I Saw The Future” by [@BrendanEich]() [link](https://brendaneich.com/2013/05/today-i-saw-the-future/) ![][*]
-   - “The *W3C*'s Soul at Stake ” (Free Software Foundation) [link](https://www.fsf.org/blogs/rms/w3c-soul-at-stake)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
