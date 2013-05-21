@@ -10,7 +10,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
 ## May 20th, 2013
 
  - News
-   - *Polymer*: Google’s new UI framework built on *Web Components* [page](http://polymer-project.appspot.com/) ![][*]
+   - *Polymer*: Google’s new UI framework built on *Web Components* [page](http://polymer-project.org) ![][*]
    - Info about status of *CSS Text Decoration* in WebKit and Blink [post](http://www.abinader.com.br/2013/05/15/css-level-3-text-decoration-on-webkit-and-blink-status/)
    - *Mixed Content Blocker* enabled by default in Firefox 23 (currently in Aurora channel) [post](https://blog.mozilla.org/security/2013/05/16/mixed-content-blocking-in-firefox-aurora/)
    - “*WebRTC* is growing fast: soon to surpass one billion devices”, [article](http://gigaom.com/2013/05/17/webrtc-one-billion-endpoints/)
