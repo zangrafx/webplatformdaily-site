@@ -7,6 +7,48 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
+## May 21st, 2013
+
+ - News
+   - ![][&] New W3C releases:
+     - **Last Call** WD of “*Indexed Database API*” [TR](http://www.w3.org/TR/IndexedDB/) + [diff](http://www.w3.org/TR/2013/WD-IndexedDB-20130516/,diff) (comments: through 07 June)
+     - **Last Call** WD of “*JSON-LD* 1.0 Processing Algorithms and API” [TR](http://www.w3.org/TR/json-ld-api/) + [diff](http://www.w3.org/TR/2013/WD-json-ld-api-20130516/,diff) (comments: through 06 June)
+   - [@stevefaulkner]() proposes revising the definition of the *`<small>` element* [tweet](https://twitter.com/stevefaulkner/status/336780338086961152)
+   - First Chromium-based Opera: *Opera 14 for Android* released on Google Play store [post](http://my.opera.com/ODIN/blog/opera-14-for-android-is-out)
+   - Firefox 23 (currently in Aurora channel) brings *new DevTools features* [post](https://hacks.mozilla.org/2013/05/firefox-developer-tool-features-for-firefox-23/) ![][*]
+   - Chrome 29 (Nightly) delivers *faster rendering speeds* with SPDY and HTTP/2 [post](https://plus.google.com/+IlyaGrigorik/posts/Uxgvk35ntL2?e=-RedirectToSandbox) 
+   - *Intel* launches “HTML5 Development Environment” (cross-platform *HTML5 tools*) [page](http://software.intel.com/en-us/html5)
+   - “Google believes *Web Components* are the future of web development”, TechCrunch [article](http://techcrunch.com/2013/05/19/google-believes-web-components-are-the-future-of-web-development/)
+   - “Google: *Dart* will rescue browsers from JavaScript”, CNET [article](http://news.cnet.com/8301-1023_3-57584979-93/google-dart-will-rescue-browsers-from-javascript/)
+ - FYI
+   - Microsoft: port your PhoneGap app to *Windows Phone* and win prizes [post](http://blogs.windows.com/windows_phone/b/wpdev/archive/2013/05/20/use-your-html5-skills-port-your-phonegap-app-to-windows-phone-and-win-prizes.aspx)
+   - *HTTP2* is rule changer: extra requests are cheap, separate cachable files better than combined [tweet](https://twitter.com/jaffathecake/status/336085960884367361)
+ - Tutorials
+   - *Accessing the camera* and taking a picture with *HTML Media Capture* ([?](http://www.w3.org/TR/html-media-capture/)), [@cfjedimaster]()’s [post](http://www.raymondcamden.com/index.cfm/2013/5/20/Capturing-camerapicture-data-without-PhoneGap)
+   - Some lesser known but useful *LESS* features (i.a. mixins with return values), Mária’s [post](http://flippinawesome.org/2013/05/20/less-tips-and-tricks/)
+   - Some of the more powerful features of *Require.js*, [@jcreamer898]()’s [post](http://tech.pro/tutorial/1300/deep-dive-into-requirejs)
+   - *Revealing hidden latency patterns* with latency heat maps, [@brendangregg]()’s [post](http://dtrace.org/blogs/brendan/2013/05/19/revealing-hidden-latency-patterns/) ![][*]
+ - Articles
+   - *Network congestion*, domain sharding, *SPDY* and more, [@hobohacker]()’s [post](https://insouciant.org/tech/network-congestion-and-web-browsing/) ![][*]
+   - Understanding *WCAG* (Web Content Accessibility Guidelines) Level, [@karlgroves]()’s [post](http://www.karlgroves.com/2013/05/20/understanding-wcag-level/)
+ - Content
+   - ![][>] *Chrome DevTools* Revolutions 2013, [@paul_irish]()’s 34-min [talk](https://developers.google.com/events/io/sessions/325206725) from IO ’13
+   - ![][>] Stunning mobile visualization with *CSS Filters*, [@alexanderdanilo]()/[@Fyrd]()’s 45-min [talk](https://developers.google.com/events/io/sessions/325944029) from IO ’13
+   - ![][>] “*Test the Web Forward*”, [@RebeccaHauck]()’s 26-min [talk](http://marakana.com/s/post/1466/test_the_web_forward_adobe_rebecca_hauck_video) from [@sfhtml5]()
+   - ![][>] Debugging a real bug in JavaScript with *traceGL*, [@rem]()’s short 3-min [screencast](http://remysharp.com/2013/05/13/tracegl-for-javascript-debugging/)
+   - Showcasing real-world *usage of ECMAScript 6* features in today’s projects [wiki](https://github.com/sindresorhus/esnext-showcase/wiki)
+   - Design patterns for *GPU computing*, by NVIDIA Research [page](http://nvlabs.github.io/moderngpu/)
+ - Tools
+   - Fiddler, a free *web debugging proxy* for any browser, system or platform [page](http://fiddler2.com/) ![][*]
+   - Lazy.js, a JavaScript *utility library* like Underscore.js but with *lazy evaluation* [page](http://dtao.github.io/lazy.js/)
+   - sublime-jquery-snippets, a collection of Sublime Text *snippets for jQuery development* [repo](https://github.com/aaronpowell/sublime-jquery-snippets)
+   - Knockout-ES5, a *Knockout.js plugin* that lets you use simpler and more natural syntax [page](http://blog.stevensanderson.com/2013/05/20/knockout-es5-a-plugin-to-simplify-your-syntax/)
+   - Live *WebVTT* Validator, an online validator for the *WebVTT* (Web Video Text Tracks) format [page](http://quuz.org/webvtt/)
+ - Opinion
+   - *Cloud* is going to die much faster than anybody expected, [@leashless]()’s [post](http://vinay.howtolivewiki.com/blog/other/too-cheap-to-meter-massive-overbuild-in-server-farms-3373)
+   - Gathering the *Web tribes* together for the common good, [@dalmaer]()’s [post](https://medium.com/tech-talk/dff3e0ffdead)
+   - And so, Microsoft ruins *Skype*, [@NickBruun]()’s [post](http://bruun.co/2013/05/20/and-so-microsoft-ruins-skype)
+
 ## May 20th, 2013
 
  - News
@@ -238,47 +280,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - Handy Sass Mixins, a *collection of Sass mixins* for media queries, retina images, clearfix, etc. [link](http://web-design-weekly.com/2013/05/12/handy-sass-mixins/)
  - Opinion
    - “The Evolution of the Web, in a Blink” by [@vijithassar]() [link](http://www.newyorker.com/online/blogs/elements/2013/05/the-evolution-of-the-web-in-a-blink.html)
-
-## May 9th, 2013
-
- - News
-   - [@t]()’s (Mozilla’s web standards lead) thoughts on reforming the *W3C* [post](http://tantek.com/2013/128/b1/reforming-w3c-advisory-board)
-   - ![][o] [@WebPlatform]() announces “*Web Platform Wednesdays*” [post](http://blog.webplatform.org/2013/05/web-platform-wednesdays/)
-   - ![][&] [@robinberjon]()’s take on *Web Intents/Activities*: “Web Wishes” (unofficial draft) [tweet](https://twitter.com/robinberjon/status/332164907824979969)
-   - *ES6 Generators* landed in V8 (expected in Chrome 29) [post](http://wingolog.org/archives/2013/05/08/generators-in-v8) 
-   - [@openstreetmap]() launches iD, its *in-browser map editor* written in JavaScript [article](http://mapbox.com/blog/new-map-editor-launches-openstreetmap/) + [repo](https://github.com/systemed/iD)
- - FYI
-   - Mozilla’s *Open Badges* FAQ [link](http://dougbelshaw.com/blog/2013/05/08/answering-your-questions-about-open-badges/)
-   - *JSHint* 2.0.0 is out, brings partial support for *EcmaScript 6* [post](http://www.jshint.com/blog/2013-05-07/2-0-0/)
-   - New *Chrome DevTools docs* pages: Mobile emulation [link](https://developers.google.com/chrome-developer-tools/docs/mobile-emulation), 
-Authoring & development workflow [link](https://developers.google.com/chrome-developer-tools/docs/authoring-development-workflow)
- - Tutorials
-   - “*HTML5 Datalists*: What They Are They and When to Use Them” by [@tjvantoll]() [link](http://msdn.microsoft.com/en-us/magazine/dn133614.aspx)
-   - “*Chroma Key Video Effects* Using JavaScript and the HTML5 *`<canvas>`* Element” by [@boyofgreen]() [link](http://tech.pro/tutorial/1281/chroma-key-video-effects-using-javascript-and-the-html5-canvas-element)
-   - “Embedding *WebRTC Video Chat* Right Into Your Website” (Mozilla Hacks) [link](https://hacks.mozilla.org/2013/05/embedding-webrtc-video-chat-right-into-your-website/) (w/ video demo)
-   - “Line Clampin’” (*limiting text to a number of lines*) by [@chriscoyier]() [link](http://css-tricks.com/line-clampin/)
-   - “Use *ECMAScript 6* Today” by [@sayanee_]() [link](http://net.tutsplus.com/articles/news/ecmascript-6-today/)
-   - “*RequireJS* Fundamentals” by [@burkeholland]() [link](http://www.kendoui.com/blogs/teamblog/posts/13-05-08/requirejs-fundamentals.aspx)
-   - “*Avoiding Unnecessary Paints*” (during page scrolling) by [@aerotwist]() [link](http://www.html5rocks.com/en/tutorials/speed/unnecessary-paints/)
- - Articles
-   - “10 things you need to know about *Firefox OS*”, interview with [@codepo8]() [link](http://www.netmagazine.com/features/10-things-developers-need-know-about-firefox-os)
-   - “How many *stacked `<canvas>` elements* is too much?” by [@andrewmcgivery]() [link](http://mcgivery.com/how-many-stacked-canvas-elements-is-too-much/)
-   - “The flag object” (*OOCSS*) by [@csswizardry]() [link](http://csswizardry.com/2013/05/the-flag-object/)
-   - “You Can't *Detect A Touchscreen*” by [@StuCoxMedia]() [link](http://www.stucox.com/blog/you-cant-detect-a-touchscreen/) ![][*]
-   - “An Overview of HTML5, PhoneGap, and Mobile Apps” (*web/wrapped/hybrid apps*) by [@DanB]() [link](http://bricklin.com/html5gap.htm)
- - Content
-   - *Adobe MAX* ([@adobemax]()) 2013 conference videos are available on Adobe TV [link](http://tv.adobe.com/show/max-2013/)
-   - ![][>] “Improving Your 2013 Productivity With The *Chrome DevTools*” by [@addyosmani]() [18min] [youtube](https://www.youtube.com/watch?v=kVSo4buDAEE) ![][*]
-   - ![][>] “Automating Your Front-End Workflow With *Yeoman*” by [@addyosmani]() [15min] [youtube](https://www.youtube.com/watch?v=iUQ1fvdO9GY)
-   - “A Collection of *Page Transitions*” (with CSS Animations) by [@o_telho]() [demo-page](http://tympanus.net/Development/PageTransitions/) + [post](http://tympanus.net/codrops/2013/05/07/a-collection-of-page-transitions/) ![][*]
-   - *MPEG1 video decoder* in JavaScript [post](http://phoboslab.org/log/2013/05/mpeg1-video-decoder-in-javascript) (w/ demo)
-  - ![][>] “Introduction to *PhoneGap Build* - Building your first app” [11min] [link](http://tv.adobe.com/watch/building-mobile-apps-with-phonegap-build/introduction-to-phonegap-build-building-your-first-app)
-   - ![][>] “Web Performance Testing with *WebDriver*” by [@klepikovm]() [14min] [youtube](https://www.youtube.com/watch?v=0_kAPWSZNY4)
- - Tools
-   - web-animations-js, an experimental emulator of the *Web Animations* ([?](https://dvcs.w3.org/hg/FXTF/raw-file/default/web-anim/index.html)) specification [article](http://toolkitchen.github.io/platform/web-animations.html) + [repo](https://github.com/web-animations/web-animations-js)
- - Opinion
-   - “*CSS* is not an amoral monster” by [@bhenick]() [link](http://undercaffeinated.tumblr.com/post/49878531442/css-is-not-an-amoral-monster)
-   - “Why *JavaScript* Is Doomed” by [@jsonmez]() [link](http://simpleprogrammer.com/2013/05/06/why-javascript-is-doomed/)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
