@@ -1,3 +1,51 @@
+## May 13th, 2013
+
+ - News
+   - New *W3C* releases:
+     - 1st WD of “*Encrypted Media Extensions*” (*DRM*) [TR](http://www.w3.org/TR/encrypted-media/) + [post](http://www.w3.org/QA/2013/05/perspectives_on_encrypted_medi.html) by W3C CEO + [coverage](http://news.cnet.com/8301-1023_3-57583619-93/w3c-proceeds-with-web-video-encryption-despite-opposition/) on CNET
+     - PR of “*Touch Events*” [TR](http://www.w3.org/TR/touch-events/) + [diff](http://www.w3.org/TR/2013/PR-touch-events-20130509/,diff)
+     - CR of “*Pointer Events*” [TR](http://www.w3.org/TR/pointerevents/) + [diff](http://www.w3.org/TR/2013/CR-pointerevents-20130509/,diff)
+     - CR of “*HTML Media Capture*” (`capture` attribute) [TR](http://www.w3.org/TR/html-media-capture/) + [diff](http://www.w3.org/TR/2013/CR-html-media-capture-20130509/,diff)
+   - *Blink*’s *CSS Shaders* implementation halted: [discussion](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/cl05kpmPTRs/epUgaO5JzW4J) on blink-dev
+   - *Firefox Nightly* adds *AppCache debug tools*, w/ manifest validation [post](http://flailingmonkey.com/application-cache-not-a-douchebag) ![][*]
+   - “Google's *VP9 video codec* nearly done; YouTube will use it” [article](http://news.cnet.com/8301-1023_3-57584018-93/googles-vp9-video-codec-nearly-done-youtube-will-use-it/)
+   - New *privacy bill* requires apps to disclose how they share *personal data* [article](http://arstechnica.com/tech-policy/2013/05/new-privacy-bill-requires-apps-to-disclose-how-they-share-personal-data/)
+   - “Appeals court ruling could be 'death' of *software patents*” [article](http://www.networkworld.com/news/2013/051013-appeals-court-ruling-could-be-269658.html)
+   - Obama signs executive order […] to make *government-held data more accessible* to the public [link](http://www.whitehouse.gov/blog/2013/05/09/landmark-steps-liberate-open-data)
+ - FYI
+   - The state of *Do Not Track* in Firefox (visualizations of adoption rate) [link](https://dnt-dashboard.mozilla.org/)
+   - The idea of a *Global Accessibility Awareness Day* started with [@joedevon]()’s blog [post](http://mysqltalk.wordpress.com/2011/11/27/challenge-accessibility-know-how-needs-to-go-mainstream-with-developers-now/)
+   - *IE10* is now the most popular version of IE globally (according to StatCounter) [tweet](https://twitter.com/dstorey/status/333862146540716032)
+ - Tutorials 
+   - “Is This Thing On? Part 2” (determining the *connection status* with state machines) by [@ifandelse]() [link](http://www.icenium.com/community/blog/icenium-team-blog/2013/05/09/is-this-thing-on-%28part-2%29)
+   - “10 Easy *Accessibility* Tips Anyone Can Use” by [@jared_w_smith]() [link](http://webaim.org/blog/10-easy-accessibility-tips/)
+   - “How To Avoid Duplicate Downloads In *Responsive Images*” (*`<picture>`* element) by [@newtron]() [link](http://mobile.smashingmagazine.com/2013/05/10/how-to-avoid-duplicate-downloads-in-responsive-images/)
+   - “Continuous Monitoring of JavaScript *Code Complexity*” by [@ariyahidayat]() [link](http://ariya.ofilabs.com/2013/05/continuous-monitoring-of-javascript-code-complexity.html)
+   - “*AngularJS*: Managing Feeds” by [@alex_young]() [link](http://dailyjs.com/2013/05/09/angularjs-4/)
+ - Articles
+   - “Adobe Explores the Future of *Responsive Digital Layout*” [link](http://blogs.adobe.com/webplatform/2013/05/06/adobe-explores-the-future-of-responsive-digital-layout-with-national-geographic-content/) (w/ screencast) ![][*]
+   - “Techniques for *reducing page load times* and *serving images responsibly*” by [@nialljthompson]() [link](http://dandelion-burdock.com/articles/view/the-weight-of-the-web)
+   - “Celebrating Global *Accessibility Awareness* Day” (how to raise your own awareness) by [@slicknet]() [link](http://tech.blog.box.com/2013/05/celebrating-global-accessibility-awareness-day/)
+   - “Case study: How effective are *CDNs* for *mobile* visitors?” by [@tameverts]() [link](http://www.webperformancetoday.com/2013/05/09/case-study-cdn-content-delivery-network-mobile-3g/)
+   - The *HTML5 outline algorithm* (the topic is a bug in JAWS, but has useful content) [link](http://juicystudio.com/article/html5-outline-algorithm-jaws.php)
+   - About the *“art direction” use-case* ([?](http://usecases.responsiveimages.org/#art-direction)) for responsive images, by [@yoavweiss]() [link](http://blog.yoav.ws/2013/05/How-Big-Is-Art-Direction)
+ - Content
+   - ![][>] “*Grunt JS Automation* for the Lazy Developer”, [@ginader]()’s talk from [@html5devconf]() [51min] [youtube](https://www.youtube.com/watch?v=bntNYzCrzvE) ![][*]
+   - ![][>] Hanselminutes podcast #370: [@garannm]() talks about *developer monoculture* [33min] [link](http://www.hanselminutes.com/370/bacon-is-bad-for-you-on-developer-monoculture-with-garann-means)
+   - ![][>] JavaScript Jabber podcast #58: “Building *Accessible Websites*” [49min] [link](http://javascriptjabber.com/058-jsj-building-accessible-websites-with-brian-hogan/)
+   - “*HTTP/2.0*: Challenges and Opportunities”, [@mnot]()’s slide deck [link](http://www.mnot.net/talks/http2-challenges/)
+   - Breakouts, “the TodoMVC of *JavaScript game engines*” (helps you choose one) [page](http://city41.github.io/breakouts/)
+   - Flipping through a slide deck with *hand gestures* [post](http://www.chromeexperiments.com/detail/gesture-based-revealjs/) (w/ video demo)
+   - Interview with [@addyosmani]() about JavaScript, Google, … [link](http://net.tutsplus.com/articles/interviews/master-developers-addy-osmani/)
+ - Tools
+   - ClippingMagic, online tool for *removing image backgrounds* (powered by HTML5 Canvas) [page](http://clippingmagic.com/)
+   - unveil.js, a lightweight jQuery plugin for *lazy loading images* [page](http://luis-almeida.github.io/unveil/) (w/ demo) + [repo](https://github.com/luis-almeida/unveil/)
+   - [@heydonworks]()’s lightweight jQuery plugin that *makes “clickables” more accessible* [page](http://www.heydonworks.com/article/accessible-buttons-jquery-plugin)
+   - Handy Sass Mixins, a *collection of Sass mixins* for media queries, retina images, clearfix, etc. [link](http://web-design-weekly.com/2013/05/12/handy-sass-mixins/)
+ - Opinion
+   - “The Evolution of the Web, in a Blink” by [@vijithassar]() [link](http://www.newyorker.com/online/blogs/elements/2013/05/the-evolution-of-the-web-in-a-blink.html)
+
+
 ## May 9th, 2013
 
  - News
