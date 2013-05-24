@@ -10,7 +10,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
 ## May 23rd, 2013
 
  - News
-   - The *Fetch Standard* (supersedes CORS and the fetch algo from HTML5), [@annevk]()’s [intro](http://annevankesteren.nl/2013/05/fetching-urls) post ![][*]
+   - ![][&] The *Fetch Standard* (supersedes CORS and the fetch algo from HTML5), [@annevk]()’s ELI5 [post](http://annevankesteren.nl/2013/05/fetching-urls) ![][*]
    - *Responsive images*, [@brucel]()’s interim [report](http://www.brucelawson.co.uk/2013/responsive-images-intrerim-report/)
    - New features in *Chrome 27* (recently released) [post](http://www.sitepoint.com/chrome-27-whats-new/) + `Accept-Charset` HTTP header removed [tweet](https://twitter.com/hsivonen/status/337165108646133760) 
    - *DevTools Workspaces* ([?](https://www.youtube.com/watch?v=kVSo4buDAEE&feature=youtu.be&t=47s)) landed in Chrome Canary [tweet](https://twitter.com/ChromiumDev/status/337308972858089474)
