@@ -7,6 +7,43 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
+## May 23rd, 2013
+
+ - News
+   - The *Fetch Standard* (supersedes CORS and the fetch algo from HTML5), [@annevk]()’s [intro](http://annevankesteren.nl/2013/05/fetching-urls) post ![][*]
+   - *Responsive images*, [@brucel]()’s interim [report](http://www.brucelawson.co.uk/2013/responsive-images-intrerim-report/)
+   - New features in *Chrome 27* (recently released) [post](http://www.sitepoint.com/chrome-27-whats-new/) + `Accept-Charset` HTTP header removed [tweet](https://twitter.com/hsivonen/status/337165108646133760) 
+   - *DevTools Workspaces* ([?](https://www.youtube.com/watch?v=kVSo4buDAEE&feature=youtu.be&t=47s)) landed in Chrome Canary [tweet](https://twitter.com/ChromiumDev/status/337308972858089474)
+   - Initial support for *WebVTT* coming to Firefox Nightly [tweet](https://twitter.com/humphd/status/337388858654224384)
+   - Mozilla can produce *near-native performance* on the Web, Ars Technica [article](http://arstechnica.com/information-technology/2013/05/native-level-performance-on-the-web-a-brief-examination-of-asm-js/)
+   - Microsoft teases *Internet Explorer 11* WebGL support, Verge [article](http://www.theverge.com/2013/5/22/4355942/internet-explorer-11-webgl-support-teased-on-vine)
+ - FYI
+   - List of *Chrome sessions* from Google’s IO 2013 [playlist](https://www.youtube.com/playlist?list=PLg5dRHeDFEAWKN4weNJYDrC533aCVX7ME) (30 videos)
+   - *AngularJS* is performing “spring cleaning” on GitHub [post](http://gigaom.com/2013/05/22/how-google-plans-to-rule-the-computing-world-through-chrome/)
+ - Tutorials
+   - Designing layouts has become easy with *CSS Flexbox*, [@dstorey]()’s [post](http://coding.smashingmagazine.com/2013/05/22/centering-elements-with-flexbox/) ![][*]
+   - Creating a *natural language form* with custom input elements, [@crnacura]()’s [post](http://tympanus.net/codrops/2013/05/21/natural-language-form-with-custom-input-elements/) + [demo](http://tympanus.net/Tutorials/NaturalLanguageForm/) page
+   - Providing *quasi scope in CSS* with BEM, [@csswizardry]()’s [post](http://csswizardry.com/2013/05/scope-in-css/)
+   - *Animating CSS pseudo-elements* to create stunning effects, [@marco_bf]()’s [post](http://tympanus.net/codrops/2013/05/22/examples-of-pseudo-elements-animations-and-transitions/) + [demos](http://tympanus.net/Development/PseudoElementsAnimationsTransitions/) page
+   - Example of using the `content` property and *`attr()` function* together in CSS, [@davidwalshblog]()’s [post](http://davidwalsh.name/css-content-attr)
+   - *CSS media queries* - a handy cheat sheet (logic + patterns), [@chriscoyier]()’s [post](http://css-tricks.com/logic-in-media-queries/) 
+ - Articles
+   - Introduction to *Web Components* (quick overview), [@cfjedimaster]()’s [post](http://www.raymondcamden.com/index.cfm/2013/5/22/The-Future-of-the-Web) ![][*]
+   - Choosing between HTML/CSS, SVG, Canvas and WebGL for *visualizations*, [@kissane]()’s [post](http://source.mozillaopennews.org/en-US/articles/twitters-miguel-rios-choosing-viz-methods/)
+   - Inadvertent sharing of variables via *closures in JavaScript*, [@rauschma]()’s [post](http://www.2ality.com/2013/05/quirk-closures.html)
+ - Content
+   - ![][>] The modern workflow for *developing the mobile web*, [@gauntface]()’s 31-min [talk](https://developers.google.com/events/io/sessions/324558168) from IO ’13
+   - ![][>] *Compositing* in Blink and WebKit (browser internals), a 51-min [video](https://www.youtube.com/watch?v=Lpk1dYdo62o) presentation
+ - Sites
+   - Front-end Rescue, *keeping up to date* with front-end technologies [page](http://uptodate.frontendrescue.org/)
+ - Tools
+   - Icenium, a set of cloud-based tools for *developing cross-platform mobile apps* [page](http://www.icenium.com/) + [comparison](http://www.icenium.com/blog/icenium-team-blog/2013/05/01/what%27s-the-difference-between-icenium-and-phonegap-build-)
+   - Picksum Ipsum, a funny *“Lorem ipsum” text generator* [page](http://www.picksumipsum.co.uk/)
+   - Two handy helper functions for *HTML5 Canvas* development [gist](https://gist.github.com/codepo8/5631638)
+ - Opinion
+   - “Stop publishing *JavaScript API design articles* centered around jQuery plugins” [tweet](https://twitter.com/slicknet/status/337224283967336450)
+   - How *Google* plans to rule the computing world through Chrome, [@KevinCTofel]()’s [post](http://gigaom.com/2013/05/22/how-google-plans-to-rule-the-computing-world-through-chrome/)
+
 ## May 22nd, 2013
 
  - News
@@ -231,39 +268,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - hyperagent.js, a JavaScript library for consuming HAL *hypermedia APIs* in the browser [page](http://weluse.github.io/hyperagent/)
  - Opinion
    - “The Elusive Universal *Web Bytecode*”, [@kripken]()’s [post](http://mozakai.blogspot.com/2013/05/the-elusive-universal-web-bytecode.html)
-
-## May 14th, 2013
-
- - News
-   - ![][&] Submit questions for the Fireside Chat with the *Blink team* at I/O (May 15, 5:30PM PDT) [tweet](https://twitter.com/ChromiumDev/status/333987200205213697)
-   - Samsung and *Opera* working together to bring Opera onto Samsung’s Blu-ray players [tweet](https://twitter.com/opera/status/333953715688067074)
- - FYI
-   - 6 *Mozilla GitHub Projects* to Hack On [link](http://tech.pro/blog/1275/6-mozilla-github-projects-to-hack-on) ![][*]
-   - GIF images are not limited to 256 colors: *True-Color GIF* example [link](http://phil.ipal.org/tc.html)
-   - A a brief history of *detecting `localStorage`* [gist](https://gist.github.com/paulirish/5558557)
-   - *Mothereffing·animated·gif* updated, now supports transparency [tweet](https://twitter.com/paul_irish/status/334080001290940417)
- - Tutorials
-   - “Speed Up App Development with *X-Tag* and *Web Components*” by [@csuwldcat]() [link](https://hacks.mozilla.org/2013/05/speed-up-app-development-with-x-tag-and-web-components/) (Mozilla Hacks) ![][*]
-   - “Define flow areas directly with *CSS Regions*” by [@alanstearns]() [link](http://blogs.adobe.com/webplatform/2013/05/13/define-flow-areas-directly-with-css-regions/) (Adobe)
-   - “Multiple Background *CSS Animations*” by [@davidwalshblog]() [link](http://davidwalsh.name/multiple-background-css-animations)
-   - “Creating Image Galleries with Clipped Images Using *CSS Pointer Events* and SVG” by [@zoltandulac]() [link](http://flippinawesome.org/2013/05/13/creating-image-galleries-with-clipped-images-using-css-pointer-events-and-svg/)
-   - “JavaScript Design Patterns - The *Revealing Module Pattern*” by [@cfjedimaster]() [link](http://www.raymondcamden.com/index.cfm/2013/5/13/JavaScript-Design-Patterns--The-Revealing-Module-Pattern)
- - Articles
-   - “Moving beyond `window.onload()`” (*web performance* metrics) by [@souders]() [link](http://www.stevesouders.com/blog/2013/05/13/moving-beyond-window-onload/)
-   - “Making the *web platform* more suitable for ‘apps’” by [@annevk]() [link](http://annevankesteren.nl/2013/05/applifying)
-   - “New Layouts for the *Multi-Device Web*” by [@lukew]() [link](http://www.lukew.com/ff/entry.asp?1721)
- - Content
-   - ![][>] “Fast *Performance* with CSS on Mobile”, [@paul_irish]()’s talk from [@adobemax]() [72min] [link](http://www.adobe.com/inspire/2013/05/irish-fast-css-on-mobile.html)
-   - ![][>] [@txjs]() (Texas JavaScript) 2013 talks on [vimeo](https://vimeo.com/channels/txjs2013) ![][*]
-   - Interview with [@paul_irish]() about *Blink* [link](http://alistapart.com/blog/post/paul-irish-on-chrome-moving-to-blink)
- - Sites
-   - Responsive Resources, a coll. of resources about the various aspects of *responsive web design* [page](http://bradfrost.github.io/this-is-responsive/resources.html)
- - Tools
-   - mozVibrate-polyfill, a polyfill for the *`mozVibrate` API* of Firefox OS (*Vibration API* [?](http://www.w3.org/TR/vibration/)) [repo](https://github.com/codepo8/mozVibrate-polyfill)
-   - Codeblock.js, editable and *runnable JavaScript code blocks* [page](http://filepicker.github.io/codeblock.js/) (w/ demos)
- - Opinion
-   - “No, *HTML5* does not have a *performance issue*.” by [@pbakaus]() [link](http://paulbakaus.com/2013/05/13/no-html5-does-not-have-a-performance-issue/)
-   - “Overwhelmed by *JavaScript Dependencies*” by [@faassen]() [link](http://blog.startifact.com/posts/overwhelmed-by-javascript-dependencies.html)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"

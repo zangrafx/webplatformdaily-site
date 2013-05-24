@@ -1,3 +1,36 @@
+## May 14th, 2013
+
+ - News
+   - ![][&] Submit questions for the Fireside Chat with the *Blink team* at I/O (May 15, 5:30PM PDT) [tweet](https://twitter.com/ChromiumDev/status/333987200205213697)
+   - Samsung and *Opera* working together to bring Opera onto Samsung’s Blu-ray players [tweet](https://twitter.com/opera/status/333953715688067074)
+ - FYI
+   - 6 *Mozilla GitHub Projects* to Hack On [link](http://tech.pro/blog/1275/6-mozilla-github-projects-to-hack-on) ![][*]
+   - GIF images are not limited to 256 colors: *True-Color GIF* example [link](http://phil.ipal.org/tc.html)
+   - A a brief history of *detecting `localStorage`* [gist](https://gist.github.com/paulirish/5558557)
+   - *Mothereffing·animated·gif* updated, now supports transparency [tweet](https://twitter.com/paul_irish/status/334080001290940417)
+ - Tutorials
+   - “Speed Up App Development with *X-Tag* and *Web Components*” by [@csuwldcat]() [link](https://hacks.mozilla.org/2013/05/speed-up-app-development-with-x-tag-and-web-components/) (Mozilla Hacks) ![][*]
+   - “Define flow areas directly with *CSS Regions*” by [@alanstearns]() [link](http://blogs.adobe.com/webplatform/2013/05/13/define-flow-areas-directly-with-css-regions/) (Adobe)
+   - “Multiple Background *CSS Animations*” by [@davidwalshblog]() [link](http://davidwalsh.name/multiple-background-css-animations)
+   - “Creating Image Galleries with Clipped Images Using *CSS Pointer Events* and SVG” by [@zoltandulac]() [link](http://flippinawesome.org/2013/05/13/creating-image-galleries-with-clipped-images-using-css-pointer-events-and-svg/)
+   - “JavaScript Design Patterns - The *Revealing Module Pattern*” by [@cfjedimaster]() [link](http://www.raymondcamden.com/index.cfm/2013/5/13/JavaScript-Design-Patterns--The-Revealing-Module-Pattern)
+ - Articles
+   - “Moving beyond `window.onload()`” (*web performance* metrics) by [@souders]() [link](http://www.stevesouders.com/blog/2013/05/13/moving-beyond-window-onload/)
+   - “Making the *web platform* more suitable for ‘apps’” by [@annevk]() [link](http://annevankesteren.nl/2013/05/applifying)
+   - “New Layouts for the *Multi-Device Web*” by [@lukew]() [link](http://www.lukew.com/ff/entry.asp?1721)
+ - Content
+   - ![][>] “Fast *Performance* with CSS on Mobile”, [@paul_irish]()’s talk from [@adobemax]() [72min] [link](http://www.adobe.com/inspire/2013/05/irish-fast-css-on-mobile.html)
+   - ![][>] [@txjs]() (Texas JavaScript) 2013 talks on [vimeo](https://vimeo.com/channels/txjs2013) ![][*]
+   - Interview with [@paul_irish]() about *Blink* [link](http://alistapart.com/blog/post/paul-irish-on-chrome-moving-to-blink)
+ - Sites
+   - Responsive Resources, a coll. of resources about the various aspects of *responsive web design* [page](http://bradfrost.github.io/this-is-responsive/resources.html)
+ - Tools
+   - mozVibrate-polyfill, a polyfill for the *`mozVibrate` API* of Firefox OS (*Vibration API* [?](http://www.w3.org/TR/vibration/)) [repo](https://github.com/codepo8/mozVibrate-polyfill)
+   - Codeblock.js, editable and *runnable JavaScript code blocks* [page](http://filepicker.github.io/codeblock.js/) (w/ demos)
+ - Opinion
+   - “No, *HTML5* does not have a *performance issue*.” by [@pbakaus]() [link](http://paulbakaus.com/2013/05/13/no-html5-does-not-have-a-performance-issue/)
+   - “Overwhelmed by *JavaScript Dependencies*” by [@faassen]() [link](http://blog.startifact.com/posts/overwhelmed-by-javascript-dependencies.html)
+
 ## May 13th, 2013
 
  - News
