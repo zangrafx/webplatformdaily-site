@@ -222,7 +222,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - *Responsive Images* Community Group, [responsiveimages.org](http://responsiveimages.org/)
  - Tools
    - Prepros, a *on-the-fly compiler* (Saas, CoffeeScript,…) with *live browser refresh* [page](http://alphapixels.com/prepros/) ![][*]
-   - Hashify, an online tool lets you *deliver messages via URLs* [page](http://http://hashify.me)
+   - Hashify, an online tool lets you *deliver messages via URLs* [page](http://hashify.me)
    - Bookshelf.js, a Promise based *Node.js ORM* [page](http://bookshelfjs.org/)
  - Opinion
    - “What's next Google? Dropping SMTP support?”, [@eschnou]()’s [post](http://eschnou.com/entry/whats-next-google--dropping-smtp-support--62-24930.html)
