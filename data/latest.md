@@ -7,6 +7,42 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
+## May 24th, 2013
+
+ - News
+   - ![][&] New W3C releases:
+     - **Last Call** of “*Vibration API*” [TR](http://www.w3.org/TR/vibration/) + [diff](http://www.w3.org/TR/2013/WD-vibration-20130523/,diff) (comments: through 13 June)
+     - Group Note of “*Web Intents*” [TR](http://www.w3.org/TR/web-intents/) + [diff](http://www.w3.org/TR/2013/NOTE-web-intents-20130523/,diff)  (no longer a working draft)
+     - 2nd WD of “*User Interface Security Directives for Content Security Policy*” [TR](http://www.w3.org/TR/UISecurity/) + [diff](http://www.w3.org/TR/2013/WD-UISecurity-20130523/,diff)
+   - *CSS Box Alignment* 2nd WD release [notes](http://www.w3.org/blog/CSS/2013/05/24/css3-alig-update/) (posted with delay)
+   - *Canvas Blending* is now in Chrome Canary, WebKit Nightly and Firefox [post](http://blogs.adobe.com/webplatform/2013/05/20/canvas-blending-is-now-in-chrome-canary-safari-and-firefox/)
+   - *DOM Futures* support coming to Blink [post](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9q5kP0eMQc8/Gy6M9nFHjuoJ)
+   - Google abandons *open standards* for instant messaging, [@EFF]()’s [article](https://www.eff.org/deeplinks/2013/05/google-abandons-open-standards-instant-messaging)
+   - Google introduces *Portable Native Client* (enables adding C/C++ code to web apps), TechCrunch [article](http://techcrunch.com/2013/05/17/google-introduces-portable-native-client-makes-it-easier-for-developers-to-add-c-and-c-code-to-their-web-apps/)
+ - FYI
+   - The short history of the *`about:` URL* [post](http://www.montulli.org/lou/about_urls)
+   - AngularJS and Ember.js have expressed plans to support *Web Components* [post](http://www.2ality.com/2013/05/web-components-angular-ember.html)
+   - There are over 70 *Yeoman generators* available on npm [tweet](https://twitter.com/addyosmani/status/337551686723846144)
+ - Tutorials
+   - A modular and flexible *alternative to the `switch` statement* in JavaScript, [@Encosia]()’s [post](http://encosia.com/first-class-functions-as-an-alternative-to-javascripts-switch-statement/)
+ - Articles
+   - *Case study*: Building the new Financial Times web app, [@wilsonpage]()’s [post](http://coding.smashingmagazine.com/2013/05/23/building-the-new-financial-times-web-app/) (extensive)
+   - About JavaScript’s *event loop*, [@tlhunter]()’s [post](http://thomashunter.name/blog/the-javascript-event-loop-presentation/)
+   - Working on a large *AngularJS project*, [@jhooks]()’s [post](http://joelhooks.com/blog/2013/05/22/lessons-learned-kicking-off-an-angularjs-project/) in which he shares his experiences
+ - Content
+   - ![][>] Introduction to *Modernizr*, [@chriscoyier]()’s 24-min [screencast](http://css-tricks.com/video-screencasts/126-using-modernizr/) ![][*]
+   - *HTML5 Canvas*: counting pixels of a certain color + finding the color at a position `x` and `y`, live [demo](http://jsbin.com/ojiwan/3/edit)
+   - *Checkboxes* that look like lightsabers from Star Wars in pure CSS, [demo](http://scotch.io/demos/pure-css3-star-wars-lightsaber-checkboxes) page ![][*]
+ - Sites
+   - Embercasts, free screencasts for learning *Ember.js* [embercasts.com](http://www.embercasts.com/)
+ - Tools
+   - Stylify Me, an online tool that *generates a style guide* of your web site [page](http://stylifyme.com/) ![][*]
+   - WideArea, a JavaScript library that *adds fullscreen capabilities* to your `<textarea>` elements [page](http://usablica.github.io/widearea/)
+   - Firefox OS Boilerplate App, a boilerplate for *getting started with apps for Firefox OS* [repo](https://github.com/robnyman/Firefox-OS-Boilerplate-App)
+   - -prefix-free, a script that *adds the current browser’s prefix* to any CSS code [page](http://leaverou.github.io/prefixfree/)
+ - Opinion
+   - “The APIs surrounding *`contenteditable`* are so bad it’s insulting”, [@cjno]()’s [tweet](https://twitter.com/cjno/status/337862204613357568)
+
 ## May 23rd, 2013
 
  - News
@@ -225,49 +261,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - Opinion
    - What benefit do you gain by arbitrarily *dividing the entire web into two classes*?, [@adactio]()’s [post](http://adactio.com/journal/6246/)
    - Is *front end development* relatively easier than other fields of engineering?, [quora](http://www.quora.com/Startups/Why-are-front-end-developers-so-high-in-demand-at-startups-if-front-end-development-is-relatively-easier-than-other-fields-of-engineering) discussion
-
-## May 15th, 2013
-
- - News
-   - New *W3C* releases:
-     - 2nd WD of “*CSS Box Alignment*” [TR](http://www.w3.org/TR/css3-align/) + [diff](http://www.w3.org/TR/2013/WD-css3-align-20130514/,diff)
-     - REC of “*Page Visibility*” [TR](http://www.w3.org/TR/page-visibility/) + [diff](http://http://www.w3.org/TR/2013/REC-page-visibility-20130514/,diff)
-     - 3rd WD of “*Shadow DOM*” [TR](http://www.w3.org/TR/shadow-dom/) + [diff](http://www.w3.org/TR/2013/WD-shadow-dom-20130514/,diff)
-     - **New:** 1st WD of “*Custom Elements*” [TR](http://www.w3.org/TR/custom-elements/) (define and use new types of DOM elements in a document)
-     - **New:** 1st WD of “*HTML Imports*” [TR](http://www.w3.org/TR/html-imports/) (include and reuse HTML documents in other HTML documents)
-     - **New:** 1st WD of “*Raw Socket API*” [TR](http://www.w3.org/TR/raw-sockets/) (provides APIs to raw UDP sockets and TCP client/server sockets)
-   - New *ECMAScript 6* draft spec released (15th revision) [page](http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts) w/ changelog
-   - *Firefox 21* released: [notes](http://www.mozilla.org/en-US/firefox/21.0/releasenotes/), [info](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/21) for devs, [post](https://blog.mozilla.org/futurereleases/2013/05/14/firefox-heal-thyself/) on “Health Report”, [info](https://twitter.com/deezthugs/status/334430499730780160) on *`crypto.getRandomValues`*
-   - *CSS Exclusions and Shapes* enabled by default *WebKit Nightly*, sources: [1](https://twitter.com/bear_travis/status/334395548775903232) and [2](https://twitter.com/divya/status/334401094497218560)
-   - “W3C *Pointer Events* Gains Momentum Within Web Communities” [article](http://msopentech.com/blog/2013/05/14/w3c-pointer-events-gains-momentum-within-web-communities/)
-   - “Latest study finds IE10 is better at *blocking malware* than Chrome, Safari, Firefox, and Opera” [article](http://thenextweb.com/insider/2013/05/14/latest-study-finds-ie10-is-better-at-blocking-malware-than-chrome-safari-firefox-and-opera/)
-   - “Microsoft fixes two critical *IE security flaws*, including 'nuke' zero-day” [article](http://www.zdnet.com/microsoft-fixes-two-critical-ie-security-flaws-including-nuke-zero-day-7000015369/)
- - FYI
-   - IE since version 9 supports the *JPEG XR* image format, [twitter](https://twitter.com/dstorey/status/334593846711308288) discussion (about browser support)
-   - “*CSS Variables* spec gets prepared for LC, the implementation in WebKit prepared for removal”, [tweet](https://twitter.com/dirkschulze/status/334323117293989888)
- - Tutorials
-   - An extensive tutorial on *JavaScript regular expressions*, [@codylindley]()’s [post](http://tech.pro/tutorial/1214/javascript-regular-expression-enlightenment) ![][*]
-   - Web-applications done right with *Ember.js*, [@joachimhs]()’s [post](http://www.infoq.com/articles/Emberjs-Web-Applications) (extensive, w/ code for demo app)
-   - Applying *custom styles* to maps from *Google Maps*, [@creatiface]()’s [post](http://www.hongkiat.com/blog/google-maps-styles/) (w/ demo)
-   - Improving the *accessibility* of *required form fields*, [@rogerhudson]()’s [post](http://usability.com.au/2013/05/accessible-forms-2-required-fields-and-extra-information/)
-   - *Detecting media query changes* in JavaScript with *CSS Animations*, [@MisterJack]()’s [post](http://css-tricks.com/media-query-change-detection-in-javascript-through-css-animations/)
-   - Creating a playable Pong game with *pure CSS*, [@alexmwalker]()’s [post](http://www.sitepoint.com/css3-pong-insane-things-to-do-with-css/) ![][*]
-   - Building rich JavaScript front ends with *Grunt*, Al Scott’s [post](http://spin.atomicobject.com/2013/05/13/javascript-front-end-grunt/)
-   - Distributing *optimized assets* with Google’s *`ngx_pagespeed`* and Amazon’s CloudFront CDN [@dwlz]()’s [post](http://dlo.me/archives/2013/05/14/nginx-pagespeed-cloudfront/)
- - Articles
-   - A hybrid client- and server-side approach to deliver the best *user experience* [@luca_passani]()’s [post](http://mobile.smashingmagazine.com/2013/05/14/providing-the-best-mobile-user-experience-possible/)
-   - Compilation of 20 web development *best practices*, [@davemethvin]()/[@reybango]()’s [post](http://www.modern.ie/en-us/cross-browser-best-practices) ![][*]
-   - Mozilla’s [@codepo8]() answers a few questions about “mobile web” and *sites vs. apps* [post](http://christianheilmann.com/2013/05/15/a-few-questions-and-answers-about-mobile-web-and-sites-vs-apps/)
- - Content
-   - ![][>] “The Road to *Node.js* v1.0”, [@izs]()’s [talk](http://blog.strongloop.com/the-road-to-node-js-v1-0/) about upcoming *Node.js* development [15min]
-   - How to deal with images in *Responsive Web Design*, [@davatron5000]()’s [slides](https://speakerdeck.com/davatron5000/mo-pixels-mo-problems) from [@artifactconf]() ![][*]
- - Sites 
-   - GoodUI, guidelines for *creating good user interfaces* [goodui.org](http://www.goodui.org/)
- - Tools
-   - waax, a JavaScript library built on top of the *Web Audio API* [repo](https://github.com/hoch/waax)
-   - hyperagent.js, a JavaScript library for consuming HAL *hypermedia APIs* in the browser [page](http://weluse.github.io/hyperagent/)
- - Opinion
-   - “The Elusive Universal *Web Bytecode*”, [@kripken]()’s [post](http://mozakai.blogspot.com/2013/05/the-elusive-universal-web-bytecode.html)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
