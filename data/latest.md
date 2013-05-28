@@ -27,7 +27,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - Articles
    - Making the *Chromebook Pixel* more suitable for web development, [@ariyahidayat]()’s [post](http://ariya.ofilabs.com/2013/05/chromebook-pixel-for-web-development.html)
    - Determining the *ideal line length* in `em`s, [@russmaxdesign]()’s [post](http://www.maxdesign.com.au/2013/05/25/ideal-line-length-in-ems/)
-   - *CPU core estimation* with JavaScript, [@eboyjr]()’s [post]() (w/ live demo)
+   - *CPU core estimation* with JavaScript, [@eboyjr]()’s [post](http://blog.wg.oftn.org/post/51125082905/core-estimator) (w/ live demo)
  - Content
    - ![][>] *Mobile performance* from the radio up: Battery, latency…, [@igrigorik]()’s 54-min [talk](https://developers.google.com/events/io/sessions/327864330) from IO ’13
    - ![][>] Seeing the world through *high DPI*, [@petele]()’s 39-min [talk](https://developers.google.com/events/io/sessions/350992350) from IO ’13
