@@ -18,7 +18,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - Microsoft is doing a 3-question survey on *dev tools* usage [tweet](https://twitter.com/IEDevChat/status/338041433065930753)
    - *CSS anomaly*: The `<body>` background only floods the viewport if no `<html>` background is defined [post](http://css-tricks.com/just-one-of-those-weird-things-about-css-background-on-body/)
    - “`about:about`” gives you a *list of all `about:` pages* in your Firefox and Chrome browser
-   - *Accessibility tip*: Hashtags in camel case are read as separate words in AT ([?](http://en.wikipedia.org/wiki/Assistive_technology))
+   - *Accessibility tip*: Hashtags in camel case are read as separate words in screen readers [tweet](https://twitter.com/heydonworks/status/338646556490231808)
  - Tutorials
    - *Promises and deferreds* in JavaScript (theory + usage examples), [@cwebbdesign]()’s [post1](http://blog.mediumequalsmessage.com/promise-deferred-objects-in-javascript-pt1-theory-and-semantics) & [post2](http://blog.mediumequalsmessage.com/promise-deferred-objects-in-javascript-pt2-practical-use) ![][*]
    - 5 *HTML5 features* you need to know (i.a. DNS prefetching, `download` attr.), [@AdnaneBelmadiaf]()’s [post](http://daker.me/2013/05/5-html5-features-you-need-to-know.html)
