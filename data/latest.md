@@ -7,6 +7,42 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
+## May 27th, 2013
+
+ - News
+   - ![][&] *HTML 5.1 spec*: Spaghetti Monster example replaced with Crocoduck [tweet](https://twitter.com/stevefaulkner/status/337879140625686528)
+   - *Presto-based Opera Mobile* re-uploaded to Play Store as “Opera Mobile Classic” [page](https://play.google.com/store/apps/details?id=com.opera.browser.classic)
+   - *jQuery* 1.10.0 and 2.0.1 released, [release notes](http://blog.jquery.com/2013/05/24/jquery-1-10-0-and-2-0-1-released/)
+   - “Report: Google considering Internet balloons to *connect sub-Saharan Africa*”, Ars Technica [article](http://arstechnica.com/business/2013/05/report-google-considering-internet-balloons-to-connect-sub-saharan-africa/)
+ - FYI
+   - Microsoft is doing a 3-question survey on *dev tools* usage [tweet](https://twitter.com/IEDevChat/status/338041433065930753)
+   - *CSS anomaly*: The `<body>` background only floods the viewport if no `<html>` background is defined [post](http://css-tricks.com/just-one-of-those-weird-things-about-css-background-on-body/)
+   - “`about:about`” gives you a *list of all `about:` pages* in your Firefox and Chrome browser
+   - *Accessibility tip*: Hashtags in camel case are read as separate words in AT ([?](http://en.wikipedia.org/wiki/Assistive_technology))
+ - Tutorials
+   - *Promises and deferreds* in JavaScript (theory + usage examples), [@cwebbdesign]()’s [post1](http://blog.mediumequalsmessage.com/promise-deferred-objects-in-javascript-pt1-theory-and-semantics) & [post2](http://blog.mediumequalsmessage.com/promise-deferred-objects-in-javascript-pt2-practical-use) ![][*]
+   - 5 *HTML5 features* you need to know (i.a. DNS prefetching, `download` attr.), [@AdnaneBelmadiaf]()’s [post](http://daker.me/2013/05/5-html5-features-you-need-to-know.html)
+   - *Testing JavaScript headless* with QUnit and PhantomJS, [@stylight_eng]()’s [post](http://www.stylight.com/Numbers/testing-javascript-headless-with-qunit-and-phantomjs/)
+   - *Dependency injection* with AngularJS, [@alex_young]()’s [post](http://dailyjs.com/2013/05/23/angularjs-injection/)
+ - Articles
+   - Making the *Chromebook Pixel* more suitable for web development, [@ariyahidayat]()’s [post](http://ariya.ofilabs.com/2013/05/chromebook-pixel-for-web-development.html)
+   - Determining the *ideal line length* in `em`s, [@russmaxdesign]()’s [post](http://www.maxdesign.com.au/2013/05/25/ideal-line-length-in-ems/)
+   - *CPU core estimation* with JavaScript, [@eboyjr]()’s [post]() (w/ live demo)
+ - Content
+   - ![][>] *Mobile performance* from the radio up: Battery, latency…, [@igrigorik]()’s 54-min [talk](https://developers.google.com/events/io/sessions/327864330) from IO ’13
+   - ![][>] Seeing the world through *high DPI*, [@petele]()’s 39-min [talk](https://developers.google.com/events/io/sessions/350992350) from IO ’13
+   - ![][>] Build podcast #44: Event-driven, non-blocking I/O model with *Node.js*, [@sayanee_]()’s 30-min [screencast](http://build-podcast.com/node/)
+   - A huge set of free *storyboard illustrations* [page](http://dribbble.com/shots/1083617-430-FREE-storyboard-illustrations)
+ - Sites
+   - datalist experiment, a test case for *`<datalist>`* combined with several `<input>` types [page](http://demo.agektmr.com/datalist/) ![][*]
+ - Tools
+   - Montage, *an HTML5 framework* for building modern web apps [page](http://montagejs.org/)
+   - *Visualising CSS* selector matches [page](http://css.benjaminbenben.com/) (view in Chrome) ![][*]
+   - JSON Editor Online, an online tool for *editing JSON via a treeview* [page](http://jsoneditoronline.org/)
+   - Cytoscape.js, a JavaScript library for *graph analysis and visualization* [page](http://cytoscape.github.io/cytoscape.js/)
+ - Opinion
+   - “JavaScript is *Web Assembly Language* and that's OK”, [@shanselman]()’s [post](http://www.hanselman.com/blog/JavaScriptIsWebAssemblyLanguageAndThatsOK.aspx)
+
 ## May 24th, 2013
 
  - News
@@ -226,41 +262,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - Bookshelf.js, a Promise based *Node.js ORM* [page](http://bookshelfjs.org/)
  - Opinion
    - “What's next Google? Dropping SMTP support?”, [@eschnou]()’s [post](http://eschnou.com/entry/whats-next-google--dropping-smtp-support--62-24930.html)
-
-## May 16th, 2013
-
- - News
-   - How can *W3C* improve its web site? Let them know! [survey](http://www.w3.org/News/2013.html#entry-9822)
-   - *CSS WG* Minutes Telecon 2013-05-15 [notes](http://www.w3.org/blog/CSS/2013/05/16/resolutions-92/) (i.a. `calc()` can be used inside media queries)
-   - Mozilla is testing a new *cookie policy* (blocking cookies from not-visited-sites), [@BrendanEich]()’s [post](https://brendaneich.com/2013/05/c-is-for-cookie/) ![][*]
-   - *Firefox 22* (currently in beta) brings *accessibility* improvements [post](http://asurkov.blogspot.ie/2013/05/accessible-mozilla-tech-overview-of.html)
-   - *Google Now* announced for desktop Chrome and Chrome OS [post](http://insidesearch.blogspot.co.uk/2013/05/a-multi-screen-and-conversational.html)
-   - *Firefox OS* puts a good $50 smartphone within reach, ZDNet [article](http://www.zdnet.com/firefox-os-puts-a-good-50-smartphone-within-reach-7000015212/)
- - FYI
-   - `Object.setPrototypeOf` has been added to the latest *ECMAScript 6* [draft](http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts) + [discussion](https://twitter.com/WebReflection/status/334888545258987520) on Twitter
-   - Conformant implementations of *Promises/A+* [list](https://github.com/promises-aplus/promises-spec/blob/master/implementations.md)
-    - What does *Microsoft Open Technologies* do? [page](http://msopentech.com/what-we-do/)
- - Tutorials
-   - Defining sensible *responsive image breakpoints* [@grigs]()’s [post](http://blog.cloudfour.com/sensible-jumps-in-responsive-image-file-sizes/) ![][*]
-   - Making browsers use a *high-res version* of an image *when printing*, [@rogerjohansson]()’s [post](http://www.456bereastreet.com/archive/201305/replacing_images_when_printing/)
-   - Using *`aria-expanded`* to indicate the *state of a collapsible element*, [@wcagtest]()’s [post](http://www.3needs.org/en/testing/code/aria-expanded.html)
-   - Using *dispatch tables* to avoid conditionals in JavaScript, [@joshuacc]()’s [post](http://designpepper.com/blog/drips/using-dispatch-tables-to-avoid-conditionals-in-javascript) + my [response](https://twitter.com/simevidas/status/335495290436075523)
-   - Setting up *CSS Counters*, [@davidwalshblog]()’s [post](http://davidwalsh.name/css-counters) (short, w/ demos)
-   - Dealing with IE8 when performing *cross-domain Ajax requests*, [@andrewmcgivery]()’s [post](http://mcgivery.com/ie8-and-cors/)
- - Content
-   - ![][>] Pairing the strengths of *OOCSS* and *Sass*, [@stubbornella]()’s 28-min [talk](https://vimeo.com/66039168) from [@txjs]() ’13 ![][*]
-   - ![][>] *Automating performance* best practices with PageSpeed, [@igrigorik]()’s 47-min [talk](https://developers.google.com/events/io/sessions/325313237) from IO ’13
-   - ![][>] Google’s [@paul_irish]() and [@jkomoros]() talk about the *Blink* rendering engine, 9-min [video](https://developers.google.com/live/shows/563395274/) discussion
-   - ![][>] Google’s [@duhroach]() and [@igrigorik]() talk about *web app performance*, 9-min [video](https://developers.google.com/live/shows/564671231/) discussion
-   - Why do users click randomly and rapidly when an application hangs?, [discussion](http://ux.stackexchange.com/questions/39413/why-do-users-click-randomly-and-rapidly-when-an-application-hangs)
- - Sites
-   - The Last Website, a storytelling experiment (uses *HTML5 `<audio>`*) [lastwebsite.io](http://www.lastwebsite.io/)
- - Tools
-   - csswizardry-grids, a simple, fluid, nestable, flexible, Sass-based, *responsive grid system* [repo](https://github.com/csswizardry/csswizardry-grids)
-   - Gliffy, an HTML5 Chrome packaged app for *drawing diagrams and flowcharts* [post](https://plus.google.com/+GoogleChromeDevelopers/posts/XKLH2krXxSf) (works offline) ![][*]
- - Opinion
-   - What benefit do you gain by arbitrarily *dividing the entire web into two classes*?, [@adactio]()’s [post](http://adactio.com/journal/6246/)
-   - Is *front end development* relatively easier than other fields of engineering?, [quora](http://www.quora.com/Startups/Why-are-front-end-developers-so-high-in-demand-at-startups-if-front-end-development-is-relatively-easier-than-other-fields-of-engineering) discussion
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"

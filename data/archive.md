@@ -1,3 +1,38 @@
+## May 16th, 2013
+
+ - News
+   - How can *W3C* improve its web site? Let them know! [survey](http://www.w3.org/News/2013.html#entry-9822)
+   - *CSS WG* Minutes Telecon 2013-05-15 [notes](http://www.w3.org/blog/CSS/2013/05/16/resolutions-92/) (i.a. `calc()` can be used inside media queries)
+   - Mozilla is testing a new *cookie policy* (blocking cookies from not-visited-sites), [@BrendanEich]()’s [post](https://brendaneich.com/2013/05/c-is-for-cookie/) ![][*]
+   - *Firefox 22* (currently in beta) brings *accessibility* improvements [post](http://asurkov.blogspot.ie/2013/05/accessible-mozilla-tech-overview-of.html)
+   - *Google Now* announced for desktop Chrome and Chrome OS [post](http://insidesearch.blogspot.co.uk/2013/05/a-multi-screen-and-conversational.html)
+   - *Firefox OS* puts a good $50 smartphone within reach, ZDNet [article](http://www.zdnet.com/firefox-os-puts-a-good-50-smartphone-within-reach-7000015212/)
+ - FYI
+   - `Object.setPrototypeOf` has been added to the latest *ECMAScript 6* [draft](http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts) + [discussion](https://twitter.com/WebReflection/status/334888545258987520) on Twitter
+   - Conformant implementations of *Promises/A+* [list](https://github.com/promises-aplus/promises-spec/blob/master/implementations.md)
+    - What does *Microsoft Open Technologies* do? [page](http://msopentech.com/what-we-do/)
+ - Tutorials
+   - Defining sensible *responsive image breakpoints* [@grigs]()’s [post](http://blog.cloudfour.com/sensible-jumps-in-responsive-image-file-sizes/) ![][*]
+   - Making browsers use a *high-res version* of an image *when printing*, [@rogerjohansson]()’s [post](http://www.456bereastreet.com/archive/201305/replacing_images_when_printing/)
+   - Using *`aria-expanded`* to indicate the *state of a collapsible element*, [@wcagtest]()’s [post](http://www.3needs.org/en/testing/code/aria-expanded.html)
+   - Using *dispatch tables* to avoid conditionals in JavaScript, [@joshuacc]()’s [post](http://designpepper.com/blog/drips/using-dispatch-tables-to-avoid-conditionals-in-javascript) + my [response](https://twitter.com/simevidas/status/335495290436075523)
+   - Setting up *CSS Counters*, [@davidwalshblog]()’s [post](http://davidwalsh.name/css-counters) (short, w/ demos)
+   - Dealing with IE8 when performing *cross-domain Ajax requests*, [@andrewmcgivery]()’s [post](http://mcgivery.com/ie8-and-cors/)
+ - Content
+   - ![][>] Pairing the strengths of *OOCSS* and *Sass*, [@stubbornella]()’s 28-min [talk](https://vimeo.com/66039168) from [@txjs]() ’13 ![][*]
+   - ![][>] *Automating performance* best practices with PageSpeed, [@igrigorik]()’s 47-min [talk](https://developers.google.com/events/io/sessions/325313237) from IO ’13
+   - ![][>] Google’s [@paul_irish]() and [@jkomoros]() talk about the *Blink* rendering engine, 9-min [video](https://developers.google.com/live/shows/563395274/) discussion
+   - ![][>] Google’s [@duhroach]() and [@igrigorik]() talk about *web app performance*, 9-min [video](https://developers.google.com/live/shows/564671231/) discussion
+   - Why do users click randomly and rapidly when an application hangs?, [discussion](http://ux.stackexchange.com/questions/39413/why-do-users-click-randomly-and-rapidly-when-an-application-hangs)
+ - Sites
+   - The Last Website, a storytelling experiment (uses *HTML5 `<audio>`*) [lastwebsite.io](http://www.lastwebsite.io/)
+ - Tools
+   - csswizardry-grids, a simple, fluid, nestable, flexible, Sass-based, *responsive grid system* [repo](https://github.com/csswizardry/csswizardry-grids)
+   - Gliffy, an HTML5 Chrome packaged app for *drawing diagrams and flowcharts* [post](https://plus.google.com/+GoogleChromeDevelopers/posts/XKLH2krXxSf) (works offline) ![][*]
+ - Opinion
+   - What benefit do you gain by arbitrarily *dividing the entire web into two classes*?, [@adactio]()’s [post](http://adactio.com/journal/6246/)
+   - Is *front end development* relatively easier than other fields of engineering?, [quora](http://www.quora.com/Startups/Why-are-front-end-developers-so-high-in-demand-at-startups-if-front-end-development-is-relatively-easier-than-other-fields-of-engineering) discussion
+
 ## May 15th, 2013
 
  - News
