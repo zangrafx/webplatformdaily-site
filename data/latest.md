@@ -7,6 +7,10 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
+## May 29th, 2013 **Later today**
+
+ - As you can see from below, I’ve skipped May 28th which was supposed to cover Monday’s activity. As that day was a holiday (in US/UK), there wasn’t enough activity for a proper daily.   
+
 ## May 27th, 2013
 
  - News
