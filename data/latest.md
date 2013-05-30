@@ -11,8 +11,8 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
   
    - News
      - New W3C releases:
-       - 3rd WD of “*CSS Exclusions*” [TR](http://www.w3.org/TR/css3-exclusions/) + [diff](http://www.w3.org/TR/2013/WD-css3-exclusions-20130528/) + [notes](http://www.w3.org/blog/CSS/2013/05/28/css-exclusions-draft-separation/) (added `wrap-flow: minimum`)
-       - 5th WD of “*CSS Regions*” [TR](http://www.w3.org/TR/css3-regions/) + [diff](http://www.w3.org/TR/css3-regions/) + [notes](http://www.w3.org/blog/CSS/2013/05/28/css-regions-draft-updated/) (many improvements to the CSSOM section)
+       - 3rd WD of “*CSS Exclusions*” [TR](http://www.w3.org/TR/css3-exclusions/) + [diff](http://www.w3.org/TR/2013/WD-css3-exclusions-20130528/,diff) + [notes](http://www.w3.org/blog/CSS/2013/05/28/css-exclusions-draft-separation/) (added `wrap-flow: minimum`)
+       - 5th WD of “*CSS Regions*” [TR](http://www.w3.org/TR/css3-regions/) + [diff](http://www.w3.org/TR/2013/WD-css3-regions-20130528/,diff) + [notes](http://www.w3.org/blog/CSS/2013/05/28/css-regions-draft-updated/) (many improvements to the CSSOM section)
        - 2nd WD of “*Filter Effects*” [TR](http://www.w3.org/TR/filter-effects/) + [notes](http://www.w3.org/blog/CSS/2013/05/28/filter-effects-1-0-draft-updated/) (diff is broken but [@dontcallmeDOM]() will fix it `:)`)
      - Desktop-version of *Chromium-based Opera* (“Opera Next”) released, [notes](http://my.opera.com/ODIN/blog/2013/05/28/a-first-peek-at-opera-15-for-computers) + report bugs [here](https://bugs.opera.com/wizard/)
      - *Content Security Policy* 1.0 lands in Firefox Aurora, [post](https://hacks.mozilla.org/2013/05/content-security-policy-1-0-lands-in-firefox-aurora/)
