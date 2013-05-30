@@ -7,9 +7,48 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
-## May 29th, 2013 **Later today**
-
- - As you can see from below, I’ve skipped May 28th which was supposed to cover Monday’s activity. As that day was a holiday (in US/UK), there wasn’t enough activity for a proper daily.   
+## May 29th, 2013
+  
+   - News
+     - New W3C releases:
+       - 3rd WD of “*CSS Exclusions*” [TR](http://www.w3.org/TR/css3-exclusions/) + [diff](http://www.w3.org/TR/2013/WD-css3-exclusions-20130528/) + [notes](http://www.w3.org/blog/CSS/2013/05/28/css-exclusions-draft-separation/) (added `wrap-flow: minimum`)
+       - 5th WD of “*CSS Regions*” [TR](http://www.w3.org/TR/css3-regions/) + [diff](http://www.w3.org/TR/css3-regions/) + [notes](http://www.w3.org/blog/CSS/2013/05/28/css-regions-draft-updated/) (many improvements to the CSSOM section)
+       - 2nd WD of “*Filter Effects*” [TR](http://www.w3.org/TR/filter-effects/) + [notes](http://www.w3.org/blog/CSS/2013/05/28/filter-effects-1-0-draft-updated/) (diff is broken but [@dontcallmeDOM]() will fix it `:)`)
+     - Desktop-version of *Chromium-based Opera* (“Opera Next”) released, [notes](http://my.opera.com/ODIN/blog/2013/05/28/a-first-peek-at-opera-15-for-computers) + report bugs [here](https://bugs.opera.com/wizard/)
+     - *Content Security Policy* 1.0 lands in Firefox Aurora, [post](https://hacks.mozilla.org/2013/05/content-security-policy-1-0-lands-in-firefox-aurora/)
+     - *Foxconn joining Firefox OS* alliance as it tries to compensate for Apple slowdown, Verge [article](http://www.theverge.com/2013/5/27/4370750/foxconn-joining-firefox-os-alliance-as-manufacturer-tries-to)
+     - Noise-canceling tech could lead to Internet connections *400 times faster than Google Fiber*, VB [article](http://venturebeat.com/2013/05/27/noise-canceling-tech-could-lead-to-internet-connections-400x-faster-than-google-fiber/)
+   - FYI
+     - The 3-bar menu icon, *☰*, is available as a Unicode character [tweet](https://twitter.com/SebAshton/status/338940947909967873)
+     - Firefox still leads in *ECMAScript 6* support [tweet](https://twitter.com/kangax/status/339401889353437186)
+     - Which sites use *Web Notifications*?, [twitter](https://twitter.com/miketaylr/status/339013607570411520) discussion
+   - Tutorials
+     - Using *HTML5 `rel="prerender"`* to speed up a multi-page registration process, [@adrianholovaty]()’s [post](http://www.holovaty.com/writing/prerendering/)
+     - Exploring reusability: *reusable charts* with D3.js (best practices), [@JugglinMike]()’s [post](http://weblog.bocoup.com/reusability-with-d3/)
+     - Four-part tutorial series on *Ember.js* by [@reybango]() [link](http://blog.reybango.com/2013/05/29/interested-in-ember-js-check-out-my-tutorial-series/)
+     - Fixing *HTTP referrers in HTTPS*: the meta referrer, [@Smerity]()’s [post](http://smerity.com/articles/2013/where_did_all_the_http_referrers_go.html)
+     - Chrome DevTools docs: *Evaluating network performance* [link](https://developers.google.com/chrome-developer-tools/docs/network)
+   - Articles
+     - Should sending `XMLHttpRequest`s *without `Origin:` and `Referer:` headers* be allowed?, [@hallvord]()’s [post](http://my.opera.com/hallvors/blog/2013/05/27/should-js-be-able-to-send-xmlhttprequest-without-origin-and-referer-headers)
+     - What’s the point of *packaged web apps*?, [@ppk]() explains in his [post](http://www.quirksmode.org/blog/archives/2013/05/the_point_of_pa.html)
+     - Easier testing with *Open Device Labs* (+ creating your own ODL), [@helloanselm]()’s [post](http://www.smashingmagazine.com/author/anselm-hannemann/)
+     - How patents are ruining the adoption of *HTML5 `<video>`*, [@vu0tran]()’s [post](http://blog.framebase.io/post/51231726236/how-patents-are-ruining-the-adoption-of-html5-video)
+     - [@aerotwist]()’s *reflections on performance* at Google I/O, [post](http://aerotwist.com/blog/reflections-on-performance-at-google-io/)
+     - [@MarcoZehe]()’s extensive [recap](http://www.marcozehe.de/2013/05/28/recap-of-beyond-tellerrand-2013/) of *[@btconf]() 2013* + [@jancbeck]()’s talk [notes](http://jancbeck.com/articles/beyond-tellerrand-2013/) ![][*]
+     - 6 considerations and tips for *creating HTML5 apps* (i.a. packaged or hosted), [@davidwalshblog]()’s [post](http://tech.pro/blog/1301/6-considerations-and-tips-for-creating-html5-apps)
+   - Content
+     - ![][>] “*HTML5 Video* in the Open Web Platform”, [@plhw3org]()’s 42-min [talk](https://www.youtube.com/watch?v=SnKpdhC5Ras) from [@html5devconf]() ![][*]
+     - ![][>] Fixing the *mobile web*, [@codepo8]()’s 47-min [keynote](https://www.youtube.com/watch?v=5D7_3Y1TCjk) at [@btconf]() 2013
+     - “*Web Performance* Crash Course”, [@igrigorik]()’s extensive [slides](http://www.igvita.com/slides/2013/fluent-perfcourse.pdf) (PDF) from [@fluentconf]() 2013
+     - Awesome looking *popup links*, [@chriscoyier]()’s codepen [demo](http://codepen.io/chriscoyier/pen/Fjguy)
+     - Setting up *multiple build-targets* with Grunt, [twitter](https://twitter.com/addyosmani/status/339377857585373185) discussion
+   - Tools
+     - Pure, a set of small, *responsive CSS modules* [page](http://purecss.io/)
+     - imagesLoaded, a JavaScript library for *detecting when images have loaded* [page](http://desandro.github.io/imagesloaded/)
+     - svg.js, a lightweight library for *manipulating and animating SVG* [page](http://svgjs.com/)
+   - Opinion
+     - “*Internet fragmentation* is a ‘law of history’”, He Baohong’s [post](http://www.internetgovernance.org/2013/05/25/internet-fragmentation-is-a-law-of-history/)
+     - “On the politics, *cargo-culting*, and maintainability of JavaScript”, [@slicknet]()’s [post](http://www.nczonline.net/blog/2013/05/28/on-the-politics-cargo-culting-and-maintainability-of-javascript/)
 
 ## May 27th, 2013
 
@@ -230,42 +269,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - GDrives, provides short URLs (e.g. `http://gdriv.es/foo`) for *Google Drive hosted web-sites* [page](http://gdriv.es/)
  - Opinion
    - “*Social login buttons* aren’t worth it”, [@aarron]()’s [post](http://blog.mailchimp.com/social-login-buttons-arent-worth-it/)
-
-## May 17th, 2013
-
- - News
-   - New W3C releases:
-     - 2nd WD of “*Media Capture and Streams*” [TR](http://www.w3.org/TR/mediacapture-streams/) + [diff](http://www.w3.org/TR/2013/WD-mediacapture-streams-20130516/,diff)
-     - **New:** 1st WD of “*The `app:` URI scheme*” [TR](http://www.w3.org/TR/app-uri/) (addressing resources inside a packaged application)
-     - **New:** 1st WD of “*Messaging API*” [TR](http://www.w3.org/TR/messaging/) (access to mobile messaging services like SMS)
-   - *Chrome Packaged Apps* (HTML5 apps) confirmed for Android [tweet](https://twitter.com/joelambert/status/334911849562775552)
-   - Google likes the look of Microsoft multitouch for Web (*Pointer Events*), CNET [article](http://news.cnet.com/8301-1023_3-57584959-93/google-likes-the-look-of-microsoft-multitouch-for-web/)
- - FYI
-   - You can import your *Google Analytics* data to *Can I Use* [tweet](https://twitter.com/chriscoyier/status/335134971406712832)
-   - *GitHub* starts performing *repository redirects* [post](https://github.com/blog/1508-repository-redirects-are-here)
- - Tutorials
-   - Using *Mozilla Persona* in a simple example application, [@zeMirco]()’s [post](http://mircozeiss.com/mozilla-persona-example-app-with-express-and-couchdb/)
-   - Building a *real-time chat app with Node.js*, Socket.io and Express, [@KrasimirTsonev]()’s [post](http://net.tutsplus.com/tutorials/javascript-ajax/real-time-chat-with-nodejs-socket-io-and-expressjs/)
-   - Building a *note-taking app with IndexedDB*, Redis and Node.js, [@ednapiranha]()’s [post](https://hacks.mozilla.org/2013/05/building-a-notes-app-with-indexeddb-redis-and-node-js/)
- - Articles
-   - *Paint profiling* a janky web-page in Chrome DevTools, [@addyosmani]()’s [post](http://addyosmani.com/blog/jank-busting-with-daft-punk/) ![][*]
-   - ![][>] Applying the “*vanilla web diet*” principles, [@codepo8]()’s [post](http://christianheilmann.com/2013/05/17/giving-image-swivel-the-vanilla-web-diet-treatment/) (w/ 26-min screencast) ![][*]
-   - A couple of examples why the *DOM is a mess*, [@garethheyes]()’s [post](http://www.thespanner.co.uk/2013/05/16/dom-clobbering/)
-   - About Chrome’s upcoming *`requestAutocomplete()`* API, [@maccaw]()’s [post](http://blog.alexmaccaw.com/requestautocomplete)
- - Content
-   - ![][>] “*Mobile HTML*: The Future of Your Sites”, [@beverloo]()/[@paul_kinlan]()’s 38-min [talk](https://www.youtube.com/watch?v=EPYnGFEcis4) at IO ’13 + [slides](http://mobile-html.appspot.com) ![][*]
-   - ![][>] “Upgrading to a *Chrome Packaged App*”, [@joemarini]()’s 44-min [talk](https://www.youtube.com/watch?v=e0W2szZ2qhg) at IO ’13
-   - *HTML5 Game Development* for the Mobile Web, [@photonstorm]()’s PDF [slidedeck](http://www.photonstorm.com/archives/9980/my-adobe-max-slides-html5-game-development-for-the-mobile-web)
-   - ![][>] *PhoneGap* at [@adobemax]() 2013 [report](http://phonegap.com/blog/2013/05/15/phonegap-at-max/) (w/ videos)
-   - ![][>] [@Future_Insights]() attendees share *advice on mobile development*, short 2-min [video](http://blog.newrelic.com/2013/05/09/17-pieces-of-the-best-advice-on-mobile-development/)
- - Sites
-   - *Responsive Images* Community Group, [responsiveimages.org](http://responsiveimages.org/)
- - Tools
-   - Prepros, a *on-the-fly compiler* (Saas, CoffeeScript,…) with *live browser refresh* [page](http://alphapixels.com/prepros/) ![][*]
-   - Hashify, an online tool lets you *deliver messages via URLs* [page](http://hashify.me)
-   - Bookshelf.js, a Promise based *Node.js ORM* [page](http://bookshelfjs.org/)
- - Opinion
-   - “What's next Google? Dropping SMTP support?”, [@eschnou]()’s [post](http://eschnou.com/entry/whats-next-google--dropping-smtp-support--62-24930.html)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
