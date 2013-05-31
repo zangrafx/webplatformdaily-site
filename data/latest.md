@@ -7,6 +7,40 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
+## May 30th, 2013
+
+ - News
+   - The *`<subline>` element* (a HTML5 extension spec), [@stevefaulkner]()’s unofficial [draft](https://rawgithub.com/w3c/subline/master/index.html) + [post](http://lists.w3.org/Archives/Public/public-html/2013May/0173.html)
+   - Opera switching to a *fast release cycle* and will have 3 streams: Developer, Next, and Stable [post](http://my.opera.com/desktopteam/blog/opera-features-and-release-cycle)
+   - Blink to start *removing `-webkit-` prefixes* from CSS [post](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6DJaIAKD4qc/Z3rL2i7COZQJ)
+   - EFF makes formal objection to *DRM in HTML5* [post](https://www.eff.org/press/releases/eff-makes-formal-objection-drm-html5)
+ - FYI
+   - Be careful *using `localStorage` as cache*; its synchronous API blocks the render thread [tweet](https://twitter.com/addyosmani/status/339776418768629760)
+   - The *default language of JavaScript* is not statically scoped, my Stack Overflow [answer](http://stackoverflow.com/a/16823681/425275)
+   - On desktop, *Web Audio API* is already in Chrome, Safari, Opera and Firefox Nightly [tweet](https://twitter.com/cfjedimaster/status/339891063844126723)
+ - Tutorials
+   - Building a Firefox OS *game with in-app payments* using Mozilla’s WebPayment API, [@rdlauer]()’s [post](http://flippinawesome.org/2013/05/28/building-a-game-with-in-app-payments-for-firefox-os/)
+   - Creating a small platform *game with HTML5 Canvas*, [@jakesgordon]()’s [post](http://codeincomplete.com/posts/2013/5/27/tiny_platformer/)
+   - Tips for *optimizing Canvas/JavaScript games* for Firefox OS, [@louisstow]()/[@digitarald]()’s [post](https://hacks.mozilla.org/2013/05/optimizing-your-javascript-game-for-firefox-os/)
+   - Photoshop layer mask implemented with *CSS Custom Filters*, [@agreenblatt]()’s [post](http://blattchat.com/2013/05/28/photoshop-layer-mask-with-css-custom-filters/)
+ - Articles
+   - The state Of *Responsive Web Design*, [@walterstephanie]()’s extensive [post](http://mobile.smashingmagazine.com/2013/05/29/the-state-of-responsive-web-design/) ![][*]
+   - How has Blink affected *Chrome’s WebGL implementation*?, [@Tojiro]()’s [post](http://blog.tojicode.com/2013/05/how-blink-has-affected-webgl.html)
+ - Content
+   - ![][>] [@BrendanEich ]() talks about the *future of JavaScript* in his 52-min [keynote](https://vimeo.com/66711027) from [@jquk]() 2013
+   - ![][>] *Data visualization*: architecting better charts, [@ireneros]()’s 14-min [talk](https://www.youtube.com/watch?v=TYgSc_S0lCw) from [@fluentconf]() 2013
+   - ![][>] JavaScript Jabber podcast #60: *Development environments*, [link](http://javascriptjabber.com/060-jsj-development-environments/) (59 min)
+   - *Sass style guide*, [@chriscoyier]()’s [post](http://css-tricks.com/sass-style-guide/) ![][*]
+   - A collection of 50 *CSS snippets*, [@jakerocheleau]()’s [post](http://www.hongkiat.com/blog/css-snippets-for-designers/)
+   - *Internet trends* 2013, [@kpcb]()’s 117-page [slides](http://www.slideshare.net/kleinerperkins/kpcb-internet-trends-2013) (lots of data)
+   - An introduction to *Web Audio API*, [@cwilso]()’s [slides](http://webaudiodemos.appspot.com/slides/index.html) (w/ demos)
+ - Tools
+   - d3.chart, a framework for *creating reusable charts* [page](http://misoproject.com/d3-chart/) + [post](http://weblog.bocoup.com/introducing-d3-chart/)
+   - Facebook React, a JavaScript library for *building user interfaces* [page](http://facebook.github.io/react/) + [post](https://medium.com/make-your-own-apps/e71bcedc36b)
+   - metaframe, a tool for making *annotated responsive wireframes* [repo](https://github.com/elliance/metaframe) + [post](http://aha.elliance.com/2013/05/28/responsive-wireframes/) + [demo](http://metaframe.elliance.com/)
+ - Opinion
+   - Should *open data standards* use an open license?, [@Hoedic]()’s [post](http://dataholic.ca/2013/05/24/should-standards-use-open-license/)
+
 ## May 29th, 2013
   
    - News
@@ -231,44 +265,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - *Cloud* is going to die much faster than anybody expected, [@leashless]()’s [post](http://vinay.howtolivewiki.com/blog/other/too-cheap-to-meter-massive-overbuild-in-server-farms-3373)
    - Gathering the *Web tribes* together for the common good, [@dalmaer]()’s [post](https://medium.com/tech-talk/dff3e0ffdead)
    - And so, Microsoft ruins *Skype*, [@NickBruun]()’s [post](http://bruun.co/2013/05/20/and-so-microsoft-ruins-skype)
-
-## May 20th, 2013
-
- - News
-   - *Polymer*: Google’s new UI framework built on *Web Components* [page](http://polymer-project.org) ![][*]
-   - Info about status of *CSS Text Decoration* in WebKit and Blink [post](http://www.abinader.com.br/2013/05/15/css-level-3-text-decoration-on-webkit-and-blink-status/)
-   - *Mixed Content Blocker* enabled by default in Firefox 23 (currently in Aurora channel) [post](https://blog.mozilla.org/security/2013/05/16/mixed-content-blocking-in-firefox-aurora/)
-   - “*WebRTC* is growing fast: soon to surpass one billion devices”, [article](http://gigaom.com/2013/05/17/webrtc-one-billion-endpoints/)
-   - “Google cuts network usage by terabytes by switching to *WebP*”, CNET [article](http://news.cnet.com/8301-1023_3-57585114-93/google-cuts-network-usage-by-terabytes-by-switching-to-webp/)
- - FYI
-   - Proposed charter for *JSON* WG at IETF [link](http://datatracker.ietf.org/doc/charter-ietf-json/)
-   - *Codepen* added a neat explainer cartoon [link](http://blog.codepen.io/2013/05/17/the-codepen-intro-cartoon/)
- - Tutorials
-   - A beginner’s guide to *HTTP cache headers* (`cache-control`, `expires`, …), [@ksgyoung]()’s [post](http://www.mobify.com/blog/beginners-guide-to-http-cache-headers/) ![][*]
-   - Creating a video player using *Custom Elements*, [@vimpyboy]()’s [post](http://weblogs.asp.net/mikaelsoderstrom/archive/2013/05/17/create-a-video-player-using-custom-elements.aspx) (first *Polymer* tutorial afaik)
-   - Creating a horizontal slider with *sliding background images*, [@chriscoyier]()’s [post](http://css-tricks.com/slider-with-sliding-backgrounds/) (cool-looking)
-   - Creating a *responsive grid* layout with *CSS Flexbox*, [@crnacura]()’s [post](http://tympanus.net/codrops/2013/05/17/product-grid-layout/) ![][*] (w/ demo page)
-   - Creating pixel-perfect *breadcrumb navigation* with pure CSS, [@ruby_on_tails]()’s video [tutorial](http://thecodeplayer.com/walkthrough/css3-breadcrumb-navigation)
-   - Writing a short *unit test* to test the main controller of an *AngularJS* app, [@alex_young]()’s [post](http://dailyjs.com/2013/05/16/angularjs-5/)
- - Articles
-   - Google’s *Polymer* and the future of web UI frameworks, [@rauschma]()’s [post](http://www.2ality.com/2013/05/google-polymer.html)
-   - Creating a “*performance culture*” at your workplace, [@souders]()’s [post](http://www.stevesouders.com/blog/2013/05/17/creating-a-performance-culture/)
-   - *Typographic design patterns* and current practices, [@Smash_scribe]()’s [post](http://www.smashingmagazine.com/2013/05/17/typographic-design-patterns-practices-case-study-2013/)
-   - How *eBay* built its first *Node.js* application, [@senthil_hi]()’s [post](http://www.ebaytechblog.com/2013/05/17/how-we-built-ebays-first-node-js-application/)
- - Content
-   - ![][>] Clientside *package management* (*Bower*), [@danheberden]()’s 34-min [talk](https://developers.google.com/events/io/sessions/325634001) from IO ’13
-   - ![][>] *Web Components*: a tectonic shift for web development, [@ebidel]()’s 33-min [talk](https://developers.google.com/events/io/sessions/318907648) from IO ’13 ![][*]
-   - ![][>] Creating a *native mobile app experience* with web technologies, short 3-min [video](http://blogs.adobe.com/webplatform/2013/05/16/creating-an-installed-application-experience-on-mobile-with-web-technologies/) demo on live site
-   - *Developing for touch*, [@ppk]()’s PDF [slidedeck](http://quirksmode.org/presentations/Spring2013/touchevents_mobilism.pdf) from [@mobilismconf]()
-   - Learn about *Chrome packaged apps* from this [document](http://goo.gl/UHCS8) (detailed guide)
- - Sites
-   - HTML5 Game Developers Forum [html5gamedevs.com](http://www.html5gamedevs.com/)
- - Tools
-   - Coquette, a JavaScript *game micro-framework* [page](http://coquette.maryrosecook.com/)
-   - grunt-bower-install, a Grunt plugin which *adds `<script>`s for your Bower components* [page](http://stephenplusplus.github.io/grunt-bower-install/)
-   - GDrives, provides short URLs (e.g. `http://gdriv.es/foo`) for *Google Drive hosted web-sites* [page](http://gdriv.es/)
- - Opinion
-   - “*Social login buttons* aren’t worth it”, [@aarron]()’s [post](http://blog.mailchimp.com/social-login-buttons-arent-worth-it/)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"

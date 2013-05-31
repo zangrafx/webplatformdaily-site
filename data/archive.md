@@ -1,3 +1,42 @@
+## May 20th, 2013
+
+ - News
+   - *Polymer*: Google’s new UI framework built on *Web Components* [page](http://polymer-project.org) ![][*]
+   - Info about status of *CSS Text Decoration* in WebKit and Blink [post](http://www.abinader.com.br/2013/05/15/css-level-3-text-decoration-on-webkit-and-blink-status/)
+   - *Mixed Content Blocker* enabled by default in Firefox 23 (currently in Aurora channel) [post](https://blog.mozilla.org/security/2013/05/16/mixed-content-blocking-in-firefox-aurora/)
+   - “*WebRTC* is growing fast: soon to surpass one billion devices”, [article](http://gigaom.com/2013/05/17/webrtc-one-billion-endpoints/)
+   - “Google cuts network usage by terabytes by switching to *WebP*”, CNET [article](http://news.cnet.com/8301-1023_3-57585114-93/google-cuts-network-usage-by-terabytes-by-switching-to-webp/)
+ - FYI
+   - Proposed charter for *JSON* WG at IETF [link](http://datatracker.ietf.org/doc/charter-ietf-json/)
+   - *Codepen* added a neat explainer cartoon [link](http://blog.codepen.io/2013/05/17/the-codepen-intro-cartoon/)
+ - Tutorials
+   - A beginner’s guide to *HTTP cache headers* (`cache-control`, `expires`, …), [@ksgyoung]()’s [post](http://www.mobify.com/blog/beginners-guide-to-http-cache-headers/) ![][*]
+   - Creating a video player using *Custom Elements*, [@vimpyboy]()’s [post](http://weblogs.asp.net/mikaelsoderstrom/archive/2013/05/17/create-a-video-player-using-custom-elements.aspx) (first *Polymer* tutorial afaik)
+   - Creating a horizontal slider with *sliding background images*, [@chriscoyier]()’s [post](http://css-tricks.com/slider-with-sliding-backgrounds/) (cool-looking)
+   - Creating a *responsive grid* layout with *CSS Flexbox*, [@crnacura]()’s [post](http://tympanus.net/codrops/2013/05/17/product-grid-layout/) ![][*] (w/ demo page)
+   - Creating pixel-perfect *breadcrumb navigation* with pure CSS, [@ruby_on_tails]()’s video [tutorial](http://thecodeplayer.com/walkthrough/css3-breadcrumb-navigation)
+   - Writing a short *unit test* to test the main controller of an *AngularJS* app, [@alex_young]()’s [post](http://dailyjs.com/2013/05/16/angularjs-5/)
+ - Articles
+   - Google’s *Polymer* and the future of web UI frameworks, [@rauschma]()’s [post](http://www.2ality.com/2013/05/google-polymer.html)
+   - Creating a “*performance culture*” at your workplace, [@souders]()’s [post](http://www.stevesouders.com/blog/2013/05/17/creating-a-performance-culture/)
+   - *Typographic design patterns* and current practices, [@Smash_scribe]()’s [post](http://www.smashingmagazine.com/2013/05/17/typographic-design-patterns-practices-case-study-2013/)
+   - How *eBay* built its first *Node.js* application, [@senthil_hi]()’s [post](http://www.ebaytechblog.com/2013/05/17/how-we-built-ebays-first-node-js-application/)
+ - Content
+   - ![][>] Clientside *package management* (*Bower*), [@danheberden]()’s 34-min [talk](https://developers.google.com/events/io/sessions/325634001) from IO ’13
+   - ![][>] *Web Components*: a tectonic shift for web development, [@ebidel]()’s 33-min [talk](https://developers.google.com/events/io/sessions/318907648) from IO ’13 ![][*]
+   - ![][>] Creating a *native mobile app experience* with web technologies, short 3-min [video](http://blogs.adobe.com/webplatform/2013/05/16/creating-an-installed-application-experience-on-mobile-with-web-technologies/) demo on live site
+   - *Developing for touch*, [@ppk]()’s PDF [slidedeck](http://quirksmode.org/presentations/Spring2013/touchevents_mobilism.pdf) from [@mobilismconf]()
+   - Learn about *Chrome packaged apps* from this [document](http://goo.gl/UHCS8) (detailed guide)
+ - Sites
+   - HTML5 Game Developers Forum [html5gamedevs.com](http://www.html5gamedevs.com/)
+ - Tools
+   - Coquette, a JavaScript *game micro-framework* [page](http://coquette.maryrosecook.com/)
+   - grunt-bower-install, a Grunt plugin which *adds `<script>`s for your Bower components* [page](http://stephenplusplus.github.io/grunt-bower-install/)
+   - GDrives, provides short URLs (e.g. `http://gdriv.es/foo`) for *Google Drive hosted web-sites* [page](http://gdriv.es/)
+ - Opinion
+   - “*Social login buttons* aren’t worth it”, [@aarron]()’s [post](http://blog.mailchimp.com/social-login-buttons-arent-worth-it/)
+
+
 ## May 17th, 2013
 
  - News
