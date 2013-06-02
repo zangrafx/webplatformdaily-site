@@ -7,6 +7,39 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
+## May 31st, 2013
+
+ - News
+   - W3C CEO: “*Cloud standards* have resulted in confused patchwork design.” [post](http://www.cloudwf.com/media-and-news/2013-03-04-14-20-34/30-may-2013.html)
+   - The next version of Internet Explorer, *IE11*, officially announced, [@IE]()’s [tweet](https://twitter.com/IE/status/340154408983752704) 
+   - Why Foxconn’s *Firefox OS-powered tablet* is too big to ignore, Geek.com [article](http://www.geek.com/tablets/foxconn-firefox-os-tablet-1556679/)
+ - FYI
+   - *[@fluentconf]() 2013* videos are available in this [playlist](http://www.youtube.com/playlist?list=PL055Epbe6d5avZGXwE5u039VQq_oQFgrc) on YouTube
+   - “Mega Creativity Bundle”, a [bundle](http://bundlehunt.com/) consisting of 14+ *design resources* (e-books, icon packs, etc.) for $7
+   - You can organize console output (in the browser) with *`console.group()`*, MDN [page](https://developer.mozilla.org/en-US/docs/Web/API/console#Using_groups_in_the_console)
+   - PNG has become more popular than GIF [source](http://w3techs.com/blog/entry/the_png_image_file_format_is_now_more_popular_than_gif)
+ - Tutorials
+   - Creating a *responsive layout* with `text-align:justify`, Kunka’s [post](http://www.barrelny.com/blog/text-align-justify-and-rwd/) + [demo](http://codepen.io/patrickkunka/pen/GECBF) ![][*]
+   - Implementing *multidimensional arrays* in JavaScript, [@MikolaLysenko]()’s [post](http://0fps.wordpress.com/2013/05/22/implementing-multidimensional-arrays-in-javascript/)
+ - Articles
+   - State of the Browser 2013 (conference), [@grifotv]()’s [writeup](http://www.awwwards.com/state-of-the-browser-2013-danilo-figueiredo-tells-us-all.html) (w/ videos)
+ - Media
+   - “*JavaScript: The Machine Language* of the Ambient Computing Era”, [@awbjs]()’s [talk](https://vimeo.com/67050196) from [@fronttrends]()
+   - “*JavaScript Authoring Workflow* of Now”, [@paul_irish]()’s 20-min [keynote](http://youtu.be/bqfoYaKCYUI) from [@fluentconf]() ’13
+ - Content
+   - ![][&] Are *script loaders still needed* for web performance? Are `async` and `defer` enough?, [topic](https://twitter.com/souders/status/340131241061908480) on Twitter 
+   - ![][&] [@kangax]()’s “lazyweb request”: Canvas2D API *implemented in a WebGL context*, [issue](https://github.com/h5bp/lazyweb-requests/issues/119) on GitHub
+ - Demos 
+   - 9 cool *hover effects* for circular icons [page](http://tympanus.net/Development/IconHoverEffects/)
+   - MAX web layout lab: *layout demos* using Flexbox, Grid Layout, Regions, Exclusions [page](http://betravis.github.io/web-layout-lab/exercises/instructions.html)
+   - Sencha Animator demo: *page flipping* in pure CSS [page](http://dev.sencha.com/animator/demos/pageflip/)
+ - Sites
+   - “Secrets of the Browser *Developer Tools*”, a usage guide [devtoolsecrets.com](http://devtoolsecrets.com/) ![][*]
+ - Tools
+   - async-local-storage, a *fully-async object-storage* API [repo](https://github.com/slightlyoff/async-local-storage)
+ - Opinion
+   - The *worst Web API* ever, [topic](https://twitter.com/slightlylate/status/340054466055270400) on Twitter
+
 ## May 30th, 2013
 
  - News
@@ -223,48 +256,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - landmarks, a Firefox plugin that enables *keyboard navigation of WAI-ARIA landmarks* [repo](https://github.com/matatk/landmarks)
  - Opinion
    - The end* of *website development* as a profession, [@ChrisHardie]()’s [post](http://www.chrishardie.com/2013/05/end-of-website-development/)
-
-## May 21st, 2013
-
- - News
-   - ![][&] New W3C releases:
-     - **Last Call** WD of “*Indexed Database API*” [TR](http://www.w3.org/TR/IndexedDB/) + [diff](http://www.w3.org/TR/2013/WD-IndexedDB-20130516/,diff) (comments: through 07 June)
-     - **Last Call** WD of “*JSON-LD* 1.0 Processing Algorithms and API” [TR](http://www.w3.org/TR/json-ld-api/) + [diff](http://www.w3.org/TR/2013/WD-json-ld-api-20130516/,diff) (comments: through 06 June)
-   - [@stevefaulkner]() proposes revising the definition of the *`<small>` element* [tweet](https://twitter.com/stevefaulkner/status/336780338086961152)
-   - First Chromium-based Opera: *Opera 14 for Android* released on Google Play store [post](http://my.opera.com/ODIN/blog/opera-14-for-android-is-out)
-   - Firefox 23 (currently in Aurora channel) brings *new DevTools features* [post](https://hacks.mozilla.org/2013/05/firefox-developer-tool-features-for-firefox-23/) ![][*]
-   - Chrome 29 (Nightly) delivers *faster rendering speeds* with SPDY and HTTP/2 [post](https://plus.google.com/+IlyaGrigorik/posts/Uxgvk35ntL2?e=-RedirectToSandbox) 
-   - *Intel* launches “HTML5 Development Environment” (cross-platform *HTML5 tools*) [page](http://software.intel.com/en-us/html5)
-   - “Google believes *Web Components* are the future of web development”, TechCrunch [article](http://techcrunch.com/2013/05/19/google-believes-web-components-are-the-future-of-web-development/)
-   - “Google: *Dart* will rescue browsers from JavaScript”, CNET [article](http://news.cnet.com/8301-1023_3-57584979-93/google-dart-will-rescue-browsers-from-javascript/)
- - FYI
-   - Microsoft: port your PhoneGap app to *Windows Phone* and win prizes [post](http://blogs.windows.com/windows_phone/b/wpdev/archive/2013/05/20/use-your-html5-skills-port-your-phonegap-app-to-windows-phone-and-win-prizes.aspx)
-   - *HTTP2* is rule changer: extra requests are cheap, separate cachable files better than combined [tweet](https://twitter.com/jaffathecake/status/336085960884367361)
- - Tutorials
-   - *Accessing the camera* and taking a picture with *HTML Media Capture* ([?](http://www.w3.org/TR/html-media-capture/)), [@cfjedimaster]()’s [post](http://www.raymondcamden.com/index.cfm/2013/5/20/Capturing-camerapicture-data-without-PhoneGap)
-   - Some lesser known but useful *LESS* features (i.a. mixins with return values), Mária’s [post](http://flippinawesome.org/2013/05/20/less-tips-and-tricks/)
-   - Some of the more powerful features of *Require.js*, [@jcreamer898]()’s [post](http://tech.pro/tutorial/1300/deep-dive-into-requirejs)
-   - *Revealing hidden latency patterns* with latency heat maps, [@brendangregg]()’s [post](http://dtrace.org/blogs/brendan/2013/05/19/revealing-hidden-latency-patterns/) ![][*]
- - Articles
-   - *Network congestion*, domain sharding, *SPDY* and more, [@hobohacker]()’s [post](https://insouciant.org/tech/network-congestion-and-web-browsing/) ![][*]
-   - Understanding *WCAG* (Web Content Accessibility Guidelines) Level, [@karlgroves]()’s [post](http://www.karlgroves.com/2013/05/20/understanding-wcag-level/)
- - Content
-   - ![][>] *Chrome DevTools* Revolutions 2013, [@paul_irish]()’s 34-min [talk](https://developers.google.com/events/io/sessions/325206725) from IO ’13
-   - ![][>] Stunning mobile visualization with *CSS Filters*, [@alexanderdanilo]()/[@Fyrd]()’s 45-min [talk](https://developers.google.com/events/io/sessions/325944029) from IO ’13
-   - ![][>] “*Test the Web Forward*”, [@RebeccaHauck]()’s 26-min [talk](http://marakana.com/s/post/1466/test_the_web_forward_adobe_rebecca_hauck_video) from [@sfhtml5]()
-   - ![][>] Debugging a real bug in JavaScript with *traceGL*, [@rem]()’s short 3-min [screencast](http://remysharp.com/2013/05/13/tracegl-for-javascript-debugging/)
-   - Showcasing real-world *usage of ECMAScript 6* features in today’s projects [wiki](https://github.com/sindresorhus/esnext-showcase/wiki)
-   - Design patterns for *GPU computing*, by NVIDIA Research [page](http://nvlabs.github.io/moderngpu/)
- - Tools
-   - Fiddler, a free *web debugging proxy* for any browser, system or platform [page](http://fiddler2.com/) ![][*]
-   - Lazy.js, a JavaScript *utility library* like Underscore.js but with *lazy evaluation* [page](http://dtao.github.io/lazy.js/)
-   - sublime-jquery-snippets, a collection of Sublime Text *snippets for jQuery development* [repo](https://github.com/aaronpowell/sublime-jquery-snippets)
-   - Knockout-ES5, a *Knockout.js plugin* that lets you use simpler and more natural syntax [page](http://blog.stevensanderson.com/2013/05/20/knockout-es5-a-plugin-to-simplify-your-syntax/)
-   - Live *WebVTT* Validator, an online validator for the *WebVTT* (Web Video Text Tracks) format [page](http://quuz.org/webvtt/)
- - Opinion
-   - *Cloud* is going to die much faster than anybody expected, [@leashless]()’s [post](http://vinay.howtolivewiki.com/blog/other/too-cheap-to-meter-massive-overbuild-in-server-farms-3373)
-   - Gathering the *Web tribes* together for the common good, [@dalmaer]()’s [post](https://medium.com/tech-talk/dff3e0ffdead)
-   - And so, Microsoft ruins *Skype*, [@NickBruun]()’s [post](http://bruun.co/2013/05/20/and-so-microsoft-ruins-skype)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
