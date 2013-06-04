@@ -1,3 +1,34 @@
+## May 22nd, 2013
+
+ - News
+   - *Open licensing* at the W3C, [@davidbaron]()’s [post](http://dbaron.org/log/20130522-w3c-licensing) + [discussion](https://twitter.com/davidbaron/status/337024909874184193) on Twitter
+   - *Web Performance APIs* rapidly become W3C recommendations, IEblog [post](http://blogs.msdn.com/b/ie/archive/2013/05/21/web-performance-apis-rapidly-become-w3c-recommendations.aspx)
+ - FYI
+   - ![][>] [@chriscoyier]() made screencasts for his “*Modern web dev workflow*” and “*Staying up to date*” talks [tweet](https://twitter.com/chriscoyier/status/336826654204755969)
+   - Coverage of *[@mobilismconf]() 2013*: slides, blog posts (videos coming soon) [post](http://mobilism.nl/2013/coverage)
+   - [@domenic]() proposes *JSHint* rule for disallowing ECMAScript’s “Annex B API” [github](https://github.com/jshint/jshint/issues/1092)
+ - Tutorials
+   - Writing testable JavaScript (*better code organization* for easier unit tests), [@rmurphey]()’s [post](http://alistapart.com/article/writing-testable-javascript) ![][*]
+   - Guidelines for writing *reusable and extensible JavaScript*, [@acolangelo]()’s [post](http://alistapart.com/article/the-design-of-code-organizing-javascript)
+   - Making a web site *ready for Retina* displays, [@allanberger]()’s [post](http://net.tutsplus.com/tutorials/html-css-techniques/the-right-way-to-retinafy-your-websites/)
+ - Articles
+   - *Usability guidelines* for mobile commerce (based on large-scale usability study), [@KiehnHolst]()’s [post](http://uxdesign.smashingmagazine.com/2013/05/21/recommendations-mobile-commerce-websites/)
+   - How *GitHub* is used inside companies (based on survey), [@slicknet]()’s [post](http://www.nczonline.net/blog/2013/05/21/github-workflows-inside-of-a-company/)
+   - Extending the web forward, [@wycats]()’s [post](http://yehudakatz.com/2013/05/21/extend-the-web-forward/)
+ - Content
+   - ![][>] “A More *Awesome Web*: Features You've Always Wanted”, [@ebidel]()’s 35-min [talk](https://developers.google.com/events/io/sessions/324706714) from IO ’13 + [slidedeck](http://www.moreawesomeweb.com/#1)
+   - ![][>] Real-time communication with *WebRTC*, [@juberti]()/[@sw12]()’s 44-min [talk](https://developers.google.com/events/io/sessions/326336563) from IO ’13 
+   - ![][>] Shop Talk *podcast* Ep. 69 with [@miketaylr]() from Opera [59min] [page](http://shoptalkshow.com/episodes/069-with-mike-taylor/)
+ - Sites
+   - Learn Git Branching, an *interactive tutorial* that teaches *branching in git* [page](http://pcottle.github.io/learnGitBranching/) ![][*]
+   - Open Source Report Card, generates *dynamic progress reports* for GitHub users [page](http://osrc.dfm.io/)
+ - Tools
+   - gif.js, a *GIF encoder* written in JavaScript [page](http://jnordberg.github.io/gif.js/) ![][*] (w/ demos)
+   - JSONView, a browser plugin that *pretty-prints JSON files* [page](http://jsonview.com/) (available for Firefox and Chrome) 
+   - landmarks, a Firefox plugin that enables *keyboard navigation of WAI-ARIA landmarks* [repo](https://github.com/matatk/landmarks)
+ - Opinion
+   - The end* of *website development* as a profession, [@ChrisHardie]()’s [post](http://www.chrishardie.com/2013/05/end-of-website-development/)
+
 ## May 21st, 2013
 
  - News

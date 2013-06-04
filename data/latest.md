@@ -1,11 +1,49 @@
 The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files). The README file of the repository also serves as a FAQ. Refer to it for information about this web-site.
- 
+
 ## Sticky
 
  - **Dear publishers:** Every article should have an *easily digestible intro paragraph*. [tweet](https://twitter.com/simevidas/status/332853743676690435) ![][*]
  - Recommended *Twitter* feeds: [@remotesynth](), [@codepo8](), [@smashingmag]()
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
+
+## June 3rd, 2013
+
+ - News
+   - ![][1] *W3C Advisory Board* elections are over; awaiting results… (read [here](http://briankardell.wordpress.com/2013/05/23/new-blood-reform-the-w3c-process/) for info about this election)
+   - Idea: *User-defined media queries*, [discussion](http://www.wired.co.uk/news/archive/2013-05/31/george-osborne) on `www-style`
+   - “*Kids need to learn* how to make apps, not just use them”, Wired [article](http://www.wired.co.uk/news/archive/2013-05/31/george-osborne)
+ - FYI
+   - There are 8–10 million web developers today [tweet](https://twitter.com/brianleroux/status/340469082417684480)
+   - *W3C TAG* (Technical Architecture Group) is now on GitHub [page](https://github.com/w3ctag/)
+ - Tutorials
+   - Monitoring *HTTP connectivity state* and managing HTTP requests (with a FSM), [@ifandelse]()’s [post](http://www.icenium.com/blog/icenium-team-blog/2013/05/30/is-this-thing-on-%28part-3%29) ![][*]
+   - An introductory guide to *AngularJS* (w/ comparison to Backbone.js), [@insraq]()’s [post](http://ruoyusun.com/2013/05/25/things-i-wish-i-were-told-about-angular-js.html)
+ - Articles
+   - *Generated content* is actually not content but presentation, [@brothercake]()’s [post](http://www.sitepoint.com/is-generated-content-actually-content/)
+   - Updates to JPEGXR and a quality *comparison of JPEGXR to WebP*, [@MicrosoftICE]()’s [post](http://hdview.wordpress.com/2013/05/30/jpegxr-updates/)
+   - Smart keyboard navigation and *use of ARIA* in Adobe’s new mega menu, [@mattmay]()’s [post](http://blogs.adobe.com/accessibility/2013/05/adobe-com.html)
+ - Media 
+   - “Everything you always wanted to know about *web standards*”, [@LeaVerou]()’s 17-min [@fluentconf]() [talk](https://www.youtube.com/watch?v=A5mI192gdZ8) ![][*]
+   - “*JavaScript* at 18: Legal to gamble”, [@BrendanEich]()’s 26-min [@fluentconf]() [keynote](https://www.youtube.com/watch?v=qrf9ONmtXbM)
+   - “*Cutting-edge HTML*”, [@cfjedimaster]()’s 64-min [@adobemax]() [talk](http://www.raymondcamden.com/index.cfm/2013/5/31/Two-more-MAX-Videos-CuttingEdge-HTML-and-Debugging-Your-Web-Apps)
+ - Content
+   - 5 *new [@caniuse]() tables*: HTML Templates, Pointer Events, JPEGXR, … [post](http://caniuse.com/feed/142)
+   - Firefox OS Web APIs: *Web Activities*, *Notifications API*, [@mepartoconmigo]()’s [presentation](http://arcturus.github.io/london_meetup_firefoxos/)
+   - *Results of [@webaim]()’s survey* of users with motor disabilities [post](http://webaim.org/projects/motordisabilitysurvey/)
+   - *RESTful URI design* - DOs and DON’Ts [post](http://stackoverflow.com/questions/1619152/how-to-create-rest-urls-without-verbs/1619677#1619677)
+ - Demos
+   - *Loading indicators* inside submit buttons [page](http://lab.hakim.se/ladda/) (check out `contract-overlay`)
+   - Responsive Matryoshka dolls in pure CSS [page](http://codepen.io/scrimothy/pen/xkDHg)
+ - Tools
+   - LICEcap, a desktop app for *creating animated GIFs* [page](http://www.cockos.com/licecap/) ![][*]
+   - MadEye, a web editor designed for *remote pair programming* [page](http://madeye.io/)
+   - grunticon, a Grunt.js task for *cross-device compatible CSS icons*, [repo](https://github.com/filamentgroup/grunticon) + test [results](https://twitter.com/filamentgroup/status/340560058825994240)
+   - zipfile.js, a JavaScript library for *extracting files from .zip archives* [repo](https://github.com/andreasgal/zipfile.js)
+ - Opinion
+   - Google is *undermining Blink principles* with PNaCl decision, ROC’s [post](http://robert.ocallahan.org/2013/05/blink-pnacl-and-standards.html) + CNET [article](http://news.cnet.com/8301-1023_3-57587156-93/mozilla-coder-chrome-violates-googles-own-blink-principles/) ![][*]
+   - “*Screen readers* at a crossroads” (changes introduced by Google’s ChromeVox API), [@gdkraus]()’s [post](http://accessibility.oit.ncsu.edu/blog/2013/05/31/screen-readers-at-a-crossroads/)
+   - “*W3C EME* is like a PETA hunting rifle”, [@pornelski]()’s [post](http://lists.w3.org/Archives/Public/public-html/2013May/0180.html) on `public-html`
 
 ## May 31st, 2013
 
@@ -225,37 +263,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - Opinion
    - “Stop publishing *JavaScript API design articles* centered around jQuery plugins” [tweet](https://twitter.com/slicknet/status/337224283967336450)
    - How *Google* plans to rule the computing world through Chrome, [@KevinCTofel]()’s [post](http://gigaom.com/2013/05/22/how-google-plans-to-rule-the-computing-world-through-chrome/)
-
-## May 22nd, 2013
-
- - News
-   - *Open licensing* at the W3C, [@davidbaron]()’s [post](http://dbaron.org/log/20130522-w3c-licensing) + [discussion](https://twitter.com/davidbaron/status/337024909874184193) on Twitter
-   - *Web Performance APIs* rapidly become W3C recommendations, IEblog [post](http://blogs.msdn.com/b/ie/archive/2013/05/21/web-performance-apis-rapidly-become-w3c-recommendations.aspx)
- - FYI
-   - ![][>] [@chriscoyier]() made screencasts for his “*Modern web dev workflow*” and “*Staying up to date*” talks [tweet](https://twitter.com/chriscoyier/status/336826654204755969)
-   - Coverage of *[@mobilismconf]() 2013*: slides, blog posts (videos coming soon) [post](http://mobilism.nl/2013/coverage)
-   - [@domenic]() proposes *JSHint* rule for disallowing ECMAScript’s “Annex B API” [github](https://github.com/jshint/jshint/issues/1092)
- - Tutorials
-   - Writing testable JavaScript (*better code organization* for easier unit tests), [@rmurphey]()’s [post](http://alistapart.com/article/writing-testable-javascript) ![][*]
-   - Guidelines for writing *reusable and extensible JavaScript*, [@acolangelo]()’s [post](http://alistapart.com/article/the-design-of-code-organizing-javascript)
-   - Making a web site *ready for Retina* displays, [@allanberger]()’s [post](http://net.tutsplus.com/tutorials/html-css-techniques/the-right-way-to-retinafy-your-websites/)
- - Articles
-   - *Usability guidelines* for mobile commerce (based on large-scale usability study), [@KiehnHolst]()’s [post](http://uxdesign.smashingmagazine.com/2013/05/21/recommendations-mobile-commerce-websites/)
-   - How *GitHub* is used inside companies (based on survey), [@slicknet]()’s [post](http://www.nczonline.net/blog/2013/05/21/github-workflows-inside-of-a-company/)
-   - Extending the web forward, [@wycats]()’s [post](http://yehudakatz.com/2013/05/21/extend-the-web-forward/)
- - Content
-   - ![][>] “A More *Awesome Web*: Features You've Always Wanted”, [@ebidel]()’s 35-min [talk](https://developers.google.com/events/io/sessions/324706714) from IO ’13 + [slidedeck](http://www.moreawesomeweb.com/#1)
-   - ![][>] Real-time communication with *WebRTC*, [@juberti]()/[@sw12]()’s 44-min [talk](https://developers.google.com/events/io/sessions/326336563) from IO ’13 
-   - ![][>] Shop Talk *podcast* Ep. 69 with [@miketaylr]() from Opera [59min] [page](http://shoptalkshow.com/episodes/069-with-mike-taylor/)
- - Sites
-   - Learn Git Branching, an *interactive tutorial* that teaches *branching in git* [page](http://pcottle.github.io/learnGitBranching/) ![][*]
-   - Open Source Report Card, generates *dynamic progress reports* for GitHub users [page](http://osrc.dfm.io/)
- - Tools
-   - gif.js, a *GIF encoder* written in JavaScript [page](http://jnordberg.github.io/gif.js/) ![][*] (w/ demos)
-   - JSONView, a browser plugin that *pretty-prints JSON files* [page](http://jsonview.com/) (available for Firefox and Chrome) 
-   - landmarks, a Firefox plugin that enables *keyboard navigation of WAI-ARIA landmarks* [repo](https://github.com/matatk/landmarks)
- - Opinion
-   - The end* of *website development* as a profession, [@ChrisHardie]()’s [post](http://www.chrishardie.com/2013/05/end-of-website-development/)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
