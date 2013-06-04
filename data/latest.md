@@ -11,7 +11,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
 
  - News
    - ![][1] *W3C Advisory Board* elections are over; awaiting results… (read [here](http://briankardell.wordpress.com/2013/05/23/new-blood-reform-the-w3c-process/) for info about this election)
-   - Idea: *User-defined media queries*, [discussion](http://www.wired.co.uk/news/archive/2013-05/31/george-osborne) on `www-style`
+   - Idea: *User-defined media queries*, [discussion](http://lists.w3.org/Archives/Public/www-style/2013May/0812.html) on `www-style`
    - “*Kids need to learn* how to make apps, not just use them”, Wired [article](http://www.wired.co.uk/news/archive/2013-05/31/george-osborne)
  - FYI
    - There are 8–10 million web developers today [tweet](https://twitter.com/brianleroux/status/340469082417684480)
