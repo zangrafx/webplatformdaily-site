@@ -7,6 +7,42 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
+## June 4th, 2013
+
+ - News
+   - *W3C Advisory Board* election results: [@t](), [@chaals](), [@cwilso]() and Michael Champion elected [post](http://www.w3.org/News/2013.html#entry-9856)
+   - *W3C TAG* London meeting, [@annevk]()’s [takeaways](http://annevankesteren.nl/2013/06/london-tag)
+   - Performance improvements for *`querySelector`/`querySelectorAll`* in Chromium [tweet](https://twitter.com/brucel/status/341569978232877056)
+   - Simple *text wrapping in SVG*, [@shepazu]()’s [proposal](http://schepers.cc/its-a-wrap)
+   - Foxconn and Mozilla are collaborating to develop 5 devices for OEMs including a tablet, TNW [article](http://thenextweb.com/asia/2013/06/03/foxconn-and-mozilla-are-collaborating-to-develop-5-devices-for-oems-including-a-tablet/)
+ - FYI
+   - Chrome won’t cache any assets on HTTPS hosts with *bad (e.g. self signed) TLS certificates* [source](https://twitter.com/igrigorik/status/341439272982810624)
+   - [HTML5accessibility.com](http://html5accessibility.com) is now on GitHub: [repo](https://github.com/stevefaulkner/HTML5accessibility) (pull requests welcome)
+ - Tutorials
+   - A showcase of the *next generation of web layout*, [@cjgammon]()’s [post](http://www.html5rocks.com/en/tutorials/casestudies/natgeo/) ![][*]
+   - Quick introduction to 5 *Web Platform APIs* (Battery Status, Gamepad, …), [@AdnaneBelmadiaf]()’s [post](http://daker.me/2013/06/5-html5-javascript-apis-to-keep-an-eye-on.html)
+   - Building an example TODO *app for Firefox OS*, [@ifadey]()’s [post](https://hacks.mozilla.org/2013/06/building-a-todo-app-for-firefox-os-part-1/)
+ - Articles
+   - The problems with CSS resets and *Normalize.css* as an alternative, [@boblet]()’s [post](http://the-pastry-box-project.net/oli-studholme/2013-june-3/) ![][*]
+   - History and overview of the main *JavaScript engines*, [@creativejs]()’s [post](http://creativejs.com/2013/06/the-race-for-speed-part-1-the-javascript-engine-family-tree/)
+   - The *state of HTML5 gaming* in 2013, [@Bushido_Games]()’s [post](http://bushidoit.com/2013/06/html5-gaming-is-doing-well/)
+   - “The rise of the *mobile-only user*”, [@karenmcgrane]()’s [post](http://blogs.hbr.org/cs/2013/05/the_rise_of_the_mobile-only_us.html)
+   - *Recent trends* from May conferences (i.a. componentization with *Polymer*), [@kpdecker]()’s [post](http://www.incaseofstairs.com/)
+ - Media
+  - Atomic design (*designing systems of components*), [@brad_frost]()’s 54-min [@btconf]() [talk](https://vimeo.com/channels/beyondtellerrand/67476280) ![][*]
+  - Creating a simple *`<canvas>` game with vanilla JavaScript*, [@codepo8]()’s 12-min [screencast](https://www.youtube.com/watch?v=9rsDNifGods)
+  - *Front-end latency* (performance) best practices, [@souders]()’s 134-min [workshop](https://www.youtube.com/watch?v=ch68MXWUfjo) 
+  - ShopTalk #70 with [@hcatlin]() (creator of Sass & Haml), 62-min [podcast](http://shoptalkshow.com/episodes/070-with-hampton-catlin/) + #71 RAPIDFIRE, 58-min [podcast](http://shoptalkshow.com/episodes/071-rapidfire-17/)
+ - Demos
+   - Company logos (i.a. Twitter, GitHub) created *in pure CSS*, [@bchANx]()’s [demo](http://www.bchanx.com/logos-in-pure-css-demo)
+   - A NES controller in 3D created *in pure CSS*, [@johanderowan]()’s [demo](http://codepen.io/Dreamdealer/pen/Clutk)
+ - Tools
+   - JSON Generator, an online tool for *generating “lorem ipsum” JSON data* [page](http://www.json-generator.com/)
+   - weinre, a tool for *remote web site debugging* [post](http://msopentech.com/blog/2013/05/31/now-on-ie-and-firefox-debug-your-mobile-html5-page-remotely-with-weinre-web-inspector-remote/) (no longer restricted to WebKit)
+   - Amazon Web Services *SDK for Node.js* [page](http://aws.amazon.com/sdkfornodejs/?ref_=pe_12300_30186750_35)
+ - Opinion
+   - “Some *thoughts on mobile*” (i.a. phones vs tables, marketplace issues), [@cdixon]()’s [post](http://cdixon.org/2013/06/01/some-thoughts-on-mobile/)
+
 ## June 3rd, 2013
 
  - News
@@ -226,43 +262,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - -prefix-free, a script that *adds the current browser’s prefix* to any CSS code [page](http://leaverou.github.io/prefixfree/)
  - Opinion
    - “The APIs surrounding *`contenteditable`* are so bad it’s insulting”, [@cjno]()’s [tweet](https://twitter.com/cjno/status/337862204613357568)
-
-## May 23rd, 2013
-
- - News
-   - ![][&] The *Fetch Standard* (supersedes CORS and the fetch algo from HTML5), [@annevk]()’s ELI5 [post](http://annevankesteren.nl/2013/05/fetching-urls) ![][*]
-   - *Responsive images*, [@brucel]()’s interim [report](http://www.brucelawson.co.uk/2013/responsive-images-intrerim-report/)
-   - New features in *Chrome 27* (recently released) [post](http://www.sitepoint.com/chrome-27-whats-new/) + `Accept-Charset` HTTP header removed [tweet](https://twitter.com/hsivonen/status/337165108646133760) 
-   - *DevTools Workspaces* ([?](https://www.youtube.com/watch?v=kVSo4buDAEE&feature=youtu.be&t=47s)) landed in Chrome Canary [tweet](https://twitter.com/ChromiumDev/status/337308972858089474)
-   - Initial support for *WebVTT* coming to Firefox Nightly [tweet](https://twitter.com/humphd/status/337388858654224384)
-   - Mozilla can produce *near-native performance* on the Web, Ars Technica [article](http://arstechnica.com/information-technology/2013/05/native-level-performance-on-the-web-a-brief-examination-of-asm-js/)
-   - Microsoft teases *Internet Explorer 11* WebGL support, Verge [article](http://www.theverge.com/2013/5/22/4355942/internet-explorer-11-webgl-support-teased-on-vine)
- - FYI
-   - List of *Chrome sessions* from Google’s IO 2013 [playlist](https://www.youtube.com/playlist?list=PLg5dRHeDFEAWKN4weNJYDrC533aCVX7ME) (30 videos)
-   - *AngularJS* is performing “spring cleaning” on GitHub [post](http://gigaom.com/2013/05/22/how-google-plans-to-rule-the-computing-world-through-chrome/)
- - Tutorials
-   - Designing layouts has become easy with *CSS Flexbox*, [@dstorey]()’s [post](http://coding.smashingmagazine.com/2013/05/22/centering-elements-with-flexbox/) ![][*]
-   - Creating a *natural language form* with custom input elements, [@crnacura]()’s [post](http://tympanus.net/codrops/2013/05/21/natural-language-form-with-custom-input-elements/) + [demo](http://tympanus.net/Tutorials/NaturalLanguageForm/) page
-   - Providing *quasi scope in CSS* with BEM, [@csswizardry]()’s [post](http://csswizardry.com/2013/05/scope-in-css/)
-   - *Animating CSS pseudo-elements* to create stunning effects, [@marco_bf]()’s [post](http://tympanus.net/codrops/2013/05/22/examples-of-pseudo-elements-animations-and-transitions/) + [demos](http://tympanus.net/Development/PseudoElementsAnimationsTransitions/) page
-   - Example of using the `content` property and *`attr()` function* together in CSS, [@davidwalshblog]()’s [post](http://davidwalsh.name/css-content-attr)
-   - *CSS media queries* - a handy cheat sheet (logic + patterns), [@chriscoyier]()’s [post](http://css-tricks.com/logic-in-media-queries/) 
- - Articles
-   - Introduction to *Web Components* (quick overview), [@cfjedimaster]()’s [post](http://www.raymondcamden.com/index.cfm/2013/5/22/The-Future-of-the-Web) ![][*]
-   - Choosing between HTML/CSS, SVG, Canvas and WebGL for *visualizations*, [@kissane]()’s [post](http://source.mozillaopennews.org/en-US/articles/twitters-miguel-rios-choosing-viz-methods/)
-   - Inadvertent sharing of variables via *closures in JavaScript*, [@rauschma]()’s [post](http://www.2ality.com/2013/05/quirk-closures.html)
- - Content
-   - ![][>] The modern workflow for *developing the mobile web*, [@gauntface]()’s 31-min [talk](https://developers.google.com/events/io/sessions/324558168) from IO ’13
-   - ![][>] *Compositing* in Blink and WebKit (browser internals), a 51-min [video](https://www.youtube.com/watch?v=Lpk1dYdo62o) presentation
- - Sites
-   - Front-end Rescue, *keeping up to date* with front-end technologies [page](http://uptodate.frontendrescue.org/)
- - Tools
-   - Icenium, a set of cloud-based tools for *developing cross-platform mobile apps* [page](http://www.icenium.com/) + [comparison](http://www.icenium.com/blog/icenium-team-blog/2013/05/01/what%27s-the-difference-between-icenium-and-phonegap-build-)
-   - Picksum Ipsum, a funny *“Lorem ipsum” text generator* [page](http://www.picksumipsum.co.uk/)
-   - Two handy helper functions for *HTML5 Canvas* development [gist](https://gist.github.com/codepo8/5631638)
- - Opinion
-   - “Stop publishing *JavaScript API design articles* centered around jQuery plugins” [tweet](https://twitter.com/slicknet/status/337224283967336450)
-   - How *Google* plans to rule the computing world through Chrome, [@KevinCTofel]()’s [post](http://gigaom.com/2013/05/22/how-google-plans-to-rule-the-computing-world-through-chrome/)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"

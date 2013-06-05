@@ -1,3 +1,41 @@
+## May 23rd, 2013
+
+ - News
+   - ![][&] The *Fetch Standard* (supersedes CORS and the fetch algo from HTML5), [@annevk]()’s ELI5 [post](http://annevankesteren.nl/2013/05/fetching-urls) ![][*]
+   - *Responsive images*, [@brucel]()’s interim [report](http://www.brucelawson.co.uk/2013/responsive-images-intrerim-report/)
+   - New features in *Chrome 27* (recently released) [post](http://www.sitepoint.com/chrome-27-whats-new/) + `Accept-Charset` HTTP header removed [tweet](https://twitter.com/hsivonen/status/337165108646133760) 
+   - *DevTools Workspaces* ([?](https://www.youtube.com/watch?v=kVSo4buDAEE&feature=youtu.be&t=47s)) landed in Chrome Canary [tweet](https://twitter.com/ChromiumDev/status/337308972858089474)
+   - Initial support for *WebVTT* coming to Firefox Nightly [tweet](https://twitter.com/humphd/status/337388858654224384)
+   - Mozilla can produce *near-native performance* on the Web, Ars Technica [article](http://arstechnica.com/information-technology/2013/05/native-level-performance-on-the-web-a-brief-examination-of-asm-js/)
+   - Microsoft teases *Internet Explorer 11* WebGL support, Verge [article](http://www.theverge.com/2013/5/22/4355942/internet-explorer-11-webgl-support-teased-on-vine)
+ - FYI
+   - List of *Chrome sessions* from Google’s IO 2013 [playlist](https://www.youtube.com/playlist?list=PLg5dRHeDFEAWKN4weNJYDrC533aCVX7ME) (30 videos)
+   - *AngularJS* is performing “spring cleaning” on GitHub [post](http://gigaom.com/2013/05/22/how-google-plans-to-rule-the-computing-world-through-chrome/)
+ - Tutorials
+   - Designing layouts has become easy with *CSS Flexbox*, [@dstorey]()’s [post](http://coding.smashingmagazine.com/2013/05/22/centering-elements-with-flexbox/) ![][*]
+   - Creating a *natural language form* with custom input elements, [@crnacura]()’s [post](http://tympanus.net/codrops/2013/05/21/natural-language-form-with-custom-input-elements/) + [demo](http://tympanus.net/Tutorials/NaturalLanguageForm/) page
+   - Providing *quasi scope in CSS* with BEM, [@csswizardry]()’s [post](http://csswizardry.com/2013/05/scope-in-css/)
+   - *Animating CSS pseudo-elements* to create stunning effects, [@marco_bf]()’s [post](http://tympanus.net/codrops/2013/05/22/examples-of-pseudo-elements-animations-and-transitions/) + [demos](http://tympanus.net/Development/PseudoElementsAnimationsTransitions/) page
+   - Example of using the `content` property and *`attr()` function* together in CSS, [@davidwalshblog]()’s [post](http://davidwalsh.name/css-content-attr)
+   - *CSS media queries* - a handy cheat sheet (logic + patterns), [@chriscoyier]()’s [post](http://css-tricks.com/logic-in-media-queries/) 
+ - Articles
+   - Introduction to *Web Components* (quick overview), [@cfjedimaster]()’s [post](http://www.raymondcamden.com/index.cfm/2013/5/22/The-Future-of-the-Web) ![][*]
+   - Choosing between HTML/CSS, SVG, Canvas and WebGL for *visualizations*, [@kissane]()’s [post](http://source.mozillaopennews.org/en-US/articles/twitters-miguel-rios-choosing-viz-methods/)
+   - Inadvertent sharing of variables via *closures in JavaScript*, [@rauschma]()’s [post](http://www.2ality.com/2013/05/quirk-closures.html)
+ - Content
+   - ![][>] The modern workflow for *developing the mobile web*, [@gauntface]()’s 31-min [talk](https://developers.google.com/events/io/sessions/324558168) from IO ’13
+   - ![][>] *Compositing* in Blink and WebKit (browser internals), a 51-min [video](https://www.youtube.com/watch?v=Lpk1dYdo62o) presentation
+ - Sites
+   - Front-end Rescue, *keeping up to date* with front-end technologies [page](http://uptodate.frontendrescue.org/)
+ - Tools
+   - Icenium, a set of cloud-based tools for *developing cross-platform mobile apps* [page](http://www.icenium.com/) + [comparison](http://www.icenium.com/blog/icenium-team-blog/2013/05/01/what%27s-the-difference-between-icenium-and-phonegap-build-)
+   - Picksum Ipsum, a funny *“Lorem ipsum” text generator* [page](http://www.picksumipsum.co.uk/)
+   - Two handy helper functions for *HTML5 Canvas* development [gist](https://gist.github.com/codepo8/5631638)
+ - Opinion
+   - “Stop publishing *JavaScript API design articles* centered around jQuery plugins” [tweet](https://twitter.com/slicknet/status/337224283967336450)
+   - How *Google* plans to rule the computing world through Chrome, [@KevinCTofel]()’s [post](http://gigaom.com/2013/05/22/how-google-plans-to-rule-the-computing-world-through-chrome/)
+
+
 ## May 22nd, 2013
 
  - News
