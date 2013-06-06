@@ -21,7 +21,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - President Obama comes out strongly against *patent trolls*, Techdirt [analysis](http://www.techdirt.com/articles/20130604/00412423310/president-obamas-comes-out-strongly-against-patent-trolls-here-are-details.shtml)
  - FYI
    - The *W3C Advisory Board* is now on Twitter [@W3CAB]() (still unofficial account)
-   - The *CSS `content` property* can have a sting, `url()`, `counter()` or `attr()` value [wiki](http://css-tricks.com/almanac/properties/c/content/)
+   - The *CSS `content` property* can have a string, `url()`, `counter()` or `attr()` value [wiki](http://css-tricks.com/almanac/properties/c/content/)
    - A Venn diagram showing the relationship between *CSS3, SVG and Web Animations* [image](https://wiki.mozilla.org/images/f/f6/CSS-SVG-Web-Animations.png) 
  - Tutorials
    - Monitoring HTTP and *WebSocket connectivity state* with a FSM, [@ifandelse]()’s [post](http://www.icenium.com/blog/icenium-team-blog/2013/06/04/is-this-thing-on-%28part-4%29)
