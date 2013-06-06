@@ -1,3 +1,40 @@
+## May 24th, 2013
+
+ - News
+   - ![][&] New W3C releases:
+     - **Last Call** of “*Vibration API*” [TR](http://www.w3.org/TR/vibration/) + [diff](http://www.w3.org/TR/2013/WD-vibration-20130523/,diff) (comments: through 13 June)
+     - Group Note of “*Web Intents*” [TR](http://www.w3.org/TR/web-intents/) + [diff](http://www.w3.org/TR/2013/NOTE-web-intents-20130523/,diff)  (no longer a working draft)
+     - 2nd WD of “*User Interface Security Directives for Content Security Policy*” [TR](http://www.w3.org/TR/UISecurity/) + [diff](http://www.w3.org/TR/2013/WD-UISecurity-20130523/,diff)
+   - *CSS Box Alignment* 2nd WD release [notes](http://www.w3.org/blog/CSS/2013/05/24/css3-alig-update/) (posted with delay)
+   - *Canvas Blending* is now in Chrome Canary, WebKit Nightly and Firefox [post](http://blogs.adobe.com/webplatform/2013/05/20/canvas-blending-is-now-in-chrome-canary-safari-and-firefox/)
+   - *DOM Futures* support coming to Blink [post](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9q5kP0eMQc8/Gy6M9nFHjuoJ)
+   - Google abandons *open standards* for instant messaging, [@EFF]()’s [article](https://www.eff.org/deeplinks/2013/05/google-abandons-open-standards-instant-messaging)
+   - Google introduces *Portable Native Client* (enables adding C/C++ code to web apps), TechCrunch [article](http://techcrunch.com/2013/05/17/google-introduces-portable-native-client-makes-it-easier-for-developers-to-add-c-and-c-code-to-their-web-apps/)
+ - FYI
+   - The short history of the *`about:` URL* [post](http://www.montulli.org/lou/about_urls)
+   - AngularJS and Ember.js have expressed plans to support *Web Components* [post](http://www.2ality.com/2013/05/web-components-angular-ember.html)
+   - There are over 70 *Yeoman generators* available on npm [tweet](https://twitter.com/addyosmani/status/337551686723846144)
+ - Tutorials
+   - A modular and flexible *alternative to the `switch` statement* in JavaScript, [@Encosia]()’s [post](http://encosia.com/first-class-functions-as-an-alternative-to-javascripts-switch-statement/)
+ - Articles
+   - *Case study*: Building the new Financial Times web app, [@wilsonpage]()’s [post](http://coding.smashingmagazine.com/2013/05/23/building-the-new-financial-times-web-app/) (extensive)
+   - About JavaScript’s *event loop*, [@tlhunter]()’s [post](http://thomashunter.name/blog/the-javascript-event-loop-presentation/)
+   - Working on a large *AngularJS project*, [@jhooks]()’s [post](http://joelhooks.com/blog/2013/05/22/lessons-learned-kicking-off-an-angularjs-project/) in which he shares his experiences
+ - Content
+   - ![][>] Introduction to *Modernizr*, [@chriscoyier]()’s 24-min [screencast](http://css-tricks.com/video-screencasts/126-using-modernizr/) ![][*]
+   - *HTML5 Canvas*: counting pixels of a certain color + finding the color at a position `x` and `y`, live [demo](http://jsbin.com/ojiwan/3/edit)
+   - *Checkboxes* that look like lightsabers from Star Wars in pure CSS, [demo](http://scotch.io/demos/pure-css3-star-wars-lightsaber-checkboxes) page ![][*]
+ - Sites
+   - Embercasts, free screencasts for learning *Ember.js* [embercasts.com](http://www.embercasts.com/)
+ - Tools
+   - Stylify Me, an online tool that *generates a style guide* of your web site [page](http://stylifyme.com/) ![][*]
+   - WideArea, a JavaScript library that *adds fullscreen capabilities* to your `<textarea>` elements [page](http://usablica.github.io/widearea/)
+   - Firefox OS Boilerplate App, a boilerplate for *getting started with apps for Firefox OS* [repo](https://github.com/robnyman/Firefox-OS-Boilerplate-App)
+   - -prefix-free, a script that *adds the current browser’s prefix* to any CSS code [page](http://leaverou.github.io/prefixfree/)
+ - Opinion
+   - “The APIs surrounding *`contenteditable`* are so bad it’s insulting”, [@cjno]()’s [tweet](https://twitter.com/cjno/status/337862204613357568)
+
+
 ## May 23rd, 2013
 
  - News

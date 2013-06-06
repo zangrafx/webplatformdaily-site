@@ -7,6 +7,45 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
+## June 5th, 2013
+
+ - News
+   - New W3C releases:
+     - 2nd WD of “*HTML 5.1*” [TR](http://www.w3.org/TR/html51/) + [diff](http://www.w3.org/TR/2013/WD-html51-20130528/,diff)
+     - 2nd WD of “*HTML Canvas 2D Context, Level 2*” [TR](http://www.w3.org/TR/2dcontext2/) + [diff](http://www.w3.org/TR/2013/WD-2dcontext2-20130528/,diff)
+     - 15th WD of “*Differences from HTML4*” [TR](http://www.w3.org/TR/html5-diff/) + [diff](http://www.w3.org/TR/2013/WD-html5-diff-20130528/)
+     - 2nd WD of “*Content Security Policy 1.1*” [TR](http://www.w3.org/TR/CSP11/) + [diff](http://www.w3.org/TR/2013/WD-CSP11-20130604/,diff)
+   - *Firefox unprefixing* `requestAnimationFrame` ([source](https://twitter.com/FirefoxNightly/status/341868124959805441)) and `cursor:zoom-in/out` ([source](https://twitter.com/FirefoxNightly/status/341868131406462976))
+   - *Firefox’s new UI* (Australis) coming in version 25 (week of June 24th) [source](https://mail.mozilla.org/pipermail/firefox-dev/2013-May/000405.html)
+   - Online throttling and site-blocking to be outlawed in Europe under *net neutrality plan*, ZDNet [article](http://www.zdnet.com/online-throttling-and-site-blocking-to-be-outlawed-in-europe-under-net-neutrality-plan-7000016324/)
+   - President Obama comes out strongly against *patent trolls*, Techdirt [analysis](http://www.techdirt.com/articles/20130604/00412423310/president-obamas-comes-out-strongly-against-patent-trolls-here-are-details.shtml)
+ - FYI
+   - The *W3C Advisory Board* is now on Twitter [@W3CAB]() (still unofficial account)
+   - The *CSS `content` property* can have a sting, `url()`, `counter()` or `attr()` value [wiki](http://css-tricks.com/almanac/properties/c/content/)
+   - A Venn diagram showing the relationship between *CSS3, SVG and Web Animations* [image](https://wiki.mozilla.org/images/f/f6/CSS-SVG-Web-Animations.png) 
+ - Tutorials
+   - Monitoring HTTP and *WebSocket connectivity state* with a FSM, [@ifandelse]()’s [post](http://www.icenium.com/blog/icenium-team-blog/2013/06/04/is-this-thing-on-%28part-4%29)
+   - *Unit testing with Sinon.js* (covers spies, stubs, mocks, fake timers, fake servers), [@elijahmanor]()’s [post](http://www.elijahmanor.com/2013/06/unit-test-like-secret-agent-with-sinonjs.html)
+   - *Using Handlebars templates* with Ember.js views (+ intro to JS templating in general), [@jdcravens]()’s [post](http://tech.pro/tutorial/1308/emberjs-views-and-live-templates-with-handlebarsjs-part-1)
+   - *UI testing with CasperJS* (using assertions from the Tester API), [@maltblue]()’s [post](http://blog.newrelic.com/2013/06/04/simpler-ui-testing-with-casperjs-2/)
+ - Articles
+   - Best practices for *designing a pragmatic RESTful API*, [@veesahni]()’s [post](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+   - Attacks that *exploit the `Host` HTTP header*, [@albinowax]()’s [post](http://www.skeletonscribe.net/2013/05/practical-http-host-header-attacks.html)
+   - *Processing RAW images* in the browser with Emscripten and ams.js, [@]()’s [post](http://blog.bitops.com/blog/2013/06/04/webraw-asmjs/)
+   - Are form field *placeholders an usability problem* on mobile?, [@jamieappleseed]()’s [post](http://baymard.com/blog/mobile-forms-avoid-inline-labels)
+   - *Using progressive JPEGs* to enhance user experience, [@patmeenan]()’s [post](http://blog.patrickmeenan.com/2013/06/progressive-jpegs-ftw.html) ![][*]
+ - Media
+   - “The humble *`border-radius`*”, [@LeaVerou]()’s 32-min [talk](https://vimeo.com/67567648) + [slides](http://lea.verou.me/humble-border-radius/#for-browser) from [@fronttrends]() 2013
+   - Intro to *finite state machines* and Machina.js, [@dougneiner]()’s 29-min [talk](https://vimeo.com/67473899) + [slides](http://code.dougneiner.com/presentations/machina/) from [@jquk]() ![][*]
+   - *Tracing paint operations* in Chrome Canary, [@jaffathecake]()’s 5-min [screencast](https://www.youtube.com/watch?v=bMZZOzuJCgk)
+ - Tools
+   - Node GH, *GitHub command line tools* [page](http://nodegh.io/) (w/ 4-min demo screencast) ![][*]
+   - Octopush, a *push server* for creating real-time web apps [repo](https://github.com/adisbladis/octopush)
+   - Regenerate, a Unicode-aware *regex generator* for JavaScript [repo](https://github.com/mathiasbynens/regenerate)
+ - Opinion
+   - Firefox OS vs iOS/Android duopoly: “*The web always wins* at the end”, The Register [article](http://www.theregister.co.uk/2013/06/03/my_month_with_firefox_os/)
+   - Is *Google dumping open standards* for open wallets?, ReadWrite [article](http://readwrite.com/2013/06/04/is-google-dumping-open-standards-for-open-wallets)
+
 ## June 4th, 2013
 
  - News
@@ -226,42 +265,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - Cytoscape.js, a JavaScript library for *graph analysis and visualization* [page](http://cytoscape.github.io/cytoscape.js/)
  - Opinion
    - “JavaScript is *Web Assembly Language* and that's OK”, [@shanselman]()’s [post](http://www.hanselman.com/blog/JavaScriptIsWebAssemblyLanguageAndThatsOK.aspx)
-
-## May 24th, 2013
-
- - News
-   - ![][&] New W3C releases:
-     - **Last Call** of “*Vibration API*” [TR](http://www.w3.org/TR/vibration/) + [diff](http://www.w3.org/TR/2013/WD-vibration-20130523/,diff) (comments: through 13 June)
-     - Group Note of “*Web Intents*” [TR](http://www.w3.org/TR/web-intents/) + [diff](http://www.w3.org/TR/2013/NOTE-web-intents-20130523/,diff)  (no longer a working draft)
-     - 2nd WD of “*User Interface Security Directives for Content Security Policy*” [TR](http://www.w3.org/TR/UISecurity/) + [diff](http://www.w3.org/TR/2013/WD-UISecurity-20130523/,diff)
-   - *CSS Box Alignment* 2nd WD release [notes](http://www.w3.org/blog/CSS/2013/05/24/css3-alig-update/) (posted with delay)
-   - *Canvas Blending* is now in Chrome Canary, WebKit Nightly and Firefox [post](http://blogs.adobe.com/webplatform/2013/05/20/canvas-blending-is-now-in-chrome-canary-safari-and-firefox/)
-   - *DOM Futures* support coming to Blink [post](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9q5kP0eMQc8/Gy6M9nFHjuoJ)
-   - Google abandons *open standards* for instant messaging, [@EFF]()’s [article](https://www.eff.org/deeplinks/2013/05/google-abandons-open-standards-instant-messaging)
-   - Google introduces *Portable Native Client* (enables adding C/C++ code to web apps), TechCrunch [article](http://techcrunch.com/2013/05/17/google-introduces-portable-native-client-makes-it-easier-for-developers-to-add-c-and-c-code-to-their-web-apps/)
- - FYI
-   - The short history of the *`about:` URL* [post](http://www.montulli.org/lou/about_urls)
-   - AngularJS and Ember.js have expressed plans to support *Web Components* [post](http://www.2ality.com/2013/05/web-components-angular-ember.html)
-   - There are over 70 *Yeoman generators* available on npm [tweet](https://twitter.com/addyosmani/status/337551686723846144)
- - Tutorials
-   - A modular and flexible *alternative to the `switch` statement* in JavaScript, [@Encosia]()’s [post](http://encosia.com/first-class-functions-as-an-alternative-to-javascripts-switch-statement/)
- - Articles
-   - *Case study*: Building the new Financial Times web app, [@wilsonpage]()’s [post](http://coding.smashingmagazine.com/2013/05/23/building-the-new-financial-times-web-app/) (extensive)
-   - About JavaScript’s *event loop*, [@tlhunter]()’s [post](http://thomashunter.name/blog/the-javascript-event-loop-presentation/)
-   - Working on a large *AngularJS project*, [@jhooks]()’s [post](http://joelhooks.com/blog/2013/05/22/lessons-learned-kicking-off-an-angularjs-project/) in which he shares his experiences
- - Content
-   - ![][>] Introduction to *Modernizr*, [@chriscoyier]()’s 24-min [screencast](http://css-tricks.com/video-screencasts/126-using-modernizr/) ![][*]
-   - *HTML5 Canvas*: counting pixels of a certain color + finding the color at a position `x` and `y`, live [demo](http://jsbin.com/ojiwan/3/edit)
-   - *Checkboxes* that look like lightsabers from Star Wars in pure CSS, [demo](http://scotch.io/demos/pure-css3-star-wars-lightsaber-checkboxes) page ![][*]
- - Sites
-   - Embercasts, free screencasts for learning *Ember.js* [embercasts.com](http://www.embercasts.com/)
- - Tools
-   - Stylify Me, an online tool that *generates a style guide* of your web site [page](http://stylifyme.com/) ![][*]
-   - WideArea, a JavaScript library that *adds fullscreen capabilities* to your `<textarea>` elements [page](http://usablica.github.io/widearea/)
-   - Firefox OS Boilerplate App, a boilerplate for *getting started with apps for Firefox OS* [repo](https://github.com/robnyman/Firefox-OS-Boilerplate-App)
-   - -prefix-free, a script that *adds the current browser’s prefix* to any CSS code [page](http://leaverou.github.io/prefixfree/)
- - Opinion
-   - “The APIs surrounding *`contenteditable`* are so bad it’s insulting”, [@cjno]()’s [tweet](https://twitter.com/cjno/status/337862204613357568)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
