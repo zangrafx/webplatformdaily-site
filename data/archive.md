@@ -1,3 +1,40 @@
+## May 27th, 2013
+
+ - News
+   - ![][&] *HTML 5.1 spec*: Spaghetti Monster example replaced with Crocoduck [tweet](https://twitter.com/stevefaulkner/status/337879140625686528)
+   - *Presto-based Opera Mobile* re-uploaded to Play Store as “Opera Mobile Classic” [page](https://play.google.com/store/apps/details?id=com.opera.browser.classic)
+   - *jQuery* 1.10.0 and 2.0.1 released, [release notes](http://blog.jquery.com/2013/05/24/jquery-1-10-0-and-2-0-1-released/)
+   - “Report: Google considering Internet balloons to *connect sub-Saharan Africa*”, Ars Technica [article](http://arstechnica.com/business/2013/05/report-google-considering-internet-balloons-to-connect-sub-saharan-africa/)
+ - FYI
+   - Microsoft is doing a 3-question survey on *dev tools* usage [tweet](https://twitter.com/IEDevChat/status/338041433065930753)
+   - *CSS anomaly*: The `<body>` background only floods the viewport if no `<html>` background is defined [post](http://css-tricks.com/just-one-of-those-weird-things-about-css-background-on-body/)
+   - “`about:about`” gives you a *list of all `about:` pages* in your Firefox and Chrome browser
+   - *Accessibility tip*: Hashtags in camel case are read as separate words in screen readers [tweet](https://twitter.com/heydonworks/status/338646556490231808)
+ - Tutorials
+   - *Promises and deferreds* in JavaScript (theory + usage examples), [@cwebbdesign]()’s [post1](http://blog.mediumequalsmessage.com/promise-deferred-objects-in-javascript-pt1-theory-and-semantics) & [post2](http://blog.mediumequalsmessage.com/promise-deferred-objects-in-javascript-pt2-practical-use) ![][*]
+   - 5 *HTML5 features* you need to know (i.a. DNS prefetching, `download` attr.), [@AdnaneBelmadiaf]()’s [post](http://daker.me/2013/05/5-html5-features-you-need-to-know.html)
+   - *Testing JavaScript headless* with QUnit and PhantomJS, [@stylight_eng]()’s [post](http://www.stylight.com/Numbers/testing-javascript-headless-with-qunit-and-phantomjs/)
+   - *Dependency injection* with AngularJS, [@alex_young]()’s [post](http://dailyjs.com/2013/05/23/angularjs-injection/)
+ - Articles
+   - Making the *Chromebook Pixel* more suitable for web development, [@ariyahidayat]()’s [post](http://ariya.ofilabs.com/2013/05/chromebook-pixel-for-web-development.html)
+   - Determining the *ideal line length* in `em`s, [@russmaxdesign]()’s [post](http://www.maxdesign.com.au/2013/05/25/ideal-line-length-in-ems/)
+   - *CPU core estimation* with JavaScript, [@eboyjr]()’s [post](http://blog.wg.oftn.org/post/51125082905/core-estimator) (w/ live demo)
+ - Content
+   - ![][>] *Mobile performance* from the radio up: Battery, latency…, [@igrigorik]()’s 54-min [talk](https://developers.google.com/events/io/sessions/327864330) from IO ’13
+   - ![][>] Seeing the world through *high DPI*, [@petele]()’s 39-min [talk](https://developers.google.com/events/io/sessions/350992350) from IO ’13
+   - ![][>] Build podcast #44: Event-driven, non-blocking I/O model with *Node.js*, [@sayanee_]()’s 30-min [screencast](http://build-podcast.com/node/)
+   - A huge set of free *storyboard illustrations* [page](http://dribbble.com/shots/1083617-430-FREE-storyboard-illustrations)
+ - Sites
+   - datalist experiment, a test case for *`<datalist>`* combined with several `<input>` types [page](http://demo.agektmr.com/datalist/) ![][*]
+ - Tools
+   - Montage, *an HTML5 framework* for building modern web apps [page](http://montagejs.org/)
+   - *Visualising CSS* selector matches [page](http://css.benjaminbenben.com/) (view in Chrome) ![][*]
+   - JSON Editor Online, an online tool for *editing JSON via a treeview* [page](http://jsoneditoronline.org/)
+   - Cytoscape.js, a JavaScript library for *graph analysis and visualization* [page](http://cytoscape.github.io/cytoscape.js/)
+ - Opinion
+   - “JavaScript is *Web Assembly Language* and that's OK”, [@shanselman]()’s [post](http://www.hanselman.com/blog/JavaScriptIsWebAssemblyLanguageAndThatsOK.aspx)
+
+
 ## May 24th, 2013
 
  - News
@@ -33,7 +70,6 @@
    - -prefix-free, a script that *adds the current browser’s prefix* to any CSS code [page](http://leaverou.github.io/prefixfree/)
  - Opinion
    - “The APIs surrounding *`contenteditable`* are so bad it’s insulting”, [@cjno]()’s [tweet](https://twitter.com/cjno/status/337862204613357568)
-
 
 ## May 23rd, 2013
 
@@ -901,7 +937,7 @@ Authoring & development workflow [link](https://developers.google.com/chrome-dev
    - FPSMeter (“simple *JavaScript* library for sexy, fast, and themable FPS meter”) [link](http://darsa.in/fpsmeter/)
  - Opinion
    - “Getting agreements is hard”, [@sideshowbarker]()’s thoughts on the *W3C* blog [post](http://www.w3.org/QA/2013/04/getting_agreements_is_hard_som.html)
-   - ![][>] “The New Prohibition Created By *Copyright*” by [@](waxpancake) [32min] [link](http://www.techdirt.com/articles/20130415/21153522717/andy-baio-new-prohibition-created-copyright.shtml) ![][*]
+   - ![][>] “The New Prohibition Created By *Copyright*” by [@waxpancake]() [32min] [link](http://www.techdirt.com/articles/20130415/21153522717/andy-baio-new-prohibition-created-copyright.shtml) ![][*]
    - “*jQuery* made me become a programmer” [link](https://medium.com/the-javascript-collection/d9e3f716bb9e)
 
 ## April 16th, 2013

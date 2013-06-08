@@ -7,6 +7,40 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
+## June 6th, 2013
+
+ - News
+   - “*The `<subline>` element*” proposal reworked after feedback [source](https://twitter.com/stevefaulkner/status/342315138663206912)
+   - Mozilla announces GeckoView (allowing Android developers to *use Gecko as a View*) [source](https://twitter.com/FirefoxNightly/status/342297778048884737)
+   - Pandora expands in the living room with *HTML5 app for smart TVs* and consoles, Verge [article](http://www.theverge.com/2013/6/5/4396628/pandora-expands-living-room-html5-app-smart-tvs-consoles)
+ - FYI
+   - “Futures” renamed to *“Promises” in DOM spec* [source](https://twitter.com/promisesaplus/status/342352292307152896)
+   - “*Test the Web Forward*” opened a YouTube [channel](https://www.youtube.com/user/TestTheWebForward)
+ - Tutorials
+   - Use cases for the *CSS `calc()` function*, [@chriscoyier]()’s [post](http://css-tricks.com/a-couple-of-use-cases-for-calc/) (Note: The demos are broken in Firefox!)
+   - A complete guide to *script loading* (w/ a reference for `defer` and `async`), [@jaffathecake]()’s [post](http://www.html5rocks.com/en/tutorials/speed/script-loading/) ![][*]
+   - An introduction to *JavaScript generators* (w/ usage patterns), [@jlongster]()’s [post](http://jlongster.com/A-Study-on-Solving-Callbacks-with-JavaScript-Generators)
+   - Creating a Tetris-like game with IE10’s implementation of *CSS Grid Layout*, [@davrous]()’s [post](http://www.htmlgoodies.com/html5/client/coding4fun-building-a-tetris-like-game-using-css-grid-layout-blend-5.html)
+ - Articles
+   - An introduction to Firefox’s *Proximity API* (accessing a device’s proximity sensor), [@robertnyman]()’s [post](https://hacks.mozilla.org/2013/06/the-proximity-api/)
+ - Media
+   - “Serving the World with the Web”, [@dalmaer]()/[@bgalbs]()’s 22-min [@fluentconf]() [talk](https://www.youtube.com/watch?v=mNjqGLXp3jI)
+   - *Testing web apps* in all browsers with open source Java tools, [@javaclimber]()’s 45-min [@JAXconf]() [talk](http://marakana.com/s/post/1485/html5_testing_in_all_browsers_with_java_video)
+ - Content
+   - “*Unicode Security* Considerations”, a Unicode technical [report](http://www.unicode.org/reports/tr36/)
+   - An *introduction to WebGL*, (Google) [document](https://docs.google.com/document/d/1abAaOgoYewyrP3gTbzgtyS0i93RzZuLrfEvopKeivAw/edit)
+   - June issue of Appliness (digital magazine), [PDF](http://www.appliness.com/june-issue-with-ryan-stewart/) (108 pages)
+ - Demos
+   - The infinite jukebox (loops MP3 songs), [@echonest]()’s [demo](http://labs.echonest.com/Uploader/index.html)
+   - Portal orientation video (uses *CSS 3D Transforms*), [@donovanh]()’s [demo](http://hop.ie/portal/) + [post](http://hop.ie/blog/portal/)
+ - Tools
+   - easel.ly, a tool for *creating infographics* [page](http://www.easel.ly/)
+   - Seriously.js, a real-time *video effects compositor* (built with JavaScript and WebGL), [repo](https://github.com/brianchirls/Seriously.js) + [demo](http://seriouslyjs.org/)
+   - grunt-imageoptim, a Grunt task for ImageOptim (*lossless optimization of images*) [repo](https://github.com/JamieMason/grunt-imageoptim)
+ - Opinion
+   - “*Forking and Standards*: Why the right to fork can be pro-social”, [@tieguy]()’s [post](http://tieguy.org/blog/2013/06/05/forking-and-standards-why-the-right-to-fork-can-be-pro-social/)
+   - “Meet the Developer… yes, but what for?”, [@jorabin]()’s [post](http://jorabin.blogspot.co.uk/2013/06/meet-developer-yes-but-what-for.html)
+
 ## June 5th, 2013
 
  - News
@@ -31,7 +65,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - Articles
    - Best practices for *designing a pragmatic RESTful API*, [@veesahni]()’s [post](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
    - Attacks that *exploit the `Host` HTTP header*, [@albinowax]()’s [post](http://www.skeletonscribe.net/2013/05/practical-http-host-header-attacks.html)
-   - *Processing RAW images* in the browser with Emscripten and ams.js, [@]()’s [post](http://blog.bitops.com/blog/2013/06/04/webraw-asmjs/)
+   - *Processing RAW images* in the browser with Emscripten and ams.js, [@vvuk]()’s [post](http://blog.bitops.com/blog/2013/06/04/webraw-asmjs/)
    - Are form field *placeholders an usability problem* on mobile?, [@jamieappleseed]()’s [post](http://baymard.com/blog/mobile-forms-avoid-inline-labels)
    - *Using progressive JPEGs* to enhance user experience, [@patmeenan]()’s [post](http://blog.patrickmeenan.com/2013/06/progressive-jpegs-ftw.html) ![][*]
  - Media
@@ -229,42 +263,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - Opinion
      - “*Internet fragmentation* is a ‘law of history’”, He Baohong’s [post](http://www.internetgovernance.org/2013/05/25/internet-fragmentation-is-a-law-of-history/)
      - “On the politics, *cargo-culting*, and maintainability of JavaScript”, [@slicknet]()’s [post](http://www.nczonline.net/blog/2013/05/28/on-the-politics-cargo-culting-and-maintainability-of-javascript/)
-
-## May 27th, 2013
-
- - News
-   - ![][&] *HTML 5.1 spec*: Spaghetti Monster example replaced with Crocoduck [tweet](https://twitter.com/stevefaulkner/status/337879140625686528)
-   - *Presto-based Opera Mobile* re-uploaded to Play Store as “Opera Mobile Classic” [page](https://play.google.com/store/apps/details?id=com.opera.browser.classic)
-   - *jQuery* 1.10.0 and 2.0.1 released, [release notes](http://blog.jquery.com/2013/05/24/jquery-1-10-0-and-2-0-1-released/)
-   - “Report: Google considering Internet balloons to *connect sub-Saharan Africa*”, Ars Technica [article](http://arstechnica.com/business/2013/05/report-google-considering-internet-balloons-to-connect-sub-saharan-africa/)
- - FYI
-   - Microsoft is doing a 3-question survey on *dev tools* usage [tweet](https://twitter.com/IEDevChat/status/338041433065930753)
-   - *CSS anomaly*: The `<body>` background only floods the viewport if no `<html>` background is defined [post](http://css-tricks.com/just-one-of-those-weird-things-about-css-background-on-body/)
-   - “`about:about`” gives you a *list of all `about:` pages* in your Firefox and Chrome browser
-   - *Accessibility tip*: Hashtags in camel case are read as separate words in screen readers [tweet](https://twitter.com/heydonworks/status/338646556490231808)
- - Tutorials
-   - *Promises and deferreds* in JavaScript (theory + usage examples), [@cwebbdesign]()’s [post1](http://blog.mediumequalsmessage.com/promise-deferred-objects-in-javascript-pt1-theory-and-semantics) & [post2](http://blog.mediumequalsmessage.com/promise-deferred-objects-in-javascript-pt2-practical-use) ![][*]
-   - 5 *HTML5 features* you need to know (i.a. DNS prefetching, `download` attr.), [@AdnaneBelmadiaf]()’s [post](http://daker.me/2013/05/5-html5-features-you-need-to-know.html)
-   - *Testing JavaScript headless* with QUnit and PhantomJS, [@stylight_eng]()’s [post](http://www.stylight.com/Numbers/testing-javascript-headless-with-qunit-and-phantomjs/)
-   - *Dependency injection* with AngularJS, [@alex_young]()’s [post](http://dailyjs.com/2013/05/23/angularjs-injection/)
- - Articles
-   - Making the *Chromebook Pixel* more suitable for web development, [@ariyahidayat]()’s [post](http://ariya.ofilabs.com/2013/05/chromebook-pixel-for-web-development.html)
-   - Determining the *ideal line length* in `em`s, [@russmaxdesign]()’s [post](http://www.maxdesign.com.au/2013/05/25/ideal-line-length-in-ems/)
-   - *CPU core estimation* with JavaScript, [@eboyjr]()’s [post](http://blog.wg.oftn.org/post/51125082905/core-estimator) (w/ live demo)
- - Content
-   - ![][>] *Mobile performance* from the radio up: Battery, latency…, [@igrigorik]()’s 54-min [talk](https://developers.google.com/events/io/sessions/327864330) from IO ’13
-   - ![][>] Seeing the world through *high DPI*, [@petele]()’s 39-min [talk](https://developers.google.com/events/io/sessions/350992350) from IO ’13
-   - ![][>] Build podcast #44: Event-driven, non-blocking I/O model with *Node.js*, [@sayanee_]()’s 30-min [screencast](http://build-podcast.com/node/)
-   - A huge set of free *storyboard illustrations* [page](http://dribbble.com/shots/1083617-430-FREE-storyboard-illustrations)
- - Sites
-   - datalist experiment, a test case for *`<datalist>`* combined with several `<input>` types [page](http://demo.agektmr.com/datalist/) ![][*]
- - Tools
-   - Montage, *an HTML5 framework* for building modern web apps [page](http://montagejs.org/)
-   - *Visualising CSS* selector matches [page](http://css.benjaminbenben.com/) (view in Chrome) ![][*]
-   - JSON Editor Online, an online tool for *editing JSON via a treeview* [page](http://jsoneditoronline.org/)
-   - Cytoscape.js, a JavaScript library for *graph analysis and visualization* [page](http://cytoscape.github.io/cytoscape.js/)
- - Opinion
-   - “JavaScript is *Web Assembly Language* and that's OK”, [@shanselman]()’s [post](http://www.hanselman.com/blog/JavaScriptIsWebAssemblyLanguageAndThatsOK.aspx)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
