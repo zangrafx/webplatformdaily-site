@@ -7,6 +7,47 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
+## June 10th, 2013
+
+ - News
+   - New W3C releases:
+     - 2nd WD of “*Introduction to Web Components*”, [TR](http://www.w3.org/TR/components-intro/) + [diff](http://www.w3.org/TR/2013/WD-components-intro-20130606/,diff)
+     - 2nd WD of “*HTML5 Image Description Extension*” (`longdesc` attribute), [TR](http://www.w3.org/TR/html-longdesc/) + [diff](http://www.w3.org/TR/2013/WD-html-longdesc-20130606/,diff)
+   - Proposal to explicitly *forbid using `<small>`* elements for subheadings, [message](http://lists.w3.org/Archives/Public/public-html/2013Jun/0005.html) on `public-html`
+   - `<subline>` element renamed to *`<subhead>`*, extension [spec](http://rawgithub.com/w3c/subline/master/index.html) + [discussion](http://lists.w3.org/Archives/Public/public-html/2013Jun/0023.html) on `public-html`
+   - *CSS Flexible Box Layout* gets “Best New Web Technology 2013” .net award [post](http://www.w3.org/QA/2013/06/css_flexible_box_layout_gets_b.html)
+   - *CSS WG telecons*: 2013-05-22 [notes](http://www.w3.org/blog/CSS/2013/06/10/resolutions-93/) + 2013-05-29 [notes](http://www.w3.org/blog/CSS/2013/06/10/resolutions-94/)
+ - FYI
+   - jQuery’s *`.off(type, '**')`* removes all delegated handlers but keeps traditional handlers [tweet](https://twitter.com/elijahmanor/status/343895075950034944)
+   - Firefox provides a “*health report*” page which is accessed via `about:healthreport` [tweet](https://twitter.com/simevidas/status/343912396370366464)
+ - Tutorials
+   - Conditionally *providing WebP images* with Modernizr, [@StuCoxMedia]()’s [post](http://www.stucox.com/blog/using-webp-with-modernizr/)
+   - Better rendering performance with *GPU acceleration via `transform3D()`*, [@schill]()’s [post](http://code.flickr.net/2013/06/04/adventures-in-jank-busting-parallax-performance-and-the-new-flickr-home-page/)
+   - 7 *useful CSS snippets* from HTML5 Boilerplate, [@davidwalshblog]()’s [post](http://davidwalsh.name/html5-boilerplate)
+   - A quick introduction to the concept of “*feature detection*”, [@jonathansampson]()’s [post](http://sampsonblog.com/567/taming-the-lawless-web-with-feature-detection)
+   - Improving your workflow with *Yeoman generators*, [@nackjicholsonn]()’s [post](http://projectpoppycock.com/roll-your-own-yeoman-generators/)
+   - Identifying and fixing *rendering performances issues* with Chrome’s DevTools, [@rem]()’s [post](http://remysharp.com/2013/06/07/insights-into-rendering-performance/)
+   - Providing *responsive hi-DPI typography*, [@ddemaree]()’s [post](http://blog.typekit.com/2013/05/01/hi-dpi-typography/)
+ - Articles
+   - An update on the recent happenings and future of *Promises*, [@slightlylate]()’s [post](http://infrequently.org/2013/06/sfuturepromiseg/)
+   - How to prepare for the “*mobile-first web*”, [@bergie]()’s [post](http://bergie.iki.fi/blog/mobile-first-web/)
+ - Media
+   - “Wait, *Chrome DevTools* can do THAT?”, [@igrigorik]()’s 44-min [talk](https://www.youtube.com/watch?v=S9sktFzL3tQ) from [@jquk]()
+   - “Be an open source superstar - *document*!”, [@remotesynth]()’s 5-min ignite [session](https://www.youtube.com/watch?v=VtFbMhm8z9A) from [@fluentconf]()
+ - Content
+   - *HTTP status code* decision-tree, large [PNG](http://i.stack.imgur.com/whhD1.png) image ([source](https://twitter.com/fideloper/status/343027301644107778))
+   - ![][&] Proposal for a *mobile-first Yeoman generator*, [@addyosmani]()’s GitHub [issue](https://github.com/yeoman/yeoman/issues/1077)
+   - ![][&] What features do you want to see in *AngularJS 2.0*?, Google moderator [page](http://www.google.com/moderator/#15/e=20a96e&t=20a96e.40&f=20a96e.6b5d50)
+ - Demos
+   - Motion Blur (*blurs text* during scroll) [demo](https://twitter.com/codepo8/status/343038849750011904)
+ - Tools
+   - GitHub Notifier, a browser extension that *displays your GitHub notifications* count [repo](https://github.com/sindresorhus/GitHub-Notifier)
+   - Hopscotch, a framework for adding *product tours* to web pages [page](https://github.com/linkedin/hopscotch)
+   - caniuse-widget, an *embeddable “Can I Use” widget* (e.g. for your blog posts) [page](http://andismith.github.io/caniuse-widget/)
+ - Opinion
+   - “The raster image paradox” (on *pragmatism and responsive images*), [@dbushell]()’s [post](http://dbushell.com/2013/06/03/the-raster-image-paradox/)
+   - “*DRM and HTML5*: it’s now or never for the Open Web”, [@harryhalpin]()’s [post](http://www.guardian.co.uk/technology/2013/jun/06/html5-drm-w3c-open-web)
+
 ## June 6th, 2013
 
  - News
@@ -220,49 +261,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - metaframe, a tool for making *annotated responsive wireframes* [repo](https://github.com/elliance/metaframe) + [post](http://aha.elliance.com/2013/05/28/responsive-wireframes/) + [demo](http://metaframe.elliance.com/)
  - Opinion
    - Should *open data standards* use an open license?, [@Hoedic]()’s [post](http://dataholic.ca/2013/05/24/should-standards-use-open-license/)
-
-## May 29th, 2013
-  
-   - News
-     - New W3C releases:
-       - 3rd WD of “*CSS Exclusions*” [TR](http://www.w3.org/TR/css3-exclusions/) + [diff](http://www.w3.org/TR/2013/WD-css3-exclusions-20130528/,diff) + [notes](http://www.w3.org/blog/CSS/2013/05/28/css-exclusions-draft-separation/) (added `wrap-flow: minimum`)
-       - 5th WD of “*CSS Regions*” [TR](http://www.w3.org/TR/css3-regions/) + [diff](http://www.w3.org/TR/2013/WD-css3-regions-20130528/,diff) + [notes](http://www.w3.org/blog/CSS/2013/05/28/css-regions-draft-updated/) (many improvements to the CSSOM section)
-       - 2nd WD of “*Filter Effects*” [TR](http://www.w3.org/TR/filter-effects/) + [notes](http://www.w3.org/blog/CSS/2013/05/28/filter-effects-1-0-draft-updated/) (diff is broken but [@dontcallmeDOM]() will fix it `:)`)
-     - Desktop-version of *Chromium-based Opera* (“Opera Next”) released, [notes](http://my.opera.com/ODIN/blog/2013/05/28/a-first-peek-at-opera-15-for-computers) + report bugs [here](https://bugs.opera.com/wizard/)
-     - *Content Security Policy* 1.0 lands in Firefox Aurora, [post](https://hacks.mozilla.org/2013/05/content-security-policy-1-0-lands-in-firefox-aurora/)
-     - *Foxconn joining Firefox OS* alliance as it tries to compensate for Apple slowdown, Verge [article](http://www.theverge.com/2013/5/27/4370750/foxconn-joining-firefox-os-alliance-as-manufacturer-tries-to)
-     - Noise-canceling tech could lead to Internet connections *400 times faster than Google Fiber*, VB [article](http://venturebeat.com/2013/05/27/noise-canceling-tech-could-lead-to-internet-connections-400x-faster-than-google-fiber/)
-   - FYI
-     - The 3-bar menu icon, *☰*, is available as a Unicode character [tweet](https://twitter.com/SebAshton/status/338940947909967873)
-     - Firefox still leads in *ECMAScript 6* support [tweet](https://twitter.com/kangax/status/339401889353437186)
-     - Which sites use *Web Notifications*?, [twitter](https://twitter.com/miketaylr/status/339013607570411520) discussion
-   - Tutorials
-     - Using *HTML5 `rel="prerender"`* to speed up a multi-page registration process, [@adrianholovaty]()’s [post](http://www.holovaty.com/writing/prerendering/)
-     - Exploring reusability: *reusable charts* with D3.js (best practices), [@JugglinMike]()’s [post](http://weblog.bocoup.com/reusability-with-d3/)
-     - Four-part tutorial series on *Ember.js* by [@reybango]() [link](http://blog.reybango.com/2013/05/29/interested-in-ember-js-check-out-my-tutorial-series/)
-     - Fixing *HTTP referrers in HTTPS*: the meta referrer, [@Smerity]()’s [post](http://smerity.com/articles/2013/where_did_all_the_http_referrers_go.html)
-     - Chrome DevTools docs: *Evaluating network performance* [link](https://developers.google.com/chrome-developer-tools/docs/network)
-   - Articles
-     - Should sending `XMLHttpRequest`s *without `Origin:` and `Referer:` headers* be allowed?, [@hallvord]()’s [post](http://my.opera.com/hallvors/blog/2013/05/27/should-js-be-able-to-send-xmlhttprequest-without-origin-and-referer-headers)
-     - What’s the point of *packaged web apps*?, [@ppk]() explains in his [post](http://www.quirksmode.org/blog/archives/2013/05/the_point_of_pa.html)
-     - Easier testing with *Open Device Labs* (+ creating your own ODL), [@helloanselm]()’s [post](http://www.smashingmagazine.com/author/anselm-hannemann/)
-     - How patents are ruining the adoption of *HTML5 `<video>`*, [@vu0tran]()’s [post](http://blog.framebase.io/post/51231726236/how-patents-are-ruining-the-adoption-of-html5-video)
-     - [@aerotwist]()’s *reflections on performance* at Google I/O, [post](http://aerotwist.com/blog/reflections-on-performance-at-google-io/)
-     - [@MarcoZehe]()’s extensive [recap](http://www.marcozehe.de/2013/05/28/recap-of-beyond-tellerrand-2013/) of *[@btconf]() 2013* + [@jancbeck]()’s talk [notes](http://jancbeck.com/articles/beyond-tellerrand-2013/) ![][*]
-     - 6 considerations and tips for *creating HTML5 apps* (i.a. packaged or hosted), [@davidwalshblog]()’s [post](http://tech.pro/blog/1301/6-considerations-and-tips-for-creating-html5-apps)
-   - Content
-     - ![][>] “*HTML5 Video* in the Open Web Platform”, [@plhw3org]()’s 42-min [talk](https://www.youtube.com/watch?v=SnKpdhC5Ras) from [@html5devconf]() ![][*]
-     - ![][>] Fixing the *mobile web*, [@codepo8]()’s 47-min [keynote](https://www.youtube.com/watch?v=5D7_3Y1TCjk) at [@btconf]() 2013
-     - “*Web Performance* Crash Course”, [@igrigorik]()’s extensive [slides](http://www.igvita.com/slides/2013/fluent-perfcourse.pdf) (PDF) from [@fluentconf]() 2013
-     - Awesome looking *popup links*, [@chriscoyier]()’s codepen [demo](http://codepen.io/chriscoyier/pen/Fjguy)
-     - Setting up *multiple build-targets* with Grunt, [twitter](https://twitter.com/addyosmani/status/339377857585373185) discussion
-   - Tools
-     - Pure, a set of small, *responsive CSS modules* [page](http://purecss.io/)
-     - imagesLoaded, a JavaScript library for *detecting when images have loaded* [page](http://desandro.github.io/imagesloaded/)
-     - svg.js, a lightweight library for *manipulating and animating SVG* [page](http://svgjs.com/)
-   - Opinion
-     - “*Internet fragmentation* is a ‘law of history’”, He Baohong’s [post](http://www.internetgovernance.org/2013/05/25/internet-fragmentation-is-a-law-of-history/)
-     - “On the politics, *cargo-culting*, and maintainability of JavaScript”, [@slicknet]()’s [post](http://www.nczonline.net/blog/2013/05/28/on-the-politics-cargo-culting-and-maintainability-of-javascript/)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
