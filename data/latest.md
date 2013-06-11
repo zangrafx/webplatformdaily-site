@@ -29,7 +29,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - Identifying and fixing *rendering performances issues* with Chrome’s DevTools, [@rem]()’s [post](http://remysharp.com/2013/06/07/insights-into-rendering-performance/)
    - Providing *responsive hi-DPI typography*, [@ddemaree]()’s [post](http://blog.typekit.com/2013/05/01/hi-dpi-typography/)
  - Articles
-   - An update on the recent happenings and future of *Promises*, [@slightlylate]()’s [post](http://infrequently.org/2013/06/sfuturepromiseg/)
+   - An update on the recent happenings and future of *Promises*, [@slightlylate]()’s [post](http://infrequently.org/2013/06/sfuturepromiseg/) ![][*]
    - How to prepare for the “*mobile-first web*”, [@bergie]()’s [post](http://bergie.iki.fi/blog/mobile-first-web/)
  - Media
    - “Wait, *Chrome DevTools* can do THAT?”, [@igrigorik]()’s 44-min [talk](https://www.youtube.com/watch?v=S9sktFzL3tQ) from [@jquk]()
@@ -43,10 +43,10 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - Tools
    - GitHub Notifier, a browser extension that *displays your GitHub notifications* count [repo](https://github.com/sindresorhus/GitHub-Notifier)
    - Hopscotch, a framework for adding *product tours* to web pages [page](https://github.com/linkedin/hopscotch)
-   - caniuse-widget, an *embeddable “Can I Use” widget* (e.g. for your blog posts) [page](http://andismith.github.io/caniuse-widget/)
+   - caniuse-widget, an *embeddable “Can I Use” widget* (e.g. for your blog posts) [page](http://andismith.github.io/caniuse-widget/) ![][*]
  - Opinion
    - “The raster image paradox” (on *pragmatism and responsive images*), [@dbushell]()’s [post](http://dbushell.com/2013/06/03/the-raster-image-paradox/)
-   - “*DRM and HTML5*: it’s now or never for the Open Web”, [@harryhalpin]()’s [post](http://www.guardian.co.uk/technology/2013/jun/06/html5-drm-w3c-open-web)
+   - “*DRM and HTML5*: it’s now or never for the Open Web”, [@harryhalpin]()’s [post](http://www.guardian.co.uk/technology/2013/jun/06/html5-drm-w3c-open-web) ![][*]
 
 ## June 6th, 2013
 
