@@ -7,6 +7,34 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
+## June 11th, 2013
+
+ - News
+   - “The *Extensible Web Manifesto*” [page](http://extensiblewebmanifesto.org/) + [@wycats]()’s [post](https://medium.com/the-future-of-the-web/2fcd1c1bb32)
+   - *DOM Promises* coming to Chromium and Firefox [source](https://twitter.com/ChromiumDev/status/344259591451836418)
+   - *WebKit’s Web Inspector* has been updated; reactions on Twitter: [1](https://twitter.com/divya/status/343126176061087744) [2](https://twitter.com/rauchg/status/344307032125501441) [3](https://twitter.com/thomasfuchs/status/344082215057125378)
+ - FYI
+   - ![][o] [@WebPlatform]() is seeking contributors for its docs; see this 12-min “getting started” video [tutorial](http://docs.webplatform.org/wiki/Meta:web_platform_wednesday#Video_Tutorial)
+   - Prominent developers share what *software (including IDE)* they’re using on a daily basis [link](http://net.tutsplus.com/articles/what-are-you-using/)
+ - Tutorials
+   - Using *`requestAnimationFrame`* for smoother animations (basic usage)  , [@chriscoyier]()’s [post](http://css-tricks.com/using-requestanimationframe/)
+   - Building a *motion activated security camera* with WebRTC, Canvas and Device…, [@johnallsopp]()’s [post](http://www.webdirections.org/blog/build-a-motion-activated-security-camera-with-webrtc-canvas-and-device-orientation/)
+   - *Re-stacking page elements* with a CSS `display` trick, [@iandevlin]()’s [post](http://www.iandevlin.com/blog/2013/06/css/css-stacking-with-display-table)
+   - *Irregular shape rollovers* from the transparent parts of PNGs, [@codepo8]()’s [post](http://christianheilmann.com/2013/06/10/irregular-shape-rollovers-with-canvas-and-png/)
+   - *Improving paint performance* of a web site (w/ case study), [@addyosmani]()’s [post](http://www.smashingmagazine.com/2013/06/10/pinterest-paint-performance-case-study/) ![][*]
+ - Articles
+   - A *responsive design workflow*, “mobile first” and “design in the browser”, [@KrasimirTsonev]()’s [post](http://davidwalsh.name/design-responsively)
+   - The *future of JavaScript* (ES.next, WebGL, JS as compile target, asm.js, ORBX.js), [@creativejs]()’s [post](http://creativejs.com/2013/06/the-race-for-speed-part-4-the-future-for-javascript/)
+   - Update on recent progress of *W3C Pointer Events*, [@MarkGayler]()’s MS Open Tech [post](http://msopentech.com/blog/2013/06/06/ms-open-tech-w3c-pointer-events-and-the-javascript-community-at-jsconf-2013/)
+ - Sites
+   - OSS Perks, a *listing of tools and services* that are made freely available to open source projects [page](http://ossperks.com/)
+   - DPI love, an online tool that *calculates the DPI/PPI* of any screen, [@LeaVerou]()’s [tool](http://dpi.lv/)
+ - Tools
+   - Auticons, an *icon font* and set of CSS rules that target HTML attributes, [@heydonworks]()’s [tool](http://heydonworks.com/auticons-icon-font/) ![][*]
+   - Web Developer Checklist, a Chrome [extension](http://madskristensen.net/post/Chrome-extension-Web-Developer-Checklist.aspx) that *runs checks for various best practices* on any site
+ - Opinion
+   - “Is *GitHub* racist?” (repository names restricted to ASCII), [@edent]()’s [post](http://shkspr.mobi/blog/2013/06/is-github-racist/)
+
 ## June 10th, 2013
 
  - News
@@ -227,40 +255,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - async-local-storage, a *fully-async object-storage* API [repo](https://github.com/slightlyoff/async-local-storage)
  - Opinion
    - The *worst Web API* ever, [topic](https://twitter.com/slightlylate/status/340054466055270400) on Twitter
-
-## May 30th, 2013
-
- - News
-   - The *`<subline>` element* (a HTML5 extension spec), [@stevefaulkner]()’s unofficial [draft](https://rawgithub.com/w3c/subline/master/index.html) + [post](http://lists.w3.org/Archives/Public/public-html/2013May/0173.html)
-   - Opera switching to a *fast release cycle* and will have 3 streams: Developer, Next, and Stable [post](http://my.opera.com/desktopteam/blog/opera-features-and-release-cycle)
-   - Blink to start *removing `-webkit-` prefixes* from CSS [post](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6DJaIAKD4qc/Z3rL2i7COZQJ)
-   - EFF makes formal objection to *DRM in HTML5* [post](https://www.eff.org/press/releases/eff-makes-formal-objection-drm-html5)
- - FYI
-   - Be careful *using `localStorage` as cache*; its synchronous API blocks the render thread [tweet](https://twitter.com/addyosmani/status/339776418768629760)
-   - The *default language of JavaScript* is not statically scoped, my Stack Overflow [answer](http://stackoverflow.com/a/16823681/425275)
-   - On desktop, *Web Audio API* is already in Chrome, Safari, Opera and Firefox Nightly [tweet](https://twitter.com/cfjedimaster/status/339891063844126723)
- - Tutorials
-   - Building a Firefox OS *game with in-app payments* using Mozilla’s WebPayment API, [@rdlauer]()’s [post](http://flippinawesome.org/2013/05/28/building-a-game-with-in-app-payments-for-firefox-os/)
-   - Creating a small platform *game with HTML5 Canvas*, [@jakesgordon]()’s [post](http://codeincomplete.com/posts/2013/5/27/tiny_platformer/)
-   - Tips for *optimizing Canvas/JavaScript games* for Firefox OS, [@louisstow]()/[@digitarald]()’s [post](https://hacks.mozilla.org/2013/05/optimizing-your-javascript-game-for-firefox-os/)
-   - Photoshop layer mask implemented with *CSS Custom Filters*, [@agreenblatt]()’s [post](http://blattchat.com/2013/05/28/photoshop-layer-mask-with-css-custom-filters/)
- - Articles
-   - The state Of *Responsive Web Design*, [@walterstephanie]()’s extensive [post](http://mobile.smashingmagazine.com/2013/05/29/the-state-of-responsive-web-design/) ![][*]
-   - How has Blink affected *Chrome’s WebGL implementation*?, [@Tojiro]()’s [post](http://blog.tojicode.com/2013/05/how-blink-has-affected-webgl.html)
- - Content
-   - ![][>] [@BrendanEich ]() talks about the *future of JavaScript* in his 52-min [keynote](https://vimeo.com/66711027) from [@jquk]() 2013
-   - ![][>] *Data visualization*: architecting better charts, [@ireneros]()’s 14-min [talk](https://www.youtube.com/watch?v=TYgSc_S0lCw) from [@fluentconf]() 2013
-   - ![][>] JavaScript Jabber podcast #60: *Development environments*, [link](http://javascriptjabber.com/060-jsj-development-environments/) (59 min)
-   - *Sass style guide*, [@chriscoyier]()’s [post](http://css-tricks.com/sass-style-guide/) ![][*]
-   - A collection of 50 *CSS snippets*, [@jakerocheleau]()’s [post](http://www.hongkiat.com/blog/css-snippets-for-designers/)
-   - *Internet trends* 2013, [@kpcb]()’s 117-page [slides](http://www.slideshare.net/kleinerperkins/kpcb-internet-trends-2013) (lots of data)
-   - An introduction to *Web Audio API*, [@cwilso]()’s [slides](http://webaudiodemos.appspot.com/slides/index.html) (w/ demos)
- - Tools
-   - d3.chart, a framework for *creating reusable charts* [page](http://misoproject.com/d3-chart/) + [post](http://weblog.bocoup.com/introducing-d3-chart/)
-   - Facebook React, a JavaScript library for *building user interfaces* [page](http://facebook.github.io/react/) + [post](https://medium.com/make-your-own-apps/e71bcedc36b)
-   - metaframe, a tool for making *annotated responsive wireframes* [repo](https://github.com/elliance/metaframe) + [post](http://aha.elliance.com/2013/05/28/responsive-wireframes/) + [demo](http://metaframe.elliance.com/)
- - Opinion
-   - Should *open data standards* use an open license?, [@Hoedic]()’s [post](http://dataholic.ca/2013/05/24/should-standards-use-open-license/)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
