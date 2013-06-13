@@ -7,6 +7,39 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
+## June 12th, 2013
+
+ - News
+   - Animation support for *WebP images* coming to Chromium, [source](https://twitter.com/stshank/status/344380423004123136)
+   - *Web Audio API* rollout status in Firefox (to be enabled by default in version 23), [link](https://wiki.mozilla.org/WebAudio_API_Rollout_Status)
+   - StopWatching.Us: Mozilla launches *massive campaign on digital surveillance*, [@alexanderfowler]()’s [post](https://blog.mozilla.org/blog/2013/06/11/stopwatching-us-mozilla-launches-massive-campaign-on-digital-surveillance/)
+   - Google to start *ranking sites lower in mobile search* if they use “Download our app” alert: [tweet](https://twitter.com/jaffathecake/status/344726429184974848), [tweet](https://twitter.com/mattcutts/status/344516902753816576)
+   - “What’s *new in Safari and WebKit*”, session [video](https://twitter.com/toolmantim/status/344615837728137216) (only available to Mac/iPad/iPhone owners **WTF!?**)
+   - Safari’s *Web Inspector open sourced* back to WebKit, [changeset](http://trac.webkit.org/changeset/151453)
+ - FYI
+   - What’s the best *command line sprite generator* for CSS?, Twitter [thread](https://twitter.com/slicknet/status/344516835464577024)
+   - Information about *WebKit development* is here: `webkit-dev` mailing list, [link](https://lists.webkit.org/pipermail/webkit-dev/)
+ - Tutorials
+   - *Resizing images responsively* while restricting their height (three options), [@parkerbennett]()’s [post](http://css-tricks.com/crop-top/)
+   - Getting started *using the Web Audio API* by creating a stylophone, [@stuartmemo]()’s [post](http://tympanus.net/codrops/2013/06/10/web-audio-stylophone/) + [demo](http://tympanus.net/Tutorials/WebAudioStylophone/) page
+   - Displaying *tooltips with CSS `attr` and `content`*, [@davidwalshblog]()’s [post](http://davidwalsh.name/css-attr-content-tooltips)
+   - Improving performance of *image manipulation* with Web Workers, [@deltakosh]()’s [post](http://www.htmlgoodies.com/html5/client/using-web-workers-to-improve-performance-of-image-manipulation.html)
+   - Better performance with *`requestAnimationFrame`*, [@gerbille]()’s DEV.OPERA [post](http://dev.opera.com/articles/view/better-performance-with-requestanimationframe/) ![][*]
+   - Understanding *CSS 3D Transforms*, [@webinista]()’s DEV.OPERA [post](http://dev.opera.com/articles/view/understanding-3d-transforms/) ![][*]
+ - Articles
+   - Concerns and thoughts on *JavaScript generators*, [@WebReflection]()’s [post](http://webreflection.blogspot.com/2013/06/on-harmony-javascript-generators.html)
+   - *Front end operations* should not be ignored, [@SlexAxton]()’s [post](http://www.smashingmagazine.com/2013/06/11/front-end-ops/)
+   - Why we need *responsive images*, [@tkadlec]()’s [post](http://timkadlec.com/2013/06/why-we-need-responsive-images/) ![][*]
+ - Media
+   - “Perf the web forward” (fixing *performance issues*), [@jdalton]()’s 35-min [screencast](http://allyoucanleet.com/post/52667781698/jsconf-us-13-screencast) + [slides](http://allyoucanleet.com/post/52667587834/jsconf-us-13-slides)
+ - Demos
+   - A cool *hover effect* with CSS transitions, [demo](http://fuckyeahhovers.tumblr.com/post/52711724968/delta-cycle-hovers)
+   - CSS Tube Map, a replica of the London Underground *network diagram built with CSS*, [site](http://www.csstubemap.co.uk/index.html)
+   - *ScummVM ported to HTML5* with Emscripten (play classic point-and-click games), [page](http://clb.demon.fi/html5scummvm/)
+ - Tools
+   - Conditioner, a JS library for *loading and unloading behavior* based on environment conditions, [repo](https://github.com/rikschennink/conditioner)
+   - jQueryTimeAutocomplete (jQuery plugin), a *time picker* via drop down menus, [page](http://7shifts.com/better-time-drop-downs-jquery-timeautocomplete/) + [repo](https://github.com/7shifts/jQueryTimeAutocomplete/)
+
 ## June 11th, 2013
 
  - News
@@ -222,39 +255,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - Google is *undermining Blink principles* with PNaCl decision, ROC’s [post](http://robert.ocallahan.org/2013/05/blink-pnacl-and-standards.html) + CNET [article](http://news.cnet.com/8301-1023_3-57587156-93/mozilla-coder-chrome-violates-googles-own-blink-principles/) ![][*]
    - “*Screen readers* at a crossroads” (changes introduced by Google’s ChromeVox API), [@gdkraus]()’s [post](http://accessibility.oit.ncsu.edu/blog/2013/05/31/screen-readers-at-a-crossroads/)
    - “*W3C EME* is like a PETA hunting rifle”, [@pornelski]()’s [post](http://lists.w3.org/Archives/Public/public-html/2013May/0180.html) on `public-html`
-
-## May 31st, 2013
-
- - News
-   - W3C CEO: “*Cloud standards* have resulted in confused patchwork design.” [post](http://www.cloudwf.com/media-and-news/2013-03-04-14-20-34/30-may-2013.html)
-   - The next version of Internet Explorer, *IE11*, officially announced, [@IE]()’s [tweet](https://twitter.com/IE/status/340154408983752704) 
-   - Why Foxconn’s *Firefox OS-powered tablet* is too big to ignore, Geek.com [article](http://www.geek.com/tablets/foxconn-firefox-os-tablet-1556679/)
- - FYI
-   - *[@fluentconf]() 2013* videos are available in this [playlist](http://www.youtube.com/playlist?list=PL055Epbe6d5avZGXwE5u039VQq_oQFgrc) on YouTube
-   - “Mega Creativity Bundle”, a [bundle](http://bundlehunt.com/) consisting of 14+ *design resources* (e-books, icon packs, etc.) for $7
-   - You can organize console output (in the browser) with *`console.group()`*, MDN [page](https://developer.mozilla.org/en-US/docs/Web/API/console#Using_groups_in_the_console)
-   - PNG has become more popular than GIF [source](http://w3techs.com/blog/entry/the_png_image_file_format_is_now_more_popular_than_gif)
- - Tutorials
-   - Creating a *responsive layout* with `text-align:justify`, Kunka’s [post](http://www.barrelny.com/blog/text-align-justify-and-rwd/) + [demo](http://codepen.io/patrickkunka/pen/GECBF) ![][*]
-   - Implementing *multidimensional arrays* in JavaScript, [@MikolaLysenko]()’s [post](http://0fps.wordpress.com/2013/05/22/implementing-multidimensional-arrays-in-javascript/)
- - Articles
-   - State of the Browser 2013 (conference), [@grifotv]()’s [writeup](http://www.awwwards.com/state-of-the-browser-2013-danilo-figueiredo-tells-us-all.html) (w/ videos)
- - Media
-   - “*JavaScript: The Machine Language* of the Ambient Computing Era”, [@awbjs]()’s [talk](https://vimeo.com/67050196) from [@fronttrends]()
-   - “*JavaScript Authoring Workflow* of Now”, [@paul_irish]()’s 20-min [keynote](http://youtu.be/bqfoYaKCYUI) from [@fluentconf]() ’13
- - Content
-   - ![][&] Are *script loaders still needed* for web performance? Are `async` and `defer` enough?, [topic](https://twitter.com/souders/status/340131241061908480) on Twitter 
-   - ![][&] [@kangax]()’s “lazyweb request”: Canvas2D API *implemented in a WebGL context*, [issue](https://github.com/h5bp/lazyweb-requests/issues/119) on GitHub
- - Demos 
-   - 9 cool *hover effects* for circular icons [page](http://tympanus.net/Development/IconHoverEffects/)
-   - MAX web layout lab: *layout demos* using Flexbox, Grid Layout, Regions, Exclusions [page](http://betravis.github.io/web-layout-lab/exercises/instructions.html)
-   - Sencha Animator demo: *page flipping* in pure CSS [page](http://dev.sencha.com/animator/demos/pageflip/)
- - Sites
-   - “Secrets of the Browser *Developer Tools*”, a usage guide [devtoolsecrets.com](http://devtoolsecrets.com/) ![][*]
- - Tools
-   - async-local-storage, a *fully-async object-storage* API [repo](https://github.com/slightlyoff/async-local-storage)
- - Opinion
-   - The *worst Web API* ever, [topic](https://twitter.com/slightlylate/status/340054466055270400) on Twitter
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
