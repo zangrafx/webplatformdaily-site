@@ -7,6 +7,38 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
+## June 13th, 2013
+
+ - News
+   - *TC39* May 2013 meeting notes are available [here](https://github.com/rwldrn/tc39-notes/tree/master/es6/2013-05)
+   - *`document.currentScript`* support lands in Chrome, [source](https://twitter.com/ChromiumDev/status/344869171970068481)
+   - *Source maps* now enabled by default in Firefox Nightly, [source](https://twitter.com/FirefoxNightly/status/344913893560295427)
+   - *Extensible web manifesto* launched (interview with [@tabatkins]()), .net [article](http://www.netmagazine.com/news/extensible-web-manifesto-launched-132809)
+   - Sweden’s data protection authority *bans Google cloud services* over privacy concerns, [article](http://www.privacysurgeon.org/blog/incision/swedens-data-protection-authority-bans-google-apps/)
+ - FYI
+   - OWA = *Open Web App*, [source](https://developer.mozilla.org/en-US/docs/Open_Web_apps_and_Web_standards)
+   - Campaign Monitor’s [data](http://www.campaignmonitor.com/resources/will-it-work/email-clients/) on *email client popularity*
+ - Tutorials
+   - Building a *responsive web application* (RWA), [@webprolific]()’s extensive [post](http://mobile.smashingmagazine.com/2013/06/12/building-a-responsive-web-application/)
+   - Creating a cool hover effect with *pseudo element transitions*, [@chriscoyier]()’s [post](http://css-tricks.com/pizza-time-hovers/) w/ demo
+   - Usage examples for *HTTP 2.0 Server Push* (supported by SPDY-capable browsers), [@igrigorik]()’s [post](http://www.igvita.com/2013/06/12/innovating-with-http-2.0-server-push/) ![][*]
+   - Introduction to *hosted and packaged Firefox OS apps* (creation + distribution), SitePoint [post](http://www.sitepoint.com/getting-started-with-firefox-os-hosted-and-packaged-apps/)
+   - **ELI5:** Web development workflow with *Yeoman + Grunt + Bower*, [@revathskumar]()’s [post](http://blog.revathskumar.com/2013/04/workflow-with-yeoman-grunt-and-bower.html)
+ - Articles
+   - Introduction to *CSS Grid Layout* (supported only by IE10), [@jonathansampson]()’s [post](http://sampsonblog.com/576/display-grid-the-future-of-responsive-grid-layouts)
+   - How the Gmail team used Chrome DevTools to *fix their memory problems*, [@JohnMcCutchan]()’s [post](http://www.html5rocks.com/en/tutorials/memory/effectivemanagement/)
+   - A guide to the new *HTML5 form input types* (w/ lots of screen shots), Six Revisions [post](http://sixrevisions.com/html5/new-html5-form-input-types/)
+ - Media
+   - “The *future of the client-side web*”, [@wycats]()’s 33-min [talk](http://marakana.com/s/post/1487/the_future_of_the_client_side_web_video_jaxconf) from [@JAXconf]()
+   - Identifying anti-patterns in *waterfall charts*, [@rick_viscomi]()’s GDL [presentation](https://developers.google.com/live/shows/779042419) ![][*]
+ - Demos
+   - Physically-based rendering + *physics simulation* (powered by WebGL), [@alteredq]()’s [demo](http://alteredqualia.com/xg/examples/animation_physics_ammo.html)
+   - Cube Slam, a *real-time WebRTC game* (pong game), [site](https://www.cubeslam.com/) + [post](http://googledevelopers.blogspot.co.uk/2013/06/play-cube-slam-real-time-webrtc-video.html) ![][*]
+ - Tools
+   - ![][o] devtools-snippets, a *collection of useful snippets* for use inside of browser’s dev tools, [repo](https://github.com/bgrins/devtools-snippets)
+   - Hitch, a small JavaScript “prollyfill” engine which provides an *extension model for CSS and HTML*, [site](http://hitchjs.com/)
+   - Prism, a lightweight *syntax highlighting* library, [site](http://prismjs.com/) + [repo](https://github.com/LeaVerou/prism/)
+
 ## June 12th, 2013
 
  - News
@@ -217,44 +249,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - Amazon Web Services *SDK for Node.js* [page](http://aws.amazon.com/sdkfornodejs/?ref_=pe_12300_30186750_35)
  - Opinion
    - “Some *thoughts on mobile*” (i.a. phones vs tables, marketplace issues), [@cdixon]()’s [post](http://cdixon.org/2013/06/01/some-thoughts-on-mobile/)
-
-## June 3rd, 2013
-
- - News
-   - ![][1] *W3C Advisory Board* elections are over; awaiting results… (read [here](http://briankardell.wordpress.com/2013/05/23/new-blood-reform-the-w3c-process/) for info about this election)
-   - Idea: *User-defined media queries*, [discussion](http://lists.w3.org/Archives/Public/www-style/2013May/0812.html) on `www-style`
-   - “*Kids need to learn* how to make apps, not just use them”, Wired [article](http://www.wired.co.uk/news/archive/2013-05/31/george-osborne)
- - FYI
-   - There are 8–10 million web developers today [tweet](https://twitter.com/brianleroux/status/340469082417684480)
-   - *W3C TAG* (Technical Architecture Group) is now on GitHub [page](https://github.com/w3ctag/)
- - Tutorials
-   - Monitoring *HTTP connectivity state* and managing HTTP requests (with a FSM), [@ifandelse]()’s [post](http://www.icenium.com/blog/icenium-team-blog/2013/05/30/is-this-thing-on-%28part-3%29) ![][*]
-   - An introductory guide to *AngularJS* (w/ comparison to Backbone.js), [@insraq]()’s [post](http://ruoyusun.com/2013/05/25/things-i-wish-i-were-told-about-angular-js.html)
- - Articles
-   - *Generated content* is actually not content but presentation, [@brothercake]()’s [post](http://www.sitepoint.com/is-generated-content-actually-content/)
-   - Updates to JPEGXR and a quality *comparison of JPEGXR to WebP*, [@MicrosoftICE]()’s [post](http://hdview.wordpress.com/2013/05/30/jpegxr-updates/)
-   - Smart keyboard navigation and *use of ARIA* in Adobe’s new mega menu, [@mattmay]()’s [post](http://blogs.adobe.com/accessibility/2013/05/adobe-com.html)
- - Media 
-   - “Everything you always wanted to know about *web standards*”, [@LeaVerou]()’s 17-min [@fluentconf]() [talk](https://www.youtube.com/watch?v=A5mI192gdZ8) ![][*]
-   - “*JavaScript* at 18: Legal to gamble”, [@BrendanEich]()’s 26-min [@fluentconf]() [keynote](https://www.youtube.com/watch?v=qrf9ONmtXbM)
-   - “*Cutting-edge HTML*”, [@cfjedimaster]()’s 64-min [@adobemax]() [talk](http://www.raymondcamden.com/index.cfm/2013/5/31/Two-more-MAX-Videos-CuttingEdge-HTML-and-Debugging-Your-Web-Apps)
- - Content
-   - 5 *new [@caniuse]() tables*: HTML Templates, Pointer Events, JPEGXR, … [post](http://caniuse.com/feed/142)
-   - Firefox OS Web APIs: *Web Activities*, *Notifications API*, [@mepartoconmigo]()’s [presentation](http://arcturus.github.io/london_meetup_firefoxos/)
-   - *Results of [@webaim]()’s survey* of users with motor disabilities [post](http://webaim.org/projects/motordisabilitysurvey/)
-   - *RESTful URI design* - DOs and DON’Ts [post](http://stackoverflow.com/questions/1619152/how-to-create-rest-urls-without-verbs/1619677#1619677)
- - Demos
-   - *Loading indicators* inside submit buttons [page](http://lab.hakim.se/ladda/) (check out `contract-overlay`)
-   - Responsive Matryoshka dolls in pure CSS [page](http://codepen.io/scrimothy/pen/xkDHg)
- - Tools
-   - LICEcap, a desktop app for *creating animated GIFs* [page](http://www.cockos.com/licecap/) ![][*]
-   - MadEye, a web editor designed for *remote pair programming* [page](http://madeye.io/)
-   - grunticon, a Grunt.js task for *cross-device compatible CSS icons*, [repo](https://github.com/filamentgroup/grunticon) + test [results](https://twitter.com/filamentgroup/status/340560058825994240)
-   - zipfile.js, a JavaScript library for *extracting files from .zip archives* [repo](https://github.com/andreasgal/zipfile.js)
- - Opinion
-   - Google is *undermining Blink principles* with PNaCl decision, ROC’s [post](http://robert.ocallahan.org/2013/05/blink-pnacl-and-standards.html) + CNET [article](http://news.cnet.com/8301-1023_3-57587156-93/mozilla-coder-chrome-violates-googles-own-blink-principles/) ![][*]
-   - “*Screen readers* at a crossroads” (changes introduced by Google’s ChromeVox API), [@gdkraus]()’s [post](http://accessibility.oit.ncsu.edu/blog/2013/05/31/screen-readers-at-a-crossroads/)
-   - “*W3C EME* is like a PETA hunting rifle”, [@pornelski]()’s [post](http://lists.w3.org/Archives/Public/public-html/2013May/0180.html) on `public-html`
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
