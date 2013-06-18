@@ -24,7 +24,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - Articles
    - Overview of *Safari’s new Web Inspector*, [@xeenon]()’s Surfin’ Safari [post](https://www.webkit.org/blog/2518/state-of-web-inspector/)
    - Quick *introduction to Node.js* (+ “why you should learn it”), [@aaroncois]()’s [post](https://www.udemy.com/blog/learn-node-js/)
-   - Update on the recent progress in the *effort to standardize responsive images*, [@devatron5000]()’s [post](http://daverupert.com/2013/06/ughck-images/)
+   - Update on the recent progress in the *effort to standardize responsive images*, [@davatron5000]()’s [post](http://daverupert.com/2013/06/ughck-images/)
    - A summary of the recent *callbacks vs. promises debate* in Node.js, [@nzgb]()’s [post](http://blog.ponyfoo.com/2013/05/08/taming-asynchronous-javascript)
    - How do browsers *indicate their busy states*?, [@souders]()’s test [results](http://www.stevesouders.com/blog/2013/06/16/browser-busy-indicators/) for 12 browsers
  - Media
