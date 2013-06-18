@@ -18,13 +18,13 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - “XSS is the #1 security problem on the web… *Content Security Policy* is the fix”, [source](https://twitter.com/igrigorik/status/346337795666755584)
    - Chrome’s DevTools now have *improved console message filtering*, [source](https://twitter.com/addyosmani/status/345947646537629698)
  - Tutorials
-   - Performing common tasks with *native DOM API* (instead of jQuery), [@nzgb]()’s [post](http://blog.ponyfoo.com/2013/06/10/uncovering-the-native-dom-api)
+   - Performing common tasks with *native DOM API* (instead of jQuery), [@nzgb]()’s [post](http://blog.ponyfoo.com/2013/06/10/uncovering-the-native-dom-api) ![][*]
    - Setting up an *automated front-end process* (Yeoman + Grunt tasks + inuit.css), [@_mattbailey]()’s [posts](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-4-css-framework/) (4)
    - *Debugging WebGL* with Chrome’s “Canvas Inspection” feature, [@jerome_etienne]()’s [post](http://learningthreejs.com/blog/2013/04/05/debugging-with-chromes-canvas-inspection/) w/ screencast
  - Articles
    - Overview of *Safari’s new Web Inspector*, [@xeenon]()’s Surfin’ Safari [post](https://www.webkit.org/blog/2518/state-of-web-inspector/)
    - Quick *introduction to Node.js* (+ “why you should learn it”), [@aaroncois]()’s [post](https://www.udemy.com/blog/learn-node-js/)
-   - Update on the recent progress in the *effort to standardize responsive images*, [@davatron5000]()’s [post](http://daverupert.com/2013/06/ughck-images/)
+   - Update on the recent progress in the *effort to standardize responsive images*, [@davatron5000]()’s [post](http://daverupert.com/2013/06/ughck-images/) ![][*]
    - A summary of the recent *callbacks vs. promises debate* in Node.js, [@nzgb]()’s [post](http://blog.ponyfoo.com/2013/05/08/taming-asynchronous-javascript)
    - How do browsers *indicate their busy states*?, [@souders]()’s test [results](http://www.stevesouders.com/blog/2013/06/16/browser-busy-indicators/) for 12 browsers
  - Media
@@ -38,7 +38,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - A list of *common code problems* solved with JavaScript, [repo](https://github.com/blakeembrey/code-problems)
  - Tools
    - Twitter Post Fetcher, *displays tweets on your site* w/o using the Twitter 1.1 API, [page](http://jasonmayes.com/projects/twitterApi/)
-   - CSS-Filters-Polyfill, a *polyfill for CSS Filters* (add support to Firefox and IE), [repo](https://github.com/Schepp/CSS-Filters-Polyfill)
+   - CSS-Filters-Polyfill, a *polyfill for CSS Filters* (add support to Firefox and IE), [repo](https://github.com/Schepp/CSS-Filters-Polyfill) ![][*]
    - Instant Server, a free *temporary private virtual server*, [site](http://instantserver.io/)
  - Demos
    - A synthesizer created with the *Web Audio API*, [@stuartmemo]()’s [demo](http://stuartmemo.com/synth/) (view in Blink)
