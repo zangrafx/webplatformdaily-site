@@ -7,6 +7,39 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
+## June 18th, 2013
+
+ - News
+   - New editor’s draft: *Web Telephony API*, [spec](http://telephony.sysapps.org/) ([via](https://twitter.com/marcosc/status/346719457760137216))
+   - Last week in *WebKit*, Surfin’ Safari blog [post](https://www.webkit.org/blog/2656/last-week-in-webkit-making-waves/)
+   - *W3C Pointer Events* gains further web momentum with *patch for Mozilla Firefox*, MS Open Tech [post](http://msopentech.com/blog/2013/06/17/w3c-pointer-events-gains-further-web-momentum-with-patch-for-mozilla-firefox/)
+   - New *DRM changes text of e-books* to catch pirates, TorrentFreak [article](http://torrentfreak.com/new-drm-changes-text-of-ebooks-to-catch-pirates-130616/)
+ - FYI
+   - IE10 provides CSS properties for *zooming and panning*, [source](https://twitter.com/Fyrd/status/346664737381175296) (standardization discussed [here](https://twitter.com/Fyrd/status/346665278203125760))
+   - Information about *event constructors support* i.e. `new Event(…)`, [discussion](https://twitter.com/ifandelse/status/346712917032443906) on Twitter
+ - Tutorials
+   - *Applying a PNG mask* to an image with HTML5 Canvas, [@codepo8]()’s [post](http://christianheilmann.com/2013/06/15/image-masking-with-html5-canvas/) + [demo](http://codepo8.github.io/canvas-masking/)
+   - A guide to *transpiling to JavaScript* (covers ECMAScript 6, TypeScript and CoffeeScript), [@JoeZimJS]()’s [post](http://flippinawesome.org/2013/06/17/the-future-of-javascript-now/)
+   - *Loading content selectively* with the help of the History API, [@inserthtml]()’s [post](http://www.inserthtml.com/2013/06/history-api/) + cool [demo](http://inserthtml.com/demo/history/)
+   - *Font hacking* (extracting, deconstructing, altering and replacing letterforms), [@heydonworks]()’s [post](http://www.heydonworks.com/article/font-hacking) ![][*]
+ - Articles
+   - Case study: Refactoring an interface to *improve user experience on mobile*, [@Wernah]()’s [post](http://adioso.com/blog/2013/06/responsifying-adioso/)
+   - A long-term vision for a better and *faster rendering pipeline in Blink*, Google [doc](https://docs.google.com/document/d/1wYNK2q_8vQuhVSWyUHZMVPGELzI0CYJ07gTPWP1V1us/pub)
+   - GitHub introduces its *redesigned repository experience*, [@kneath]()’s [post](https://github.com/blog/1529-repository-next)
+ - Media
+   - Chrome Mobile Summit 2013: *Mobile performance*, 46-min [panel](https://www.youtube.com/watch?v=tADvcuYn8Po&list=PLNYkxOF6rcIBPVZ39YfuS4a9A4oOTRqrM) + 2 other panels: [playlist](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBPVZ39YfuS4a9A4oOTRqrM)
+ - Content
+   - *Relationship between WHATWG specs* (hyperlinked dependency map), [SVG](http://whatwg.gphemsley.org/web.svg) file ![][*]
+ - Sites
+   - JSbooks, a *collection of JavaScript e-books* and other resources, [site](http://jsbooks.revolunet.com/)
+   - Request Quest, [@jaffathecake]()’s “Does this code *trigger an HTTP request*?” [quiz](http://jakearchibald.github.io/request-quest/) game (view in Blink) ![][*]
+ - Tools
+   - MQtest.io (online tool), identifies *which media queries your device responds to*, [site](http://mqtest.io/)
+   - Phoria 3D, a JS library for *simple 3D graphics* on a Canvas 2D renderer, [page](http://www.kevs3d.co.uk/dev/phoria/) (view source of examples)
+   - skrollr, a JS library for *scrolling animations* (e.g. parallax scrolling), [demo](http://prinzhorn.github.io/skrollr/) + [repo](https://github.com/Prinzhorn/skrollr)
+ - Opinion
+   - “Battle for the planet of the APIs” (i.a. how *Twitter abandoned RSS*), [@adactio]()’s [post](http://adactio.com/journal/6291/)
+
 ## June 17th, 2013
 
  - News
@@ -38,14 +71,14 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - A list of *common code problems* solved with JavaScript, [repo](https://github.com/blakeembrey/code-problems)
  - Tools
    - Twitter Post Fetcher, *displays tweets on your site* w/o using the Twitter 1.1 API, [page](http://jasonmayes.com/projects/twitterApi/)
-   - CSS-Filters-Polyfill, a *polyfill for CSS Filters* (add support to Firefox and IE), [repo](https://github.com/Schepp/CSS-Filters-Polyfill) ![][*]
+   - CSS-Filters-Polyfill, a *polyfill for CSS Filters* (adds support to Firefox and IE), [repo](https://github.com/Schepp/CSS-Filters-Polyfill) ![][*]
    - Instant Server, a free *temporary private virtual server*, [site](http://instantserver.io/)
  - Demos
    - A synthesizer created with the *Web Audio API*, [@stuartmemo]()’s [demo](http://stuartmemo.com/synth/) (view in Blink)
    - A *web form* in the shape of a circle, [@kindofone]()’s [demo](http://codepen.io/kindofone/pen/slnGx)
    - An blurry image with an *unblurrify-on-hover tool*, [@chriscoyier]()’s [demo](http://codepen.io/chriscoyier/pen/plkIJ) (view in Blink)
 
-## June 14th, 2013 (**released on Sunday**)
+## June 14th, 2013
 
  - News
    - Chromium retires *Chrome Frame*, [post](http://blog.chromium.org/2013/06/retiring-chrome-frame.html) + [@slightlylate]()’s response [post](http://infrequently.org/2013/06/thoughts-on-a-job-done/)
