@@ -16,7 +16,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - FYI
    - The *Polymer library* now has an example TodoMVC app, check out its source code [here](https://github.com/tastejs/todomvc/tree/gh-pages/labs/architecture-examples/polymer) ![][*]
    - Is there any good way to do *multi-line truncation with ellipsis* in CSS only?, [discussion](https://twitter.com/stubbornella/status/347030733933670400) on Twitter
-   - New *DevTools snippets* added: CSS pretty-print, `windows.performnace` data, [source](https://twitter.com/addyosmani/status/347127000042971136)
+   - New *DevTools snippets* added: CSS pretty-print, `windows.performance` data, [source](https://twitter.com/addyosmani/status/347127000042971136)
  - Tutorials
    - Creating  stylish *hover effects for image captions* (with CSS Transforms), [@crnacura]()’s [post](http://tympanus.net/codrops/2013/06/18/caption-hover-effects/) + [demos](http://tympanus.net/Tutorials/CaptionHoverEffects/index4.html)
    - *Adding narration to your slide deck* with HTML5 `<audio>`, [@klamping]()’s [post](http://html5hacks.com/blog/2013/06/17/add-narration-to-your-slide-deck-with-html5-audio/) ![][*]
