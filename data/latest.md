@@ -7,6 +7,40 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
+## June 19th, 2013
+
+ - News
+   - ![][1] Help *test WebRTC in Firefox* for Android and Firefox on Desktop on Friday (June 21st), Mozilla’s [post](https://quality.mozilla.org/2013/06/discover-and-help-test-webrtc-in-firefox-for-android-and-firefox-on-desktop-on-friday-june-21st-2013/)
+   - Adobe actively supporting the development of *Encrypted Media Extensions* (DRM), [post](http://blogs.adobe.com/standards/2013/06/19/adobe-support-for-encrypted-media-extensions/)
+   - Microsoft delivers biggest update to date to *TypeScript*, ZDNet [article](http://www.zdnet.com/microsoft-delivers-biggest-update-to-date-to-typescript-7000016972/)
+ - FYI
+   - The *Polymer library* now has an example TodoMVC app, check out its source code [here](https://github.com/tastejs/todomvc/tree/gh-pages/labs/architecture-examples/polymer) ![][*]
+   - Is there any good way to do *multi-line truncation with ellipsis* in CSS only?, [discussion](https://twitter.com/stubbornella/status/347030733933670400) on Twitter
+   - New *DevTools snippets* added: CSS pretty-print, `windows.performnace` data, [source](https://twitter.com/addyosmani/status/347127000042971136)
+ - Tutorials
+   - Creating  stylish *hover effects for image captions* (with CSS Transforms), [@crnacura]()’s [post](http://tympanus.net/codrops/2013/06/18/caption-hover-effects/) + [demos](http://tympanus.net/Tutorials/CaptionHoverEffects/index4.html)
+   - *Adding narration to your slide deck* with HTML5 `<audio>`, [@klamping]()’s [post](http://html5hacks.com/blog/2013/06/17/add-narration-to-your-slide-deck-with-html5-audio/) ![][*]
+   - Solving *JavaScript performance problems* with “forensics and detective work”, [@JohnMcCutchan]()’s [post](http://www.html5rocks.com/en/tutorials/performance/mystery/)
+   - Information hiding (i.e. *concealing implementation details*) in JavaScript, [@JugglinMike]()’s [post](http://weblog.bocoup.com/info-hiding-in-js/)
+ - Articles
+   - Comparison of browsers on *HTML5 `<video>` accessibility*, [@terrillthompson]()’s [post](http://terrillthompson.com/blog/366)
+   - Case study: Abandoning a separate mobile site by *adapting to a responsive design*, [@DuckyMatt]()’s [post](http://mobile.smashingmagazine.com/2013/06/18/adapting-to-a-responsive-design-case-study/)
+   - *Gigabit apps* for the coming Gigabit Ethernet world, [@SethR]()’s CNET [post](http://news.cnet.com/8301-1023_3-57589753-93/fast-fiber-apps-coming-at-70-percent-the-speed-of-light/)
+   - Common *user experience issues* on the mobile web, [@DavidMoth]()’s [post](http://econsultancy.com/hr/blog/62870-12-usability-flaws-that-are-spoiling-the-mobile-web)
+ - Media
+   - ShopTalk [podcast]() #73 with [@vlh]() (60 min): responsive images, *`em`-based media queries*, …
+ - Demos
+   - Hair, a *HTML5 Canvas* experiment, [@mrPaumgarten]()’s [demo](http://codepen.io/MathiasPaumgarten/full/BHIek)
+   - 12 cool *button hover animations*, [@bartekd]()’s [demo](http://codepen.io/bartekd/pen/qFsDf)
+ - Sites
+   - JSter JavaScript Catalog, a *catalog of JavaScript libraries* and tools for web development, [site](http://jster.net/catalog)
+ - Tools
+   - HTML Inspector (JS library), an *HTML code quality tool* (runs in-browser), [post](http://philipwalton.com/articles/introducing-html-inspector/) + [repo](https://github.com/philipwalton/html-inspector)
+   - jsDelivr, a *free CDN* powered by 76 PoPs (locations) worldwide (hosts over 600 projects), [site](http://www.jsdelivr.com/) ![][*]
+   - Fontastic, an online tool for *creating custom icon fonts* (choose from over 1700 icons), [site](http://app.fontastic.me/)
+ - Opinion
+   - “Even in modern countries, proper *internet access is a privilege*”, [@hellogeri]()’s [post](http://the-pastry-box-project.net/geri-coady/2013-june-18/)
+
 ## June 18th, 2013
 
  - News
@@ -314,42 +348,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - Opinion
    - Firefox OS vs iOS/Android duopoly: “*The web always wins* at the end”, The Register [article](http://www.theregister.co.uk/2013/06/03/my_month_with_firefox_os/)
    - Is *Google dumping open standards* for open wallets?, ReadWrite [article](http://readwrite.com/2013/06/04/is-google-dumping-open-standards-for-open-wallets)
-
-## June 4th, 2013
-
- - News
-   - *W3C Advisory Board* election results: [@t](), [@chaals](), [@cwilso]() and Michael Champion elected [post](http://www.w3.org/News/2013.html#entry-9856)
-   - *W3C TAG* London meeting, [@annevk]()’s [takeaways](http://annevankesteren.nl/2013/06/london-tag)
-   - Performance improvements for *`querySelector`/`querySelectorAll`* in Chromium [tweet](https://twitter.com/brucel/status/341569978232877056)
-   - Simple *text wrapping in SVG*, [@shepazu]()’s [proposal](http://schepers.cc/its-a-wrap)
-   - Foxconn and Mozilla are collaborating to develop 5 devices for OEMs including a tablet, TNW [article](http://thenextweb.com/asia/2013/06/03/foxconn-and-mozilla-are-collaborating-to-develop-5-devices-for-oems-including-a-tablet/)
- - FYI
-   - Chrome won’t cache any assets on HTTPS hosts with *bad (e.g. self signed) TLS certificates* [source](https://twitter.com/igrigorik/status/341439272982810624)
-   - [HTML5accessibility.com](http://html5accessibility.com) is now on GitHub: [repo](https://github.com/stevefaulkner/HTML5accessibility) (pull requests welcome)
- - Tutorials
-   - A showcase of the *next generation of web layout*, [@cjgammon]()’s [post](http://www.html5rocks.com/en/tutorials/casestudies/natgeo/) ![][*]
-   - Quick introduction to 5 *Web Platform APIs* (Battery Status, Gamepad, …), [@AdnaneBelmadiaf]()’s [post](http://daker.me/2013/06/5-html5-javascript-apis-to-keep-an-eye-on.html)
-   - Building an example TODO *app for Firefox OS*, [@ifadey]()’s [post](https://hacks.mozilla.org/2013/06/building-a-todo-app-for-firefox-os-part-1/)
- - Articles
-   - The problems with CSS resets and *Normalize.css* as an alternative, [@boblet]()’s [post](http://the-pastry-box-project.net/oli-studholme/2013-june-3/) ![][*]
-   - History and overview of the main *JavaScript engines*, [@creativejs]()’s [post](http://creativejs.com/2013/06/the-race-for-speed-part-1-the-javascript-engine-family-tree/)
-   - The *state of HTML5 gaming* in 2013, [@Bushido_Games]()’s [post](http://bushidoit.com/2013/06/html5-gaming-is-doing-well/)
-   - “The rise of the *mobile-only user*”, [@karenmcgrane]()’s [post](http://blogs.hbr.org/cs/2013/05/the_rise_of_the_mobile-only_us.html)
-   - *Recent trends* from May conferences (i.a. componentization with *Polymer*), [@kpdecker]()’s [post](http://www.incaseofstairs.com/)
- - Media
-  - Atomic design (*designing systems of components*), [@brad_frost]()’s 54-min [@btconf]() [talk](https://vimeo.com/channels/beyondtellerrand/67476280) ![][*]
-  - Creating a simple *`<canvas>` game with vanilla JavaScript*, [@codepo8]()’s 12-min [screencast](https://www.youtube.com/watch?v=9rsDNifGods)
-  - *Front-end latency* (performance) best practices, [@souders]()’s 134-min [workshop](https://www.youtube.com/watch?v=ch68MXWUfjo) 
-  - ShopTalk #70 with [@hcatlin]() (creator of Sass & Haml), 62-min [podcast](http://shoptalkshow.com/episodes/070-with-hampton-catlin/) + #71 RAPIDFIRE, 58-min [podcast](http://shoptalkshow.com/episodes/071-rapidfire-17/)
- - Demos
-   - Company logos (i.a. Twitter, GitHub) created *in pure CSS*, [@bchANx]()’s [demo](http://www.bchanx.com/logos-in-pure-css-demo)
-   - A NES controller in 3D created *in pure CSS*, [@johanderowan]()’s [demo](http://codepen.io/Dreamdealer/pen/Clutk)
- - Tools
-   - JSON Generator, an online tool for *generating “lorem ipsum” JSON data* [page](http://www.json-generator.com/)
-   - weinre, a tool for *remote web site debugging* [post](http://msopentech.com/blog/2013/05/31/now-on-ie-and-firefox-debug-your-mobile-html5-page-remotely-with-weinre-web-inspector-remote/) (no longer restricted to WebKit)
-   - Amazon Web Services *SDK for Node.js* [page](http://aws.amazon.com/sdkfornodejs/?ref_=pe_12300_30186750_35)
- - Opinion
-   - “Some *thoughts on mobile*” (i.a. phones vs tables, marketplace issues), [@cdixon]()’s [post](http://cdixon.org/2013/06/01/some-thoughts-on-mobile/)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
