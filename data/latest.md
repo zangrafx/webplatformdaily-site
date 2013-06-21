@@ -7,7 +7,41 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
-## June 20th, 2013 (**Work in progress**)
+## June 20th, 2013
+
+ - News
+   - 3rd WD of “*Scalable Vector Graphics (SVG) 2*” released: [TR](http://www.w3.org/TR/SVG2/) + release [notes](http://www.w3.org/News/2013#entry-9866)
+   - CIS launches “Cookie Clearinghouse” to *enable user choice for online tracking*, [article](http://cyberlaw.stanford.edu/blog/2013/06/center-internet-and-society-launches-%E2%80%9Ccookie-clearinghouse%E2%80%9D-enable-user-choice-online) + Eich’s [post](https://brendaneich.com/2013/06/the-cookie-clearinghouse/) ![][*]
+   - *Adobe’s CFF font rasterizer* accepted by FreeType (used in Android), Adobe’s [post](http://blogs.adobe.com/typblography/2013/06/adobe-cff-font-rasterizer-accepted-by-freetype.html)
+   - Proposed modifications to the *descriptive text of the `<figure>` element*, [message](http://lists.w3.org/Archives/Public/public-html/2013Jun/0070.html) on `public-html`
+   - *DOM Futures* ([?](http://dom.spec.whatwg.org/#futures)) have landed in Firefox Nightly, [source](https://twitter.com/FirefoxNightly/status/347638997964713985)
+   - Chrome’s *bug with `em`-based media queries* has been fixed, [source](https://twitter.com/yoavweiss/status/347592102282133504)
+ - Tutorials
+   - An easily digestible *introduction to Web Workers*, [@brian_cooksey]()’s [post](https://zapier.com/engineering/intro-to-web-workers/)
+   - A quick introductory guide to JavaScript’s *regular expression syntax*, [@nzgb]()’s [post](http://blog.ponyfoo.com/2013/05/27/learn-regular-expressions)
+   - Designing with IE10’s *`::-ms-`prefixed CSS pseudo elements*, [@jonathansampson]()’s [post](http://sampsonblog.com/615/ie10s-pseudo-elements)
+   - *Using CSS Flexbox* to recreate the Google Hangouts chat box design, [@chriscoyier]()’s [post](http://css-tricks.com/replicating-google-hangouts-chat/)
+ - Articles
+   - Using *iframes to address performance/security issues* with third-party scripts, [@bluesmoon]()’s [interview](http://programming.oreilly.com/2013/06/using-iframes-to-address-third-party-script-issues-and-boost-performance.html)
+ - Media
+   - The first batch of *[@mobilismconf]() 2013 videos* has been uploaded [here](http://vimeopro.com/mirabeaunl/mobilism-2013/)
+   - [@OReillyMedia]() has uploaded lots for short *videos from [@velocityconf]() 2013*, YouTube [playlist](http://www.youtube.com/playlist?list=PL055Epbe6d5bdB4KPqssegVpYUDJXSzOp)
+ - Content
+   - Using `matchMedia()` to build *responsive web components* with Polymer, [demo](http://jsbin.com/esaros/3/edit)
+   - 69 tips and tricks for *using Chrome’s DevTools* more effectively, [page](https://developers.google.com/chrome-developer-tools/docs/tips-and-tricks) ![][*]
+ - Demos
+   - An *animated Möbius strip* in ~30 lines of Sass, [@thebabydino]()’s [demo](http://codepen.io/thebabydino/pen/mcrLf)
+   - A “mega dropdown” component in pure CSS (written in SCSS, *uses BEM syntax*), [@csswizardry]()’s [demo](http://jsfiddle.net/csswizardry/A7d28/)
+ - Sites
+   - CDNperf, *comparison of popular CDNs* in uptime and latency, [site](http://www.cdnperf.com/)
+   - OpenWeatherMap, a *free weather data* and forecast API, [site](http://openweathermap.org/)
+ - Tools
+   - FriendCode, an *in-browser code editor* with code collaboration, [site](https://friendco.de/)
+   - blend.js (JS library), an *image manipulation tool* (supports multiple partitions and effects), demo [page](http://www.qur2.eu/blend.js/) ![][*]
+   - Grumpicon, an online tool for *creating HD-friendly SVG graphics* w/ automated fallbacks, [page](http://www.grumpicon.com/) + [post](http://filamentgroup.com/lab/introducing_grumpicon/)
+   - Reactor.js, a lightweight library for *reactive programming*, [repo](https://github.com/fynyky/reactor.js)
+ - Opinion
+   - “The *W3C's Workshop format* isn't working”, [@slightlylate]()’s [post](http://infrequently.org/2013/06/that-old-skool-smell/)
 
 ## June 19th, 2013
 
@@ -311,45 +345,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - Opinion
    - “*Forking and Standards*: Why the right to fork can be pro-social”, [@tieguy]()’s [post](http://tieguy.org/blog/2013/06/05/forking-and-standards-why-the-right-to-fork-can-be-pro-social/)
    - “Meet the Developer… yes, but what for?”, [@jorabin]()’s [post](http://jorabin.blogspot.co.uk/2013/06/meet-developer-yes-but-what-for.html)
-
-## June 5th, 2013
-
- - News
-   - New W3C releases:
-     - 2nd WD of “*HTML 5.1*” [TR](http://www.w3.org/TR/html51/) + [diff](http://www.w3.org/TR/2013/WD-html51-20130528/,diff)
-     - 2nd WD of “*HTML Canvas 2D Context, Level 2*” [TR](http://www.w3.org/TR/2dcontext2/) + [diff](http://www.w3.org/TR/2013/WD-2dcontext2-20130528/,diff)
-     - 15th WD of “*Differences from HTML4*” [TR](http://www.w3.org/TR/html5-diff/) + [diff](http://www.w3.org/TR/2013/WD-html5-diff-20130528/)
-     - 2nd WD of “*Content Security Policy 1.1*” [TR](http://www.w3.org/TR/CSP11/) + [diff](http://www.w3.org/TR/2013/WD-CSP11-20130604/,diff)
-   - *Firefox unprefixing* `requestAnimationFrame` ([source](https://twitter.com/FirefoxNightly/status/341868124959805441)) and `cursor:zoom-in/out` ([source](https://twitter.com/FirefoxNightly/status/341868131406462976))
-   - *Firefox’s new UI* (Australis) coming in version 25 (week of June 24th) [source](https://mail.mozilla.org/pipermail/firefox-dev/2013-May/000405.html)
-   - Online throttling and site-blocking to be outlawed in Europe under *net neutrality plan*, ZDNet [article](http://www.zdnet.com/online-throttling-and-site-blocking-to-be-outlawed-in-europe-under-net-neutrality-plan-7000016324/)
-   - President Obama comes out strongly against *patent trolls*, Techdirt [analysis](http://www.techdirt.com/articles/20130604/00412423310/president-obamas-comes-out-strongly-against-patent-trolls-here-are-details.shtml)
- - FYI
-   - The *W3C Advisory Board* is now on Twitter [@W3CAB]() (still unofficial account)
-   - The *CSS `content` property* can have a string, `url()`, `counter()` or `attr()` value [wiki](http://css-tricks.com/almanac/properties/c/content/)
-   - A Venn diagram showing the relationship between *CSS3, SVG and Web Animations* [image](https://wiki.mozilla.org/images/f/f6/CSS-SVG-Web-Animations.png) 
- - Tutorials
-   - Monitoring HTTP and *WebSocket connectivity state* with a FSM, [@ifandelse]()’s [post](http://www.icenium.com/blog/icenium-team-blog/2013/06/04/is-this-thing-on-%28part-4%29)
-   - *Unit testing with Sinon.js* (covers spies, stubs, mocks, fake timers, fake servers), [@elijahmanor]()’s [post](http://www.elijahmanor.com/2013/06/unit-test-like-secret-agent-with-sinonjs.html)
-   - *Using Handlebars templates* with Ember.js views (+ intro to JS templating in general), [@jdcravens]()’s [post](http://tech.pro/tutorial/1308/emberjs-views-and-live-templates-with-handlebarsjs-part-1)
-   - *UI testing with CasperJS* (using assertions from the Tester API), [@maltblue]()’s [post](http://blog.newrelic.com/2013/06/04/simpler-ui-testing-with-casperjs-2/)
- - Articles
-   - Best practices for *designing a pragmatic RESTful API*, [@veesahni]()’s [post](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
-   - Attacks that *exploit the `Host` HTTP header*, [@albinowax]()’s [post](http://www.skeletonscribe.net/2013/05/practical-http-host-header-attacks.html)
-   - *Processing RAW images* in the browser with Emscripten and ams.js, [@vvuk]()’s [post](http://blog.bitops.com/blog/2013/06/04/webraw-asmjs/)
-   - Are form field *placeholders an usability problem* on mobile?, [@jamieappleseed]()’s [post](http://baymard.com/blog/mobile-forms-avoid-inline-labels)
-   - *Using progressive JPEGs* to enhance user experience, [@patmeenan]()’s [post](http://blog.patrickmeenan.com/2013/06/progressive-jpegs-ftw.html) ![][*]
- - Media
-   - “The humble *`border-radius`*”, [@LeaVerou]()’s 32-min [talk](https://vimeo.com/67567648) + [slides](http://lea.verou.me/humble-border-radius/#for-browser) from [@fronttrends]() 2013
-   - Intro to *finite state machines* and Machina.js, [@dougneiner]()’s 29-min [talk](https://vimeo.com/67473899) + [slides](http://code.dougneiner.com/presentations/machina/) from [@jquk]() ![][*]
-   - *Tracing paint operations* in Chrome Canary, [@jaffathecake]()’s 5-min [screencast](https://www.youtube.com/watch?v=bMZZOzuJCgk)
- - Tools
-   - Node GH, *GitHub command line tools* [page](http://nodegh.io/) (w/ 4-min demo screencast) ![][*]
-   - Octopush, a *push server* for creating real-time web apps [repo](https://github.com/adisbladis/octopush)
-   - Regenerate, a Unicode-aware *regex generator* for JavaScript [repo](https://github.com/mathiasbynens/regenerate)
- - Opinion
-   - Firefox OS vs iOS/Android duopoly: “*The web always wins* at the end”, The Register [article](http://www.theregister.co.uk/2013/06/03/my_month_with_firefox_os/)
-   - Is *Google dumping open standards* for open wallets?, ReadWrite [article](http://readwrite.com/2013/06/04/is-google-dumping-open-standards-for-open-wallets)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
