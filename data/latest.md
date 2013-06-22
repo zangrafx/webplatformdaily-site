@@ -64,7 +64,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - *Gigabit apps* for the coming Gigabit Ethernet world, [@SethR]()’s CNET [post](http://news.cnet.com/8301-1023_3-57589753-93/fast-fiber-apps-coming-at-70-percent-the-speed-of-light/)
    - Common *user experience issues* on the mobile web, [@DavidMoth]()’s [post](http://econsultancy.com/hr/blog/62870-12-usability-flaws-that-are-spoiling-the-mobile-web)
  - Media
-   - ShopTalk [podcast]() #73 with [@vlh]() (60 min): responsive images, *`em`-based media queries*, …
+   - ShopTalk [podcast](http://shoptalkshow.com/episodes/073-with-val-head/) #73 with [@vlh]() (60 min): responsive images, *`em`-based media queries*, …
  - Demos
    - Hair, a *HTML5 Canvas* experiment, [@mrPaumgarten]()’s [demo](http://codepen.io/MathiasPaumgarten/full/BHIek)
    - 12 cool *button hover animations*, [@bartekd]()’s [demo](http://codepen.io/bartekd/pen/qFsDf)
