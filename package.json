@@ -1,0 +1,15 @@
+{
+  "name": "webplatformdaily-site",
+  "version": "1.0.0",
+  "description": "The source code of webplatformdaily.org",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simevidas/webplatformdaily-site.git"
+  },
+  "author": "Šime Vidas",
+  "gitHead": "49273c3367c39452ebd6a7d7f5a4578486b12b5d",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/simevidas/webplatformdaily-site/issues"
+  }
+}
