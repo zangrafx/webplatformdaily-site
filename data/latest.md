@@ -7,7 +7,18 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
-## June 21st, 2013 (**will be released on Saturday**)
+## June 21st, 2013 (**rest coming on Sunday**)
+
+ - Tutorials
+   - Increasing *performance of web fonts* (+ several *font loading solutions*), [@ianfeather]()’s [post](http://ianfeather.co.uk/web-fonts-and-the-critical-path/) ![][*]
+   - Properly *scaling images* that have a `width` and `height` set in HTML, [@rogerjohansson]()’s short [post](http://www.456bereastreet.com/archive/201306/how_to_proportionally_scale_images_that_have_dimension_attributes/)
+   - Using *Promises in AngularJS* views, [@markdalgleish]()’s [post](http://markdalgleish.com/2013/06/using-promises-in-angularjs-views/)
+   - Editing and *updating Sass files* directly from within Chrome’s DevTools, [@umaar]()’s [post](http://net.tutsplus.com/tutorials/html-css-techniques/developing-with-sass-and-chrome-devtools/)
+ - Articles
+   - *asm.js* - what it is and what it isn’t, [@kripken]()’s [post](http://mozakai.blogspot.com/2013/06/what-asmjs-is-and-what-asmjs-isnt.html) (very extensive but has good tl;dr)
+   - Update on HTML5 Rocks’s upcoming *mobile friendly TOC* (table of contents), [@Paul_Kinlan]()’s [post](http://paul.kinlan.me/another-experiment-in-creating-a-mobile-friendly-table-of-contents/)
+ - Opinion
+   - “Why RWD (*responsive web design*) is not enough”, [@despos]()’s [post](http://tech-book-store.amazon.com/post/Tx22ZLKCAEHV4MS/Why-Responsive-Web-Design-Is-Not-Enough)
 
 ## June 20th, 2013
 
