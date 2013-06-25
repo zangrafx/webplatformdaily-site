@@ -7,7 +7,40 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
-## June 21st, 2013 (**released on Sunday**)
+## June 24th, 2013
+
+ - News
+   - *WebRTC* enabled by default in Firefox Nightly, [source](https://twitter.com/twelephone/status/348535753506172928)
+   - Support for *H.264* lands in Firefox Nightly (only on Linux!), [source](https://twitter.com/FirefoxNightly/status/349100622655651841)
+   - Developers respond to *CSS Shapes* module, .net magazine [article](http://www.netmagazine.com/news/devs-respond-css-shapes-module-level-1-132834)
+   - Dolphin Browser joins Mozilla Firefox in building its own *HTML5 app store*, [article](http://www.smartcompany.com.au/information-technology/056135-dolphin-browser-joins-mozilla-firefox-in-building-its-own-html5-app-store.html)
+   - Foxconn to hire 3,000 to support *Firefox OS* and software development, ITWorld [article](http://www.itworld.com/361807/foxconn-hire-3000-support-firefox-os-and-software-development)
+ - FYI
+   - *SVG sprites* more susceptible to rendering performance issues than PNG sprites, [discussion](https://twitter.com/chriscoyier/status/348508652715507712) on Twitter
+   - `document.documentMode` tells you the *document mode in IE* (Standards, Quirks, IE9 standards, etc.), [source](https://twitter.com/jonathansampson/status/348152369244160000)
+ - Tutorials
+   - *Grunt - advanced usage* (bash functions, aliasing tasks, `watch`, …), [@ChrisAWren]()’s [post](http://chrisawren.com/posts/Advanced-Grunt-tooling)
+   - Working around a lack of *element queries in CSS*, [@scottjehl]()’s [post](http://filamentgroup.com/lab/element_query_workarounds/) ![][*]
+   - Better web-site performance with “*static memory JavaScript*“, [@duhroach]()’s [post](http://www.html5rocks.com/en/tutorials/speed/static-mem-pools/)
+ - Media
+   - *The independent web* and [@indiewebcamp](), [@t]()’s 19-min [discussion](https://www.youtube.com/watch?v=XE0AA6gVRSI) at GDL
+   - Coping with the broken web (*writing tests for web specs*), [@rodneyrehm]()’s 18-min [@fronttrends]() [talk](https://vimeo.com/68680319) ![][*]
+ - Content
+   - List of *mobile emulators and simulators*, [page](http://www.mobilexweb.com/emulators) 
+   - Quick summary of client-side *JavaScript error reporting* services, [@paul_irish]()’s [post](https://plus.google.com/+PaulIrish/posts/12BVL5exFJn) on Google+
+   - *Page load performance* and resource loading, J. Simonsen’s [presentation](https://docs.google.com/presentation/d/1Ol4xMKkiZgbJUL0n-h3xEcTch6sD5gSyCxNK1m2wXYo/edit#slide=id.p) from [@velocityconf]()
+   - Comparison of jQuery UI and the *HTML5 `<input>` types*, [@tjvantoll]()’s [slide deck](http://tjvantoll.com/speaking/slides/2013/UI-Widgets-vs-HTML5/) 
+ - Demos
+   - Qb Qb Qb, a *desktop game* powered by HTML5 Canvas, [demo](http://qbqbqb.rezoner.net/) ([via](http://creativejs.com/2013/06/qb-qb-qb-arcade-puzzle-game/))
+   - A *CSS logo* that shows its layers on click, [@99tharun]()’s [demo](http://codepen.io/99tharun/pen/gsiGb)
+ - Sites
+   - *SSL* Labs, a collection of documents, tools and thoughts related to SSL, [site](https://www.ssllabs.com/)
+ - Tools
+   - Font Custom, a command-line tool for *creating icon web fonts* from SVG, [site](http://fontcustom.com/)
+   - SimpleWebRTC, a JavaScript library for *WebRTC*, [site](http://simplewebrtc.com/)
+   - SVGO, a Node.js module for *optimizing SVG files*, [repo](https://github.com/svg/svgo)
+
+## June 21st, 2013
 
  - News
    - New W3C releases:
@@ -28,7 +61,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - Editing and *updating Sass files* directly from within Chrome’s DevTools, [@umaar]()’s [post](http://net.tutsplus.com/tutorials/html-css-techniques/developing-with-sass-and-chrome-devtools/)
  - Articles
    - *asm.js* - what it is and what it isn’t, [@kripken]()’s [post](http://mozakai.blogspot.com/2013/06/what-asmjs-is-and-what-asmjs-isnt.html) (very extensive but has good tl;dr)
-   - Update on HTML5 Rocks’s upcoming *mobile friendly TOC* (table of contents), [@Paul_Kinlan]()’s [post](http://paul.kinlan.me/another-experiment-in-creating-a-mobile-friendly-table-of-contents/)
+   - Introducing HTML5 Rocks’s new *mobile friendly TOC* (table of contents), [@Paul_Kinlan]()’s [post](http://paul.kinlan.me/another-experiment-in-creating-a-mobile-friendly-table-of-contents/)
  - Media
    - An overview of *ECMAScript 6*, [@rauschma]()’s 39-min [@fluentconf]() [talk](http://www.2ality.com/2013/06/video-es6.html)
  - Content
@@ -307,47 +340,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - Web Developer Checklist, a Chrome [extension](http://madskristensen.net/post/Chrome-extension-Web-Developer-Checklist.aspx) that *runs checks for various best practices* on any site
  - Opinion
    - “Is *GitHub* racist?” (repository names restricted to ASCII), [@edent]()’s [post](http://shkspr.mobi/blog/2013/06/is-github-racist/)
-
-## June 10th, 2013
-
- - News
-   - New W3C releases:
-     - 2nd WD of “*Introduction to Web Components*”, [TR](http://www.w3.org/TR/components-intro/) + [diff](http://www.w3.org/TR/2013/WD-components-intro-20130606/,diff)
-     - 2nd WD of “*HTML5 Image Description Extension*” (`longdesc` attribute), [TR](http://www.w3.org/TR/html-longdesc/) + [diff](http://www.w3.org/TR/2013/WD-html-longdesc-20130606/,diff)
-   - Proposal to explicitly *forbid using `<small>`* elements for subheadings, [message](http://lists.w3.org/Archives/Public/public-html/2013Jun/0005.html) on `public-html`
-   - `<subline>` element renamed to *`<subhead>`*, extension [spec](http://rawgithub.com/w3c/subline/master/index.html) + [discussion](http://lists.w3.org/Archives/Public/public-html/2013Jun/0023.html) on `public-html`
-   - *CSS Flexible Box Layout* gets “Best New Web Technology 2013” .net award [post](http://www.w3.org/QA/2013/06/css_flexible_box_layout_gets_b.html)
-   - *CSS WG telecons*: 2013-05-22 [notes](http://www.w3.org/blog/CSS/2013/06/10/resolutions-93/) + 2013-05-29 [notes](http://www.w3.org/blog/CSS/2013/06/10/resolutions-94/)
- - FYI
-   - jQuery’s *`.off(type, '**')`* removes all delegated handlers but keeps traditional handlers [tweet](https://twitter.com/elijahmanor/status/343895075950034944)
-   - Firefox provides a “*health report*” page which is accessed via `about:healthreport` [tweet](https://twitter.com/simevidas/status/343912396370366464)
- - Tutorials
-   - Conditionally *providing WebP images* with Modernizr, [@StuCoxMedia]()’s [post](http://www.stucox.com/blog/using-webp-with-modernizr/)
-   - Better rendering performance with *GPU acceleration via `transform3D()`*, [@schill]()’s [post](http://code.flickr.net/2013/06/04/adventures-in-jank-busting-parallax-performance-and-the-new-flickr-home-page/)
-   - 7 *useful CSS snippets* from HTML5 Boilerplate, [@davidwalshblog]()’s [post](http://davidwalsh.name/html5-boilerplate)
-   - A quick introduction to the concept of “*feature detection*”, [@jonathansampson]()’s [post](http://sampsonblog.com/567/taming-the-lawless-web-with-feature-detection)
-   - Improving your workflow with *Yeoman generators*, [@nackjicholsonn]()’s [post](http://projectpoppycock.com/roll-your-own-yeoman-generators/)
-   - Identifying and fixing *rendering performances issues* with Chrome’s DevTools, [@rem]()’s [post](http://remysharp.com/2013/06/07/insights-into-rendering-performance/)
-   - Providing *responsive hi-DPI typography*, [@ddemaree]()’s [post](http://blog.typekit.com/2013/05/01/hi-dpi-typography/)
- - Articles
-   - An update on the recent happenings and future of *Promises*, [@slightlylate]()’s [post](http://infrequently.org/2013/06/sfuturepromiseg/) ![][*]
-   - How to prepare for the “*mobile-first web*”, [@bergie]()’s [post](http://bergie.iki.fi/blog/mobile-first-web/)
- - Media
-   - “Wait, *Chrome DevTools* can do THAT?”, [@igrigorik]()’s 44-min [talk](https://www.youtube.com/watch?v=S9sktFzL3tQ) from [@jquk]()
-   - “Be an open source superstar - *document*!”, [@remotesynth]()’s 5-min ignite [session](https://www.youtube.com/watch?v=VtFbMhm8z9A) from [@fluentconf]()
- - Content
-   - *HTTP status code* decision-tree, large [PNG](http://i.stack.imgur.com/whhD1.png) image ([source](https://twitter.com/fideloper/status/343027301644107778))
-   - ![][&] Proposal for a *mobile-first Yeoman generator*, [@addyosmani]()’s GitHub [issue](https://github.com/yeoman/yeoman/issues/1077)
-   - ![][&] What features do you want to see in *AngularJS 2.0*?, Google moderator [page](http://www.google.com/moderator/#15/e=20a96e&t=20a96e.40&f=20a96e.6b5d50)
- - Demos
-   - Motion Blur (*blurs text* during scroll) [demo](https://twitter.com/codepo8/status/343038849750011904)
- - Tools
-   - GitHub Notifier, a browser extension that *displays your GitHub notifications* count [repo](https://github.com/sindresorhus/GitHub-Notifier)
-   - Hopscotch, a framework for adding *product tours* to web pages [page](https://github.com/linkedin/hopscotch)
-   - caniuse-widget, an *embeddable “Can I Use” widget* (e.g. for your blog posts) [page](http://andismith.github.io/caniuse-widget/) ![][*]
- - Opinion
-   - “The raster image paradox” (on *pragmatism and responsive images*), [@dbushell]()’s [post](http://dbushell.com/2013/06/03/the-raster-image-paradox/)
-   - “*DRM and HTML5*: it’s now or never for the Open Web”, [@harryhalpin]()’s [post](http://www.guardian.co.uk/technology/2013/jun/06/html5-drm-w3c-open-web) ![][*]
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
