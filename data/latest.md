@@ -7,6 +7,37 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
+## June 25th, 2013
+
+ - News
+   - *Firefox 22* released, [info](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/22) for developers + release [notes](http://www.mozilla.org/en-US/firefox/22.0/releasenotes/)
+   - *CSS `background-blend-mode`* now supported in Chrome Canary and WebKit Nightly, Adobe blog [post](http://blogs.adobe.com/webplatform/2013/06/24/css-background-blend-modes-are-now-available-in-chrome-canary-and-webkit-nightly/)
+   - *WebRTC* support coming to Chrome for Android, [source](https://twitter.com/html5/status/349351297704660995)
+ - FYI
+   - Which CSS features *create a new stacking context*?, [discussion](https://twitter.com/dstorey/status/349278607887171584) on Twitter
+   - `text-rendering: optimizeLegibility` *disables web fonts* on Android, [source](https://twitter.com/Fyrd/status/349367667410485248)
+   - HTML comments can appear within JavaScript code in `<script>` blocks, [source](http://javascript.spec.whatwg.org/#comment-syntax)
+ - Tutorials
+   - Using *`localStorage` with MV\* frameworks* (AngularJS, Backbone.js, Knockout), [@alex_young]()’s [post](http://dailyjs.com/2013/06/20/localstorage/)
+   - Creating a simple effect with *CSS 3D transforms*, [@davidwalshblog]()’s [post](http://davidwalsh.name/animating-sidebar)
+   - An introduction to *ECMAScript 6 generators*, [@airportyh]()’s [post](http://tobyho.com/2013/06/16/what-are-generators/)
+ - Articles
+   - Understanding the difference between CSS *compositing and blending*, [@agreenblatt]()’s [post](http://blattchat.com/2013/06/11/understanding-compositing-blending/)
+   - Introducing a library that *provides CSS element queries* via attribute selectors, [@tysonmatanich]()’s [post](http://coding.smashingmagazine.com/2013/06/25/media-queries-are-not-the-answer-element-query-polyfill/) ![][*]
+   - Using *Lo-Dash instead of Underscore.js* for superior performance, [@w33ble]()’s [post](http://joefleming.net/posts/use-lodash-instead-of-underscore/)
+   - *Phishing by data URI* - phishing web pages that are entirely contained within data URIs, [@hennikl]()’s [doc](https://docs.google.com/viewer?url=http://klevjers.com/papers/phishing.pdf)
+   - “The *CSS Shapes* module will revolutionize web design”, [@nickrp]()’s [post](http://blog.teamtreehouse.com/the-css-shapes-module-will-revolutionize-web-design)
+ - Content
+   - 10 “must-have” *Chrome extensions for web developers*, [@gracesmith]()’s [post](http://mashable.com/2013/02/19/chrome-extensions-developers/#_) ![][*]
+   - Deciding which *front-end framework* to use (H5BP, Bootstrap, Foundation), [@Zing_Design]()’s [flowchart](http://www.zingdesign.com/twitter-bootstrap-decision-time/)
+ - Sites
+   - “Welcome to CSS!”, an introductory *guide to CSS*, [@inserthtml]()’s [site](http://inserthtml.com/codex/)
+ - Tools
+   - js-breakpoints (library), triggers JavaScript callbacks based on *CSS media query breakpoints*, [repo](https://github.com/14islands/js-breakpoints)
+   - Yass.js (library), a *`srcset` polyfill* (for responsive images), [page](http://eightmedia.github.io/yass.js/)
+   - CollagePlus (jQuery plugin), *arranges images* to fit exactly within a container, [page](http://ed-lea.github.io/jquery-collagePlus/) + jsFiddle [demo](http://jsfiddle.net/edlea/uZv3n/)
+   - Chance.js, *generates random strings, numbers*, etc. (for automated tests), [page](http://chancejs.com/)
+
 ## June 24th, 2013
 
  - News
@@ -312,34 +343,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - Tools
    - Conditioner, a JS library for *loading and unloading behavior* based on environment conditions, [repo](https://github.com/rikschennink/conditioner)
    - jQueryTimeAutocomplete (jQuery plugin), a *time picker* via drop down menus, [page](http://7shifts.com/better-time-drop-downs-jquery-timeautocomplete/) + [repo](https://github.com/7shifts/jQueryTimeAutocomplete/)
-
-## June 11th, 2013
-
- - News
-   - “The *Extensible Web Manifesto*” [page](http://extensiblewebmanifesto.org/) + [@wycats]()’s [post](https://medium.com/the-future-of-the-web/2fcd1c1bb32)
-   - *DOM Promises* coming to Chromium and Firefox [source](https://twitter.com/ChromiumDev/status/344259591451836418)
-   - *WebKit’s Web Inspector* has been updated; reactions on Twitter: [1](https://twitter.com/divya/status/343126176061087744) [2](https://twitter.com/rauchg/status/344307032125501441) [3](https://twitter.com/thomasfuchs/status/344082215057125378)
- - FYI
-   - ![][o] [@WebPlatform]() is seeking contributors for its docs; see this 12-min “getting started” video [tutorial](http://docs.webplatform.org/wiki/Meta:web_platform_wednesday#Video_Tutorial)
-   - Prominent developers share what *software (including IDE)* they’re using on a daily basis [link](http://net.tutsplus.com/articles/what-are-you-using/)
- - Tutorials
-   - Using *`requestAnimationFrame`* for smoother animations (basic usage)  , [@chriscoyier]()’s [post](http://css-tricks.com/using-requestanimationframe/)
-   - Building a *motion activated security camera* with WebRTC, Canvas and Device…, [@johnallsopp]()’s [post](http://www.webdirections.org/blog/build-a-motion-activated-security-camera-with-webrtc-canvas-and-device-orientation/)
-   - *Re-stacking page elements* with a CSS `display` trick, [@iandevlin]()’s [post](http://www.iandevlin.com/blog/2013/06/css/css-stacking-with-display-table)
-   - *Irregular shape rollovers* from the transparent parts of PNGs, [@codepo8]()’s [post](http://christianheilmann.com/2013/06/10/irregular-shape-rollovers-with-canvas-and-png/)
-   - *Improving paint performance* of a web site (w/ case study), [@addyosmani]()’s [post](http://www.smashingmagazine.com/2013/06/10/pinterest-paint-performance-case-study/) ![][*]
- - Articles
-   - A *responsive design workflow*, “mobile first” and “design in the browser”, [@KrasimirTsonev]()’s [post](http://davidwalsh.name/design-responsively)
-   - The *future of JavaScript* (ES.next, WebGL, JS as compile target, asm.js, ORBX.js), [@creativejs]()’s [post](http://creativejs.com/2013/06/the-race-for-speed-part-4-the-future-for-javascript/)
-   - Update on recent progress of *W3C Pointer Events*, [@MarkGayler]()’s MS Open Tech [post](http://msopentech.com/blog/2013/06/06/ms-open-tech-w3c-pointer-events-and-the-javascript-community-at-jsconf-2013/)
- - Sites
-   - OSS Perks, a *listing of tools and services* that are made freely available to open source projects [page](http://ossperks.com/)
-   - DPI love, an online tool that *calculates the DPI/PPI* of any screen, [@LeaVerou]()’s [tool](http://dpi.lv/)
- - Tools
-   - Auticons, an *icon font* and set of CSS rules that target HTML attributes, [@heydonworks]()’s [tool](http://heydonworks.com/auticons-icon-font/) ![][*]
-   - Web Developer Checklist, a Chrome [extension](http://madskristensen.net/post/Chrome-extension-Web-Developer-Checklist.aspx) that *runs checks for various best practices* on any site
- - Opinion
-   - “Is *GitHub* racist?” (repository names restricted to ASCII), [@edent]()’s [post](http://shkspr.mobi/blog/2013/06/is-github-racist/)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"

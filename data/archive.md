@@ -1,3 +1,32 @@
+## June 11th, 2013
+
+ - News
+   - “The *Extensible Web Manifesto*” [page](http://extensiblewebmanifesto.org/) + [@wycats]()’s [post](https://medium.com/the-future-of-the-web/2fcd1c1bb32)
+   - *DOM Promises* coming to Chromium and Firefox [source](https://twitter.com/ChromiumDev/status/344259591451836418)
+   - *WebKit’s Web Inspector* has been updated; reactions on Twitter: [1](https://twitter.com/divya/status/343126176061087744) [2](https://twitter.com/rauchg/status/344307032125501441) [3](https://twitter.com/thomasfuchs/status/344082215057125378)
+ - FYI
+   - ![][o] [@WebPlatform]() is seeking contributors for its docs; see this 12-min “getting started” video [tutorial](http://docs.webplatform.org/wiki/Meta:web_platform_wednesday#Video_Tutorial)
+   - Prominent developers share what *software (including IDE)* they’re using on a daily basis [link](http://net.tutsplus.com/articles/what-are-you-using/)
+ - Tutorials
+   - Using *`requestAnimationFrame`* for smoother animations (basic usage)  , [@chriscoyier]()’s [post](http://css-tricks.com/using-requestanimationframe/)
+   - Building a *motion activated security camera* with WebRTC, Canvas and Device…, [@johnallsopp]()’s [post](http://www.webdirections.org/blog/build-a-motion-activated-security-camera-with-webrtc-canvas-and-device-orientation/)
+   - *Re-stacking page elements* with a CSS `display` trick, [@iandevlin]()’s [post](http://www.iandevlin.com/blog/2013/06/css/css-stacking-with-display-table)
+   - *Irregular shape rollovers* from the transparent parts of PNGs, [@codepo8]()’s [post](http://christianheilmann.com/2013/06/10/irregular-shape-rollovers-with-canvas-and-png/)
+   - *Improving paint performance* of a web site (w/ case study), [@addyosmani]()’s [post](http://www.smashingmagazine.com/2013/06/10/pinterest-paint-performance-case-study/) ![][*]
+ - Articles
+   - A *responsive design workflow*, “mobile first” and “design in the browser”, [@KrasimirTsonev]()’s [post](http://davidwalsh.name/design-responsively)
+   - The *future of JavaScript* (ES.next, WebGL, JS as compile target, asm.js, ORBX.js), [@creativejs]()’s [post](http://creativejs.com/2013/06/the-race-for-speed-part-4-the-future-for-javascript/)
+   - Update on recent progress of *W3C Pointer Events*, [@MarkGayler]()’s MS Open Tech [post](http://msopentech.com/blog/2013/06/06/ms-open-tech-w3c-pointer-events-and-the-javascript-community-at-jsconf-2013/)
+ - Sites
+   - OSS Perks, a *listing of tools and services* that are made freely available to open source projects [page](http://ossperks.com/)
+   - DPI love, an online tool that *calculates the DPI/PPI* of any screen, [@LeaVerou]()’s [tool](http://dpi.lv/)
+ - Tools
+   - Auticons, an *icon font* and set of CSS rules that target HTML attributes, [@heydonworks]()’s [tool](http://heydonworks.com/auticons-icon-font/) ![][*]
+   - Web Developer Checklist, a Chrome [extension](http://madskristensen.net/post/Chrome-extension-Web-Developer-Checklist.aspx) that *runs checks for various best practices* on any site
+ - Opinion
+   - “Is *GitHub* racist?” (repository names restricted to ASCII), [@edent]()’s [post](http://shkspr.mobi/blog/2013/06/is-github-racist/)
+
+
 ## June 10th, 2013
 
  - News
