@@ -1,3 +1,37 @@
+## June 12th, 2013
+
+ - News
+   - Animation support for *WebP images* coming to Chromium, [source](https://twitter.com/stshank/status/344380423004123136)
+   - *Web Audio API* rollout status in Firefox (to be enabled by default in version 23), [link](https://wiki.mozilla.org/WebAudio_API_Rollout_Status)
+   - StopWatching.Us: Mozilla launches *massive campaign on digital surveillance*, [@alexanderfowler]()’s [post](https://blog.mozilla.org/blog/2013/06/11/stopwatching-us-mozilla-launches-massive-campaign-on-digital-surveillance/)
+   - Google to start *ranking sites lower in mobile search* if they use “Download our app” alert: [tweet](https://twitter.com/jaffathecake/status/344726429184974848), [tweet](https://twitter.com/mattcutts/status/344516902753816576)
+   - “What’s *new in Safari and WebKit*”, session [video](https://twitter.com/toolmantim/status/344615837728137216) (only available to Mac/iPad/iPhone owners **WTF!?**)
+   - Safari’s *Web Inspector open sourced* back to WebKit, [changeset](http://trac.webkit.org/changeset/151453)
+ - FYI
+   - What’s the best *command line sprite generator* for CSS?, Twitter [thread](https://twitter.com/slicknet/status/344516835464577024)
+   - Information about *WebKit development* is here: `webkit-dev` mailing list, [link](https://lists.webkit.org/pipermail/webkit-dev/)
+ - Tutorials
+   - *Resizing images responsively* while restricting their height (three options), [@parkerbennett]()’s [post](http://css-tricks.com/crop-top/)
+   - Getting started *using the Web Audio API* by creating a stylophone, [@stuartmemo]()’s [post](http://tympanus.net/codrops/2013/06/10/web-audio-stylophone/) + [demo](http://tympanus.net/Tutorials/WebAudioStylophone/) page
+   - Displaying *tooltips with CSS `attr` and `content`*, [@davidwalshblog]()’s [post](http://davidwalsh.name/css-attr-content-tooltips)
+   - Improving performance of *image manipulation* with Web Workers, [@deltakosh]()’s [post](http://www.htmlgoodies.com/html5/client/using-web-workers-to-improve-performance-of-image-manipulation.html)
+   - Better performance with *`requestAnimationFrame`*, [@gerbille]()’s DEV.OPERA [post](http://dev.opera.com/articles/view/better-performance-with-requestanimationframe/) ![][*]
+   - Understanding *CSS 3D Transforms*, [@webinista]()’s DEV.OPERA [post](http://dev.opera.com/articles/view/understanding-3d-transforms/) ![][*]
+ - Articles
+   - Concerns and thoughts on *JavaScript generators*, [@WebReflection]()’s [post](http://webreflection.blogspot.com/2013/06/on-harmony-javascript-generators.html)
+   - *Front end operations* should not be ignored, [@SlexAxton]()’s [post](http://www.smashingmagazine.com/2013/06/11/front-end-ops/)
+   - Why we need *responsive images*, [@tkadlec]()’s [post](http://timkadlec.com/2013/06/why-we-need-responsive-images/) ![][*]
+ - Media
+   - “Perf the web forward” (fixing *performance issues*), [@jdalton]()’s 35-min [screencast](http://allyoucanleet.com/post/52667781698/jsconf-us-13-screencast) + [slides](http://allyoucanleet.com/post/52667587834/jsconf-us-13-slides)
+ - Demos
+   - A cool *hover effect* with CSS transitions, [demo](http://fuckyeahhovers.tumblr.com/post/52711724968/delta-cycle-hovers)
+   - CSS Tube Map, a replica of the London Underground *network diagram built with CSS*, [site](http://www.csstubemap.co.uk/index.html)
+   - *ScummVM ported to HTML5* with Emscripten (play classic point-and-click games), [page](http://clb.demon.fi/html5scummvm/)
+ - Tools
+   - Conditioner, a JS library for *loading and unloading behavior* based on environment conditions, [repo](https://github.com/rikschennink/conditioner)
+   - jQueryTimeAutocomplete (jQuery plugin), a *time picker* via drop down menus, [page](http://7shifts.com/better-time-drop-downs-jquery-timeautocomplete/) + [repo](https://github.com/7shifts/jQueryTimeAutocomplete/)
+
+
 ## June 11th, 2013
 
  - News

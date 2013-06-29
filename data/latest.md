@@ -7,6 +7,43 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
+## June 26th, 2013 (**released on Friday**)
+
+ - News
+   - New W3C releases:
+     - **New:** 1st WD of “*Web Animations*”, [TR](http://www.w3.org/TR/web-animations/)
+     - 2nd WD of “*Compositing and Blending*”, [TR](http://www.w3.org/TR/compositing-1/) + [diff](http://www.w3.org/TR/2013/WD-compositing-1-20130625/,diff)
+     - 3rd WD of “*Web Cryptography API*”, [TR](http://www.w3.org/TR/WebCryptoAPI/) + [diff](http://www.w3.org/TR/2013/WD-WebCryptoAPI-20130625/)
+   - *IE11 for Windows 8.1* brings WebGL, SPDY/3, new dev tools, …, [article](http://microsoft-news.com/webgl-spdy3-new-dev-tools-more-confirmed-for-ie11-in-win-8-1/) w/ screens
+   - An overview of the *WebRTC implementation* in Firefox 22, Mozilla Hacks [article](https://hacks.mozilla.org/2013/06/webrtc-comes-to-firefox/)
+ - Tutorials
+   - Creating impressive *modal window effects* w/ CSS transforms, [@crnacura]()’s [post](http://tympanus.net/codrops/2013/06/25/nifty-modal-window-effects/) + [demo](http://tympanus.net/Development/ModalWindowEffects/) page ![][*]
+   - Loading web pages *without third-party resources* for testing, [@ariyahidayat]()’s [post](http://ariya.ofilabs.com/2013/06/web-page-without-external-resources.html)
+   - Creating a *simple flipping animation* with CSS transforms, [@davidwalshblog]()’s [post](http://davidwalsh.name/css-flip)
+   - Using the *ES6 module syntax* and transpiling to ES5 with a Grunt task, [@thomasABoyt]()’s [post](http://www.thomasboyt.com/2013/06/21/es6-module-transpiler)
+   - A short guide to the new *HTML5 `<main>` element*, [@Rich_Clark]()’s [post](http://html5doctor.com/the-main-element/)
+ - Articles
+   - Improving the *web development workflow*, [@auchenberg]()’s extensive [post](http://blog.kenneth.io/blog/2013/05/21/our-web-development-workflow-is-completely-broken/) ![][*]
+   - The *implications of seamless IFRAMEs* (`<iframe seamless>`), [@triblondon]()’s [post](http://labs.ft.com/2013/01/seamless-iframes-not-quite-seamless/)
+   - An extensive guide to *URL encoding*, [@UnFroMage]()’s [post](http://blog.lunatech.com/2009/02/03/what-every-web-developer-must-know-about-url-encoding)
+   - asm.js (in latest Firefox) brings *full native applications* to the Web, [@sieth_mysix]()’s [post](https://blog.mozilla.org/mbest/2013/06/25/asm-js-its-really-fast-backwards-compatible-and-now-in-the-release-version-of-firefox/)
+   - A short “getting started” guide to *writing reftests*,  [@boblet]()’s [post](http://the-pastry-box-project.net/oli-studholme/2013-june-26/)
+   - *Web Animations* - what they are and how they came about, [post](http://brian.sol1.net/svg/2013/06/26/introducing-web-animations/) ![][*]
+ - Media
+   - Developing *mobile web apps with Yeoman*, live-reload,… , [@gauntface]()’s 25-min GDL [presentation](https://www.youtube.com/watch?v=Q_Ud7Q2F0F8)
+   - Responsible *responsive images*, [@wilto]()’s 45-min [@mobilismconf]() [talk](http://vimeopro.com/mirabeaunl/mobilism-2013/video/69060795) ![][*] **WATCH THIS**
+ - Content
+   - W3C *Mobile Web Best Practices* (MWBP) flipcards, [page](http://www.w3.org/2007/02/mwbp_flip_cards)
+   - A list of relevant resources on *responsive images*, [wiki](https://github.com/ResponsiveImagesCG/picture-element/wiki/Relevant-resources) on GitHub
+   - Secrets of the browser’s *developer tools*, [@AndiSmith]()’s [slide deck](http://www.83rdstasis.net/devtoolsecrets/slides/london-web/)
+ - Demos
+   - A collections of *loading animations*, [page](http://codepen.io/collection/HtAne)
+ - Tools
+   - DiagnostiCSS, a style sheet that visually detects any potentially *invalid or inaccessible HTML markup*, [page](http://diagnosticss.github.io/)
+   - scoped-media-query (Sass mixin), an *element query workaround*, [repo](https://github.com/filamentgroup/scoped-media-query)
+   - jQuery Debugger (Chrome extension), displays *jQuery data and event handlers* in DevTools, [page](https://chrome.google.com/webstore/detail/jquery-debugger/dbhhnnnpaeobfddmlalhnehgclcmjimi)
+   - web-animations-js, an emulator of the *Web Animations* specification, [repo](https://github.com/web-animations/web-animations-js)
+
 ## June 25th, 2013
 
  - News
@@ -310,39 +347,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - ![][o] devtools-snippets, a *collection of useful snippets* for use inside of browser’s dev tools, [repo](https://github.com/bgrins/devtools-snippets)
    - Hitch, a small JavaScript “prollyfill” engine which provides an *extension model for CSS and HTML*, [site](http://hitchjs.com/)
    - Prism, a lightweight *syntax highlighting* library, [site](http://prismjs.com/) + [repo](https://github.com/LeaVerou/prism/)
-
-## June 12th, 2013
-
- - News
-   - Animation support for *WebP images* coming to Chromium, [source](https://twitter.com/stshank/status/344380423004123136)
-   - *Web Audio API* rollout status in Firefox (to be enabled by default in version 23), [link](https://wiki.mozilla.org/WebAudio_API_Rollout_Status)
-   - StopWatching.Us: Mozilla launches *massive campaign on digital surveillance*, [@alexanderfowler]()’s [post](https://blog.mozilla.org/blog/2013/06/11/stopwatching-us-mozilla-launches-massive-campaign-on-digital-surveillance/)
-   - Google to start *ranking sites lower in mobile search* if they use “Download our app” alert: [tweet](https://twitter.com/jaffathecake/status/344726429184974848), [tweet](https://twitter.com/mattcutts/status/344516902753816576)
-   - “What’s *new in Safari and WebKit*”, session [video](https://twitter.com/toolmantim/status/344615837728137216) (only available to Mac/iPad/iPhone owners **WTF!?**)
-   - Safari’s *Web Inspector open sourced* back to WebKit, [changeset](http://trac.webkit.org/changeset/151453)
- - FYI
-   - What’s the best *command line sprite generator* for CSS?, Twitter [thread](https://twitter.com/slicknet/status/344516835464577024)
-   - Information about *WebKit development* is here: `webkit-dev` mailing list, [link](https://lists.webkit.org/pipermail/webkit-dev/)
- - Tutorials
-   - *Resizing images responsively* while restricting their height (three options), [@parkerbennett]()’s [post](http://css-tricks.com/crop-top/)
-   - Getting started *using the Web Audio API* by creating a stylophone, [@stuartmemo]()’s [post](http://tympanus.net/codrops/2013/06/10/web-audio-stylophone/) + [demo](http://tympanus.net/Tutorials/WebAudioStylophone/) page
-   - Displaying *tooltips with CSS `attr` and `content`*, [@davidwalshblog]()’s [post](http://davidwalsh.name/css-attr-content-tooltips)
-   - Improving performance of *image manipulation* with Web Workers, [@deltakosh]()’s [post](http://www.htmlgoodies.com/html5/client/using-web-workers-to-improve-performance-of-image-manipulation.html)
-   - Better performance with *`requestAnimationFrame`*, [@gerbille]()’s DEV.OPERA [post](http://dev.opera.com/articles/view/better-performance-with-requestanimationframe/) ![][*]
-   - Understanding *CSS 3D Transforms*, [@webinista]()’s DEV.OPERA [post](http://dev.opera.com/articles/view/understanding-3d-transforms/) ![][*]
- - Articles
-   - Concerns and thoughts on *JavaScript generators*, [@WebReflection]()’s [post](http://webreflection.blogspot.com/2013/06/on-harmony-javascript-generators.html)
-   - *Front end operations* should not be ignored, [@SlexAxton]()’s [post](http://www.smashingmagazine.com/2013/06/11/front-end-ops/)
-   - Why we need *responsive images*, [@tkadlec]()’s [post](http://timkadlec.com/2013/06/why-we-need-responsive-images/) ![][*]
- - Media
-   - “Perf the web forward” (fixing *performance issues*), [@jdalton]()’s 35-min [screencast](http://allyoucanleet.com/post/52667781698/jsconf-us-13-screencast) + [slides](http://allyoucanleet.com/post/52667587834/jsconf-us-13-slides)
- - Demos
-   - A cool *hover effect* with CSS transitions, [demo](http://fuckyeahhovers.tumblr.com/post/52711724968/delta-cycle-hovers)
-   - CSS Tube Map, a replica of the London Underground *network diagram built with CSS*, [site](http://www.csstubemap.co.uk/index.html)
-   - *ScummVM ported to HTML5* with Emscripten (play classic point-and-click games), [page](http://clb.demon.fi/html5scummvm/)
- - Tools
-   - Conditioner, a JS library for *loading and unloading behavior* based on environment conditions, [repo](https://github.com/rikschennink/conditioner)
-   - jQueryTimeAutocomplete (jQuery plugin), a *time picker* via drop down menus, [page](http://7shifts.com/better-time-drop-downs-jquery-timeautocomplete/) + [repo](https://github.com/7shifts/jQueryTimeAutocomplete/)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
