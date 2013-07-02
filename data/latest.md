@@ -7,6 +7,10 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
+## July 2nd, 2013 (**work in progress**)
+
+ - 34 candidates selected, [screen](http://i.imgur.com/GymKnQy.png)
+
 ## July 1st, 2013
 
  - News
@@ -159,7 +163,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - ![][&] What are the *use cases for `<figure>`* without a `<figcaption>`?, [discussion](http://lists.w3.org/Archives/Public/public-html/2013Jun/0076.html) on `public-html`
    - ![][&] *Geometry API* (for intersections, etc.) proposed [here](https://twitter.com/shepazu/status/347779239405289472)
    - Inital (limited) support for *Web Audio API* soon in Chrome for Android, [source](https://twitter.com/html5/status/347790262287872000)
-   - The *HTTP Archive dataset* is now available on Google BigQuery, [@igrigorik]()’s [post](http://www.igvita.com/2013/06/20/http-archive-bigquery-web-performance-answers/) w/ 10-min presentation ![][*]
+   - The *HTTP Archive dataset* now available on Google BigQuery, [@igrigorik]()’s [post](http://www.igvita.com/2013/06/20/http-archive-bigquery-web-performance-answers/) w/ 10-min presentation ![][*]
  - FYI
    - The *Blink engine* appears on 5 platforms: Windows, Mac, Linux, Chrome OS and Android
  - Tutorials
