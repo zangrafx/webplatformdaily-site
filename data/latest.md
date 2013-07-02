@@ -7,7 +7,47 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
  - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
 
-## June 26th, 2013 (**released on Friday**)
+## July 1st, 2013
+
+ - News
+   - The HTML *`<template>` element* added to the HTML WHATWG spec, [source](https://twitter.com/mathias/status/350887551613140993)
+   - Modernizer Test Suite *results in IE11* (preview build), [screen shot](https://twitter.com/elijahmanor/status/351164885100556288)
+   - Initial *Web MIDI API* support in Chrome Canary, [source](https://plus.google.com/app/basic/stream/z12gwvgzxoatx1haq04cipfxekn3s1pi3qg0k)
+   - Firefox 24 supports the *CSS `@font-feature-values`* at-rule, [source](https://twitter.com/FirefoxNightly/status/349890351395389440)
+   - “Reject *DRM* and you risk walling off parts of the web, says W3C chief”, ZDNet [article](http://www.zdnet.com/reject-drm-and-you-risk-walling-off-parts-of-the-web-says-w3c-chief-7000017388/)
+ - FYI
+   - The *HTML `<main>` element* will supersede the ARIA `role=main` attribute value, [source](https://twitter.com/brucel/status/349825765564616708)
+ - Tutorials
+   - Setting custom *aspect ratios on `<div>` elements* with pure CSS, [@MadeMyDay]()’s [post](http://www.mademyday.de/css-height-equals-width-with-pure-css.html) ![][*]
+   - *Converting an image to a `<canvas>`* and vice versa with a few lines of JavaScript, [@davidwalshblog]()’s [post](http://davidwalsh.name/convert-canvas-image)
+   - Creating an *expanding search field* (compatible with mobile and IE8), [@crnacura]()’s extensive [post](http://tympanus.net/codrops/2013/06/26/expanding-search-bar-deconstructed/)
+   - Building a *web app for Firefox OS*, [@addyosmani]()’s extensive [post](http://thenittygritty.co/ffos-apps)
+ - Articles
+   - How *web browsers perform antialiasing* (grayscale vs subpixel), [@aerotwist]()’s [post](http://www.html5rocks.com/en/tutorials/internals/antialiasing-101/)
+   - *Mobile web problems* and how to avoid them, [@brad_frost]()’s extensive [post](http://bradfrostweb.com/blog/post/mobile-web-problems/) ![][*]
+   - Optimizing CSS3 for *GPU compositing*, [@ariyahidayat]()’s [post](http://ariya.ofilabs.com/2013/06/optimizing-css3-for-gpu-compositing.html)
+   - An introduction to *JavaScript source maps*, [@ryanseddon]()’s [post](http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/) (recently updated)
+ - Media
+   - The state and future of *CSS Selectors and Selectors API*, [@timmywil]()’s 35-min [@jqcon]() [talk](https://www.youtube.com/watch?v=KTDsCB7ujXU)
+   - “Topic Undefined” #1: [@cfjedimaster]() and [@remotesynth]() discuss *web dev links and news*, 28-min [podcast](http://flippinawesome.org/topic-undefined/topic-undefined-episode-1/)
+ - Content
+   - A small page for *testing `<viewport>` on mobile* (`initial-scale=1.0` vs `width=device-width`), [page](http://snugug.github.io/viewport-test/index.html) ([via](https://twitter.com/Snugug/status/351439464867962880))
+ - Demos
+   - A simple shredding machine with pure CSS, [demo](http://inserthtml.com/demo/shredder/)
+   - A cool *3D model in WebGL* (w/ controls), [demo](http://www.clicktorelease.com/code/cross-hatching/)
+   - Using CSS animations to *apply different styles after `X` seconds*, [post](http://stackoverflow.com/a/17321098/425275) w/ demo
+ - Sites
+   - “This Is Responsive”, patterns, resources and news for *creating responsive web experiences*, [site](http://bradfrost.github.io/this-is-responsive/)
+   - DevDocs, consolidates *MDN and jQuery documentation* into a clear, uniform design, [site](http://devdocs.io/) (additional [info](https://twitter.com/simevidas/status/351516727064006656))
+ - Tools
+   - ADB Plugin, a Chrome extension for *remote debugging for mobile*, [repo](https://github.com/GoogleChrome/ADBPlugin) + install [page](https://chrome.google.com/webstore/detail/adb/dpngiggdglpdnjdoaefidgiigpemgage)
+   - tracking.js, a library for *tracking colors, humans*, etc. in the video stream of the device’s camera, [site](http://www.trackingjs.com/)
+   - CSSRegions.js, Adobe’s experimental *polyfill for CSS Regions*, [page](http://adobe-webplatform.github.io/css-regions-polyfill/)
+   - querystringvalues.js, a DevTools snippet that prints a *table of query string values*, [post](http://bgrins.github.io/devtools-snippets/#querystringvalues)
+ - Opinion
+   - “The war for the *free and open internet* — and how we are losing it”, [@SuePGardner]()’s [post](http://suegardner.org/2013/06/26/the-war-for-the-free-and-open-internet-and-how-we-are-losing-it/) ![][*]
+
+## June 26th, 2013
 
  - News
    - New W3C releases:
@@ -31,7 +71,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - *Web Animations* - what they are and how they came about, [post](http://brian.sol1.net/svg/2013/06/26/introducing-web-animations/) ![][*]
  - Media
    - Developing *mobile web apps with Yeoman*, live-reload,… , [@gauntface]()’s 25-min GDL [presentation](https://www.youtube.com/watch?v=Q_Ud7Q2F0F8)
-   - Responsible *responsive images*, [@wilto]()’s 45-min [@mobilismconf]() [talk](http://vimeopro.com/mirabeaunl/mobilism-2013/video/69060795) ![][*] **WATCH THIS**
+   - Responsible *responsive images*, [@wilto]()’s 45-min [@mobilismconf]() [talk](https://twitter.com/simevidas/status/350777133125222400) ![][*] **WATCH THIS**
  - Content
    - W3C *Mobile Web Best Practices* (MWBP) flipcards, [page](http://www.w3.org/2007/02/mwbp_flip_cards)
    - A list of relevant resources on *responsive images*, [wiki](https://github.com/ResponsiveImagesCG/picture-element/wiki/Relevant-resources) on GitHub
@@ -315,38 +355,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - picnicc, an online tool for *creating custom builds* of popular JavaScript libraries, [site](https://picni.cc/)
    - mensch, a *CSS parser* for Node.js, [repo](https://github.com/brettstimmerman/mensch)
    - evilscan, an *IP/port scanner* for Node.js, [repo](https://github.com/eviltik/evilscan)
-
-## June 13th, 2013
-
- - News
-   - *TC39* May 2013 meeting notes are available [here](https://github.com/rwldrn/tc39-notes/tree/master/es6/2013-05)
-   - *`document.currentScript`* support lands in Chrome, [source](https://twitter.com/ChromiumDev/status/344869171970068481)
-   - *Source maps* now enabled by default in Firefox Nightly, [source](https://twitter.com/FirefoxNightly/status/344913893560295427)
-   - *Extensible web manifesto* launched (interview with [@tabatkins]()), .net [article](http://www.netmagazine.com/news/extensible-web-manifesto-launched-132809)
-   - Sweden’s data protection authority *bans Google cloud services* over privacy concerns, [article](http://www.privacysurgeon.org/blog/incision/swedens-data-protection-authority-bans-google-apps/)
- - FYI
-   - OWA = *Open Web App*, [source](https://developer.mozilla.org/en-US/docs/Open_Web_apps_and_Web_standards)
-   - Campaign Monitor’s [data](http://www.campaignmonitor.com/resources/will-it-work/email-clients/) on *email client popularity*
- - Tutorials
-   - Building a *responsive web application* (RWA), [@webprolific]()’s extensive [post](http://mobile.smashingmagazine.com/2013/06/12/building-a-responsive-web-application/)
-   - Creating a cool hover effect with *pseudo element transitions*, [@chriscoyier]()’s [post](http://css-tricks.com/pizza-time-hovers/) w/ demo
-   - Usage examples for *HTTP 2.0 Server Push* (supported by SPDY-capable browsers), [@igrigorik]()’s [post](http://www.igvita.com/2013/06/12/innovating-with-http-2.0-server-push/) ![][*]
-   - Introduction to *hosted and packaged Firefox OS apps* (creation + distribution), SitePoint [post](http://www.sitepoint.com/getting-started-with-firefox-os-hosted-and-packaged-apps/)
-   - **ELI5:** Web development workflow with *Yeoman + Grunt + Bower*, [@revathskumar]()’s [post](http://blog.revathskumar.com/2013/04/workflow-with-yeoman-grunt-and-bower.html)
- - Articles
-   - Introduction to *CSS Grid Layout* (supported only by IE10), [@jonathansampson]()’s [post](http://sampsonblog.com/576/display-grid-the-future-of-responsive-grid-layouts)
-   - How the Gmail team used Chrome DevTools to *fix their memory problems*, [@JohnMcCutchan]()’s [post](http://www.html5rocks.com/en/tutorials/memory/effectivemanagement/)
-   - A guide to the new *HTML5 form input types* (w/ lots of screen shots), Six Revisions [post](http://sixrevisions.com/html5/new-html5-form-input-types/)
- - Media
-   - “The *future of the client-side web*”, [@wycats]()’s 33-min [talk](http://marakana.com/s/post/1487/the_future_of_the_client_side_web_video_jaxconf) from [@JAXconf]()
-   - Identifying anti-patterns in *waterfall charts*, [@rick_viscomi]()’s GDL [presentation](https://developers.google.com/live/shows/779042419) ![][*]
- - Demos
-   - Physically-based rendering + *physics simulation* (powered by WebGL), [@alteredq]()’s [demo](http://alteredqualia.com/xg/examples/animation_physics_ammo.html)
-   - Cube Slam, a *real-time WebRTC game* (pong game), [site](https://www.cubeslam.com/) + [post](http://googledevelopers.blogspot.co.uk/2013/06/play-cube-slam-real-time-webrtc-video.html) ![][*]
- - Tools
-   - ![][o] devtools-snippets, a *collection of useful snippets* for use inside of browser’s dev tools, [repo](https://github.com/bgrins/devtools-snippets)
-   - Hitch, a small JavaScript “prollyfill” engine which provides an *extension model for CSS and HTML*, [site](http://hitchjs.com/)
-   - Prism, a lightweight *syntax highlighting* library, [site](http://prismjs.com/) + [repo](https://github.com/LeaVerou/prism/)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
