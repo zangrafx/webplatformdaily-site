@@ -41,9 +41,12 @@ legend
 
 $OpenSans: 'Open Sans', sans-serif
 $textColor: #333
+$foo: 0
 
 *
   outline: none
+  -moz-box-sizing: border-box
+  box-sizing: border-box
   
 html 
   font-family: $OpenSans
@@ -65,9 +68,6 @@ article
   padding: 0 2em
   margin: 2em 0
   max-width: 100%
-  -moz-box-sizing: border-box
-  -webkit-box-sizing: border-box
-  box-sizing: border-box
 
 .mozilla-banner 
   display: block
@@ -124,7 +124,6 @@ p
     margin: 0.4em 0
     margin-left: 1.2em
     list-style: circle outside
-    white-space: nowrap
     & > img:not([title="don’t miss"])
       position: absolute
       left: -2.7em
