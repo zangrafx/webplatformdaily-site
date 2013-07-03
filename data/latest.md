@@ -1,15 +1,36 @@
 The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files). The README file of the repository also serves as a FAQ. Refer to it for information about this web-site.
 
-## Sticky
+## July 2nd, 2013
 
- - **Dear publishers:** Every article should have an *easily digestible intro paragraph*. [tweet](https://twitter.com/simevidas/status/332853743676690435) ![][*]
- - Recommended *Twitter* feeds: [@remotesynth](), [@codepo8](), [@smashingmag]()
- - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
- - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
-
-## July 2nd, 2013 (**work in progress**)
-
- - 34 candidates selected, [screen](http://i.imgur.com/GymKnQy.png)
+ - News
+   - Google experimenting with QUIC, a network protocol aimed to *reduce the number of round trips*, [post](http://blog.chromium.org/2013/06/experimenting-with-quic.html)
+   - Firefox Nightly: Improved *SVG text* support, [post](http://mcc.id.au/blog/2013/07/firefox-svg-text-improvements), *`<iframe srcdoc>`*, [source](https://twitter.com/FirefoxNightly/status/351632554908073984), new dev tools features, [post](https://hacks.mozilla.org/2013/07/new-features-in-firefox-developer-tools-episode-24/)
+   - Effeckt.css, a proposed CSS library of *performant transitions and animations* for mobile, [discussion](https://github.com/h5bp/lazyweb-requests/issues/122)
+   - Mozilla and partners prepare to launch *first Firefox OS smartphones*, Mozilla press [release](https://blog.mozilla.org/press/2013/07/mozilla-and-partners-prepare-to-launch-first-firefox-os-smartphones/)
+   - Firefox wins latest “*Web Browser Grand Prix*” on Tom’s Hardware, 12-page [review](http://www.tomshardware.com/reviews/chrome-27-firefox-21-opera-next,3534-12.html)
+ - FYI
+   - The *median website has 13 scripts* (5 from own host + 8 from other hosts), [source](http://bigqueri.es/t/how-are-javascript-files-being-served-and-how-many-are-there/36)
+   - In Chrome, `chrome:net-internals` gives you a dump of the *network stack’s internal state*, [source](https://twitter.com/addyosmani/status/351848621970427905) ![][*]
+ - Tutorials
+   - *Adding custom CSS selectors* to your style sheets with Hitch.js, [@briankardell]()’s [post](http://css-tricks.com/an-intro-to-hitch-js-and-the-extensible-web/)
+   - *Dynamically adding CSS rules* and creating new style sheets with CSSOM APIs, [@davidwalshblog]()’s [post](http://davidwalsh.name/add-rules-stylesheets)
+   - Patterns for *asynchronous operations* in JavaScript (callbacks, promises,…), [@ifandelse]()’s extensive [post](http://tech.pro/blog/1402/five-patterns-to-help-you-tame-asynchronous-javascript)
+   - *Concurrency in JavaScript* with Web Workers, [@thibault_imbert]()’s extensive [post](http://typedarray.org/concurrency-in-javascript/)
+ - Articles
+   - About the new *Web Animations* API and why it’s important, [@jaffathecake]()’s extensive [post](http://coding.smashingmagazine.com/2013/03/04/animating-web-gonna-need-bigger-api/) ![][*]
+   - On *using more CSS classes* in your HTML code, [@csswizardry]()’s [post](http://csswizardry.com/2012/10/a-classless-class-on-using-more-classes-in-your-html/)
+   - Thoughts on better *code organization in Sass*, [@vangogh]()’s [post](http://www.vanseodesign.com/css/variable-organization-in-sass/)
+ - Media
+   - *Panel discussion* with [@rem](), [@wilto](), [@jaffathecake]() and [@torgo]() at [@mobilismconf](), 54-min [video](http://vimeopro.com/mirabeaunl/mobilism-2013/video/69386528) ![][*]
+   - Front-end development in *Node.js* (Express + Jade + Stylus), [@rockbot]()’s 34-min [@jqcon]() [talk](https://www.youtube.com/watch?v=icNHLlRazds)
+ - Demos
+   - A *responsive grid of icons*, [@crnacura]()’s [demo](http://tympanus.net/Blueprints/ResponsiveIconGrid/)
+ - Sites
+   - Native form elements, lists all the different *HTML5 form elements* (for testing), [site](http://nativeformelements.com/)
+ - Tools
+   - Communist, a *library for Web Workers*, [page](http://communistjs.com/) + blog [post](http://cwmma.tumblr.com/post/54338607071/making-web-workers-with-communistjs) w/ usage example
+   - Aristochart, a highly customizable and flexible *line charting library* for `<canvas>`, [page](http://dunxrion.github.io/aristochart/)
+   - console.snapshot, outputs a *`<canvas>` snapshot* to the console, [page](http://dunxrion.github.io/console.snapshot/)
 
 ## July 1st, 2013
 
@@ -329,36 +350,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - A synthesizer created with the *Web Audio API*, [@stuartmemo]()’s [demo](http://stuartmemo.com/synth/) (view in Blink)
    - A *web form* in the shape of a circle, [@kindofone]()’s [demo](http://codepen.io/kindofone/pen/slnGx)
    - An blurry image with an *unblurrify-on-hover tool*, [@chriscoyier]()’s [demo](http://codepen.io/chriscoyier/pen/plkIJ) (view in Blink)
-
-## June 14th, 2013
-
- - News
-   - Chromium retires *Chrome Frame*, [post](http://blog.chromium.org/2013/06/retiring-chrome-frame.html) + [@slightlylate]()’s response [post](http://infrequently.org/2013/06/thoughts-on-a-job-done/)
-   - *Source maps* syntax changed, [post](http://updates.html5rocks.com/2013/06/sourceMappingURL-and-sourceURL-syntax-changed)
-   - New word: *prollyfill*; read about the “Extensible Web Community Group” [here](http://prollyfill.org/)
- - FYI
-   - You can *pass an array of promises* to `$.when` like so: `$.when.apply($, promisesArr)`, [source](https://twitter.com/elijahmanor/status/345202501076791299) w/ demo
- - Tutorials
-   - Case study: How the *“Racer” Chrome experiment* ([site](http://www.chrome.com/racer)) was built, [@active_theory]()’s [post](http://www.html5rocks.com/en/tutorials/casestudies/racer/)
-   - A *DRY approach to referencing DOM* from a Backbone view, [@pamelafox]()’s [post](http://blog.pamelafox.org/2013/06/referencing-dom-from-js-there-must-be.html) ![][*]
- - Articles
-   - An issue when *using viewport units* in Safari (`height:100vh` broken?), [@ThatEmil]()’s [post](http://thatemil.com/blog/2013/06/13/viewport-relative-unit-strangeness-in-ios-6/) + [issue](https://github.com/scottjehl/Device-Bugs/issues/36)
-   - How browser vendors cross-reference their *commits and issue trackers*, [@ariyahidayat]()’s [post](http://ariya.ofilabs.com/2013/06/cross-reference-commit-message-and-issue-tracker.html) ![][*]
-   - An experimental *mobile-friendly TOC*, [@Paul_Kinlan]()’s [post](http://paul.kinlan.me/experiments-in-buildin-a-mobile-friendly-table-of-contents/) (comment [here](https://twitter.com/Paul_Kinlan/status/345240783856742400))
- - Media
-   - Introduction to *Content Security Policy*, [@adambarth]()’s 34-min [talk](http://marakana.com/s/post/1489/content_security_policy_adam_barth_video) from [@sfhtml5]()
-   - Architecting *scalable CSS*, [@csswizardry]()’s 45-min [talk](https://vimeo.com/67544231) from [@industryconf]()
- - Content
-   - A collection of *bugs and quirks in mobile devices*, [@scottjehl]()’s [repo](https://github.com/scottjehl/Device-Bugs) + list of [issues](https://github.com/scottjehl/Device-Bugs/issues)
-   - Statistics about how the *mobile web* is used today, [@karenmcgrane]()’s [post](http://karenmcgrane.com/2013/06/13/state-of-the-mobile-web-sources/)
- - Demos
-   - A set of cool *CSS animations* applied to a square, [@minimamente]()’s demo [page](http://www.minimamente.com/magic-css3-animations/) + [repo](https://github.com/miniMAC/magic) + my basic [demo](https://twitter.com/simevidas/status/346276830325665793)
-   - A set of cool *button styles* (effects on hover and click), [@crnacura]()’s demo [page](http://tympanus.net/Development/CreativeButtons/) + [post](http://tympanus.net/codrops/2013/06/13/creative-button-styles/)
-   - Nintendo 64 *logo in pure CSS*, [@AdamStorr]()’s [demo](http://codepen.io/adamstorr/pen/vIboj) (partially broken in Firefox)
- - Tools
-   - picnicc, an online tool for *creating custom builds* of popular JavaScript libraries, [site](https://picni.cc/)
-   - mensch, a *CSS parser* for Node.js, [repo](https://github.com/brettstimmerman/mensch)
-   - evilscan, an *IP/port scanner* for Node.js, [repo](https://github.com/eviltik/evilscan)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"

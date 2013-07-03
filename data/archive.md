@@ -1,3 +1,34 @@
+## June 14th, 2013
+
+ - News
+   - Chromium retires *Chrome Frame*, [post](http://blog.chromium.org/2013/06/retiring-chrome-frame.html) + [@slightlylate]()’s response [post](http://infrequently.org/2013/06/thoughts-on-a-job-done/)
+   - *Source maps* syntax changed, [post](http://updates.html5rocks.com/2013/06/sourceMappingURL-and-sourceURL-syntax-changed)
+   - New word: *prollyfill*; read about the “Extensible Web Community Group” [here](http://prollyfill.org/)
+ - FYI
+   - You can *pass an array of promises* to `$.when` like so: `$.when.apply($, promisesArr)`, [source](https://twitter.com/elijahmanor/status/345202501076791299) w/ demo
+ - Tutorials
+   - Case study: How the *“Racer” Chrome experiment* ([site](http://www.chrome.com/racer)) was built, [@active_theory]()’s [post](http://www.html5rocks.com/en/tutorials/casestudies/racer/)
+   - A *DRY approach to referencing DOM* from a Backbone view, [@pamelafox]()’s [post](http://blog.pamelafox.org/2013/06/referencing-dom-from-js-there-must-be.html) ![][*]
+ - Articles
+   - An issue when *using viewport units* in Safari (`height:100vh` broken?), [@ThatEmil]()’s [post](http://thatemil.com/blog/2013/06/13/viewport-relative-unit-strangeness-in-ios-6/) + [issue](https://github.com/scottjehl/Device-Bugs/issues/36)
+   - How browser vendors cross-reference their *commits and issue trackers*, [@ariyahidayat]()’s [post](http://ariya.ofilabs.com/2013/06/cross-reference-commit-message-and-issue-tracker.html) ![][*]
+   - An experimental *mobile-friendly TOC*, [@Paul_Kinlan]()’s [post](http://paul.kinlan.me/experiments-in-buildin-a-mobile-friendly-table-of-contents/) (comment [here](https://twitter.com/Paul_Kinlan/status/345240783856742400))
+ - Media
+   - Introduction to *Content Security Policy*, [@adambarth]()’s 34-min [talk](http://marakana.com/s/post/1489/content_security_policy_adam_barth_video) from [@sfhtml5]()
+   - Architecting *scalable CSS*, [@csswizardry]()’s 45-min [talk](https://vimeo.com/67544231) from [@industryconf]()
+ - Content
+   - A collection of *bugs and quirks in mobile devices*, [@scottjehl]()’s [repo](https://github.com/scottjehl/Device-Bugs) + list of [issues](https://github.com/scottjehl/Device-Bugs/issues)
+   - Statistics about how the *mobile web* is used today, [@karenmcgrane]()’s [post](http://karenmcgrane.com/2013/06/13/state-of-the-mobile-web-sources/)
+ - Demos
+   - A set of cool *CSS animations* applied to a square, [@minimamente]()’s demo [page](http://www.minimamente.com/magic-css3-animations/) + [repo](https://github.com/miniMAC/magic) + my basic [demo](https://twitter.com/simevidas/status/346276830325665793)
+   - A set of cool *button styles* (effects on hover and click), [@crnacura]()’s demo [page](http://tympanus.net/Development/CreativeButtons/) + [post](http://tympanus.net/codrops/2013/06/13/creative-button-styles/)
+   - Nintendo 64 *logo in pure CSS*, [@AdamStorr]()’s [demo](http://codepen.io/adamstorr/pen/vIboj) (partially broken in Firefox)
+ - Tools
+   - picnicc, an online tool for *creating custom builds* of popular JavaScript libraries, [site](https://picni.cc/)
+   - mensch, a *CSS parser* for Node.js, [repo](https://github.com/brettstimmerman/mensch)
+   - evilscan, an *IP/port scanner* for Node.js, [repo](https://github.com/eviltik/evilscan)
+
+
 ## June 13th, 2013
 
  - News
