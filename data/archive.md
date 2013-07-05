@@ -1,3 +1,42 @@
+## June 17th, 2013
+
+ - News
+   - Chrome to unprefix all *CSS Flexbox* related properties, [source](https://twitter.com/addyosmani/status/345552229371109376)
+   - Initial support for *ChromeDriver2* in Chrome for Android, [source](https://twitter.com/shs96c/status/346076897823821824)
+   - Mozilla launches the *Mozilla Science Lab*, [post](https://blog.mozilla.org/blog/2013/06/14/5992/)
+   - EU to end *mobile roaming charges* next year, Telegraph [article](http://www.telegraph.co.uk/finance/newsbysector/mediatechnologyandtelecoms/telecoms/10119159/EU-to-end-mobile-roaming-charges-next-year.html)
+ - FYI
+   - “XSS is the #1 security problem on the web… *Content Security Policy* is the fix”, [source](https://twitter.com/igrigorik/status/346337795666755584)
+   - Chrome’s DevTools now have *improved console message filtering*, [source](https://twitter.com/addyosmani/status/345947646537629698)
+ - Tutorials
+   - Performing common tasks with *native DOM API* (instead of jQuery), [@nzgb]()’s [post](http://blog.ponyfoo.com/2013/06/10/uncovering-the-native-dom-api) ![][*]
+   - Setting up an *automated front-end process* (Yeoman + Grunt tasks + inuit.css), [@_mattbailey]()’s [posts](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-4-css-framework/) (4)
+   - *Debugging WebGL* with Chrome’s “Canvas Inspection” feature, [@jerome_etienne]()’s [post](http://learningthreejs.com/blog/2013/04/05/debugging-with-chromes-canvas-inspection/) w/ screencast
+ - Articles
+   - Overview of *Safari’s new Web Inspector*, [@xeenon]()’s Surfin’ Safari [post](https://www.webkit.org/blog/2518/state-of-web-inspector/)
+   - Quick *introduction to Node.js* (+ “why you should learn it”), [@aaroncois]()’s [post](https://www.udemy.com/blog/learn-node-js/)
+   - Update on the recent progress in the *effort to standardize responsive images*, [@davatron5000]()’s [post](http://daverupert.com/2013/06/ughck-images/) ![][*]
+   - A summary of the recent *callbacks vs. promises debate* in Node.js, [@nzgb]()’s [post](http://blog.ponyfoo.com/2013/05/08/taming-asynchronous-javascript)
+   - How do browsers *indicate their busy states*?, [@souders]()’s test [results](http://www.stevesouders.com/blog/2013/06/16/browser-busy-indicators/) for 12 browsers
+ - Media
+   - Tips and tricks to *optimize a web app’s network usage*, [@neilj]()’s 29-min [@melbjs]() [talk](https://vimeo.com/68276455)
+ - Content
+   - Idea: Using *viewport units on `font-size`* for flexible fonts, [source](https://twitter.com/codepo8/status/346396215476379648)
+   - Idea: *Importing CSS* style sheets into *Google documents*, [source](https://twitter.com/simevidas/status/346428320717623296)
+ - Sites
+   - JSDB.io, a *database* of client-side JavaScript libraries, [jsdb.io](http://www.jsdb.io/)
+   - *AngularJS learning resources* (links to blog posts, videos, etc.), comprehensive [repo](https://github.com/jmcunningham/AngularJS-Learning)
+   - A list of *common code problems* solved with JavaScript, [repo](https://github.com/blakeembrey/code-problems)
+ - Tools
+   - Twitter Post Fetcher, *displays tweets on your site* w/o using the Twitter 1.1 API, [page](http://jasonmayes.com/projects/twitterApi/)
+   - CSS-Filters-Polyfill, a *polyfill for CSS Filters* (adds support to Firefox and IE), [repo](https://github.com/Schepp/CSS-Filters-Polyfill) ![][*]
+   - Instant Server, a free *temporary private virtual server*, [site](http://instantserver.io/)
+ - Demos
+   - A synthesizer created with the *Web Audio API*, [@stuartmemo]()’s [demo](http://stuartmemo.com/synth/) (view in Blink)
+   - A *web form* in the shape of a circle, [@kindofone]()’s [demo](http://codepen.io/kindofone/pen/slnGx)
+   - An blurry image with an *unblurrify-on-hover tool*, [@chriscoyier]()’s [demo](http://codepen.io/chriscoyier/pen/plkIJ) (view in Blink)
+
+
 ## June 14th, 2013
 
  - News
