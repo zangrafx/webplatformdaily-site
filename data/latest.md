@@ -1,270 +1,357 @@
 The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files). The README file of the repository also serves as a FAQ. Refer to it for information about this web-site.
- 
-## Sticky
 
- - **Dear publishers:** Every article should have an *easily digestible intro paragraph*. [tweet](https://twitter.com/simevidas/status/332853743676690435) ![][*]
- - Recommended *Twitter* feeds: [@remotesynth](), [@codepo8](), [@smashingmag]()
- - ![][>] *Google Developers* Live (live presentations) [link](https://developers.google.com/live/)
- - *Feeds* (w/ OMPL files) by [@paul_irish](): frontend [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend), standards+browsers [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-standards%2Bbrowsers), webapps [link](http://www.google.com/reader/bundle/user%2F11165870484951445324%2Fbundle%2Ffrontend-webapps)
+## July 5th, 2013 (**will be released on Saturday**)
 
-## May 30th, 2013
+ - 39 candidates selected, [screen](http://i.imgur.com/ZtXYGu6.png)
+
+## July 3rd, 2013
 
  - News
-   - The *`<subline>` element* (a HTML5 extension spec), [@stevefaulkner]()’s unofficial [draft](https://rawgithub.com/w3c/subline/master/index.html) + [post](http://lists.w3.org/Archives/Public/public-html/2013May/0173.html)
-   - Opera switching to a *fast release cycle* and will have 3 streams: Developer, Next, and Stable [post](http://my.opera.com/desktopteam/blog/opera-features-and-release-cycle)
-   - Blink to start *removing `-webkit-` prefixes* from CSS [post](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6DJaIAKD4qc/Z3rL2i7COZQJ)
-   - EFF makes formal objection to *DRM in HTML5* [post](https://www.eff.org/press/releases/eff-makes-formal-objection-drm-html5)
+   - *Opera 15* released, [@brucel]()’s [post](http://my.opera.com/ODIN/blog/2013/07/02/introducing-opera-15-for-desktop-and-a-fast-release-cycle) + CNET [coverage](http://news.cnet.com/8301-1023_3-57591913-93/opera-15-arrives-with-chromium-based-rapid-release-revamp/)
+   - Standards for *web Applications on mobile*: current state and roadmap, June [update](http://www.w3.org/2013/06/mobile-web-app-state/) ![][*]
+   - Last two weeks in *WebKit*: better events and new APIs, Surfin’ Safari [post](https://www.webkit.org/blog/2728/last-two-weeks-in-webkit-better-events-and-new-apis/)
+   - With Firefox OS, Mozilla takes on *the ‘closed’ internet*—again, ReadWrite [article](http://readwrite.com/2013/07/01/firefox-os-mozilla-takes-on-the-closed-internet-again)
  - FYI
-   - Be careful *using `localStorage` as cache*; its synchronous API blocks the render thread [tweet](https://twitter.com/addyosmani/status/339776418768629760)
-   - The *default language of JavaScript* is not statically scoped, my Stack Overflow [answer](http://stackoverflow.com/a/16823681/425275)
-   - On desktop, *Web Audio API* is already in Chrome, Safari, Opera and Firefox Nightly [tweet](https://twitter.com/cfjedimaster/status/339891063844126723)
+   - An [overview](http://operasoftware.github.io/upstreamtools/) of Opera’s upstreamed *Chromium/Blink commits* thus far ([via](https://twitter.com/andreasbovens/status/351974396371542016))
+   - Changes to IE’s *Pointer Events* implementation that are coming to IE11, MSDN [page](http://msdn.microsoft.com/en-us/library/ie/dn304886%28v=vs.85%29.aspx)
  - Tutorials
-   - Building a Firefox OS *game with in-app payments* using Mozilla’s WebPayment API, [@rdlauer]()’s [post](http://flippinawesome.org/2013/05/28/building-a-game-with-in-app-payments-for-firefox-os/)
-   - Creating a small platform *game with HTML5 Canvas*, [@jakesgordon]()’s [post](http://codeincomplete.com/posts/2013/5/27/tiny_platformer/)
-   - Tips for *optimizing Canvas/JavaScript games* for Firefox OS, [@louisstow]()/[@digitarald]()’s [post](https://hacks.mozilla.org/2013/05/optimizing-your-javascript-game-for-firefox-os/)
-   - Photoshop layer mask implemented with *CSS Custom Filters*, [@agreenblatt]()’s [post](http://blattchat.com/2013/05/28/photoshop-layer-mask-with-css-custom-filters/)
+   - Using CSS `font-size` and `em` units to easily *enlarge page components for mobile*, [@simurai]()’s [post](https://medium.com/p/8f433689736f)
+   - *Comparing your custom objects* with JavaScript’s built-in `.valueOf()` functionality, [@sidekicksrc]()’s [post](http://sidekicksrc.com/post/the-value-of-valueof/)
  - Articles
-   - The state Of *Responsive Web Design*, [@walterstephanie]()’s extensive [post](http://mobile.smashingmagazine.com/2013/05/29/the-state-of-responsive-web-design/) ![][*]
-   - How has Blink affected *Chrome’s WebGL implementation*?, [@Tojiro]()’s [post](http://blog.tojicode.com/2013/05/how-blink-has-affected-webgl.html)
+   - ECMAScript 6 *`let` and `const`* - short introduction and *current browser support*, [@dstorey]()’s [post](http://generatedcontent.org/post/54444832868/variables-and-constants-in-es6)
+   - Real world examples of *insecure implementations of “remember me”* on log-in forms, [@troyhunt]()’s [post](http://www.troyhunt.com/2013/07/how-to-build-and-how-not-to-build.html)
+   - *Firefox OS* - thoughts and some history, [@robertnyman]()’s [post](http://robertnyman.com/2013/07/02/the-launch-of-firefox-os-my-thoughts-and-some-history/)
+   - Information about the recently released *IE11 preview build*, [@dstorey]()’s [post](http://generatedcontent.org/post/53943518693/ie11preview1) + [@slicknet]()’s [post](http://www.nczonline.net/blog/2013/07/02/internet-explorer-11-dont-call-me-ie/) ![][*]
+   - Tips for making a 60fps *mobile web app* (website performance), [@aerotwist]()’s [post](http://aerotwist.com/blog/making-a-60fps-mobile-app/)
+ - Media
+   - JavaScript’s *strict mode* vs “YOLO mode”, [@glenmaddern]()’s 15-min [@webdirections]() [talk](https://www.youtube.com/watch?v=gq95_h-IrHo)
+   - “Depending on jQuery” (about *AMD and require.js*), [@SlexAxton]()’s 32-min [@jqcon]() [talk](https://www.youtube.com/watch?v=SpVE54WmHv0)
+   - *Managing third-party cookies* on the web, 45-min [@AirMozilla]() [discussion](https://air.mozilla.org/3rd-party-cookies/) w/ [@BrendanEich]() ![][*]
  - Content
-   - ![][>] [@BrendanEich ]() talks about the *future of JavaScript* in his 52-min [keynote](https://vimeo.com/66711027) from [@jquk]() 2013
-   - ![][>] *Data visualization*: architecting better charts, [@ireneros]()’s 14-min [talk](https://www.youtube.com/watch?v=TYgSc_S0lCw) from [@fluentconf]() 2013
-   - ![][>] JavaScript Jabber podcast #60: *Development environments*, [link](http://javascriptjabber.com/060-jsj-development-environments/) (59 min)
-   - *Sass style guide*, [@chriscoyier]()’s [post](http://css-tricks.com/sass-style-guide/) ![][*]
-   - A collection of 50 *CSS snippets*, [@jakerocheleau]()’s [post](http://www.hongkiat.com/blog/css-snippets-for-designers/)
-   - *Internet trends* 2013, [@kpcb]()’s 117-page [slides](http://www.slideshare.net/kleinerperkins/kpcb-internet-trends-2013) (lots of data)
-   - An introduction to *Web Audio API*, [@cwilso]()’s [slides](http://webaudiodemos.appspot.com/slides/index.html) (w/ demos)
- - Tools
-   - d3.chart, a framework for *creating reusable charts* [page](http://misoproject.com/d3-chart/) + [post](http://weblog.bocoup.com/introducing-d3-chart/)
-   - Facebook React, a JavaScript library for *building user interfaces* [page](http://facebook.github.io/react/) + [post](https://medium.com/make-your-own-apps/e71bcedc36b)
-   - metaframe, a tool for making *annotated responsive wireframes* [repo](https://github.com/elliance/metaframe) + [post](http://aha.elliance.com/2013/05/28/responsive-wireframes/) + [demo](http://metaframe.elliance.com/)
- - Opinion
-   - Should *open data standards* use an open license?, [@Hoedic]()’s [post](http://dataholic.ca/2013/05/24/should-standards-use-open-license/)
-
-## May 29th, 2013
-  
-   - News
-     - New W3C releases:
-       - 3rd WD of “*CSS Exclusions*” [TR](http://www.w3.org/TR/css3-exclusions/) + [diff](http://www.w3.org/TR/2013/WD-css3-exclusions-20130528/,diff) + [notes](http://www.w3.org/blog/CSS/2013/05/28/css-exclusions-draft-separation/) (added `wrap-flow: minimum`)
-       - 5th WD of “*CSS Regions*” [TR](http://www.w3.org/TR/css3-regions/) + [diff](http://www.w3.org/TR/2013/WD-css3-regions-20130528/,diff) + [notes](http://www.w3.org/blog/CSS/2013/05/28/css-regions-draft-updated/) (many improvements to the CSSOM section)
-       - 2nd WD of “*Filter Effects*” [TR](http://www.w3.org/TR/filter-effects/) + [notes](http://www.w3.org/blog/CSS/2013/05/28/filter-effects-1-0-draft-updated/) (diff is broken but [@dontcallmeDOM]() will fix it `:)`)
-     - Desktop-version of *Chromium-based Opera* (“Opera Next”) released, [notes](http://my.opera.com/ODIN/blog/2013/05/28/a-first-peek-at-opera-15-for-computers) + report bugs [here](https://bugs.opera.com/wizard/)
-     - *Content Security Policy* 1.0 lands in Firefox Aurora, [post](https://hacks.mozilla.org/2013/05/content-security-policy-1-0-lands-in-firefox-aurora/)
-     - *Foxconn joining Firefox OS* alliance as it tries to compensate for Apple slowdown, Verge [article](http://www.theverge.com/2013/5/27/4370750/foxconn-joining-firefox-os-alliance-as-manufacturer-tries-to)
-     - Noise-canceling tech could lead to Internet connections *400 times faster than Google Fiber*, VB [article](http://venturebeat.com/2013/05/27/noise-canceling-tech-could-lead-to-internet-connections-400x-faster-than-google-fiber/)
-   - FYI
-     - The 3-bar menu icon, *☰*, is available as a Unicode character [tweet](https://twitter.com/SebAshton/status/338940947909967873)
-     - Firefox still leads in *ECMAScript 6* support [tweet](https://twitter.com/kangax/status/339401889353437186)
-     - Which sites use *Web Notifications*?, [twitter](https://twitter.com/miketaylr/status/339013607570411520) discussion
-   - Tutorials
-     - Using *HTML5 `rel="prerender"`* to speed up a multi-page registration process, [@adrianholovaty]()’s [post](http://www.holovaty.com/writing/prerendering/)
-     - Exploring reusability: *reusable charts* with D3.js (best practices), [@JugglinMike]()’s [post](http://weblog.bocoup.com/reusability-with-d3/)
-     - Four-part tutorial series on *Ember.js* by [@reybango]() [link](http://blog.reybango.com/2013/05/29/interested-in-ember-js-check-out-my-tutorial-series/)
-     - Fixing *HTTP referrers in HTTPS*: the meta referrer, [@Smerity]()’s [post](http://smerity.com/articles/2013/where_did_all_the_http_referrers_go.html)
-     - Chrome DevTools docs: *Evaluating network performance* [link](https://developers.google.com/chrome-developer-tools/docs/network)
-   - Articles
-     - Should sending `XMLHttpRequest`s *without `Origin:` and `Referer:` headers* be allowed?, [@hallvord]()’s [post](http://my.opera.com/hallvors/blog/2013/05/27/should-js-be-able-to-send-xmlhttprequest-without-origin-and-referer-headers)
-     - What’s the point of *packaged web apps*?, [@ppk]() explains in his [post](http://www.quirksmode.org/blog/archives/2013/05/the_point_of_pa.html)
-     - Easier testing with *Open Device Labs* (+ creating your own ODL), [@helloanselm]()’s [post](http://www.smashingmagazine.com/author/anselm-hannemann/)
-     - How patents are ruining the adoption of *HTML5 `<video>`*, [@vu0tran]()’s [post](http://blog.framebase.io/post/51231726236/how-patents-are-ruining-the-adoption-of-html5-video)
-     - [@aerotwist]()’s *reflections on performance* at Google I/O, [post](http://aerotwist.com/blog/reflections-on-performance-at-google-io/)
-     - [@MarcoZehe]()’s extensive [recap](http://www.marcozehe.de/2013/05/28/recap-of-beyond-tellerrand-2013/) of *[@btconf]() 2013* + [@jancbeck]()’s talk [notes](http://jancbeck.com/articles/beyond-tellerrand-2013/) ![][*]
-     - 6 considerations and tips for *creating HTML5 apps* (i.a. packaged or hosted), [@davidwalshblog]()’s [post](http://tech.pro/blog/1301/6-considerations-and-tips-for-creating-html5-apps)
-   - Content
-     - ![][>] “*HTML5 Video* in the Open Web Platform”, [@plhw3org]()’s 42-min [talk](https://www.youtube.com/watch?v=SnKpdhC5Ras) from [@html5devconf]() ![][*]
-     - ![][>] Fixing the *mobile web*, [@codepo8]()’s 47-min [keynote](https://www.youtube.com/watch?v=5D7_3Y1TCjk) at [@btconf]() 2013
-     - “*Web Performance* Crash Course”, [@igrigorik]()’s extensive [slides](http://www.igvita.com/slides/2013/fluent-perfcourse.pdf) (PDF) from [@fluentconf]() 2013
-     - Awesome looking *popup links*, [@chriscoyier]()’s codepen [demo](http://codepen.io/chriscoyier/pen/Fjguy)
-     - Setting up *multiple build-targets* with Grunt, [twitter](https://twitter.com/addyosmani/status/339377857585373185) discussion
-   - Tools
-     - Pure, a set of small, *responsive CSS modules* [page](http://purecss.io/)
-     - imagesLoaded, a JavaScript library for *detecting when images have loaded* [page](http://desandro.github.io/imagesloaded/)
-     - svg.js, a lightweight library for *manipulating and animating SVG* [page](http://svgjs.com/)
-   - Opinion
-     - “*Internet fragmentation* is a ‘law of history’”, He Baohong’s [post](http://www.internetgovernance.org/2013/05/25/internet-fragmentation-is-a-law-of-history/)
-     - “On the politics, *cargo-culting*, and maintainability of JavaScript”, [@slicknet]()’s [post](http://www.nczonline.net/blog/2013/05/28/on-the-politics-cargo-culting-and-maintainability-of-javascript/)
-
-## May 27th, 2013
-
- - News
-   - ![][&] *HTML 5.1 spec*: Spaghetti Monster example replaced with Crocoduck [tweet](https://twitter.com/stevefaulkner/status/337879140625686528)
-   - *Presto-based Opera Mobile* re-uploaded to Play Store as “Opera Mobile Classic” [page](https://play.google.com/store/apps/details?id=com.opera.browser.classic)
-   - *jQuery* 1.10.0 and 2.0.1 released, [release notes](http://blog.jquery.com/2013/05/24/jquery-1-10-0-and-2-0-1-released/)
-   - “Report: Google considering Internet balloons to *connect sub-Saharan Africa*”, Ars Technica [article](http://arstechnica.com/business/2013/05/report-google-considering-internet-balloons-to-connect-sub-saharan-africa/)
- - FYI
-   - Microsoft is doing a 3-question survey on *dev tools* usage [tweet](https://twitter.com/IEDevChat/status/338041433065930753)
-   - *CSS anomaly*: The `<body>` background only floods the viewport if no `<html>` background is defined [post](http://css-tricks.com/just-one-of-those-weird-things-about-css-background-on-body/)
-   - “`about:about`” gives you a *list of all `about:` pages* in your Firefox and Chrome browser
-   - *Accessibility tip*: Hashtags in camel case are read as separate words in screen readers [tweet](https://twitter.com/heydonworks/status/338646556490231808)
- - Tutorials
-   - *Promises and deferreds* in JavaScript (theory + usage examples), [@cwebbdesign]()’s [post1](http://blog.mediumequalsmessage.com/promise-deferred-objects-in-javascript-pt1-theory-and-semantics) & [post2](http://blog.mediumequalsmessage.com/promise-deferred-objects-in-javascript-pt2-practical-use) ![][*]
-   - 5 *HTML5 features* you need to know (i.a. DNS prefetching, `download` attr.), [@AdnaneBelmadiaf]()’s [post](http://daker.me/2013/05/5-html5-features-you-need-to-know.html)
-   - *Testing JavaScript headless* with QUnit and PhantomJS, [@stylight_eng]()’s [post](http://www.stylight.com/Numbers/testing-javascript-headless-with-qunit-and-phantomjs/)
-   - *Dependency injection* with AngularJS, [@alex_young]()’s [post](http://dailyjs.com/2013/05/23/angularjs-injection/)
- - Articles
-   - Making the *Chromebook Pixel* more suitable for web development, [@ariyahidayat]()’s [post](http://ariya.ofilabs.com/2013/05/chromebook-pixel-for-web-development.html)
-   - Determining the *ideal line length* in `em`s, [@russmaxdesign]()’s [post](http://www.maxdesign.com.au/2013/05/25/ideal-line-length-in-ems/)
-   - *CPU core estimation* with JavaScript, [@eboyjr]()’s [post](http://blog.wg.oftn.org/post/51125082905/core-estimator) (w/ live demo)
- - Content
-   - ![][>] *Mobile performance* from the radio up: Battery, latency…, [@igrigorik]()’s 54-min [talk](https://developers.google.com/events/io/sessions/327864330) from IO ’13
-   - ![][>] Seeing the world through *high DPI*, [@petele]()’s 39-min [talk](https://developers.google.com/events/io/sessions/350992350) from IO ’13
-   - ![][>] Build podcast #44: Event-driven, non-blocking I/O model with *Node.js*, [@sayanee_]()’s 30-min [screencast](http://build-podcast.com/node/)
-   - A huge set of free *storyboard illustrations* [page](http://dribbble.com/shots/1083617-430-FREE-storyboard-illustrations)
+   - A [discussion](http://html5doctor.com/the-main-element/#comment-35839) about the *HTML `<main>` element* between [@stevefaulkner]() and [@Hixie]()
+   - Is an *accessible mobile web* actually possible on today’s devices?, [discussion](https://twitter.com/rem/status/352011876470759425) on Twitter
+ - Demos
+   - Collection of optical illusions, [page](http://codepen.io/collection/Ilnuh/) on Codepen
  - Sites
-   - datalist experiment, a test case for *`<datalist>`* combined with several `<input>` types [page](http://demo.agektmr.com/datalist/) ![][*]
+   - Big JS-Compatibility-Table, information about *API support* in various web browsers, [@tobiasbu]()’s [site](http://compatibility.shwups-cms.ch/)
  - Tools
-   - Montage, *an HTML5 framework* for building modern web apps [page](http://montagejs.org/)
-   - *Visualising CSS* selector matches [page](http://css.benjaminbenben.com/) (view in Chrome) ![][*]
-   - JSON Editor Online, an online tool for *editing JSON via a treeview* [page](http://jsoneditoronline.org/)
-   - Cytoscape.js, a JavaScript library for *graph analysis and visualization* [page](http://cytoscape.github.io/cytoscape.js/)
+   - jquery.pop.js, a lightweight jQuery plugin for *kinetic drag* on mobile/desktop, [page](http://pep.briangonzalez.org/) w/ demo
+   - lazyload, a library for *lazy loading images* and other page elements, [repo](https://github.com/vvo/lazyload)
  - Opinion
-   - “JavaScript is *Web Assembly Language* and that's OK”, [@shanselman]()’s [post](http://www.hanselman.com/blog/JavaScriptIsWebAssemblyLanguageAndThatsOK.aspx)
+   - IE11: please bring “real *script preloading*” back,  [@getify]()’s [post](http://blog.getify.com/ie11-please-bring-real-script-preloading-back/)
 
-## May 24th, 2013
+## July 2nd, 2013
 
  - News
-   - ![][&] New W3C releases:
-     - **Last Call** of “*Vibration API*” [TR](http://www.w3.org/TR/vibration/) + [diff](http://www.w3.org/TR/2013/WD-vibration-20130523/,diff) (comments: through 13 June)
-     - Group Note of “*Web Intents*” [TR](http://www.w3.org/TR/web-intents/) + [diff](http://www.w3.org/TR/2013/NOTE-web-intents-20130523/,diff)  (no longer a working draft)
-     - 2nd WD of “*User Interface Security Directives for Content Security Policy*” [TR](http://www.w3.org/TR/UISecurity/) + [diff](http://www.w3.org/TR/2013/WD-UISecurity-20130523/,diff)
-   - *CSS Box Alignment* 2nd WD release [notes](http://www.w3.org/blog/CSS/2013/05/24/css3-alig-update/) (posted with delay)
-   - *Canvas Blending* is now in Chrome Canary, WebKit Nightly and Firefox [post](http://blogs.adobe.com/webplatform/2013/05/20/canvas-blending-is-now-in-chrome-canary-safari-and-firefox/)
-   - *DOM Futures* support coming to Blink [post](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9q5kP0eMQc8/Gy6M9nFHjuoJ)
-   - Google abandons *open standards* for instant messaging, [@EFF]()’s [article](https://www.eff.org/deeplinks/2013/05/google-abandons-open-standards-instant-messaging)
-   - Google introduces *Portable Native Client* (enables adding C/C++ code to web apps), TechCrunch [article](http://techcrunch.com/2013/05/17/google-introduces-portable-native-client-makes-it-easier-for-developers-to-add-c-and-c-code-to-their-web-apps/)
+   - Google experimenting with QUIC, a network protocol aimed to *reduce the number of round trips*, [post](http://blog.chromium.org/2013/06/experimenting-with-quic.html)
+   - Firefox Nightly: Improved *SVG text* support, [post](http://mcc.id.au/blog/2013/07/firefox-svg-text-improvements), *`<iframe srcdoc>`*, [source](https://twitter.com/FirefoxNightly/status/351632554908073984), new dev tools features, [post](https://hacks.mozilla.org/2013/07/new-features-in-firefox-developer-tools-episode-24/)
+   - Effeckt.css, a proposed CSS library of *performant transitions and animations* for mobile, [discussion](https://github.com/h5bp/lazyweb-requests/issues/122)
+   - Mozilla and partners prepare to launch *first Firefox OS smartphones*, Mozilla press [release](https://blog.mozilla.org/press/2013/07/mozilla-and-partners-prepare-to-launch-first-firefox-os-smartphones/)
+   - Firefox wins latest “*Web Browser Grand Prix*” on Tom’s Hardware, 12-page [review](http://www.tomshardware.com/reviews/chrome-27-firefox-21-opera-next,3534-12.html)
  - FYI
-   - The short history of the *`about:` URL* [post](http://www.montulli.org/lou/about_urls)
-   - AngularJS and Ember.js have expressed plans to support *Web Components* [post](http://www.2ality.com/2013/05/web-components-angular-ember.html)
-   - There are over 70 *Yeoman generators* available on npm [tweet](https://twitter.com/addyosmani/status/337551686723846144)
+   - The *median website has 13 scripts* (5 from own host + 8 from other hosts), [source](http://bigqueri.es/t/how-are-javascript-files-being-served-and-how-many-are-there/36)
+   - In Chrome, `chrome:net-internals` gives you a dump of the *network stack’s internal state*, [source](https://twitter.com/addyosmani/status/351848621970427905) ![][*]
  - Tutorials
-   - A modular and flexible *alternative to the `switch` statement* in JavaScript, [@Encosia]()’s [post](http://encosia.com/first-class-functions-as-an-alternative-to-javascripts-switch-statement/)
+   - *Adding custom CSS selectors* to your style sheets with Hitch.js, [@briankardell]()’s [post](http://css-tricks.com/an-intro-to-hitch-js-and-the-extensible-web/)
+   - *Dynamically adding CSS rules* and creating new style sheets with CSSOM APIs, [@davidwalshblog]()’s [post](http://davidwalsh.name/add-rules-stylesheets)
+   - Patterns for *asynchronous operations* in JavaScript (callbacks, promises,…), [@ifandelse]()’s extensive [post](http://tech.pro/blog/1402/five-patterns-to-help-you-tame-asynchronous-javascript)
+   - *Concurrency in JavaScript* with Web Workers, [@thibault_imbert]()’s extensive [post](http://typedarray.org/concurrency-in-javascript/)
  - Articles
-   - *Case study*: Building the new Financial Times web app, [@wilsonpage]()’s [post](http://coding.smashingmagazine.com/2013/05/23/building-the-new-financial-times-web-app/) (extensive)
-   - About JavaScript’s *event loop*, [@tlhunter]()’s [post](http://thomashunter.name/blog/the-javascript-event-loop-presentation/)
-   - Working on a large *AngularJS project*, [@jhooks]()’s [post](http://joelhooks.com/blog/2013/05/22/lessons-learned-kicking-off-an-angularjs-project/) in which he shares his experiences
- - Content
-   - ![][>] Introduction to *Modernizr*, [@chriscoyier]()’s 24-min [screencast](http://css-tricks.com/video-screencasts/126-using-modernizr/) ![][*]
-   - *HTML5 Canvas*: counting pixels of a certain color + finding the color at a position `x` and `y`, live [demo](http://jsbin.com/ojiwan/3/edit)
-   - *Checkboxes* that look like lightsabers from Star Wars in pure CSS, [demo](http://scotch.io/demos/pure-css3-star-wars-lightsaber-checkboxes) page ![][*]
+   - About the new *Web Animations* API and why it’s important, [@jaffathecake]()’s extensive [post](http://coding.smashingmagazine.com/2013/03/04/animating-web-gonna-need-bigger-api/) ![][*]
+   - On *using more CSS classes* in your HTML code, [@csswizardry]()’s [post](http://csswizardry.com/2012/10/a-classless-class-on-using-more-classes-in-your-html/)
+   - Thoughts on better *code organization in Sass*, [@vangogh]()’s [post](http://www.vanseodesign.com/css/variable-organization-in-sass/)
+ - Media
+   - *Panel discussion* with [@rem](), [@wilto](), [@jaffathecake]() and [@torgo]() at [@mobilismconf](), 54-min [video](http://vimeopro.com/mirabeaunl/mobilism-2013/video/69386528) ![][*]
+   - Front-end development in *Node.js* (Express + Jade + Stylus), [@rockbot]()’s 34-min [@jqcon]() [talk](https://www.youtube.com/watch?v=icNHLlRazds)
+ - Demos
+   - A *responsive grid of icons*, [@crnacura]()’s [demo](http://tympanus.net/Blueprints/ResponsiveIconGrid/)
  - Sites
-   - Embercasts, free screencasts for learning *Ember.js* [embercasts.com](http://www.embercasts.com/)
+   - Native form elements, lists all the different *HTML5 form elements* (for testing), [site](http://nativeformelements.com/)
  - Tools
-   - Stylify Me, an online tool that *generates a style guide* of your web site [page](http://stylifyme.com/) ![][*]
-   - WideArea, a JavaScript library that *adds fullscreen capabilities* to your `<textarea>` elements [page](http://usablica.github.io/widearea/)
-   - Firefox OS Boilerplate App, a boilerplate for *getting started with apps for Firefox OS* [repo](https://github.com/robnyman/Firefox-OS-Boilerplate-App)
-   - -prefix-free, a script that *adds the current browser’s prefix* to any CSS code [page](http://leaverou.github.io/prefixfree/)
- - Opinion
-   - “The APIs surrounding *`contenteditable`* are so bad it’s insulting”, [@cjno]()’s [tweet](https://twitter.com/cjno/status/337862204613357568)
+   - Communist, a *library for Web Workers*, [page](http://communistjs.com/) + blog [post](http://cwmma.tumblr.com/post/54338607071/making-web-workers-with-communistjs) w/ usage example
+   - Aristochart, a highly customizable and flexible *line charting library* for `<canvas>`, [page](http://dunxrion.github.io/aristochart/)
+   - console.snapshot, outputs a *`<canvas>` snapshot* to the console, [page](http://dunxrion.github.io/console.snapshot/)
 
-## May 23rd, 2013
+## July 1st, 2013
 
  - News
-   - ![][&] The *Fetch Standard* (supersedes CORS and the fetch algo from HTML5), [@annevk]()’s ELI5 [post](http://annevankesteren.nl/2013/05/fetching-urls) ![][*]
-   - *Responsive images*, [@brucel]()’s interim [report](http://www.brucelawson.co.uk/2013/responsive-images-intrerim-report/)
-   - New features in *Chrome 27* (recently released) [post](http://www.sitepoint.com/chrome-27-whats-new/) + `Accept-Charset` HTTP header removed [tweet](https://twitter.com/hsivonen/status/337165108646133760) 
-   - *DevTools Workspaces* ([?](https://www.youtube.com/watch?v=kVSo4buDAEE&feature=youtu.be&t=47s)) landed in Chrome Canary [tweet](https://twitter.com/ChromiumDev/status/337308972858089474)
-   - Initial support for *WebVTT* coming to Firefox Nightly [tweet](https://twitter.com/humphd/status/337388858654224384)
-   - Mozilla can produce *near-native performance* on the Web, Ars Technica [article](http://arstechnica.com/information-technology/2013/05/native-level-performance-on-the-web-a-brief-examination-of-asm-js/)
-   - Microsoft teases *Internet Explorer 11* WebGL support, Verge [article](http://www.theverge.com/2013/5/22/4355942/internet-explorer-11-webgl-support-teased-on-vine)
+   - The HTML *`<template>` element* added to the HTML WHATWG spec, [source](https://twitter.com/mathias/status/350887551613140993)
+   - Modernizer Test Suite *results in IE11* (preview build), [screen shot](https://twitter.com/elijahmanor/status/351164885100556288)
+   - Initial *Web MIDI API* support in Chrome Canary, [source](https://plus.google.com/app/basic/stream/z12gwvgzxoatx1haq04cipfxekn3s1pi3qg0k)
+   - Firefox 24 supports the *CSS `@font-feature-values`* at-rule, [source](https://twitter.com/FirefoxNightly/status/349890351395389440)
+   - “Reject *DRM* and you risk walling off parts of the web, says W3C chief”, ZDNet [article](http://www.zdnet.com/reject-drm-and-you-risk-walling-off-parts-of-the-web-says-w3c-chief-7000017388/)
  - FYI
-   - List of *Chrome sessions* from Google’s IO 2013 [playlist](https://www.youtube.com/playlist?list=PLg5dRHeDFEAWKN4weNJYDrC533aCVX7ME) (30 videos)
-   - *AngularJS* is performing “spring cleaning” on GitHub [post](http://gigaom.com/2013/05/22/how-google-plans-to-rule-the-computing-world-through-chrome/)
+   - The *HTML `<main>` element* will supersede the ARIA `role=main` attribute value, [source](https://twitter.com/brucel/status/349825765564616708)
  - Tutorials
-   - Designing layouts has become easy with *CSS Flexbox*, [@dstorey]()’s [post](http://coding.smashingmagazine.com/2013/05/22/centering-elements-with-flexbox/) ![][*]
-   - Creating a *natural language form* with custom input elements, [@crnacura]()’s [post](http://tympanus.net/codrops/2013/05/21/natural-language-form-with-custom-input-elements/) + [demo](http://tympanus.net/Tutorials/NaturalLanguageForm/) page
-   - Providing *quasi scope in CSS* with BEM, [@csswizardry]()’s [post](http://csswizardry.com/2013/05/scope-in-css/)
-   - *Animating CSS pseudo-elements* to create stunning effects, [@marco_bf]()’s [post](http://tympanus.net/codrops/2013/05/22/examples-of-pseudo-elements-animations-and-transitions/) + [demos](http://tympanus.net/Development/PseudoElementsAnimationsTransitions/) page
-   - Example of using the `content` property and *`attr()` function* together in CSS, [@davidwalshblog]()’s [post](http://davidwalsh.name/css-content-attr)
-   - *CSS media queries* - a handy cheat sheet (logic + patterns), [@chriscoyier]()’s [post](http://css-tricks.com/logic-in-media-queries/) 
+   - Setting custom *aspect ratios on `<div>` elements* with pure CSS, [@MadeMyDay]()’s [post](http://www.mademyday.de/css-height-equals-width-with-pure-css.html) ![][*]
+   - *Converting an image to a `<canvas>`* and vice versa with a few lines of JavaScript, [@davidwalshblog]()’s [post](http://davidwalsh.name/convert-canvas-image)
+   - Creating an *expanding search field* (compatible with mobile and IE8), [@crnacura]()’s extensive [post](http://tympanus.net/codrops/2013/06/26/expanding-search-bar-deconstructed/)
+   - Building a *web app for Firefox OS*, [@addyosmani]()’s extensive [post](http://thenittygritty.co/ffos-apps)
  - Articles
-   - Introduction to *Web Components* (quick overview), [@cfjedimaster]()’s [post](http://www.raymondcamden.com/index.cfm/2013/5/22/The-Future-of-the-Web) ![][*]
-   - Choosing between HTML/CSS, SVG, Canvas and WebGL for *visualizations*, [@kissane]()’s [post](http://source.mozillaopennews.org/en-US/articles/twitters-miguel-rios-choosing-viz-methods/)
-   - Inadvertent sharing of variables via *closures in JavaScript*, [@rauschma]()’s [post](http://www.2ality.com/2013/05/quirk-closures.html)
+   - How *web browsers perform antialiasing* (grayscale vs subpixel), [@aerotwist]()’s [post](http://www.html5rocks.com/en/tutorials/internals/antialiasing-101/)
+   - *Mobile web problems* and how to avoid them, [@brad_frost]()’s extensive [post](http://bradfrostweb.com/blog/post/mobile-web-problems/) ![][*]
+   - Optimizing CSS3 for *GPU compositing*, [@ariyahidayat]()’s [post](http://ariya.ofilabs.com/2013/06/optimizing-css3-for-gpu-compositing.html)
+   - An introduction to *JavaScript source maps*, [@ryanseddon]()’s [post](http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/) (recently updated)
+ - Media
+   - The state and future of *CSS Selectors and Selectors API*, [@timmywil]()’s 35-min [@jqcon]() [talk](https://www.youtube.com/watch?v=KTDsCB7ujXU)
+   - “Topic Undefined” #1: [@cfjedimaster]() and [@remotesynth]() discuss *web dev links and news*, 28-min [podcast](http://flippinawesome.org/topic-undefined/topic-undefined-episode-1/)
  - Content
-   - ![][>] The modern workflow for *developing the mobile web*, [@gauntface]()’s 31-min [talk](https://developers.google.com/events/io/sessions/324558168) from IO ’13
-   - ![][>] *Compositing* in Blink and WebKit (browser internals), a 51-min [video](https://www.youtube.com/watch?v=Lpk1dYdo62o) presentation
+   - A small page for *testing `<viewport>` on mobile* (`initial-scale=1.0` vs `width=device-width`), [page](http://snugug.github.io/viewport-test/index.html) ([via](https://twitter.com/Snugug/status/351439464867962880))
+ - Demos
+   - A simple shredding machine with pure CSS, [demo](http://inserthtml.com/demo/shredder/)
+   - A cool *3D model in WebGL* (w/ controls), [demo](http://www.clicktorelease.com/code/cross-hatching/)
+   - Using CSS animations to *apply different styles after `X` seconds*, [post](http://stackoverflow.com/a/17321098/425275) w/ demo
  - Sites
-   - Front-end Rescue, *keeping up to date* with front-end technologies [page](http://uptodate.frontendrescue.org/)
+   - “This Is Responsive”, patterns, resources and news for *creating responsive web experiences*, [site](http://bradfrost.github.io/this-is-responsive/)
+   - DevDocs, consolidates *MDN and jQuery documentation* into a clear, uniform design, [site](http://devdocs.io/) (additional [info](https://twitter.com/simevidas/status/351516727064006656))
  - Tools
-   - Icenium, a set of cloud-based tools for *developing cross-platform mobile apps* [page](http://www.icenium.com/) + [comparison](http://www.icenium.com/blog/icenium-team-blog/2013/05/01/what%27s-the-difference-between-icenium-and-phonegap-build-)
-   - Picksum Ipsum, a funny *“Lorem ipsum” text generator* [page](http://www.picksumipsum.co.uk/)
-   - Two handy helper functions for *HTML5 Canvas* development [gist](https://gist.github.com/codepo8/5631638)
+   - ADB Plugin, a Chrome extension for *remote debugging for mobile*, [repo](https://github.com/GoogleChrome/ADBPlugin) + install [page](https://chrome.google.com/webstore/detail/adb/dpngiggdglpdnjdoaefidgiigpemgage)
+   - tracking.js, a library for *tracking colors, humans*, etc. in the video stream of the device’s camera, [site](http://www.trackingjs.com/)
+   - CSSRegions.js, Adobe’s experimental *polyfill for CSS Regions*, [page](http://adobe-webplatform.github.io/css-regions-polyfill/)
+   - querystringvalues.js, a DevTools snippet that prints a *table of query string values*, [post](http://bgrins.github.io/devtools-snippets/#querystringvalues)
  - Opinion
-   - “Stop publishing *JavaScript API design articles* centered around jQuery plugins” [tweet](https://twitter.com/slicknet/status/337224283967336450)
-   - How *Google* plans to rule the computing world through Chrome, [@KevinCTofel]()’s [post](http://gigaom.com/2013/05/22/how-google-plans-to-rule-the-computing-world-through-chrome/)
+   - “The war for the *free and open internet* — and how we are losing it”, [@SuePGardner]()’s [post](http://suegardner.org/2013/06/26/the-war-for-the-free-and-open-internet-and-how-we-are-losing-it/) ![][*]
 
-## May 22nd, 2013
+## June 26th, 2013
 
  - News
-   - *Open licensing* at the W3C, [@davidbaron]()’s [post](http://dbaron.org/log/20130522-w3c-licensing) + [discussion](https://twitter.com/davidbaron/status/337024909874184193) on Twitter
-   - *Web Performance APIs* rapidly become W3C recommendations, IEblog [post](http://blogs.msdn.com/b/ie/archive/2013/05/21/web-performance-apis-rapidly-become-w3c-recommendations.aspx)
- - FYI
-   - ![][>] [@chriscoyier]() made screencasts for his “*Modern web dev workflow*” and “*Staying up to date*” talks [tweet](https://twitter.com/chriscoyier/status/336826654204755969)
-   - Coverage of *[@mobilismconf]() 2013*: slides, blog posts (videos coming soon) [post](http://mobilism.nl/2013/coverage)
-   - [@domenic]() proposes *JSHint* rule for disallowing ECMAScript’s “Annex B API” [github](https://github.com/jshint/jshint/issues/1092)
+   - New W3C releases:
+     - **New:** 1st WD of “*Web Animations*”, [TR](http://www.w3.org/TR/web-animations/)
+     - 2nd WD of “*Compositing and Blending*”, [TR](http://www.w3.org/TR/compositing-1/) + [diff](http://www.w3.org/TR/2013/WD-compositing-1-20130625/,diff)
+     - 3rd WD of “*Web Cryptography API*”, [TR](http://www.w3.org/TR/WebCryptoAPI/) + [diff](http://www.w3.org/TR/2013/WD-WebCryptoAPI-20130625/)
+   - *IE11 for Windows 8.1* brings WebGL, SPDY/3, new dev tools, …, [article](http://microsoft-news.com/webgl-spdy3-new-dev-tools-more-confirmed-for-ie11-in-win-8-1/) w/ screens
+   - An overview of the *WebRTC implementation* in Firefox 22, Mozilla Hacks [article](https://hacks.mozilla.org/2013/06/webrtc-comes-to-firefox/)
  - Tutorials
-   - Writing testable JavaScript (*better code organization* for easier unit tests), [@rmurphey]()’s [post](http://alistapart.com/article/writing-testable-javascript) ![][*]
-   - Guidelines for writing *reusable and extensible JavaScript*, [@acolangelo]()’s [post](http://alistapart.com/article/the-design-of-code-organizing-javascript)
-   - Making a web site *ready for Retina* displays, [@allanberger]()’s [post](http://net.tutsplus.com/tutorials/html-css-techniques/the-right-way-to-retinafy-your-websites/)
+   - Creating impressive *modal window effects* w/ CSS transforms, [@crnacura]()’s [post](http://tympanus.net/codrops/2013/06/25/nifty-modal-window-effects/) + [demo](http://tympanus.net/Development/ModalWindowEffects/) page ![][*]
+   - Loading web pages *without third-party resources* for testing, [@ariyahidayat]()’s [post](http://ariya.ofilabs.com/2013/06/web-page-without-external-resources.html)
+   - Creating a *simple flipping animation* with CSS transforms, [@davidwalshblog]()’s [post](http://davidwalsh.name/css-flip)
+   - Using the *ES6 module syntax* and transpiling to ES5 with a Grunt task, [@thomasABoyt]()’s [post](http://www.thomasboyt.com/2013/06/21/es6-module-transpiler)
+   - A short guide to the new *HTML5 `<main>` element*, [@Rich_Clark]()’s [post](http://html5doctor.com/the-main-element/)
  - Articles
-   - *Usability guidelines* for mobile commerce (based on large-scale usability study), [@KiehnHolst]()’s [post](http://uxdesign.smashingmagazine.com/2013/05/21/recommendations-mobile-commerce-websites/)
-   - How *GitHub* is used inside companies (based on survey), [@slicknet]()’s [post](http://www.nczonline.net/blog/2013/05/21/github-workflows-inside-of-a-company/)
-   - Extending the web forward, [@wycats]()’s [post](http://yehudakatz.com/2013/05/21/extend-the-web-forward/)
+   - Improving the *web development workflow*, [@auchenberg]()’s extensive [post](http://blog.kenneth.io/blog/2013/05/21/our-web-development-workflow-is-completely-broken/) ![][*]
+   - The *implications of seamless IFRAMEs* (`<iframe seamless>`), [@triblondon]()’s [post](http://labs.ft.com/2013/01/seamless-iframes-not-quite-seamless/)
+   - An extensive guide to *URL encoding*, [@UnFroMage]()’s [post](http://blog.lunatech.com/2009/02/03/what-every-web-developer-must-know-about-url-encoding)
+   - asm.js (in latest Firefox) brings *full native applications* to the Web, [@sieth_mysix]()’s [post](https://blog.mozilla.org/mbest/2013/06/25/asm-js-its-really-fast-backwards-compatible-and-now-in-the-release-version-of-firefox/)
+   - A short “getting started” guide to *writing reftests*,  [@boblet]()’s [post](http://the-pastry-box-project.net/oli-studholme/2013-june-26/)
+   - *Web Animations* - what they are and how they came about, [post](http://brian.sol1.net/svg/2013/06/26/introducing-web-animations/) ![][*]
+ - Media
+   - Developing *mobile web apps with Yeoman*, live-reload,… , [@gauntface]()’s 25-min GDL [presentation](https://www.youtube.com/watch?v=Q_Ud7Q2F0F8)
+   - Responsible *responsive images*, [@wilto]()’s 45-min [@mobilismconf]() [talk](https://twitter.com/simevidas/status/350777133125222400) ![][*] **WATCH THIS**
  - Content
-   - ![][>] “A More *Awesome Web*: Features You've Always Wanted”, [@ebidel]()’s 35-min [talk](https://developers.google.com/events/io/sessions/324706714) from IO ’13 + [slidedeck](http://www.moreawesomeweb.com/#1)
-   - ![][>] Real-time communication with *WebRTC*, [@juberti]()/[@sw12]()’s 44-min [talk](https://developers.google.com/events/io/sessions/326336563) from IO ’13 
-   - ![][>] Shop Talk *podcast* Ep. 69 with [@miketaylr]() from Opera [59min] [page](http://shoptalkshow.com/episodes/069-with-mike-taylor/)
+   - W3C *Mobile Web Best Practices* (MWBP) flipcards, [page](http://www.w3.org/2007/02/mwbp_flip_cards)
+   - A list of relevant resources on *responsive images*, [wiki](https://github.com/ResponsiveImagesCG/picture-element/wiki/Relevant-resources) on GitHub
+   - Secrets of the browser’s *developer tools*, [@AndiSmith]()’s [slide deck](http://www.83rdstasis.net/devtoolsecrets/slides/london-web/)
+ - Demos
+   - A collections of *loading animations*, [page](http://codepen.io/collection/HtAne)
+ - Tools
+   - DiagnostiCSS, a style sheet that visually detects any potentially *invalid or inaccessible HTML markup*, [page](http://diagnosticss.github.io/)
+   - scoped-media-query (Sass mixin), an *element query workaround*, [repo](https://github.com/filamentgroup/scoped-media-query)
+   - jQuery Debugger (Chrome extension), displays *jQuery data and event handlers* in DevTools, [page](https://chrome.google.com/webstore/detail/jquery-debugger/dbhhnnnpaeobfddmlalhnehgclcmjimi)
+   - web-animations-js, an emulator of the *Web Animations* specification, [repo](https://github.com/web-animations/web-animations-js)
+
+## June 25th, 2013
+
+ - News
+   - *Firefox 22* released, [info](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/22) for developers + release [notes](http://www.mozilla.org/en-US/firefox/22.0/releasenotes/)
+   - *CSS `background-blend-mode`* now supported in Chrome Canary and WebKit Nightly, Adobe blog [post](http://blogs.adobe.com/webplatform/2013/06/24/css-background-blend-modes-are-now-available-in-chrome-canary-and-webkit-nightly/)
+   - *WebRTC* support coming to Chrome for Android, [source](https://twitter.com/html5/status/349351297704660995)
+ - FYI
+   - Which CSS features *create a new stacking context*?, [discussion](https://twitter.com/dstorey/status/349278607887171584) on Twitter
+   - `text-rendering: optimizeLegibility` *disables web fonts* on Android, [source](https://twitter.com/Fyrd/status/349367667410485248)
+   - HTML comments can appear within JavaScript code in `<script>` blocks, [source](http://javascript.spec.whatwg.org/#comment-syntax)
+ - Tutorials
+   - Using *`localStorage` with MV\* frameworks* (AngularJS, Backbone.js, Knockout), [@alex_young]()’s [post](http://dailyjs.com/2013/06/20/localstorage/)
+   - Creating a simple effect with *CSS 3D transforms*, [@davidwalshblog]()’s [post](http://davidwalsh.name/animating-sidebar)
+   - An introduction to *ECMAScript 6 generators*, [@airportyh]()’s [post](http://tobyho.com/2013/06/16/what-are-generators/)
+ - Articles
+   - Understanding the difference between CSS *compositing and blending*, [@agreenblatt]()’s [post](http://blattchat.com/2013/06/11/understanding-compositing-blending/)
+   - Introducing a library that *provides CSS element queries* via attribute selectors, [@tysonmatanich]()’s [post](http://coding.smashingmagazine.com/2013/06/25/media-queries-are-not-the-answer-element-query-polyfill/) ![][*]
+   - Using *Lo-Dash instead of Underscore.js* for superior performance, [@w33ble]()’s [post](http://joefleming.net/posts/use-lodash-instead-of-underscore/)
+   - *Phishing by data URI* - phishing web pages that are entirely contained within data URIs, [@hennikl]()’s [doc](https://docs.google.com/viewer?url=http://klevjers.com/papers/phishing.pdf)
+   - “The *CSS Shapes* module will revolutionize web design”, [@nickrp]()’s [post](http://blog.teamtreehouse.com/the-css-shapes-module-will-revolutionize-web-design)
+ - Content
+   - 10 “must-have” *Chrome extensions for web developers*, [@gracesmith]()’s [post](http://mashable.com/2013/02/19/chrome-extensions-developers/#_) ![][*]
+   - Deciding which *front-end framework* to use (H5BP, Bootstrap, Foundation), [@Zing_Design]()’s [flowchart](http://www.zingdesign.com/twitter-bootstrap-decision-time/)
  - Sites
-   - Learn Git Branching, an *interactive tutorial* that teaches *branching in git* [page](http://pcottle.github.io/learnGitBranching/) ![][*]
-   - Open Source Report Card, generates *dynamic progress reports* for GitHub users [page](http://osrc.dfm.io/)
+   - “Welcome to CSS!”, an introductory *guide to CSS*, [@inserthtml]()’s [site](http://inserthtml.com/codex/)
  - Tools
-   - gif.js, a *GIF encoder* written in JavaScript [page](http://jnordberg.github.io/gif.js/) ![][*] (w/ demos)
-   - JSONView, a browser plugin that *pretty-prints JSON files* [page](http://jsonview.com/) (available for Firefox and Chrome) 
-   - landmarks, a Firefox plugin that enables *keyboard navigation of WAI-ARIA landmarks* [repo](https://github.com/matatk/landmarks)
- - Opinion
-   - The end* of *website development* as a profession, [@ChrisHardie]()’s [post](http://www.chrishardie.com/2013/05/end-of-website-development/)
+   - js-breakpoints (library), triggers JavaScript callbacks based on *CSS media query breakpoints*, [repo](https://github.com/14islands/js-breakpoints)
+   - Yass.js (library), a *`srcset` polyfill* (for responsive images), [page](http://eightmedia.github.io/yass.js/)
+   - CollagePlus (jQuery plugin), *arranges images* to fit exactly within a container, [page](http://ed-lea.github.io/jquery-collagePlus/) + jsFiddle [demo](http://jsfiddle.net/edlea/uZv3n/)
+   - Chance.js, *generates random strings, numbers*, etc. (for automated tests), [page](http://chancejs.com/)
 
-## May 21st, 2013
+## June 24th, 2013
 
  - News
-   - ![][&] New W3C releases:
-     - **Last Call** WD of “*Indexed Database API*” [TR](http://www.w3.org/TR/IndexedDB/) + [diff](http://www.w3.org/TR/2013/WD-IndexedDB-20130516/,diff) (comments: through 07 June)
-     - **Last Call** WD of “*JSON-LD* 1.0 Processing Algorithms and API” [TR](http://www.w3.org/TR/json-ld-api/) + [diff](http://www.w3.org/TR/2013/WD-json-ld-api-20130516/,diff) (comments: through 06 June)
-   - [@stevefaulkner]() proposes revising the definition of the *`<small>` element* [tweet](https://twitter.com/stevefaulkner/status/336780338086961152)
-   - First Chromium-based Opera: *Opera 14 for Android* released on Google Play store [post](http://my.opera.com/ODIN/blog/opera-14-for-android-is-out)
-   - Firefox 23 (currently in Aurora channel) brings *new DevTools features* [post](https://hacks.mozilla.org/2013/05/firefox-developer-tool-features-for-firefox-23/) ![][*]
-   - Chrome 29 (Nightly) delivers *faster rendering speeds* with SPDY and HTTP/2 [post](https://plus.google.com/+IlyaGrigorik/posts/Uxgvk35ntL2?e=-RedirectToSandbox) 
-   - *Intel* launches “HTML5 Development Environment” (cross-platform *HTML5 tools*) [page](http://software.intel.com/en-us/html5)
-   - “Google believes *Web Components* are the future of web development”, TechCrunch [article](http://techcrunch.com/2013/05/19/google-believes-web-components-are-the-future-of-web-development/)
-   - “Google: *Dart* will rescue browsers from JavaScript”, CNET [article](http://news.cnet.com/8301-1023_3-57584979-93/google-dart-will-rescue-browsers-from-javascript/)
+   - *WebRTC* enabled by default in Firefox Nightly, [source](https://twitter.com/twelephone/status/348535753506172928)
+   - Support for *H.264* lands in Firefox Nightly (only on Linux!), [source](https://twitter.com/FirefoxNightly/status/349100622655651841)
+   - Developers respond to *CSS Shapes* module, .net magazine [article](http://www.netmagazine.com/news/devs-respond-css-shapes-module-level-1-132834)
+   - Dolphin Browser joins Mozilla Firefox in building its own *HTML5 app store*, [article](http://www.smartcompany.com.au/information-technology/056135-dolphin-browser-joins-mozilla-firefox-in-building-its-own-html5-app-store.html)
+   - Foxconn to hire 3,000 to support *Firefox OS* and software development, ITWorld [article](http://www.itworld.com/361807/foxconn-hire-3000-support-firefox-os-and-software-development)
  - FYI
-   - Microsoft: port your PhoneGap app to *Windows Phone* and win prizes [post](http://blogs.windows.com/windows_phone/b/wpdev/archive/2013/05/20/use-your-html5-skills-port-your-phonegap-app-to-windows-phone-and-win-prizes.aspx)
-   - *HTTP2* is rule changer: extra requests are cheap, separate cachable files better than combined [tweet](https://twitter.com/jaffathecake/status/336085960884367361)
+   - *SVG sprites* more susceptible to rendering performance issues than PNG sprites, [discussion](https://twitter.com/chriscoyier/status/348508652715507712) on Twitter
+   - `document.documentMode` tells you the *document mode in IE* (Standards, Quirks, IE9 standards, etc.), [source](https://twitter.com/jonathansampson/status/348152369244160000)
  - Tutorials
-   - *Accessing the camera* and taking a picture with *HTML Media Capture* ([?](http://www.w3.org/TR/html-media-capture/)), [@cfjedimaster]()’s [post](http://www.raymondcamden.com/index.cfm/2013/5/20/Capturing-camerapicture-data-without-PhoneGap)
-   - Some lesser known but useful *LESS* features (i.a. mixins with return values), Mária’s [post](http://flippinawesome.org/2013/05/20/less-tips-and-tricks/)
-   - Some of the more powerful features of *Require.js*, [@jcreamer898]()’s [post](http://tech.pro/tutorial/1300/deep-dive-into-requirejs)
-   - *Revealing hidden latency patterns* with latency heat maps, [@brendangregg]()’s [post](http://dtrace.org/blogs/brendan/2013/05/19/revealing-hidden-latency-patterns/) ![][*]
- - Articles
-   - *Network congestion*, domain sharding, *SPDY* and more, [@hobohacker]()’s [post](https://insouciant.org/tech/network-congestion-and-web-browsing/) ![][*]
-   - Understanding *WCAG* (Web Content Accessibility Guidelines) Level, [@karlgroves]()’s [post](http://www.karlgroves.com/2013/05/20/understanding-wcag-level/)
+   - *Grunt - advanced usage* (bash functions, aliasing tasks, `watch`, …), [@ChrisAWren]()’s [post](http://chrisawren.com/posts/Advanced-Grunt-tooling)
+   - Working around a lack of *element queries in CSS*, [@scottjehl]()’s [post](http://filamentgroup.com/lab/element_query_workarounds/) ![][*]
+   - Better web-site performance with “*static memory JavaScript*“, [@duhroach]()’s [post](http://www.html5rocks.com/en/tutorials/speed/static-mem-pools/)
+ - Media
+   - *The independent web* and [@indiewebcamp](), [@t]()’s 19-min [discussion](https://www.youtube.com/watch?v=XE0AA6gVRSI) at GDL
+   - Coping with the broken web (*writing tests for web specs*), [@rodneyrehm]()’s 18-min [@fronttrends]() [talk](https://vimeo.com/68680319) ![][*]
  - Content
-   - ![][>] *Chrome DevTools* Revolutions 2013, [@paul_irish]()’s 34-min [talk](https://developers.google.com/events/io/sessions/325206725) from IO ’13
-   - ![][>] Stunning mobile visualization with *CSS Filters*, [@alexanderdanilo]()/[@Fyrd]()’s 45-min [talk](https://developers.google.com/events/io/sessions/325944029) from IO ’13
-   - ![][>] “*Test the Web Forward*”, [@RebeccaHauck]()’s 26-min [talk](http://marakana.com/s/post/1466/test_the_web_forward_adobe_rebecca_hauck_video) from [@sfhtml5]()
-   - ![][>] Debugging a real bug in JavaScript with *traceGL*, [@rem]()’s short 3-min [screencast](http://remysharp.com/2013/05/13/tracegl-for-javascript-debugging/)
-   - Showcasing real-world *usage of ECMAScript 6* features in today’s projects [wiki](https://github.com/sindresorhus/esnext-showcase/wiki)
-   - Design patterns for *GPU computing*, by NVIDIA Research [page](http://nvlabs.github.io/moderngpu/)
+   - List of *mobile emulators and simulators*, [page](http://www.mobilexweb.com/emulators) 
+   - Quick summary of client-side *JavaScript error reporting* services, [@paul_irish]()’s [post](https://plus.google.com/+PaulIrish/posts/12BVL5exFJn) on Google+
+   - *Page load performance* and resource loading, J. Simonsen’s [presentation](https://docs.google.com/presentation/d/1Ol4xMKkiZgbJUL0n-h3xEcTch6sD5gSyCxNK1m2wXYo/edit#slide=id.p) from [@velocityconf]()
+   - Comparison of jQuery UI and the *HTML5 `<input>` types*, [@tjvantoll]()’s [slide deck](http://tjvantoll.com/speaking/slides/2013/UI-Widgets-vs-HTML5/) 
+ - Demos
+   - Qb Qb Qb, a *desktop game* powered by HTML5 Canvas, [demo](http://qbqbqb.rezoner.net/) ([via](http://creativejs.com/2013/06/qb-qb-qb-arcade-puzzle-game/))
+   - A *CSS logo* that shows its layers on click, [@99tharun]()’s [demo](http://codepen.io/99tharun/pen/gsiGb)
+ - Sites
+   - *SSL* Labs, a collection of documents, tools and thoughts related to SSL, [site](https://www.ssllabs.com/)
  - Tools
-   - Fiddler, a free *web debugging proxy* for any browser, system or platform [page](http://fiddler2.com/) ![][*]
-   - Lazy.js, a JavaScript *utility library* like Underscore.js but with *lazy evaluation* [page](http://dtao.github.io/lazy.js/)
-   - sublime-jquery-snippets, a collection of Sublime Text *snippets for jQuery development* [repo](https://github.com/aaronpowell/sublime-jquery-snippets)
-   - Knockout-ES5, a *Knockout.js plugin* that lets you use simpler and more natural syntax [page](http://blog.stevensanderson.com/2013/05/20/knockout-es5-a-plugin-to-simplify-your-syntax/)
-   - Live *WebVTT* Validator, an online validator for the *WebVTT* (Web Video Text Tracks) format [page](http://quuz.org/webvtt/)
+   - Font Custom, a command-line tool for *creating icon web fonts* from SVG, [site](http://fontcustom.com/)
+   - SimpleWebRTC, a JavaScript library for *WebRTC*, [site](http://simplewebrtc.com/)
+   - SVGO, a Node.js module for *optimizing SVG files*, [repo](https://github.com/svg/svgo)
+
+## June 21st, 2013
+
+ - News
+   - New W3C releases:
+     - 1st WD of “*Web Telephony API*”, [TR](http://www.w3.org/TR/2013/WD-telephony-20130620/) (defines an *API to manage telephone calls*)
+     - **Last Call** WD of “*CSS Custom Properties for Cascading Variables*”, [TR](http://www.w3.org/TR/2013/WD-css-variables-1-20130620/) + [diff](http://www.w3.org/TR/2013/WD-css-variables-1-20130620/,diff)
+     - 1st WD of “*CSS Shapes*”, [TR](http://www.w3.org/TR/2013/WD-css-shapes-1-20130620/) + release [notes](http://www.w3.org/blog/CSS/2013/06/20/css-shapes-first-public-working-draft/) (previously part of “CSS Exclusions and Shapes”)
+     - 2nd WD of “*CSS Masking*”, [TR](http://www.w3.org/TR/2013/WD-css-masking-20130620/) + [diff](http://www.w3.org/TR/2013/WD-css-masking-20130620/,diff) + release [notes](http://www.w3.org/blog/CSS/2013/06/20/css-masking-draft-updated/)
+   - ![][&] What are the *use cases for `<figure>`* without a `<figcaption>`?, [discussion](http://lists.w3.org/Archives/Public/public-html/2013Jun/0076.html) on `public-html`
+   - ![][&] *Geometry API* (for intersections, etc.) proposed [here](https://twitter.com/shepazu/status/347779239405289472)
+   - Inital (limited) support for *Web Audio API* soon in Chrome for Android, [source](https://twitter.com/html5/status/347790262287872000)
+   - The *HTTP Archive dataset* now available on Google BigQuery, [@igrigorik]()’s [post](http://www.igvita.com/2013/06/20/http-archive-bigquery-web-performance-answers/) w/ 10-min presentation ![][*]
+ - FYI
+   - The *Blink engine* appears on 5 platforms: Windows, Mac, Linux, Chrome OS and Android
+ - Tutorials
+   - Increasing *performance of web fonts* (+ several *font loading solutions*), [@ianfeather]()’s [post](http://ianfeather.co.uk/web-fonts-and-the-critical-path/) ![][*]
+   - Properly *scaling images* that have a `width` and `height` set in HTML, [@rogerjohansson]()’s short [post](http://www.456bereastreet.com/archive/201306/how_to_proportionally_scale_images_that_have_dimension_attributes/)
+   - Using *Promises in AngularJS* views, [@markdalgleish]()’s [post](http://markdalgleish.com/2013/06/using-promises-in-angularjs-views/)
+   - Editing and *updating Sass files* directly from within Chrome’s DevTools, [@umaar]()’s [post](http://net.tutsplus.com/tutorials/html-css-techniques/developing-with-sass-and-chrome-devtools/)
+ - Articles
+   - *asm.js* - what it is and what it isn’t, [@kripken]()’s [post](http://mozakai.blogspot.com/2013/06/what-asmjs-is-and-what-asmjs-isnt.html) (very extensive but has good tl;dr)
+   - Introducing HTML5 Rocks’s new *mobile friendly TOC* (table of contents), [@Paul_Kinlan]()’s [post](http://paul.kinlan.me/another-experiment-in-creating-a-mobile-friendly-table-of-contents/)
+ - Media
+   - An overview of *ECMAScript 6*, [@rauschma]()’s 39-min [@fluentconf]() [talk](http://www.2ality.com/2013/06/video-es6.html)
+ - Content
+   - *HTML element/attribute usage stats* from the latest WebDevData data set, [spread sheet](https://docs.google.com/spreadsheet/ccc?key=0AlVP5_A996c5dFhMQ3R2SG1uZFNZVEsxUURQN213VVE#gid=0)
+   - “Primer on *Web Performance*”, chapter 10 of [@igrigorik]()’s upcoming book, [link](http://chimera.labs.oreilly.com/books/1230000000545/ch10.html)
+   - Optimizing the critical rendering path (*mobile performance*), [@igrigorik]()’s [slide deck](https://docs.google.com/presentation/d/1IRHyU7_crIiCjl0Gvue0WY3eY_eYvFQvSfwQouW9368/present#slide=id.p19) from [@velocityconf]() ![][*]
+   - *Optimizing image performance*, [@guypod]()’s [slide deck](http://www.slideshare.net/guypod/a-picture-costs-a-thousand-words18062013) from [@velocityconf]()
+ - Sites
+   - JavaScript Cookbook (new site), aims to provide *solutions to common JavaScript problems*, [site](http://javascriptcookbook.com/) 
+   - Are we componentized yet?, tracks the *progress of Web Components*, [site](http://jonrimmer.github.io/are-we-componentized-yet/)
+ - Tools
+   - Font Squirrel web font generator, an online *tool for converting fonts* to TTF, WOFF, EOT, SVG, [page](http://www.fontsquirrel.com/tools/webfont-generator)
  - Opinion
-   - *Cloud* is going to die much faster than anybody expected, [@leashless]()’s [post](http://vinay.howtolivewiki.com/blog/other/too-cheap-to-meter-massive-overbuild-in-server-farms-3373)
-   - Gathering the *Web tribes* together for the common good, [@dalmaer]()’s [post](https://medium.com/tech-talk/dff3e0ffdead)
-   - And so, Microsoft ruins *Skype*, [@NickBruun]()’s [post](http://bruun.co/2013/05/20/and-so-microsoft-ruins-skype)
+   - “Why RWD (*responsive web design*) is not enough”, [@despos]()’s [post](http://tech-book-store.amazon.com/post/Tx22ZLKCAEHV4MS/Why-Responsive-Web-Design-Is-Not-Enough)
+
+## June 20th, 2013
+
+ - News
+   - 3rd WD of “*Scalable Vector Graphics (SVG) 2*” released: [TR](http://www.w3.org/TR/SVG2/) + release [notes](http://www.w3.org/News/2013#entry-9866)
+   - CIS launches “Cookie Clearinghouse” to *enable user choice for online tracking*, [article](http://cyberlaw.stanford.edu/blog/2013/06/center-internet-and-society-launches-%E2%80%9Ccookie-clearinghouse%E2%80%9D-enable-user-choice-online) + Eich’s [post](https://brendaneich.com/2013/06/the-cookie-clearinghouse/) ![][*]
+   - *Adobe’s CFF font rasterizer* accepted by FreeType (used in Android), Adobe’s [post](http://blogs.adobe.com/typblography/2013/06/adobe-cff-font-rasterizer-accepted-by-freetype.html)
+   - Proposed modifications to the *descriptive text of the `<figure>` element*, [message](http://lists.w3.org/Archives/Public/public-html/2013Jun/0070.html) on `public-html`
+   - *DOM Futures* ([?](http://dom.spec.whatwg.org/#futures)) have landed in Firefox Nightly, [source](https://twitter.com/FirefoxNightly/status/347638997964713985)
+   - Chrome’s *bug with `em`-based media queries* has been fixed, [source](https://twitter.com/yoavweiss/status/347592102282133504)
+ - Tutorials
+   - An easily digestible *introduction to Web Workers*, [@brian_cooksey]()’s [post](https://zapier.com/engineering/intro-to-web-workers/)
+   - A quick introductory guide to JavaScript’s *regular expression syntax*, [@nzgb]()’s [post](http://blog.ponyfoo.com/2013/05/27/learn-regular-expressions)
+   - Designing with IE10’s *`::-ms-`prefixed CSS pseudo elements*, [@jonathansampson]()’s [post](http://sampsonblog.com/615/ie10s-pseudo-elements)
+   - *Using CSS Flexbox* to recreate the Google Hangouts chat box design, [@chriscoyier]()’s [post](http://css-tricks.com/replicating-google-hangouts-chat/)
+ - Articles
+   - Using *iframes to address performance/security issues* with third-party scripts, [@bluesmoon]()’s [interview](http://programming.oreilly.com/2013/06/using-iframes-to-address-third-party-script-issues-and-boost-performance.html)
+ - Media
+   - The first batch of *[@mobilismconf]() 2013 videos* has been uploaded [here](http://vimeopro.com/mirabeaunl/mobilism-2013/)
+   - [@OReillyMedia]() has uploaded lots for short *videos from [@velocityconf]() 2013*, YouTube [playlist](http://www.youtube.com/playlist?list=PL055Epbe6d5bdB4KPqssegVpYUDJXSzOp)
+ - Content
+   - Using `matchMedia()` to build *responsive web components* with Polymer, [demo](http://jsbin.com/esaros/3/edit)
+   - 69 tips and tricks for *using Chrome’s DevTools* more effectively, [page](https://developers.google.com/chrome-developer-tools/docs/tips-and-tricks) ![][*]
+ - Demos
+   - An *animated Möbius strip* in ~30 lines of Sass, [@thebabydino]()’s [demo](http://codepen.io/thebabydino/pen/mcrLf)
+   - A “mega dropdown” component in pure CSS (written in SCSS, *uses BEM syntax*), [@csswizardry]()’s [demo](http://jsfiddle.net/csswizardry/A7d28/)
+ - Sites
+   - CDNperf, *comparison of popular CDNs* in uptime and latency, [site](http://www.cdnperf.com/)
+   - OpenWeatherMap, a *free weather data* and forecast API, [site](http://openweathermap.org/)
+ - Tools
+   - FriendCode, an *in-browser code editor* with code collaboration, [site](https://friendco.de/)
+   - blend.js (JS library), an *image manipulation tool* (supports multiple partitions and effects), demo [page](http://www.qur2.eu/blend.js/) ![][*]
+   - Grumpicon, an online tool for *creating HD-friendly SVG graphics* w/ automated fallbacks, [page](http://www.grumpicon.com/) + [post](http://filamentgroup.com/lab/introducing_grumpicon/)
+   - Reactor.js, a lightweight library for *reactive programming*, [repo](https://github.com/fynyky/reactor.js)
+ - Opinion
+   - “The *W3C's Workshop format* isn't working”, [@slightlylate]()’s [post](http://infrequently.org/2013/06/that-old-skool-smell/)
+
+## June 19th, 2013
+
+ - News
+   - ![][1] Help *test WebRTC in Firefox* for Android and Firefox on Desktop on Friday (June 21st), Mozilla’s [post](https://quality.mozilla.org/2013/06/discover-and-help-test-webrtc-in-firefox-for-android-and-firefox-on-desktop-on-friday-june-21st-2013/)
+   - Adobe actively supporting the development of *Encrypted Media Extensions* (DRM), [post](http://blogs.adobe.com/standards/2013/06/19/adobe-support-for-encrypted-media-extensions/)
+   - Microsoft delivers biggest update to date to *TypeScript*, ZDNet [article](http://www.zdnet.com/microsoft-delivers-biggest-update-to-date-to-typescript-7000016972/)
+ - FYI
+   - The *Polymer library* now has an example TodoMVC app, check out its source code [here](https://github.com/tastejs/todomvc/tree/gh-pages/labs/architecture-examples/polymer) ![][*]
+   - Is there any good way to do *multi-line truncation with ellipsis* in CSS only?, [discussion](https://twitter.com/stubbornella/status/347030733933670400) on Twitter
+   - New *DevTools snippets* added: CSS pretty-print, `window.performance` data, [source](https://twitter.com/addyosmani/status/347127000042971136)
+ - Tutorials
+   - Creating  stylish *hover effects for image captions* (with CSS Transforms), [@crnacura]()’s [post](http://tympanus.net/codrops/2013/06/18/caption-hover-effects/) + [demos](http://tympanus.net/Tutorials/CaptionHoverEffects/index4.html)
+   - *Adding narration to your slide deck* with HTML5 `<audio>`, [@klamping]()’s [post](http://html5hacks.com/blog/2013/06/17/add-narration-to-your-slide-deck-with-html5-audio/) ![][*]
+   - Solving *JavaScript performance problems* with “forensics and detective work”, [@JohnMcCutchan]()’s [post](http://www.html5rocks.com/en/tutorials/performance/mystery/)
+   - Information hiding (i.e. *concealing implementation details*) in JavaScript, [@JugglinMike]()’s [post](http://weblog.bocoup.com/info-hiding-in-js/)
+ - Articles
+   - Comparison of browsers on *HTML5 `<video>` accessibility*, [@terrillthompson]()’s [post](http://terrillthompson.com/blog/366)
+   - Case study: Abandoning a separate mobile site by *adapting to a responsive design*, [@DuckyMatt]()’s [post](http://mobile.smashingmagazine.com/2013/06/18/adapting-to-a-responsive-design-case-study/)
+   - *Gigabit apps* for the coming Gigabit Ethernet world, [@SethR]()’s CNET [post](http://news.cnet.com/8301-1023_3-57589753-93/fast-fiber-apps-coming-at-70-percent-the-speed-of-light/)
+   - Common *user experience issues* on the mobile web, [@DavidMoth]()’s [post](http://econsultancy.com/hr/blog/62870-12-usability-flaws-that-are-spoiling-the-mobile-web)
+ - Media
+   - ShopTalk [podcast](http://shoptalkshow.com/episodes/073-with-val-head/) #73 with [@vlh]() (60 min): responsive images, *`em`-based media queries*, …
+ - Demos
+   - Hair, a *HTML5 Canvas* experiment, [@mrPaumgarten]()’s [demo](http://codepen.io/MathiasPaumgarten/full/BHIek)
+   - 12 cool *button hover animations*, [@bartekd]()’s [demo](http://codepen.io/bartekd/pen/qFsDf)
+ - Sites
+   - JSter JavaScript Catalog, a *catalog of JavaScript libraries* and tools for web development, [site](http://jster.net/catalog)
+ - Tools
+   - HTML Inspector (JS library), an *HTML code quality tool* (runs in-browser), [post](http://philipwalton.com/articles/introducing-html-inspector/) + [repo](https://github.com/philipwalton/html-inspector)
+   - jsDelivr, a *free CDN* powered by 76 PoPs (locations) worldwide (hosts over 600 projects), [site](http://www.jsdelivr.com/) ![][*]
+   - Fontastic, an online tool for *creating custom icon fonts* (choose from over 1700 icons), [site](http://app.fontastic.me/)
+ - Opinion
+   - “Even in modern countries, proper *internet access is a privilege*”, [@hellogeri]()’s [post](http://the-pastry-box-project.net/geri-coady/2013-june-18/)
+
+## June 18th, 2013
+
+ - News
+   - New editor’s draft: *Web Telephony API*, [spec](http://telephony.sysapps.org/) ([via](https://twitter.com/marcosc/status/346719457760137216))
+   - Last week in *WebKit*, Surfin’ Safari blog [post](https://www.webkit.org/blog/2656/last-week-in-webkit-making-waves/)
+   - *W3C Pointer Events* gains further web momentum with *patch for Mozilla Firefox*, MS Open Tech [post](http://msopentech.com/blog/2013/06/17/w3c-pointer-events-gains-further-web-momentum-with-patch-for-mozilla-firefox/)
+   - New *DRM changes text of e-books* to catch pirates, TorrentFreak [article](http://torrentfreak.com/new-drm-changes-text-of-ebooks-to-catch-pirates-130616/)
+ - FYI
+   - IE10 provides CSS properties for *zooming and panning*, [source](https://twitter.com/Fyrd/status/346664737381175296) (standardization discussed [here](https://twitter.com/Fyrd/status/346665278203125760))
+   - Information about *event constructors support* i.e. `new Event(…)`, [discussion](https://twitter.com/ifandelse/status/346712917032443906) on Twitter
+ - Tutorials
+   - *Applying a PNG mask* to an image with HTML5 Canvas, [@codepo8]()’s [post](http://christianheilmann.com/2013/06/15/image-masking-with-html5-canvas/) + [demo](http://codepo8.github.io/canvas-masking/)
+   - A guide to *transpiling to JavaScript* (covers ECMAScript 6, TypeScript and CoffeeScript), [@JoeZimJS]()’s [post](http://flippinawesome.org/2013/06/17/the-future-of-javascript-now/)
+   - *Loading content selectively* with the help of the History API, [@inserthtml]()’s [post](http://www.inserthtml.com/2013/06/history-api/) + cool [demo](http://inserthtml.com/demo/history/)
+   - *Font hacking* (extracting, deconstructing, altering and replacing letterforms), [@heydonworks]()’s [post](http://www.heydonworks.com/article/font-hacking) ![][*]
+ - Articles
+   - Case study: Refactoring an interface to *improve user experience on mobile*, [@Wernah]()’s [post](http://adioso.com/blog/2013/06/responsifying-adioso/)
+   - A long-term vision for a better and *faster rendering pipeline in Blink*, Google [doc](https://docs.google.com/document/d/1wYNK2q_8vQuhVSWyUHZMVPGELzI0CYJ07gTPWP1V1us/pub)
+   - GitHub introduces its *redesigned repository experience*, [@kneath]()’s [post](https://github.com/blog/1529-repository-next)
+ - Media
+   - Chrome Mobile Summit 2013: *Mobile performance*, 46-min [panel](https://www.youtube.com/watch?v=tADvcuYn8Po&list=PLNYkxOF6rcIBPVZ39YfuS4a9A4oOTRqrM) + 2 other panels: [playlist](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBPVZ39YfuS4a9A4oOTRqrM)
+ - Content
+   - *Relationship between WHATWG specs* (hyperlinked dependency map), [SVG](http://whatwg.gphemsley.org/web.svg) file ![][*]
+ - Sites
+   - JSbooks, a *collection of JavaScript e-books* and other resources, [site](http://jsbooks.revolunet.com/)
+   - Request Quest, [@jaffathecake]()’s “Does this code *trigger an HTTP request*?” [quiz](http://jakearchibald.github.io/request-quest/) game (view in Blink) ![][*]
+ - Tools
+   - MQtest.io (online tool), identifies *which media queries your device responds to*, [site](http://mqtest.io/)
+   - Phoria 3D, a JS library for *simple 3D graphics* on a Canvas 2D renderer, [page](http://www.kevs3d.co.uk/dev/phoria/) (view source of examples)
+   - skrollr, a JS library for *scrolling animations* (e.g. parallax scrolling), [demo](http://prinzhorn.github.io/skrollr/) + [repo](https://github.com/Prinzhorn/skrollr)
+ - Opinion
+   - “Battle for the planet of the APIs” (i.a. how *Twitter abandoned RSS*), [@adactio]()’s [post](http://adactio.com/journal/6291/)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"

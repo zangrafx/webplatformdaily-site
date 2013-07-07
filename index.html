@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width">
     <link rel="icon" type="image/png" href="favicon.png">
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic,300" rel="stylesheet">
-    <link href="/styles/daily.css" rel="stylesheet">
+    <link href="/styles/daily.css?q=1" rel="stylesheet">
 </head>
 <body>
 <article>
@@ -29,7 +29,7 @@
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/libs/jquery-1.9.1.min.js"><\x3C/script>');</script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/pagedown/1.0/Markdown.Converter.js"></script>
+<!-- <script src="//cdnjs.cloudflare.com/ajax/libs/pagedown/1.0/Markdown.Converter.js"></script> --> <!-- ~10s waiting periods recently, not sue why -->
 <script>window.Markdown || document.write('<script src="/js/libs/Markdown.Converter.js"><\x3C/script>');</script>
 <script src="/js/daily.js"></script>
 
@@ -46,6 +46,11 @@
         add('//platform.twitter.com/widgets.js'); // Twitter, "Tweet" button
     }(document, 'script'));
 </script>
+
+<!-- TODO test, debug, report issues
+<script src="/js/libs/html-inspector.js"></script>
+<script>HTMLInspector.inspect()</script>
+-->
 
 <!-- TODO how to provide this?
 <label><input type=checkbox onchange="document.body.classList[ this.checked ? 'add' : 'remove' ]( 'chrome-fix' )"> apply `-webkit-text-stroke`</label>

@@ -41,9 +41,12 @@ legend
 
 $OpenSans: 'Open Sans', sans-serif
 $textColor: #333
+$foo: 0
 
 *
   outline: none
+  -moz-box-sizing: border-box
+  box-sizing: border-box
   
 html 
   font-family: $OpenSans
@@ -60,14 +63,11 @@ body
   -webkit-text-stroke: 0.25px
 
 article 
-  width: 868px
+  width: 880px
   font-size: 16px
   padding: 0 2em
   margin: 2em 0
   max-width: 100%
-  -moz-box-sizing: border-box
-  -webkit-box-sizing: border-box
-  box-sizing: border-box
 
 .mozilla-banner 
   display: block
@@ -193,6 +193,7 @@ code
   top: 40px
   left: 0
   font-size: 15px
+  z-index: 1
   li
     margin: 0.2em 0
     float: left
@@ -231,5 +232,4 @@ code
     right: 0
     font-size: 15px
     border-top: 1px dashed #bbb
-    
     
