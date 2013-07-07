@@ -1,9 +1,5 @@
 The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files). The README file of the repository also serves as a FAQ. Refer to it for information about this web-site.
 
-## July 5th, 2013 (**will be released on Saturday**)
-
- - 39 candidates selected, [screen](http://i.imgur.com/ZtXYGu6.png)
-
 ## July 3rd, 2013
 
  - News
