@@ -61,7 +61,7 @@ jQuery(function ( $ ) {
         var $items;
 
         // the <h2> elements excluding the "Sticky" header
-        $headers = $dataWrapper.children( 'h2' ).slice( 1 );
+        $headers = $dataWrapper.children( 'h2' );
 
         // creating a corresponding <li> element for each <h2>
         $items = $headers.map(function () {
