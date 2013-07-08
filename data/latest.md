@@ -1,5 +1,41 @@
 The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files). The README file of the repository also serves as a FAQ. Refer to it for information about this web-site.
 
+## July 8th, 2013
+
+ - News
+   - [@LeaVerou]() on the *latest developments at the W3C*, [article](http://www.netmagazine.com/features/hot-web-standards-mayjune-2013) ![][*]
+   - W3C invites implementations: “*Indexed Database API*” released as candidate recommendation, [TR](http://www.w3.org/TR/IndexedDB/) + [diff](http://www.w3.org/TR/2013/CR-IndexedDB-20130704/,diff)
+   - Review request: *Updated `<figure>` definition* in HTML 5.1, [@stevefaulkner]()’s [tweet](https://twitter.com/stevefaulkner/status/353129912862908417)
+   - *Animated WebP* debate - …encountering resistance from Google Chrome engineers, CNET [article](http://news.cnet.com/8301-1023_3-57592509-93/animated-webp-graphics-support-no-shoo-in-for-chrome/)
+   - This student project could *kill digital ad targeting*, AdAge [article](http://adage.com/article/privacy-and-regulation/student-project-kill-digital-ad-targeting/242955/)
+ - FYI
+   - Revised *HTML 5.0 milestones* (recommendation in 2014 Q4), [page](http://dev.w3.org/html5/decision-policy/html5-2014-plan.html#html5.0-milestones)
+   - *Use case for `<label>`* that is neither wrapped around a control or associated…, [discussion](https://twitter.com/stevefaulkner/status/353270898435952640) on Twitter
+   - Chrome DevTools can *force elements into `:hover`*, `:active`, `:focus` states, [source](https://twitter.com/addyosmani/status/352933975930576897)
+ - Tutorials
+   - *Introduction to RequireJS* (for modular and maintainable JavaScript applications), [@burkeholland]()’s [post](http://www.kendoui.com/blogs/teamblog/posts/13-05-08/requirejs-fundamentals.aspx)
+   - An in-depth tutorial to *writing a Google Chrome extension*, [@KrasimirTsonev]()’s [post](http://net.tutsplus.com/tutorials/javascript-ajax/developing-google-chrome-extensions/)
+   - A *guide to Grumpicon* - moving from icon fonts to SVG, [@toddmparker]()’s [post](http://filamentgroup.com/lab/grumpicon_workflow/)
+   - Using Autoprefixer to have *vendor prefixes automatically added* to your CSS code, [@alebelcor]()’s [post](http://alebelcor.github.io/2013/how-to-stop-worrying-about-css-vendor-prefixes/) ![][*]
+ - Articles
+   - Idea: A modular *naming convention for Sass variables*, [@jimniels]()’s [post](http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/quick-tip-name-your-sass-variables-modularly/)
+   - Feedback Request: *CSS `.specifiedStyle`* (some feedback is in comments), [@tabatkins]()’s [post](http://www.xanthir.com/b4Qi0)
+ - Media
+   - Fripfrap #9, 33-min [podcast](http://fripfrap.io/09/) w/ [@littlecalculist]() (*asm.js*, *ES6*, …)
+   - Building *stateful modules with promises and events*, [@icofyre]()’s 26-min [@jqcon]() [talk](https://www.youtube.com/watch?v=3WnUXND0bSc)
+   - Writing *testable, maintainable, scalable JavaScript*, [@damian]()’s 26-min [@ScotlandJS]() [talk](https://vimeo.com/68526881)
+ - Content
+   - *Debugging memory leaks* in JavaScript with Chrome DevTools, [@gruizdevilla]()’s [slide deck](http://slid.es/gruizdevilla/memory) + [resources](https://twitter.com/gruizdevilla/status/352848691943587840) ![][*]
+   - “The art of Node”, an *introduction to Node.js*, [@maxogden]()’s short [book](https://github.com/maxogden/art-of-node)
+   - List of (over 900) *Chromium command-line switches*, [@beverloo]()’s [page](http://peter.sh/experiments/chromium-command-line-switches/) 
+ - Tools
+   - Hack St., an online tool for *debugging HTTP headers*, [site](http://hackst.com/)
+   - timechart, a library for creating *time based charts*, [site](http://timechart.toolset.io/) w/ demo
+   - ShareFest, web based *serverless one-to-many file sharing* via WebRTC, [repo](https://github.com/Peer5/ShareFest) ![][*]
+ - Opinion
+   - *Progressive enhancement* is still important, [@jaffathecake]()’s [post](http://jakearchibald.com/2013/progressive-enhancement-still-important/)
+   - *Firefox OS* is doomed to failure, [@donreisinger]()’s [post](http://www.eweek.com/mobile/slideshows/firefox-mobile-is-doomed-to-failure-10-reasons-why/) (**FOR THE LULZ**)
+
 ## July 3rd, 2013
 
  - News
@@ -315,39 +351,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - Fontastic, an online tool for *creating custom icon fonts* (choose from over 1700 icons), [site](http://app.fontastic.me/)
  - Opinion
    - “Even in modern countries, proper *internet access is a privilege*”, [@hellogeri]()’s [post](http://the-pastry-box-project.net/geri-coady/2013-june-18/)
-
-## June 18th, 2013
-
- - News
-   - New editor’s draft: *Web Telephony API*, [spec](http://telephony.sysapps.org/) ([via](https://twitter.com/marcosc/status/346719457760137216))
-   - Last week in *WebKit*, Surfin’ Safari blog [post](https://www.webkit.org/blog/2656/last-week-in-webkit-making-waves/)
-   - *W3C Pointer Events* gains further web momentum with *patch for Mozilla Firefox*, MS Open Tech [post](http://msopentech.com/blog/2013/06/17/w3c-pointer-events-gains-further-web-momentum-with-patch-for-mozilla-firefox/)
-   - New *DRM changes text of e-books* to catch pirates, TorrentFreak [article](http://torrentfreak.com/new-drm-changes-text-of-ebooks-to-catch-pirates-130616/)
- - FYI
-   - IE10 provides CSS properties for *zooming and panning*, [source](https://twitter.com/Fyrd/status/346664737381175296) (standardization discussed [here](https://twitter.com/Fyrd/status/346665278203125760))
-   - Information about *event constructors support* i.e. `new Event(…)`, [discussion](https://twitter.com/ifandelse/status/346712917032443906) on Twitter
- - Tutorials
-   - *Applying a PNG mask* to an image with HTML5 Canvas, [@codepo8]()’s [post](http://christianheilmann.com/2013/06/15/image-masking-with-html5-canvas/) + [demo](http://codepo8.github.io/canvas-masking/)
-   - A guide to *transpiling to JavaScript* (covers ECMAScript 6, TypeScript and CoffeeScript), [@JoeZimJS]()’s [post](http://flippinawesome.org/2013/06/17/the-future-of-javascript-now/)
-   - *Loading content selectively* with the help of the History API, [@inserthtml]()’s [post](http://www.inserthtml.com/2013/06/history-api/) + cool [demo](http://inserthtml.com/demo/history/)
-   - *Font hacking* (extracting, deconstructing, altering and replacing letterforms), [@heydonworks]()’s [post](http://www.heydonworks.com/article/font-hacking) ![][*]
- - Articles
-   - Case study: Refactoring an interface to *improve user experience on mobile*, [@Wernah]()’s [post](http://adioso.com/blog/2013/06/responsifying-adioso/)
-   - A long-term vision for a better and *faster rendering pipeline in Blink*, Google [doc](https://docs.google.com/document/d/1wYNK2q_8vQuhVSWyUHZMVPGELzI0CYJ07gTPWP1V1us/pub)
-   - GitHub introduces its *redesigned repository experience*, [@kneath]()’s [post](https://github.com/blog/1529-repository-next)
- - Media
-   - Chrome Mobile Summit 2013: *Mobile performance*, 46-min [panel](https://www.youtube.com/watch?v=tADvcuYn8Po&list=PLNYkxOF6rcIBPVZ39YfuS4a9A4oOTRqrM) + 2 other panels: [playlist](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBPVZ39YfuS4a9A4oOTRqrM)
- - Content
-   - *Relationship between WHATWG specs* (hyperlinked dependency map), [SVG](http://whatwg.gphemsley.org/web.svg) file ![][*]
- - Sites
-   - JSbooks, a *collection of JavaScript e-books* and other resources, [site](http://jsbooks.revolunet.com/)
-   - Request Quest, [@jaffathecake]()’s “Does this code *trigger an HTTP request*?” [quiz](http://jakearchibald.github.io/request-quest/) game (view in Blink) ![][*]
- - Tools
-   - MQtest.io (online tool), identifies *which media queries your device responds to*, [site](http://mqtest.io/)
-   - Phoria 3D, a JS library for *simple 3D graphics* on a Canvas 2D renderer, [page](http://www.kevs3d.co.uk/dev/phoria/) (view source of examples)
-   - skrollr, a JS library for *scrolling animations* (e.g. parallax scrolling), [demo](http://prinzhorn.github.io/skrollr/) + [repo](https://github.com/Prinzhorn/skrollr)
- - Opinion
-   - “Battle for the planet of the APIs” (i.a. how *Twitter abandoned RSS*), [@adactio]()’s [post](http://adactio.com/journal/6291/)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
