@@ -1,5 +1,30 @@
 The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files). The README file of the repository also serves as a FAQ. Refer to it for information about this web-site.
 
+## July 9th, 2013
+
+ - News
+   - *Audio Recording* (`window.MediaRecorder`) has landed in Firefox Nightly, [source](https://twitter.com/FirefoxNightly/status/354246401363951616)
+   - “*Last week in Blink*” - Promises, ALPN support and font mime-types, [@beverloo]() [post](http://peter.sh/2013/07/last-week-in-blink-promises-alpn-support-and-font-mime-types/)
+ - FYI
+   - Overview of *ES6 numeric literals* (binary and octal are new), [tweet](https://twitter.com/mathias/status/354246135205998594)
+   - *Chrome DevTools protip*: “Elements” panel lets you drag-and-drop any element…, [tweet](https://twitter.com/addyosmani/status/354385745655517184) w/ screen shot
+ - Tutorials
+   - A guide to *choosing a responsive image* solution, [@sherrialexander]()’s extensive [post](http://mobile.smashingmagazine.com/2013/07/08/choosing-a-responsive-image-solution/) ![][*]
+   - A guide to *using the `@extend` feature* (available with Sass, LESS, …), [@chriscoyier]()’s [post](http://css-tricks.com/the-extend-concept/)
+   - Using *CSS fallback properties* for better cross-browser compatibility, [@afshinmeh]()’s short [post](http://flippinawesome.org/2013/07/08/using-css-fallback-properties-for-better-cross-browser-compatibility/)
+   - *Building a crowdfunding site* with Node.js, MongoDB and Balanced Payments, [@ncasenmare]()’s [post](https://hacks.mozilla.org/2013/07/so-you-wanna-build-a-crowdfunding-site/)
+ - Content
+   - Progressive enhancement and *feature detection with Modernizr*, [@StuCoxMedia]()’s cool [slide deck](http://stucox.github.io/mcrfred/) ![][*]
+   - *JavaScript coding conventions* crowdsourced from GitHub commits, [page](http://sideeffect.kr/popularconvention/)
+   - *[Interview](http://www.awwwards.com/interview-with-addy-osmani-developer-programs-engineer-at-google.html) with [@addyosmani]()* - Yeoman, DevTools, JavaScript, Web Components, TasteJS, Dart
+ - Demos
+   - *Direction-aware hover* effect (CSS 3D transforms + JavaScript), [@pixelia_me]()’s [demo](http://codepen.io/noeldelgado/pen/pGwFx)
+ - Tools
+   - Postman (Chrome extension), an HTTP client to *test REST web services*, [site](http://www.getpostman.com/)
+   - WBench (Ruby gem), a tool to *benchmark end user load times* for websites, [repo](https://github.com/desktoppr/wbench)
+   - activetable.js (bookmarklet), *makes any table sortable* and allows hiding columns, [gist](https://gist.github.com/stevesouders/5952488)
+   - Minimit anima, a jQuery plugin for *animations powered by CSS* (w/ fallback), [page](http://www.minimit.com/projects/code/minimit-anima-plugin) + [repo](https://github.com/minimit/minimit-anima)
+
 ## July 8th, 2013
 
  - News
@@ -317,40 +342,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - Reactor.js, a lightweight library for *reactive programming*, [repo](https://github.com/fynyky/reactor.js)
  - Opinion
    - “The *W3C's Workshop format* isn't working”, [@slightlylate]()’s [post](http://infrequently.org/2013/06/that-old-skool-smell/)
-
-## June 19th, 2013
-
- - News
-   - ![][1] Help *test WebRTC in Firefox* for Android and Firefox on Desktop on Friday (June 21st), Mozilla’s [post](https://quality.mozilla.org/2013/06/discover-and-help-test-webrtc-in-firefox-for-android-and-firefox-on-desktop-on-friday-june-21st-2013/)
-   - Adobe actively supporting the development of *Encrypted Media Extensions* (DRM), [post](http://blogs.adobe.com/standards/2013/06/19/adobe-support-for-encrypted-media-extensions/)
-   - Microsoft delivers biggest update to date to *TypeScript*, ZDNet [article](http://www.zdnet.com/microsoft-delivers-biggest-update-to-date-to-typescript-7000016972/)
- - FYI
-   - The *Polymer library* now has an example TodoMVC app, check out its source code [here](https://github.com/tastejs/todomvc/tree/gh-pages/labs/architecture-examples/polymer) ![][*]
-   - Is there any good way to do *multi-line truncation with ellipsis* in CSS only?, [discussion](https://twitter.com/stubbornella/status/347030733933670400) on Twitter
-   - New *DevTools snippets* added: CSS pretty-print, `window.performance` data, [source](https://twitter.com/addyosmani/status/347127000042971136)
- - Tutorials
-   - Creating  stylish *hover effects for image captions* (with CSS Transforms), [@crnacura]()’s [post](http://tympanus.net/codrops/2013/06/18/caption-hover-effects/) + [demos](http://tympanus.net/Tutorials/CaptionHoverEffects/index4.html)
-   - *Adding narration to your slide deck* with HTML5 `<audio>`, [@klamping]()’s [post](http://html5hacks.com/blog/2013/06/17/add-narration-to-your-slide-deck-with-html5-audio/) ![][*]
-   - Solving *JavaScript performance problems* with “forensics and detective work”, [@JohnMcCutchan]()’s [post](http://www.html5rocks.com/en/tutorials/performance/mystery/)
-   - Information hiding (i.e. *concealing implementation details*) in JavaScript, [@JugglinMike]()’s [post](http://weblog.bocoup.com/info-hiding-in-js/)
- - Articles
-   - Comparison of browsers on *HTML5 `<video>` accessibility*, [@terrillthompson]()’s [post](http://terrillthompson.com/blog/366)
-   - Case study: Abandoning a separate mobile site by *adapting to a responsive design*, [@DuckyMatt]()’s [post](http://mobile.smashingmagazine.com/2013/06/18/adapting-to-a-responsive-design-case-study/)
-   - *Gigabit apps* for the coming Gigabit Ethernet world, [@SethR]()’s CNET [post](http://news.cnet.com/8301-1023_3-57589753-93/fast-fiber-apps-coming-at-70-percent-the-speed-of-light/)
-   - Common *user experience issues* on the mobile web, [@DavidMoth]()’s [post](http://econsultancy.com/hr/blog/62870-12-usability-flaws-that-are-spoiling-the-mobile-web)
- - Media
-   - ShopTalk [podcast](http://shoptalkshow.com/episodes/073-with-val-head/) #73 with [@vlh]() (60 min): responsive images, *`em`-based media queries*, …
- - Demos
-   - Hair, a *HTML5 Canvas* experiment, [@mrPaumgarten]()’s [demo](http://codepen.io/MathiasPaumgarten/full/BHIek)
-   - 12 cool *button hover animations*, [@bartekd]()’s [demo](http://codepen.io/bartekd/pen/qFsDf)
- - Sites
-   - JSter JavaScript Catalog, a *catalog of JavaScript libraries* and tools for web development, [site](http://jster.net/catalog)
- - Tools
-   - HTML Inspector (JS library), an *HTML code quality tool* (runs in-browser), [post](http://philipwalton.com/articles/introducing-html-inspector/) + [repo](https://github.com/philipwalton/html-inspector)
-   - jsDelivr, a *free CDN* powered by 76 PoPs (locations) worldwide (hosts over 600 projects), [site](http://www.jsdelivr.com/) ![][*]
-   - Fontastic, an online tool for *creating custom icon fonts* (choose from over 1700 icons), [site](http://app.fontastic.me/)
- - Opinion
-   - “Even in modern countries, proper *internet access is a privilege*”, [@hellogeri]()’s [post](http://the-pastry-box-project.net/geri-coady/2013-june-18/)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
