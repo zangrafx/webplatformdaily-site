@@ -8,7 +8,7 @@ Nope. It'll come eventually.
 
 ## When are new dailies released?
 
-Weekdays around 5 pm ECT (European time).
+Weekdays in the early morning hours (European time).
 
 ## Where is the data stored?
 
