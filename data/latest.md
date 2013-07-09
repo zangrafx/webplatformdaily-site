@@ -11,7 +11,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - Tutorials
    - A guide to *choosing a responsive image* solution, [@sherrialexander]()’s extensive [post](http://mobile.smashingmagazine.com/2013/07/08/choosing-a-responsive-image-solution/) ![][*]
    - A guide to *using the `@extend` feature* (available with Sass, LESS, …), [@chriscoyier]()’s [post](http://css-tricks.com/the-extend-concept/)
-   - Using *CSS fallback properties* for better cross-browser compatibility, [@afshinmeh]()’s short [post](http://flippinawesome.org/2013/07/08/using-css-fallback-properties-for-better-cross-browser-compatibility/)
+   - Using *CSS fallback properties* for better cross-browser compatibility, [@afshinmeh]()’s short [post](http://afshinm.name/css-fallback-properties-better-cross-browser-compatibility/)
    - *Building a crowdfunding site* with Node.js, MongoDB and Balanced Payments, [@ncasenmare]()’s [post](https://hacks.mozilla.org/2013/07/so-you-wanna-build-a-crowdfunding-site/)
  - Content
    - Progressive enhancement and *feature detection with Modernizr*, [@StuCoxMedia]()’s cool [slide deck](http://stucox.github.io/mcrfred/) ![][*]
