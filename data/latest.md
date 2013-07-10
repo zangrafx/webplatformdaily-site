@@ -12,7 +12,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - Does *CSS Flexbox* have performance issues?, [discussion](https://twitter.com/chriscoyier/status/354644516914987008) on Twitter
  - Tutorials
    - *Integrating JSHint* (JavaScript linter) into your build process (Grunt + Sublime Text), [@burkeholland]()’s [post](http://www.kendoui.com/blogs/teamblog/posts/13-07-09/protecting-your-mellow-with-javascript-linters.aspx)
-   - *Creating stripped backgrounds* with CSS gradients and Sass, [@HugoGiraudel]()’s [post](http://css-tricks.com/striped-background-gradients/) + [demo](http://codepen.io/HugoGiraudel/pen/9fc7aefc8b2d9e7d8ccd0ddd976a1d53)
+   - *Creating striped backgrounds* with CSS gradients and Sass, [@HugoGiraudel]()’s [post](http://css-tricks.com/striped-background-gradients/) + [demo](http://codepen.io/HugoGiraudel/pen/9fc7aefc8b2d9e7d8ccd0ddd976a1d53)
    - Getting started with *CSS sourcemaps and in-browser Sass editing*, [@toolmantim]()’s [post](https://medium.com/what-i-learned-building/b4daab987fb0) ![][*]
  - Articles
    - *Web Animations* spec editor Brian Birtles explains *timing groups for synchronizing animations*, [post](http://brian.sol1.net/svg/2013/07/09/group-and-conquer-timing-groups-for-your-synchronization-woes/)
