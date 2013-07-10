@@ -5,7 +5,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - News
    - *W3C TAG by-election*: two candidates for vacated seat, TAG blog [post](http://www.w3.org/blog/TAG/2013/07/09/the-upcoming-tag-by-election/)
    - The first *HTTP/2.0 implementable draft* has been published by the IETF, [post](http://msopentech.com/blog/2013/07/09/start-prototyping-with-the-first-implementable-draft-of-http2-0-from-the-ietf-standards-community/) (MS OpenTech)
-   - *Web Audio API* comes to Firefox, [post](https://hacks.mozilla.org/2013/07/web-audio-api-comes-to-firefox/) (Mozzila Hacks)
+   - *Web Audio API* comes to Firefox, [post](https://hacks.mozilla.org/2013/07/web-audio-api-comes-to-firefox/) (Mozilla Hacks)
    - Chromium addresses the *300ms click delay* on mobile, [source](https://codereview.chromium.org/18850005/)
  - FYI
    - Microsoft is doing a good job at *upgrading users from IE9 to IE10*, [source](https://twitter.com/dstorey/status/354511055390654464) ![][*]
