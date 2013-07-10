@@ -1,5 +1,35 @@
 The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files). The README file of the repository also serves as a FAQ. Refer to it for information about this web-site.
 
+## July 10th, 2013
+
+ - News
+   - *W3C TAG by-election*: two candidates for vacated seat, TAG blog [post](http://www.w3.org/blog/TAG/2013/07/09/the-upcoming-tag-by-election/)
+   - The first *HTTP/2.0 implementable draft* has been published by the IETF, [post](http://msopentech.com/blog/2013/07/09/start-prototyping-with-the-first-implementable-draft-of-http2-0-from-the-ietf-standards-community/) (MS OpenTech)
+   - *Web Audio API* comes to Firefox, [post](https://hacks.mozilla.org/2013/07/web-audio-api-comes-to-firefox/) (Mozzila Hacks)
+   - Chromium addresses the *300ms click delay* on mobile, [source](https://codereview.chromium.org/18850005/)
+ - FYI
+   - Microsoft is doing a good job at *upgrading users from IE9 to IE10*, [source](https://twitter.com/dstorey/status/354511055390654464) ![][*]
+   - Does *CSS Flexbox* have performance issues?, [discussion](https://twitter.com/chriscoyier/status/354644516914987008) on Twitter
+ - Tutorials
+   - *Integrating JSHint* (JavaScript linter) into your build process (Grunt + Sublime Text), [@burkeholland]()’s [post](http://www.kendoui.com/blogs/teamblog/posts/13-07-09/protecting-your-mellow-with-javascript-linters.aspx)
+   - *Creating stripped backgrounds* with CSS gradients and Sass, [@HugoGiraudel]()’s [post](http://css-tricks.com/striped-background-gradients/) + [demo](http://codepen.io/HugoGiraudel/pen/9fc7aefc8b2d9e7d8ccd0ddd976a1d53)
+   - Getting started with *CSS sourcemaps and in-browser Sass editing*, [@toolmantim]()’s [post](https://medium.com/what-i-learned-building/b4daab987fb0) ![][*]
+ - Articles
+   - *Web Animations* spec editor Brian Birtles explains *timing groups for synchronizing animations*, [post](http://brian.sol1.net/svg/2013/07/09/group-and-conquer-timing-groups-for-your-synchronization-woes/)
+   - 13 stats to convince your boss to *invest in mobile* in 2013, [@Mike_Abasov]()’s [post](http://www.mobify.com/blog/13-stats-to-convince-your-boss-to-invest-in-mobile-in-2013/)
+   - An introduction to *CSS Custom Filters*, [@inserthtml]()’s [post](http://www.inserthtml.com/2013/07/css-custom-filters/) w/ short video demos ![][*]
+   - About *`setImmediate()`* and why it would be an useful addition to the web platform, [@slicknet]()’s [post](http://www.nczonline.net/blog/2013/07/09/the-case-for-setimmediate/)
+   - Why *mobile web apps* are slow, [@drewcrawford]()’s gigantic [post](http://sealedabstract.com/rants/why-mobile-web-apps-are-slow/)
+ - Content
+   - A huge *list of frontend development tools* (w/ links to comparison pages), [@codylindley]()’s [page](https://github.com/codylindley/frontend-tools)
+   - A little *CSS selectors quiz* (15 questions), [@mdaverde]()’s  [page](http://milanlandaverde.com/css-quiz)
+   - Idea: jQuery Lint, [mockup](https://twitter.com/simevidas/status/354640468107198466) (screen shot) + some [context](https://twitter.com/simevidas/status/354628777055236096)
+ - Tools
+   - fastclick, *eliminates the 300ms delay* between a physical tap and the firing of a `click` event, [repo](https://github.com/ftlabs/fastclick)
+   - Stylie (online tool), a *code generator for CSS animations*,  [@jeremyckahn]()’s [page](http://jeremyckahn.github.io/stylie/)
+   - Voodoo (JavaScript framework), lets you *mix 2D and 3D content* on the same page, [site](http://www.voodoojs.com/index.php) w/ demo
+   - Manifesto, an HTML5 Offline *Application Cache verification* bookmarklet, [site](http://manifesto.ericdelabar.com/)
+
 ## July 9th, 2013
 
  - News
@@ -46,7 +76,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - Idea: A modular *naming convention for Sass variables*, [@jimniels]()’s [post](http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/quick-tip-name-your-sass-variables-modularly/)
    - Feedback Request: *CSS `.specifiedStyle`* (some feedback is in comments), [@tabatkins]()’s [post](http://www.xanthir.com/b4Qi0)
  - Media
-   - Fripfrap #9, 33-min [podcast](http://fripfrap.io/09/) w/ [@littlecalculist]() (*asm.js*, *ES6*, …)
+   - Fripfrap #9, 33-min video [podcast](http://fripfrap.io/09/) w/ [@littlecalculist]() (*asm.js*, *ES6*, …)
    - Building *stateful modules with promises and events*, [@icofyre]()’s 26-min [@jqcon]() [talk](https://www.youtube.com/watch?v=3WnUXND0bSc)
    - Writing *testable, maintainable, scalable JavaScript*, [@damian]()’s 26-min [@ScotlandJS]() [talk](https://vimeo.com/68526881)
  - Content
@@ -306,42 +336,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - Font Squirrel web font generator, an online *tool for converting fonts* to TTF, WOFF, EOT, SVG, [page](http://www.fontsquirrel.com/tools/webfont-generator)
  - Opinion
    - “Why RWD (*responsive web design*) is not enough”, [@despos]()’s [post](http://tech-book-store.amazon.com/post/Tx22ZLKCAEHV4MS/Why-Responsive-Web-Design-Is-Not-Enough)
-
-## June 20th, 2013
-
- - News
-   - 3rd WD of “*Scalable Vector Graphics (SVG) 2*” released: [TR](http://www.w3.org/TR/SVG2/) + release [notes](http://www.w3.org/News/2013#entry-9866)
-   - CIS launches “Cookie Clearinghouse” to *enable user choice for online tracking*, [article](http://cyberlaw.stanford.edu/blog/2013/06/center-internet-and-society-launches-%E2%80%9Ccookie-clearinghouse%E2%80%9D-enable-user-choice-online) + Eich’s [post](https://brendaneich.com/2013/06/the-cookie-clearinghouse/) ![][*]
-   - *Adobe’s CFF font rasterizer* accepted by FreeType (used in Android), Adobe’s [post](http://blogs.adobe.com/typblography/2013/06/adobe-cff-font-rasterizer-accepted-by-freetype.html)
-   - Proposed modifications to the *descriptive text of the `<figure>` element*, [message](http://lists.w3.org/Archives/Public/public-html/2013Jun/0070.html) on `public-html`
-   - *DOM Futures* ([?](http://dom.spec.whatwg.org/#futures)) have landed in Firefox Nightly, [source](https://twitter.com/FirefoxNightly/status/347638997964713985)
-   - Chrome’s *bug with `em`-based media queries* has been fixed, [source](https://twitter.com/yoavweiss/status/347592102282133504)
- - Tutorials
-   - An easily digestible *introduction to Web Workers*, [@brian_cooksey]()’s [post](https://zapier.com/engineering/intro-to-web-workers/)
-   - A quick introductory guide to JavaScript’s *regular expression syntax*, [@nzgb]()’s [post](http://blog.ponyfoo.com/2013/05/27/learn-regular-expressions)
-   - Designing with IE10’s *`::-ms-`prefixed CSS pseudo elements*, [@jonathansampson]()’s [post](http://sampsonblog.com/615/ie10s-pseudo-elements)
-   - *Using CSS Flexbox* to recreate the Google Hangouts chat box design, [@chriscoyier]()’s [post](http://css-tricks.com/replicating-google-hangouts-chat/)
- - Articles
-   - Using *iframes to address performance/security issues* with third-party scripts, [@bluesmoon]()’s [interview](http://programming.oreilly.com/2013/06/using-iframes-to-address-third-party-script-issues-and-boost-performance.html)
- - Media
-   - The first batch of *[@mobilismconf]() 2013 videos* has been uploaded [here](http://vimeopro.com/mirabeaunl/mobilism-2013/)
-   - [@OReillyMedia]() has uploaded lots for short *videos from [@velocityconf]() 2013*, YouTube [playlist](http://www.youtube.com/playlist?list=PL055Epbe6d5bdB4KPqssegVpYUDJXSzOp)
- - Content
-   - Using `matchMedia()` to build *responsive web components* with Polymer, [demo](http://jsbin.com/esaros/3/edit)
-   - 69 tips and tricks for *using Chrome’s DevTools* more effectively, [page](https://developers.google.com/chrome-developer-tools/docs/tips-and-tricks) ![][*]
- - Demos
-   - An *animated Möbius strip* in ~30 lines of Sass, [@thebabydino]()’s [demo](http://codepen.io/thebabydino/pen/mcrLf)
-   - A “mega dropdown” component in pure CSS (written in SCSS, *uses BEM syntax*), [@csswizardry]()’s [demo](http://jsfiddle.net/csswizardry/A7d28/)
- - Sites
-   - CDNperf, *comparison of popular CDNs* in uptime and latency, [site](http://www.cdnperf.com/)
-   - OpenWeatherMap, a *free weather data* and forecast API, [site](http://openweathermap.org/)
- - Tools
-   - FriendCode, an *in-browser code editor* with code collaboration, [site](https://friendco.de/)
-   - blend.js (JS library), an *image manipulation tool* (supports multiple partitions and effects), demo [page](http://www.qur2.eu/blend.js/) ![][*]
-   - Grumpicon, an online tool for *creating HD-friendly SVG graphics* w/ automated fallbacks, [page](http://www.grumpicon.com/) + [post](http://filamentgroup.com/lab/introducing_grumpicon/)
-   - Reactor.js, a lightweight library for *reactive programming*, [repo](https://github.com/fynyky/reactor.js)
- - Opinion
-   - “The *W3C's Workshop format* isn't working”, [@slightlylate]()’s [post](http://infrequently.org/2013/06/that-old-skool-smell/)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
