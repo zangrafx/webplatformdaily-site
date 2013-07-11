@@ -1,5 +1,41 @@
 The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files). The README file of the repository also serves as a FAQ. Refer to it for information about this web-site.
 
+## July 11th, 2013
+
+ - News
+   - [@Hixie]() starts a *discussion about script preloading* at WHATWG’s maling list, [post](http://lists.whatwg.org/htdig.cgi/whatwg-whatwg.org/2013-July/039960.html)
+   - *Chrome 28 released* - read what’s new: SitePoint [article](http://www.sitepoint.com/chrome-28-whats-new/) + TNW [article](http://thenextweb.com/google/2013/07/09/chrome-28-arrives-with-rich-notifications-for-apps-and-extensions-on-windows-mac-and-linux-coming-soon/)
+   - New *Custom Elements features* in Chrome Canary, 14-min [screencast](https://plus.google.com/+EricBidelman/posts/L1iMpwVByP3)
+   - Support for *`"mouseenter"`/`"mouseleave"` events* has landed in Blink, [source](https://twitter.com/beverloo/status/354914034660802560)
+ - Tutorials
+   - 5 HTML5 and *ARIA design patterns*, [@LeonieWatson]()/[@stevefaulkner]()’s [post](http://www.netmagazine.com/features/5-html5-and-aria-design-patterns) ![][*]
+   - An *introduction to CSS regions*, [@chrisdavidmills]()’s DEV.OPERA [post](http://dev.opera.com/articles/view/an-introduction-to-css-regions/)
+   - *Adding keyboard commands* to a web page with Mousetrap, [@davidwalshblog]()’s [post](http://davidwalsh.name/keyboard-shortcuts) w/ demo
+   - How the *“Face to GIF” app* was built (`getUserMedia`, `createObjectURL`, `<canvas>`, …), [@hdragomir]()’s [post](https://hacks.mozilla.org/2013/07/the-making-of-face-to-gif/)
+ - Articles
+   - A roundup of the *new web platform technologies* in the upcoming Safari 6.1 and 7, [@stopsatgreen]()’s [post](http://www.broken-links.com/2013/07/10/web-platform-technologies-in-safari-6-1-and-7/)
+   - *This is a web page* (“…the most powerful tool on the web is still words”), [page](http://justinjackson.ca/words.html) ![][*]
+ - Media
+   - 2 *videos from the SF Node.js meetup* at Mozilla: Working with Node.js and the Buffer API, [page](http://blog.strongloop.com/new-videos-working-with-node-js-and-the-buffer-api/)
+   - Tips, tricks, and tools for developing *fast applications with JavaScript*, 61-min [@bldwin]() [talk](http://channel9.msdn.com/Events/Build/2013/4-313)
+ - Content
+   - Techniques for addressing *keyboard accessibility issues*, [@jared_w_smith]()’s 42-page [slide deck](http://www.slideshare.net/jared_w_smith/keyboard-accessibility-24070581)
+   - *Interview about HTTP 2.0* with [@mnot]() (chair of HTTP WG at IETF), [page](http://www.geekpage.jp/en/blog/2013/akamai-http20.php) ![][*]
+   - A small *test page for Shadow DOM* - view how the built-in elements are structured in Chrome, [tweet](https://twitter.com/ryanseddon/status/355126351071690752)
+   - A huge *list of WebRTC resources*, [@sw12]()’s Google [document](https://docs.google.com/document/d/1idl_NYQhllFEFqkGQOLv8KBK8M3EVzyvxnKkHl4SuM8/edit)
+ - Demos
+   - Several cool *Web Audio demo pages*, [@stuartmemo]()’s [site](http://stuartmemo.com/)
+   - *Animated 3D molecules* in pure CSS, [@thebabydino]()’s [demo](http://codepen.io/thebabydino/details/xbfao)
+   - *Fluid simulation* with Turing patterns, [@Flexi23]()’s WebGL [demo](http://cake23.de/turing-fluid.html)
+ - Sites
+   - Should I use a carousel? (*arguments against using carousels* on web sites), [site](http://shouldiuseacarousel.com/)
+ - Tools
+   - atMedia.info (online tool), provides *media query information* for your device, [site](http://atmedia.info/)
+   - Mocky, an online tool for *generating custom HTTP responses* (for testing purposes), [site](http://www.mocky.io/)
+ - Opinion
+   - In defense of the humble *`id` attribute*, [@johnallsopp]()’s [post](http://www.webdirections.org/blog/in-defense-of-the-humble-id-attribute/)
+   - *Responsible design* = responsive design + accessibility, [tweet](https://twitter.com/PayPalInclusive/status/354281912686243840)
+
 ## July 10th, 2013
 
  - News
@@ -46,7 +82,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - Content
    - Progressive enhancement and *feature detection with Modernizr*, [@StuCoxMedia]()’s cool [slide deck](http://stucox.github.io/mcrfred/) ![][*]
    - *JavaScript coding conventions* crowdsourced from GitHub commits, [page](http://sideeffect.kr/popularconvention/)
-   - *[Interview](http://www.awwwards.com/interview-with-addy-osmani-developer-programs-engineer-at-google.html) with [@addyosmani]()* - Yeoman, DevTools, JavaScript, Web Components, TasteJS, Dart
+   - *Interview with [@addyosmani]()* about Yeoman, DevTools, JavaScript, Web Components, TasteJS, Dart, [page](http://www.awwwards.com/interview-with-addy-osmani-developer-programs-engineer-at-google.html)
  - Demos
    - *Direction-aware hover* effect (CSS 3D transforms + JavaScript), [@pixelia_me]()’s [demo](http://codepen.io/noeldelgado/pen/pGwFx)
  - Tools
@@ -299,43 +335,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - Font Custom, a command-line tool for *creating icon web fonts* from SVG, [site](http://fontcustom.com/)
    - SimpleWebRTC, a JavaScript library for *WebRTC*, [site](http://simplewebrtc.com/)
    - SVGO, a Node.js module for *optimizing SVG files*, [repo](https://github.com/svg/svgo)
-
-## June 21st, 2013
-
- - News
-   - New W3C releases:
-     - 1st WD of “*Web Telephony API*”, [TR](http://www.w3.org/TR/2013/WD-telephony-20130620/) (defines an *API to manage telephone calls*)
-     - **Last Call** WD of “*CSS Custom Properties for Cascading Variables*”, [TR](http://www.w3.org/TR/2013/WD-css-variables-1-20130620/) + [diff](http://www.w3.org/TR/2013/WD-css-variables-1-20130620/,diff)
-     - 1st WD of “*CSS Shapes*”, [TR](http://www.w3.org/TR/2013/WD-css-shapes-1-20130620/) + release [notes](http://www.w3.org/blog/CSS/2013/06/20/css-shapes-first-public-working-draft/) (previously part of “CSS Exclusions and Shapes”)
-     - 2nd WD of “*CSS Masking*”, [TR](http://www.w3.org/TR/2013/WD-css-masking-20130620/) + [diff](http://www.w3.org/TR/2013/WD-css-masking-20130620/,diff) + release [notes](http://www.w3.org/blog/CSS/2013/06/20/css-masking-draft-updated/)
-   - ![][&] What are the *use cases for `<figure>`* without a `<figcaption>`?, [discussion](http://lists.w3.org/Archives/Public/public-html/2013Jun/0076.html) on `public-html`
-   - ![][&] *Geometry API* (for intersections, etc.) proposed [here](https://twitter.com/shepazu/status/347779239405289472)
-   - Inital (limited) support for *Web Audio API* soon in Chrome for Android, [source](https://twitter.com/html5/status/347790262287872000)
-   - The *HTTP Archive dataset* now available on Google BigQuery, [@igrigorik]()’s [post](http://www.igvita.com/2013/06/20/http-archive-bigquery-web-performance-answers/) w/ 10-min presentation ![][*]
- - FYI
-   - The *Blink engine* appears on 5 platforms: Windows, Mac, Linux, Chrome OS and Android
- - Tutorials
-   - Increasing *performance of web fonts* (+ several *font loading solutions*), [@ianfeather]()’s [post](http://ianfeather.co.uk/web-fonts-and-the-critical-path/) ![][*]
-   - Properly *scaling images* that have a `width` and `height` set in HTML, [@rogerjohansson]()’s short [post](http://www.456bereastreet.com/archive/201306/how_to_proportionally_scale_images_that_have_dimension_attributes/)
-   - Using *Promises in AngularJS* views, [@markdalgleish]()’s [post](http://markdalgleish.com/2013/06/using-promises-in-angularjs-views/)
-   - Editing and *updating Sass files* directly from within Chrome’s DevTools, [@umaar]()’s [post](http://net.tutsplus.com/tutorials/html-css-techniques/developing-with-sass-and-chrome-devtools/)
- - Articles
-   - *asm.js* - what it is and what it isn’t, [@kripken]()’s [post](http://mozakai.blogspot.com/2013/06/what-asmjs-is-and-what-asmjs-isnt.html) (very extensive but has good tl;dr)
-   - Introducing HTML5 Rocks’s new *mobile friendly TOC* (table of contents), [@Paul_Kinlan]()’s [post](http://paul.kinlan.me/another-experiment-in-creating-a-mobile-friendly-table-of-contents/)
- - Media
-   - An overview of *ECMAScript 6*, [@rauschma]()’s 39-min [@fluentconf]() [talk](http://www.2ality.com/2013/06/video-es6.html)
- - Content
-   - *HTML element/attribute usage stats* from the latest WebDevData data set, [spread sheet](https://docs.google.com/spreadsheet/ccc?key=0AlVP5_A996c5dFhMQ3R2SG1uZFNZVEsxUURQN213VVE#gid=0)
-   - “Primer on *Web Performance*”, chapter 10 of [@igrigorik]()’s upcoming book, [link](http://chimera.labs.oreilly.com/books/1230000000545/ch10.html)
-   - Optimizing the critical rendering path (*mobile performance*), [@igrigorik]()’s [slide deck](https://docs.google.com/presentation/d/1IRHyU7_crIiCjl0Gvue0WY3eY_eYvFQvSfwQouW9368/present#slide=id.p19) from [@velocityconf]() ![][*]
-   - *Optimizing image performance*, [@guypod]()’s [slide deck](http://www.slideshare.net/guypod/a-picture-costs-a-thousand-words18062013) from [@velocityconf]()
- - Sites
-   - JavaScript Cookbook (new site), aims to provide *solutions to common JavaScript problems*, [site](http://javascriptcookbook.com/) 
-   - Are we componentized yet?, tracks the *progress of Web Components*, [site](http://jonrimmer.github.io/are-we-componentized-yet/)
- - Tools
-   - Font Squirrel web font generator, an online *tool for converting fonts* to TTF, WOFF, EOT, SVG, [page](http://www.fontsquirrel.com/tools/webfont-generator)
- - Opinion
-   - “Why RWD (*responsive web design*) is not enough”, [@despos]()’s [post](http://tech-book-store.amazon.com/post/Tx22ZLKCAEHV4MS/Why-Responsive-Web-Design-Is-Not-Enough)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
