@@ -1,5 +1,35 @@
 The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files). The README file of the repository also serves as a FAQ. Refer to it for information about this web-site.
 
+## July 12th, 2013
+
+ - News
+   - *Web Platform Doc Sprint* to be held in Zurich on August 28th, [post](http://blog.webplatform.org/2013/07/web-platform-doc-sprint-august-28-2013-zurich-switzerland/)
+   - Experimental support for *ES6 `Array` iterator methods* in V8, [source](https://twitter.com/beverloo/status/355318301070589953)
+   - *Firefox OS Simulator* 4.0 released (now simulates touch events), [post](https://hacks.mozilla.org/2013/07/firefox-os-simulator-4-0-released/) (Mozilla Hacks)
+   - Deutsche Telekom announces European launch of *Firefox OS devices*, [post](https://blog.mozilla.org/blog/2013/07/11/deutsche-telekom-announces-european-launch-of-firefox-os-devices/) (Mozilla blog)
+ - FYI
+   - Upcoming GDL session (July 16): *Encrypted Media Extensions* 101, [tweet](https://twitter.com/ChromiumDev/status/355328024650072067) (post and vote for questions)
+   - IE11 added to [@kangax]()’s *ECMAScript compatibility tables*, [source](https://twitter.com/kangax/status/355360954395017217)
+ - Tutorials
+   - *Capturing responsive screenshots* with PhantomJS and Casper, [@shaundunne]()’s [post](http://net.tutsplus.com/tutorials/javascript-ajax/responsive-screenshots-with-casper/)
+   - A quick overview of the *HTML5 History API*, [@ImpressiveWebs]()’s [post](http://www.impressivewebs.com/html5-history-api-syntax/)
+   - Creating a *fluid-height banner*, [@csswizardry]()’s [demo](http://jsfiddle.net/csswizardry/upRpy/) w/ instructions
+ - Articles
+   - *Node.js* - where we came from and where we are headed, [@FaisalAbid]()’s [post](https://medium.com/i-m-h-o/433b55562cd5)
+   - *Responsive design*: we are not there yet, [@helloanselm]()’s [post](http://www.netmagazine.com/features/responsive-design-we-are-not-there-yet)
+ - Media
+   - ShopTalk Rapidfire #18, [@chriscoyier]()/[@davatron5000]()’s 73-min [podcast](http://shoptalkshow.com/episodes/077-rapidfire-18/) ![][*]
+   - Using jQuery to build a federated, *real-time video chat app*, [@robinraymond]()’s 38-min [@jqcon]() [talk](https://www.youtube.com/watch?v=XR5p8eudSSk)
+ - Content
+   - *Practical screen reader support* by browser and OS (support table), [@stevefaulkner]() [post](http://blog.paciellogroup.com/2012/02/rough-guide-browsers-operating-systems-and-screen-reader-support/)
+   - Accessibility expert warns: *stop using carousels*, [interview](http://www.netmagazine.com/news/accessibility-expert-warns-stop-using-carousels-132875) with [@jared_w_smith]()
+   - *Synchronized cross-device live-reloading* on every change with Grunt, [post](https://plus.google.com/+AddyOsmani/posts/Utwx3g7ACar)
+   - A large-scale field study of *browser security warning effectiveness*, [@frgx]()/[@\__apf__]()’s PDF [document](http://www.cs.berkeley.edu/~devdatta/papers/alice-in-warningland.pdf)
+   - Assemble: *Yeoman’s missing piece*, [@glenmaddern]()’s [@melbjs]() [slide deck](http://geelen.github.io/assemble-talk/)
+ - Demos
+   - *Animated books* with CSS 3D Transforms, [@marco_bf]()’s [demo](http://tympanus.net/Development/AnimatedBooks/index.html) + [post](http://tympanus.net/codrops/2013/07/11/animated-books-with-css-3d-transforms/)
+   - *Chrome-style loader* with minimal SVG and CSS animations, [@LeaVerou]()’s [demo](http://dabblet.com/gist/5975018)
+
 ## July 11th, 2013
 
  - News
@@ -302,39 +332,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - Yass.js (library), a *`srcset` polyfill* (for responsive images), [page](http://eightmedia.github.io/yass.js/)
    - CollagePlus (jQuery plugin), *arranges images* to fit exactly within a container, [page](http://ed-lea.github.io/jquery-collagePlus/) + jsFiddle [demo](http://jsfiddle.net/edlea/uZv3n/)
    - Chance.js, *generates random strings, numbers*, etc. (for automated tests), [page](http://chancejs.com/)
-
-## June 24th, 2013
-
- - News
-   - *WebRTC* enabled by default in Firefox Nightly, [source](https://twitter.com/twelephone/status/348535753506172928)
-   - Support for *H.264* lands in Firefox Nightly (only on Linux!), [source](https://twitter.com/FirefoxNightly/status/349100622655651841)
-   - Developers respond to *CSS Shapes* module, .net magazine [article](http://www.netmagazine.com/news/devs-respond-css-shapes-module-level-1-132834)
-   - Dolphin Browser joins Mozilla Firefox in building its own *HTML5 app store*, [article](http://www.smartcompany.com.au/information-technology/056135-dolphin-browser-joins-mozilla-firefox-in-building-its-own-html5-app-store.html)
-   - Foxconn to hire 3,000 to support *Firefox OS* and software development, ITWorld [article](http://www.itworld.com/361807/foxconn-hire-3000-support-firefox-os-and-software-development)
- - FYI
-   - *SVG sprites* more susceptible to rendering performance issues than PNG sprites, [discussion](https://twitter.com/chriscoyier/status/348508652715507712) on Twitter
-   - `document.documentMode` tells you the *document mode in IE* (Standards, Quirks, IE9 standards, etc.), [source](https://twitter.com/jonathansampson/status/348152369244160000)
- - Tutorials
-   - *Grunt - advanced usage* (bash functions, aliasing tasks, `watch`, …), [@ChrisAWren]()’s [post](http://chrisawren.com/posts/Advanced-Grunt-tooling)
-   - Working around a lack of *element queries in CSS*, [@scottjehl]()’s [post](http://filamentgroup.com/lab/element_query_workarounds/) ![][*]
-   - Better web-site performance with “*static memory JavaScript*“, [@duhroach]()’s [post](http://www.html5rocks.com/en/tutorials/speed/static-mem-pools/)
- - Media
-   - *The independent web* and [@indiewebcamp](), [@t]()’s 19-min [discussion](https://www.youtube.com/watch?v=XE0AA6gVRSI) at GDL
-   - Coping with the broken web (*writing tests for web specs*), [@rodneyrehm]()’s 18-min [@fronttrends]() [talk](https://vimeo.com/68680319) ![][*]
- - Content
-   - List of *mobile emulators and simulators*, [page](http://www.mobilexweb.com/emulators) 
-   - Quick summary of client-side *JavaScript error reporting* services, [@paul_irish]()’s [post](https://plus.google.com/+PaulIrish/posts/12BVL5exFJn) on Google+
-   - *Page load performance* and resource loading, J. Simonsen’s [presentation](https://docs.google.com/presentation/d/1Ol4xMKkiZgbJUL0n-h3xEcTch6sD5gSyCxNK1m2wXYo/edit#slide=id.p) from [@velocityconf]()
-   - Comparison of jQuery UI and the *HTML5 `<input>` types*, [@tjvantoll]()’s [slide deck](http://tjvantoll.com/speaking/slides/2013/UI-Widgets-vs-HTML5/) 
- - Demos
-   - Qb Qb Qb, a *desktop game* powered by HTML5 Canvas, [demo](http://qbqbqb.rezoner.net/) ([via](http://creativejs.com/2013/06/qb-qb-qb-arcade-puzzle-game/))
-   - A *CSS logo* that shows its layers on click, [@99tharun]()’s [demo](http://codepen.io/99tharun/pen/gsiGb)
- - Sites
-   - *SSL* Labs, a collection of documents, tools and thoughts related to SSL, [site](https://www.ssllabs.com/)
- - Tools
-   - Font Custom, a command-line tool for *creating icon web fonts* from SVG, [site](http://fontcustom.com/)
-   - SimpleWebRTC, a JavaScript library for *WebRTC*, [site](http://simplewebrtc.com/)
-   - SVGO, a Node.js module for *optimizing SVG files*, [repo](https://github.com/svg/svgo)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
