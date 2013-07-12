@@ -16,7 +16,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - Creating a *fluid-height banner*, [@csswizardry]()’s [demo](http://jsfiddle.net/csswizardry/upRpy/) w/ instructions
  - Articles
    - *Node.js* - where we came from and where we are headed, [@FaisalAbid]()’s [post](https://medium.com/i-m-h-o/433b55562cd5)
-   - *Responsive design*: we are not there yet, [@helloanselm]()’s [post](http://www.netmagazine.com/features/responsive-design-we-are-not-there-yet)
+   - *Responsive design*: we are not there yet, [@helloanselm]()’s [post](http://www.netmagazine.com/features/responsive-design-we-are-not-there-yet) ![][*]
  - Media
    - ShopTalk Rapidfire #18, [@chriscoyier]()/[@davatron5000]()’s 73-min [podcast](http://shoptalkshow.com/episodes/077-rapidfire-18/) ![][*]
    - Using jQuery to build a federated, *real-time video chat app*, [@robinraymond]()’s 38-min [@jqcon]() [talk](https://www.youtube.com/watch?v=XR5p8eudSSk)
