@@ -1,5 +1,41 @@
 The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files). The README file of the repository also serves as a FAQ. Refer to it for information about this web-site.
 
+## July 15th, 2013
+
+ - FYI
+   - Chrome DevTools protips:
+     - `copy(JSON.stringify(data, null, 2))` for nifty *formatted JSON to your clipboard*, [tweet](https://twitter.com/ryanseddon/status/355619613729497088)
+     - Setting *breakpoints for DOM modifications*, [tweet](https://twitter.com/addyosmani/status/355784723043332101)
+ - Tutorials
+   - Nice JavaScript trick: *Placing custom text into the clipboard* when user presses `Crtl+C`, [@d_lec]()’s [post](http://stackoverflow.com/a/17528590/425275)
+   - A guide to *styling custom elements in Polymer* (new CSS features + Polymer’s polyfills), [@ebidel]()’s [post](http://www.polymer-project.org/articles/styling-elements.html)
+   - Two interesting examples of using *partially configured (curried) functions*, [@hughfdjackson]()’s [post](http://hughfdjackson.com/javascript/2013/07/06/why-curry-helps/)
+   - *Applying SVG filters* to your HTML content with CSS, [@agreenblatt]()’s [post](http://blattchat.com/2013/07/13/fun-with-svg-filters/) ![][*]
+ - Articles
+   - *Firefox OS’s openness* explained (w/ useful links), [@ruk]()’s [post](http://ruk.ca/content/my-first-firefox-os-app-hits-firefox-marketplace)
+   - Trying to *completely disable any HTML element* with HTML/CSS alone, [@vasilis]()’s [post](http://nerd.vasilis.nl/disable-html-elements-with-css-only/)
+   - *Hyperlink design tips* for better user experience and enhanced accessibility, [@johneemac]()’s [post](http://sixrevisions.com/usability/hyperlink-design/)
+   - “*Chrome DevTools* Revolutions 2013” recap, [@DevDocDude]()’s [post](http://www.html5rocks.com/en/tutorials/developertools/revolutions2013/) ![][*]
+ - Media
+   - *jQuery* is a Swiss army knife (and that’s OK!), [@ajpiano]()’s 32-min [@jqcon]() [talk](http://youtu.be/_FNiw0BFoMQ)
+ - Content
+   - A selected list of the best *web accessibility resources*, [page](http://www.deque.com/top-web-accessibility-resources)
+   - “ES6: The Awesome Parts” (covers *generators and template strings*), [@domenic]()’s 41-page [slide deck](http://www.slideshare.net/domenicdenicola/es6-the-awesome-parts)
+   - *Site compatibility for Firefox* 22, useful MDN [page](https://developer.mozilla.org/en-US/docs/Site_Compatibility_for_Firefox_22) (each Firefox version has one such page) ![][*]
+ - Demos
+   - Rotating 3D iPhone *with live on-screen video* in pure CSS,[@jlwebart]()’s [demo](http://codepen.io/jlwebart/full/JDHne) (view in Chrome)
+ - Sites
+   - DevTools Snippets, a *collection of helpful code snippets* to use inside Chrome’s DevTools ([?](https://developers.google.com/chrome-developer-tools/docs/authoring-development-workflow#snippets)), [site](http://bgrins.github.io/devtools-snippets/)
+   - npmsearch, a *search tool for Node.js packages* w/ ratings, [site](http://npmsearch.com/)
+ - Tools
+   - Minified.js, a 4kB *alternative to jQuery*, [site](http://minifiedjs.com/)
+   - date for humans (JS library), an *English language date parser*, [page](http://matthewmueller.github.io/date/)
+   - GistBox, a personal code library for *organizing code snippets*, [site](http://www.gistboxapp.com/)
+   - elementTransitions.js (CSS + JS file), a collection of *transition effects for page elements*, [page](http://dan-silver.github.io/ElementTransitions.js/)
+ - Opinion
+   - The biggest *challenges of responsive design* are not technology problems, [@adactio]()’s [post](http://adactio.com/journal/6328/)
+   - Don’t make *second-class APIs*, [@bgalbs]()’s [post](http://benzilla.galbraiths.org/2013/06/19/dont-make-second-class-apis/)
+
 ## July 12th, 2013
 
  - News
@@ -301,37 +337,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - scoped-media-query (Sass mixin), an *element query workaround*, [repo](https://github.com/filamentgroup/scoped-media-query)
    - jQuery Debugger (Chrome extension), displays *jQuery data and event handlers* in DevTools, [page](https://chrome.google.com/webstore/detail/jquery-debugger/dbhhnnnpaeobfddmlalhnehgclcmjimi)
    - web-animations-js, an emulator of the *Web Animations* specification, [repo](https://github.com/web-animations/web-animations-js)
-
-## June 25th, 2013
-
- - News
-   - *Firefox 22* released, [info](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/22) for developers + release [notes](http://www.mozilla.org/en-US/firefox/22.0/releasenotes/)
-   - *CSS `background-blend-mode`* now supported in Chrome Canary and WebKit Nightly, Adobe blog [post](http://blogs.adobe.com/webplatform/2013/06/24/css-background-blend-modes-are-now-available-in-chrome-canary-and-webkit-nightly/)
-   - *WebRTC* support coming to Chrome for Android, [source](https://twitter.com/html5/status/349351297704660995)
- - FYI
-   - Which CSS features *create a new stacking context*?, [discussion](https://twitter.com/dstorey/status/349278607887171584) on Twitter
-   - `text-rendering: optimizeLegibility` *disables web fonts* on Android, [source](https://twitter.com/Fyrd/status/349367667410485248)
-   - HTML comments can appear within JavaScript code in `<script>` blocks, [source](http://javascript.spec.whatwg.org/#comment-syntax)
- - Tutorials
-   - Using *`localStorage` with MV\* frameworks* (AngularJS, Backbone.js, Knockout), [@alex_young]()’s [post](http://dailyjs.com/2013/06/20/localstorage/)
-   - Creating a simple effect with *CSS 3D transforms*, [@davidwalshblog]()’s [post](http://davidwalsh.name/animating-sidebar)
-   - An introduction to *ECMAScript 6 generators*, [@airportyh]()’s [post](http://tobyho.com/2013/06/16/what-are-generators/)
- - Articles
-   - Understanding the difference between CSS *compositing and blending*, [@agreenblatt]()’s [post](http://blattchat.com/2013/06/11/understanding-compositing-blending/)
-   - Introducing a library that *provides CSS element queries* via attribute selectors, [@tysonmatanich]()’s [post](http://coding.smashingmagazine.com/2013/06/25/media-queries-are-not-the-answer-element-query-polyfill/) ![][*]
-   - Using *Lo-Dash instead of Underscore.js* for superior performance, [@w33ble]()’s [post](http://joefleming.net/posts/use-lodash-instead-of-underscore/)
-   - *Phishing by data URI* - phishing web pages that are entirely contained within data URIs, [@hennikl]()’s [doc](https://docs.google.com/viewer?url=http://klevjers.com/papers/phishing.pdf)
-   - “The *CSS Shapes* module will revolutionize web design”, [@nickrp]()’s [post](http://blog.teamtreehouse.com/the-css-shapes-module-will-revolutionize-web-design)
- - Content
-   - 10 “must-have” *Chrome extensions for web developers*, [@gracesmith]()’s [post](http://mashable.com/2013/02/19/chrome-extensions-developers/#_) ![][*]
-   - Deciding which *front-end framework* to use (H5BP, Bootstrap, Foundation), [@Zing_Design]()’s [flowchart](http://www.zingdesign.com/twitter-bootstrap-decision-time/)
- - Sites
-   - “Welcome to CSS!”, an introductory *guide to CSS*, [@inserthtml]()’s [site](http://inserthtml.com/codex/)
- - Tools
-   - js-breakpoints (library), triggers JavaScript callbacks based on *CSS media query breakpoints*, [repo](https://github.com/14islands/js-breakpoints)
-   - Yass.js (library), a *`srcset` polyfill* (for responsive images), [page](http://eightmedia.github.io/yass.js/)
-   - CollagePlus (jQuery plugin), *arranges images* to fit exactly within a container, [page](http://ed-lea.github.io/jquery-collagePlus/) + jsFiddle [demo](http://jsfiddle.net/edlea/uZv3n/)
-   - Chance.js, *generates random strings, numbers*, etc. (for automated tests), [page](http://chancejs.com/)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
