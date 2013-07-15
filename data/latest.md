@@ -7,7 +7,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
      - `copy(JSON.stringify(data, null, 2))` for nifty *formatted JSON to your clipboard*, [tweet](https://twitter.com/ryanseddon/status/355619613729497088)
      - Setting *breakpoints for DOM modifications*, [tweet](https://twitter.com/addyosmani/status/355784723043332101)
  - Tutorials
-   - Nice JavaScript trick: *Placing custom text into the clipboard* when user presses `Crtl+C`, [@d_lec]()’s [post](http://stackoverflow.com/a/17528590/425275)
+   - Nice JavaScript trick: *Placing custom text into the clipboard* when user presses `Ctrl+C`, [@d_lec]()’s [post](http://stackoverflow.com/a/17528590/425275)
    - A guide to *styling custom elements in Polymer* (new CSS features + Polymer’s polyfills), [@ebidel]()’s [post](http://www.polymer-project.org/articles/styling-elements.html)
    - Two interesting examples of using *partially configured (curried) functions*, [@hughfdjackson]()’s [post](http://hughfdjackson.com/javascript/2013/07/06/why-curry-helps/)
    - *Applying SVG filters* to your HTML content with CSS, [@agreenblatt]()’s [post](http://blattchat.com/2013/07/13/fun-with-svg-filters/) ![][*]
