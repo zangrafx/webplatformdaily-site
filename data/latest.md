@@ -36,7 +36,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - PouchDB, a *JavaScript database for web apps* that need to work offline, [repo](https://github.com/daleharvey/pouchdb)
    - SlimerJS, a *scriptable browser* (similar to PhantomJS but runs Gecko), [site](http://slimerjs.org/)
  - Opinion
-   - Support *Sergey for W3C TAG* (polls close today at midnight), [@slightlylate]()’s [post](http://briankardell.wordpress.com/2013/07/15/once-more-unto-the-breach/)
+   - Support *Sergey for W3C TAG* (**polls close today**), [@slightlylate]()’s [post](http://briankardell.wordpress.com/2013/07/15/once-more-unto-the-breach/)
 
 ## July 15th, 2013
 
