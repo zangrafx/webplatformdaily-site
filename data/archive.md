@@ -1,3 +1,41 @@
+## June 26th, 2013
+
+ - News
+   - New W3C releases:
+     - **New:** 1st WD of “*Web Animations*”, [TR](http://www.w3.org/TR/web-animations/)
+     - 2nd WD of “*Compositing and Blending*”, [TR](http://www.w3.org/TR/compositing-1/) + [diff](http://www.w3.org/TR/2013/WD-compositing-1-20130625/,diff)
+     - 3rd WD of “*Web Cryptography API*”, [TR](http://www.w3.org/TR/WebCryptoAPI/) + [diff](http://www.w3.org/TR/2013/WD-WebCryptoAPI-20130625/)
+   - *IE11 for Windows 8.1* brings WebGL, SPDY/3, new dev tools, …, [article](http://microsoft-news.com/webgl-spdy3-new-dev-tools-more-confirmed-for-ie11-in-win-8-1/) w/ screens
+   - An overview of the *WebRTC implementation* in Firefox 22, Mozilla Hacks [article](https://hacks.mozilla.org/2013/06/webrtc-comes-to-firefox/)
+ - Tutorials
+   - Creating impressive *modal window effects* w/ CSS transforms, [@crnacura]()’s [post](http://tympanus.net/codrops/2013/06/25/nifty-modal-window-effects/) + [demo](http://tympanus.net/Development/ModalWindowEffects/) page ![][*]
+   - Loading web pages *without third-party resources* for testing, [@ariyahidayat]()’s [post](http://ariya.ofilabs.com/2013/06/web-page-without-external-resources.html)
+   - Creating a *simple flipping animation* with CSS transforms, [@davidwalshblog]()’s [post](http://davidwalsh.name/css-flip)
+   - Using the *ES6 module syntax* and transpiling to ES5 with a Grunt task, [@thomasABoyt]()’s [post](http://www.thomasboyt.com/2013/06/21/es6-module-transpiler)
+   - A short guide to the new *HTML5 `<main>` element*, [@Rich_Clark]()’s [post](http://html5doctor.com/the-main-element/)
+ - Articles
+   - Improving the *web development workflow*, [@auchenberg]()’s extensive [post](http://blog.kenneth.io/blog/2013/05/21/our-web-development-workflow-is-completely-broken/) ![][*]
+   - The *implications of seamless IFRAMEs* (`<iframe seamless>`), [@triblondon]()’s [post](http://labs.ft.com/2013/01/seamless-iframes-not-quite-seamless/)
+   - An extensive guide to *URL encoding*, [@UnFroMage]()’s [post](http://blog.lunatech.com/2009/02/03/what-every-web-developer-must-know-about-url-encoding)
+   - asm.js (in latest Firefox) brings *full native applications* to the Web, [@sieth_mysix]()’s [post](https://blog.mozilla.org/mbest/2013/06/25/asm-js-its-really-fast-backwards-compatible-and-now-in-the-release-version-of-firefox/)
+   - A short “getting started” guide to *writing reftests*,  [@boblet]()’s [post](http://the-pastry-box-project.net/oli-studholme/2013-june-26/)
+   - *Web Animations* - what they are and how they came about, [post](http://brian.sol1.net/svg/2013/06/26/introducing-web-animations/) ![][*]
+ - Media
+   - Developing *mobile web apps with Yeoman*, live-reload,… , [@gauntface]()’s 25-min GDL [presentation](https://www.youtube.com/watch?v=Q_Ud7Q2F0F8)
+   - Responsible *responsive images*, [@wilto]()’s 45-min [@mobilismconf]() [talk](https://twitter.com/simevidas/status/350777133125222400) ![][*] **WATCH THIS**
+ - Content
+   - W3C *Mobile Web Best Practices* (MWBP) flipcards, [page](http://www.w3.org/2007/02/mwbp_flip_cards)
+   - A list of relevant resources on *responsive images*, [wiki](https://github.com/ResponsiveImagesCG/picture-element/wiki/Relevant-resources) on GitHub
+   - Secrets of the browser’s *developer tools*, [@AndiSmith]()’s [slide deck](http://www.83rdstasis.net/devtoolsecrets/slides/london-web/)
+ - Demos
+   - A collections of *loading animations*, [page](http://codepen.io/collection/HtAne)
+ - Tools
+   - DiagnostiCSS, a style sheet that visually detects any potentially *invalid or inaccessible HTML markup*, [page](http://diagnosticss.github.io/)
+   - scoped-media-query (Sass mixin), an *element query workaround*, [repo](https://github.com/filamentgroup/scoped-media-query)
+   - jQuery Debugger (Chrome extension), displays *jQuery data and event handlers* in DevTools, [page](https://chrome.google.com/webstore/detail/jquery-debugger/dbhhnnnpaeobfddmlalhnehgclcmjimi)
+   - web-animations-js, an emulator of the *Web Animations* specification, [repo](https://github.com/web-animations/web-animations-js)
+
+
 ## June 25th, 2013
 
  - News

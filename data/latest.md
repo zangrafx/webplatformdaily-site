@@ -1,5 +1,43 @@
 The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files). The README file of the repository also serves as a FAQ. Refer to it for information about this web-site.
 
+## July 16th, 2013
+
+ - News
+   - An *introduction to Encrypted Media Extensions*, GDL [session](https://developers.google.com/live/shows/826991846) (**today at 5 p.m. UTC**)
+   - A new *ECMAScript 6 specification draft* released (revision 16), [tweet](https://twitter.com/awbjs/status/356939809119420416) 
+   - Add-ons support coming to *Firefox OS*, [source](https://twitter.com/fabricedesre/status/356697308458532866)
+   - *Remote debugging over raw USB* coming to Chrome, [source](https://plus.google.com/u/0/100132233764003563318/posts/RJFZSYDgpMm?e=-RedirectToSandbox)
+   - Support for *CSS `background-attachment: local`* coming to Firefox, [source](https://twitter.com/LeaVerou/status/356915789716135936)
+ - Tutorials
+   - Writing *maintainable and scalable JavaScript* with the soma.js framework, [@soundstep]()’s extensive [post](http://flippinawesome.org/2013/07/15/soma-js-your-way-out-of-chaotic-javascript/)
+   - Quick JavaScript lesson: How *trailing commas in object/array literals* work, [@rauschma]()’s [post](http://www.2ality.com/2013/07/trailing-commas.html)
+   - Building web apps with the *Yeoman workflow*, [@stephenplusplus]()’s [post](http://net.tutsplus.com/tutorials/javascript-ajax/building-apps-with-the-yeoman-workflow/) ![][*]
+ - Articles
+   - What’s new in *IE11’s developer tools* (IntelliSense, tracepoints, …), [@craigbuckler]()’s [post](http://www.sitepoint.com/ie11-developer-tools/)
+   - ES6 modules, build tools and *browser app delivery*, [@ryanflorence]()’s [post](http://ryanflorence.com/2013/es6-modules-and-browser-app-delivery/)
+   - *Building apps for Windows devices* using open source technologies, [@OpenAtMicrosoft]() [post](http://msopentech.com/opentech-projects/building-apps-for-windows-devices-using-open-source-technologies/)
+   - *Reporting User Timing marks* to RUM services (Google Analytics, …), [@patmeenan]()’s [post](http://blog.patrickmeenan.com/2013/07/measuring-performance-of-user-experience.html) ![][*]
+ - Media
+   - An overview of why your business should *use open source software*, [@dajbelshaw]()’s 5-min [video](http://youtu.be/JkgjS_phvHY)
+   - When to stop using jQuery’s `.animate()` and *start using CSS animations*, [@jessicard]()’s 29-min [@jqcon]() [talk](https://www.youtube.com/watch?v=n-5UYqn8v04&feature=youtu.be&t=3m54s)
+ - Content
+   - *Automated testing for web apps*: What tool(s) do you use?, [discussion](https://twitter.com/karlpro/status/356757147654168577) on Twitter + public [pad](https://etherpad.mozilla.org/5iHD1O6XeK)
+   - A *discovery page for Yeoman generators*, [page](http://yeoman.io/community-generators.html)
+ - Demos
+   - 25 *interactive web sites* that look like Flash, [page](http://line25.com/articles/25-interactive-html-websites-that-look-like-flash)
+   - A couple of neat *on/off switches* with pure CSS, [@billyysea]()’s [demo](http://codepen.io/billycrist/pen/CHmiE)
+   - A proof-of-concept for a *Flexbox-driven responsive layout*, [@mrJasonWeaver]()’s [demo](http://codepen.io/indyplanets/full/LFocp) ![][*]
+   - Several impressive *three.js WebGL demos*, [tweet](https://twitter.com/mrdoob/status/356845067979337728)
+ - Sites
+   - JSLint error explanations, helps understanding the *error messages produced by JSLint/JSHint*, [site](http://jslinterrors.com/)
+   - Choosing an *open source license*, GitHub [post](https://github.com/blog/1530-choosing-an-open-source-license) + [site](http://choosealicense.com/)
+ - Tools
+   - es6-module-loader, an *ES6 module loader polyfill*, [repo](https://github.com/ModuleLoader/es6-module-loader)
+   - PouchDB, a *JavaScript database for web apps* that need to work offline, [repo](https://github.com/daleharvey/pouchdb)
+   - SlimerJS, a *scriptable browser* (similar to PhantomJS but runs Gecko), [site](http://slimerjs.org/)
+ - Opinion
+   - Support *Sergey for W3C TAG* (polls close today at midnight), [@slightlylate]()’s [post](http://briankardell.wordpress.com/2013/07/15/once-more-unto-the-breach/)
+
 ## July 15th, 2013
 
  - FYI
@@ -300,43 +338,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - querystringvalues.js, a DevTools snippet that prints a *table of query string values*, [post](http://bgrins.github.io/devtools-snippets/#querystringvalues)
  - Opinion
    - “The war for the *free and open internet* — and how we are losing it”, [@SuePGardner]()’s [post](http://suegardner.org/2013/06/26/the-war-for-the-free-and-open-internet-and-how-we-are-losing-it/) ![][*]
-
-## June 26th, 2013
-
- - News
-   - New W3C releases:
-     - **New:** 1st WD of “*Web Animations*”, [TR](http://www.w3.org/TR/web-animations/)
-     - 2nd WD of “*Compositing and Blending*”, [TR](http://www.w3.org/TR/compositing-1/) + [diff](http://www.w3.org/TR/2013/WD-compositing-1-20130625/,diff)
-     - 3rd WD of “*Web Cryptography API*”, [TR](http://www.w3.org/TR/WebCryptoAPI/) + [diff](http://www.w3.org/TR/2013/WD-WebCryptoAPI-20130625/)
-   - *IE11 for Windows 8.1* brings WebGL, SPDY/3, new dev tools, …, [article](http://microsoft-news.com/webgl-spdy3-new-dev-tools-more-confirmed-for-ie11-in-win-8-1/) w/ screens
-   - An overview of the *WebRTC implementation* in Firefox 22, Mozilla Hacks [article](https://hacks.mozilla.org/2013/06/webrtc-comes-to-firefox/)
- - Tutorials
-   - Creating impressive *modal window effects* w/ CSS transforms, [@crnacura]()’s [post](http://tympanus.net/codrops/2013/06/25/nifty-modal-window-effects/) + [demo](http://tympanus.net/Development/ModalWindowEffects/) page ![][*]
-   - Loading web pages *without third-party resources* for testing, [@ariyahidayat]()’s [post](http://ariya.ofilabs.com/2013/06/web-page-without-external-resources.html)
-   - Creating a *simple flipping animation* with CSS transforms, [@davidwalshblog]()’s [post](http://davidwalsh.name/css-flip)
-   - Using the *ES6 module syntax* and transpiling to ES5 with a Grunt task, [@thomasABoyt]()’s [post](http://www.thomasboyt.com/2013/06/21/es6-module-transpiler)
-   - A short guide to the new *HTML5 `<main>` element*, [@Rich_Clark]()’s [post](http://html5doctor.com/the-main-element/)
- - Articles
-   - Improving the *web development workflow*, [@auchenberg]()’s extensive [post](http://blog.kenneth.io/blog/2013/05/21/our-web-development-workflow-is-completely-broken/) ![][*]
-   - The *implications of seamless IFRAMEs* (`<iframe seamless>`), [@triblondon]()’s [post](http://labs.ft.com/2013/01/seamless-iframes-not-quite-seamless/)
-   - An extensive guide to *URL encoding*, [@UnFroMage]()’s [post](http://blog.lunatech.com/2009/02/03/what-every-web-developer-must-know-about-url-encoding)
-   - asm.js (in latest Firefox) brings *full native applications* to the Web, [@sieth_mysix]()’s [post](https://blog.mozilla.org/mbest/2013/06/25/asm-js-its-really-fast-backwards-compatible-and-now-in-the-release-version-of-firefox/)
-   - A short “getting started” guide to *writing reftests*,  [@boblet]()’s [post](http://the-pastry-box-project.net/oli-studholme/2013-june-26/)
-   - *Web Animations* - what they are and how they came about, [post](http://brian.sol1.net/svg/2013/06/26/introducing-web-animations/) ![][*]
- - Media
-   - Developing *mobile web apps with Yeoman*, live-reload,… , [@gauntface]()’s 25-min GDL [presentation](https://www.youtube.com/watch?v=Q_Ud7Q2F0F8)
-   - Responsible *responsive images*, [@wilto]()’s 45-min [@mobilismconf]() [talk](https://twitter.com/simevidas/status/350777133125222400) ![][*] **WATCH THIS**
- - Content
-   - W3C *Mobile Web Best Practices* (MWBP) flipcards, [page](http://www.w3.org/2007/02/mwbp_flip_cards)
-   - A list of relevant resources on *responsive images*, [wiki](https://github.com/ResponsiveImagesCG/picture-element/wiki/Relevant-resources) on GitHub
-   - Secrets of the browser’s *developer tools*, [@AndiSmith]()’s [slide deck](http://www.83rdstasis.net/devtoolsecrets/slides/london-web/)
- - Demos
-   - A collections of *loading animations*, [page](http://codepen.io/collection/HtAne)
- - Tools
-   - DiagnostiCSS, a style sheet that visually detects any potentially *invalid or inaccessible HTML markup*, [page](http://diagnosticss.github.io/)
-   - scoped-media-query (Sass mixin), an *element query workaround*, [repo](https://github.com/filamentgroup/scoped-media-query)
-   - jQuery Debugger (Chrome extension), displays *jQuery data and event handlers* in DevTools, [page](https://chrome.google.com/webstore/detail/jquery-debugger/dbhhnnnpaeobfddmlalhnehgclcmjimi)
-   - web-animations-js, an emulator of the *Web Animations* specification, [repo](https://github.com/web-animations/web-animations-js)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
