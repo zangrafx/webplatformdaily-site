@@ -1,3 +1,43 @@
+## July 1st, 2013
+
+ - News
+   - The HTML *`<template>` element* added to the HTML WHATWG spec, [source](https://twitter.com/mathias/status/350887551613140993)
+   - Modernizer Test Suite *results in IE11* (preview build), [screen shot](https://twitter.com/elijahmanor/status/351164885100556288)
+   - Initial *Web MIDI API* support in Chrome Canary, [source](https://plus.google.com/app/basic/stream/z12gwvgzxoatx1haq04cipfxekn3s1pi3qg0k)
+   - Firefox 24 supports the *CSS `@font-feature-values`* at-rule, [source](https://twitter.com/FirefoxNightly/status/349890351395389440)
+   - “Reject *DRM* and you risk walling off parts of the web, says W3C chief”, ZDNet [article](http://www.zdnet.com/reject-drm-and-you-risk-walling-off-parts-of-the-web-says-w3c-chief-7000017388/)
+ - FYI
+   - The *HTML `<main>` element* will supersede the ARIA `role=main` attribute value, [source](https://twitter.com/brucel/status/349825765564616708)
+ - Tutorials
+   - Setting custom *aspect ratios on `<div>` elements* with pure CSS, [@MadeMyDay]()’s [post](http://www.mademyday.de/css-height-equals-width-with-pure-css.html) ![][*]
+   - *Converting an image to a `<canvas>`* and vice versa with a few lines of JavaScript, [@davidwalshblog]()’s [post](http://davidwalsh.name/convert-canvas-image)
+   - Creating an *expanding search field* (compatible with mobile and IE8), [@crnacura]()’s extensive [post](http://tympanus.net/codrops/2013/06/26/expanding-search-bar-deconstructed/)
+   - Building a *web app for Firefox OS*, [@addyosmani]()’s extensive [post](http://thenittygritty.co/ffos-apps)
+ - Articles
+   - How *web browsers perform antialiasing* (grayscale vs subpixel), [@aerotwist]()’s [post](http://www.html5rocks.com/en/tutorials/internals/antialiasing-101/)
+   - *Mobile web problems* and how to avoid them, [@brad_frost]()’s extensive [post](http://bradfrostweb.com/blog/post/mobile-web-problems/) ![][*]
+   - Optimizing CSS3 for *GPU compositing*, [@ariyahidayat]()’s [post](http://ariya.ofilabs.com/2013/06/optimizing-css3-for-gpu-compositing.html)
+   - An introduction to *JavaScript source maps*, [@ryanseddon]()’s [post](http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/) (recently updated)
+ - Media
+   - The state and future of *CSS Selectors and Selectors API*, [@timmywil]()’s 35-min [@jqcon]() [talk](https://www.youtube.com/watch?v=KTDsCB7ujXU)
+   - “Topic Undefined” #1: [@cfjedimaster]() and [@remotesynth]() discuss *web dev links and news*, 28-min [podcast](http://flippinawesome.org/topic-undefined/topic-undefined-episode-1/)
+ - Content
+   - A small page for *testing `<viewport>` on mobile* (`initial-scale=1.0` vs `width=device-width`), [page](http://snugug.github.io/viewport-test/index.html) ([via](https://twitter.com/Snugug/status/351439464867962880))
+ - Demos
+   - A simple shredding machine with pure CSS, [demo](http://inserthtml.com/demo/shredder/)
+   - A cool *3D model in WebGL* (w/ controls), [demo](http://www.clicktorelease.com/code/cross-hatching/)
+   - Using CSS animations to *apply different styles after `X` seconds*, [post](http://stackoverflow.com/a/17321098/425275) w/ demo
+ - Sites
+   - “This Is Responsive”, patterns, resources and news for *creating responsive web experiences*, [site](http://bradfrost.github.io/this-is-responsive/)
+   - DevDocs, consolidates *MDN and jQuery documentation* into a clear, uniform design, [site](http://devdocs.io/) (additional [info](https://twitter.com/simevidas/status/351516727064006656))
+ - Tools
+   - ADB Plugin, a Chrome extension for *remote debugging for mobile*, [repo](https://github.com/GoogleChrome/ADBPlugin) + install [page](https://chrome.google.com/webstore/detail/adb/dpngiggdglpdnjdoaefidgiigpemgage)
+   - tracking.js, a library for *tracking colors, humans*, etc. in the video stream of the device’s camera, [site](http://www.trackingjs.com/)
+   - CSSRegions.js, Adobe’s experimental *polyfill for CSS Regions*, [page](http://adobe-webplatform.github.io/css-regions-polyfill/)
+   - querystringvalues.js, a DevTools snippet that prints a *table of query string values*, [post](http://bgrins.github.io/devtools-snippets/#querystringvalues)
+ - Opinion
+   - “The war for the *free and open internet* — and how we are losing it”, [@SuePGardner]()’s [post](http://suegardner.org/2013/06/26/the-war-for-the-free-and-open-internet-and-how-we-are-losing-it/) ![][*]
+
 ## June 26th, 2013
 
  - News

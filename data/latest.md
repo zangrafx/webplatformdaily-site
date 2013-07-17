@@ -1,5 +1,38 @@
 The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files). The README file of the repository also serves as a FAQ. Refer to it for information about this web-site.
 
+## July 17th, 2013
+
+ - W3C
+   - **Last Call** WD of “*CSS Fonts Level 3*”, [TR](http://www.w3.org/TR/2013/WD-css-fonts-3-20130711/) + [diff](http://www.w3.org/TR/2013/WD-css-fonts-3-20130711/,diff) + release [notes](http://lists.w3.org/Archives/Public/www-style/2013Jul/0416.html) w/ changelog
+   - **Last Call** WD of “*HTML5 Image Description Extension*” (`longdesc` attribute), [TR](http://www.w3.org/TR/2013/WD-html-longdesc-20130716/) + [diff](http://www.w3.org/TR/2013/WD-html-longdesc-20130716/,diff)
+ - News
+   - Establishing the *meaning of Do Not Track*, W3C blog [post](http://www.w3.org/QA/2013/07/establishing_the_meaning_of_do.html)
+   - *Do Not Track standards group* shoots down advertiser proposal, CNET [article](http://news.cnet.com/8301-1023_3-57593907-93/do-not-track-standards-group-shoots-down-advertiser-proposal/)
+   - *Blink development*: Fractional spacings, MouseEnter and MouseLeave and Promises, [@beverloo]() [post](http://peter.sh/2013/07/fractional-spacings-mouseenter-and-mouseleave-and-promises/)
+   - New *ES6 APIs* coming to Firefox: `Array.from/of` ([tw.](https://twitter.com/FirefoxNightly/status/357274306402729986)), `Number.parseInt/Float` ([tw.](https://twitter.com/FirefoxNightly/status/357274304020348928)), `Math` f’ns ([tw.](https://twitter.com/FirefoxNightly/status/357274301554098177))
+ - FYI
+   - Mozilla chair [@MitchellBaker]() will *answer Firefox OS questions* **today at 5:30 p.m UTC**, [tweet](https://twitter.com/firefox/status/357145094685605889)
+ - Articles
+   - Smartphone browser *`localStorage` faster than native cache* (up to 5 times), [@b1tr0t]()’s [post](http://www.mobify.com/blog/smartphone-localstorage-outperforms-browser-cache/)
+   - A good recap of last month’s *Velocity conference*, [@derek]()’s [post](http://www.yuiblog.com/blog/2013/07/16/velocity-2013-building-a-faster-and-stronger-web/) ![][*]
+   - Introducing *ESLint, a JavaScript linting tool* where all rules are pluggable, [@slicknet]()’s [post](http://www.nczonline.net/blog/2013/07/16/introducing-eslint/)
+   - “Let’s talk differently about *JavaScript performance* in web apps”, [@aerotwist]()’s [post](http://aerotwist.com/blog/reflections-on-performance-at-google-io/)
+ - Media
+   - An *introduction to Polymer* w/ [@ebidel](), [@mattsmcnulty]() and [@jkomoros](), 35-min GDL [session](https://developers.google.com/live/shows/836113307) ![][*]
+   - An *introduction to Encrypted Media Extensions* (EME) w/ John Luther and [@sw12](), 35-min GDL [session](https://developers.google.com/live/shows/826991846)
+   - “Chrome Office hours” - *Google developers answer* your questions, 41-min GDL [session](https://developers.google.com/events/835900373/)
+ - Content
+   - Where does *Chrome’s main thread* spend its time during page load (data from one million sites), [tweet](https://twitter.com/addyosmani/status/357269853486329859)
+   - Browser support for *nested `@media` at-rules*, [@LeaVerou]()’s [tweet](https://twitter.com/LeaVerou/status/357174606630621184) w/ test page
+ - Demos
+   - 9 mind-blowing *WebGL demos*, [@davidwalshblog]()’s [post](http://davidwalsh.name/webgl-demos)
+   - SculptGL, a *WebGL sculpting app*, [@stephomi]()’s [page](http://stephaneginier.com/sculptgl/) ![][*]
+   - A Google Maps *`<g-maps>` element* defined with Polymer, [tweet](https://twitter.com/Paul_Kinlan/status/357260218062733312)
+   - paste.sh, a paste site that encrypts data using the *`crypto.getRandomValues` API*, [site](https://paste.sh/) 
+ - Tools
+   - Embed Responsively, an online tool for *embedding rich third-party media* into responsive web pages, [site](http://embedresponsively.com/)
+   - grunt-hub, A Grunt task to watch and *run tasks on multiple Grunt projects*
+
 ## July 16th, 2013
 
  - News
@@ -298,46 +331,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - Communist, a *library for Web Workers*, [page](http://communistjs.com/) + blog [post](http://cwmma.tumblr.com/post/54338607071/making-web-workers-with-communistjs) w/ usage example
    - Aristochart, a highly customizable and flexible *line charting library* for `<canvas>`, [page](http://dunxrion.github.io/aristochart/)
    - console.snapshot, outputs a *`<canvas>` snapshot* to the console, [page](http://dunxrion.github.io/console.snapshot/)
-
-## July 1st, 2013
-
- - News
-   - The HTML *`<template>` element* added to the HTML WHATWG spec, [source](https://twitter.com/mathias/status/350887551613140993)
-   - Modernizer Test Suite *results in IE11* (preview build), [screen shot](https://twitter.com/elijahmanor/status/351164885100556288)
-   - Initial *Web MIDI API* support in Chrome Canary, [source](https://plus.google.com/app/basic/stream/z12gwvgzxoatx1haq04cipfxekn3s1pi3qg0k)
-   - Firefox 24 supports the *CSS `@font-feature-values`* at-rule, [source](https://twitter.com/FirefoxNightly/status/349890351395389440)
-   - “Reject *DRM* and you risk walling off parts of the web, says W3C chief”, ZDNet [article](http://www.zdnet.com/reject-drm-and-you-risk-walling-off-parts-of-the-web-says-w3c-chief-7000017388/)
- - FYI
-   - The *HTML `<main>` element* will supersede the ARIA `role=main` attribute value, [source](https://twitter.com/brucel/status/349825765564616708)
- - Tutorials
-   - Setting custom *aspect ratios on `<div>` elements* with pure CSS, [@MadeMyDay]()’s [post](http://www.mademyday.de/css-height-equals-width-with-pure-css.html) ![][*]
-   - *Converting an image to a `<canvas>`* and vice versa with a few lines of JavaScript, [@davidwalshblog]()’s [post](http://davidwalsh.name/convert-canvas-image)
-   - Creating an *expanding search field* (compatible with mobile and IE8), [@crnacura]()’s extensive [post](http://tympanus.net/codrops/2013/06/26/expanding-search-bar-deconstructed/)
-   - Building a *web app for Firefox OS*, [@addyosmani]()’s extensive [post](http://thenittygritty.co/ffos-apps)
- - Articles
-   - How *web browsers perform antialiasing* (grayscale vs subpixel), [@aerotwist]()’s [post](http://www.html5rocks.com/en/tutorials/internals/antialiasing-101/)
-   - *Mobile web problems* and how to avoid them, [@brad_frost]()’s extensive [post](http://bradfrostweb.com/blog/post/mobile-web-problems/) ![][*]
-   - Optimizing CSS3 for *GPU compositing*, [@ariyahidayat]()’s [post](http://ariya.ofilabs.com/2013/06/optimizing-css3-for-gpu-compositing.html)
-   - An introduction to *JavaScript source maps*, [@ryanseddon]()’s [post](http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/) (recently updated)
- - Media
-   - The state and future of *CSS Selectors and Selectors API*, [@timmywil]()’s 35-min [@jqcon]() [talk](https://www.youtube.com/watch?v=KTDsCB7ujXU)
-   - “Topic Undefined” #1: [@cfjedimaster]() and [@remotesynth]() discuss *web dev links and news*, 28-min [podcast](http://flippinawesome.org/topic-undefined/topic-undefined-episode-1/)
- - Content
-   - A small page for *testing `<viewport>` on mobile* (`initial-scale=1.0` vs `width=device-width`), [page](http://snugug.github.io/viewport-test/index.html) ([via](https://twitter.com/Snugug/status/351439464867962880))
- - Demos
-   - A simple shredding machine with pure CSS, [demo](http://inserthtml.com/demo/shredder/)
-   - A cool *3D model in WebGL* (w/ controls), [demo](http://www.clicktorelease.com/code/cross-hatching/)
-   - Using CSS animations to *apply different styles after `X` seconds*, [post](http://stackoverflow.com/a/17321098/425275) w/ demo
- - Sites
-   - “This Is Responsive”, patterns, resources and news for *creating responsive web experiences*, [site](http://bradfrost.github.io/this-is-responsive/)
-   - DevDocs, consolidates *MDN and jQuery documentation* into a clear, uniform design, [site](http://devdocs.io/) (additional [info](https://twitter.com/simevidas/status/351516727064006656))
- - Tools
-   - ADB Plugin, a Chrome extension for *remote debugging for mobile*, [repo](https://github.com/GoogleChrome/ADBPlugin) + install [page](https://chrome.google.com/webstore/detail/adb/dpngiggdglpdnjdoaefidgiigpemgage)
-   - tracking.js, a library for *tracking colors, humans*, etc. in the video stream of the device’s camera, [site](http://www.trackingjs.com/)
-   - CSSRegions.js, Adobe’s experimental *polyfill for CSS Regions*, [page](http://adobe-webplatform.github.io/css-regions-polyfill/)
-   - querystringvalues.js, a DevTools snippet that prints a *table of query string values*, [post](http://bgrins.github.io/devtools-snippets/#querystringvalues)
- - Opinion
-   - “The war for the *free and open internet* — and how we are losing it”, [@SuePGardner]()’s [post](http://suegardner.org/2013/06/26/the-war-for-the-free-and-open-internet-and-how-we-are-losing-it/) ![][*]
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
