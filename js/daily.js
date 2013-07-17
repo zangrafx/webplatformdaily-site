@@ -71,7 +71,7 @@ jQuery(function ( $ ) {
 
         // populating the $menu element with a "Top" item, and one item per daily
         $menu.hide().empty().append( '<li id="menu-to-top">Top</li>' ).append( $items );
-        if ( countFiles === 1 ) { $menu.append( '<li id="menu-load-archive">Load all</li>' ); }
+        if ( countFiles === 1 && location.href.indexOf('.loc') > -1 ) { $menu.append( '<li id="menu-load-archive">Load all</li>' ); }
 
         // trigger a "resize" event in order to set the "left" position of $menu
         $( window ).triggerHandler( 'resize' );
