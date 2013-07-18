@@ -1,5 +1,35 @@
 The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files). The README file of the repository also serves as a FAQ. Refer to it for information about this web-site.
 
+## July 18th, 2013
+
+ - News
+   - MPEG-DASH is […] the latest *ISO standard for Internet video streaming*, MS OpenTech [article](http://msopentech.com/?p=207961)
+   - *Promises supported* in Firefox Nightly ([source](https://twitter.com/juandopazo/status/357541032008769536)) and Chrome Canary ([source](https://twitter.com/juandopazo/status/357232261822824449))
+   - Call for participation in *Accessible SVG Community Group*, W3C [post](http://www.w3.org/community/blog/2013/07/17/call-for-participation-in-accessible-svg-community-group/)
+ - FYI
+   - This is how *Web Notifications* look on Android (supported in Firefox), [screenshot](https://twitter.com/simevidas/status/357601633850499072) ([context](https://twitter.com/ryanseddon/status/357348453149442049))
+ - Tutorials
+   - Another 9 ways to *optimize your front end performance*, [@davidwalshblog]()’s [post](http://tech.pro/tutorial/1400/another-9-ways-to-optimize-your-front-end-performance)
+   - Troubleshooting CSS - 6 *common CSS issues* and how to solve them, [@HugoGiraudel]()’s [post](http://tympanus.net/codrops/2013/07/17/troubleshooting-css/) ![][*]
+   - Tips for *speeding up the initial page load* of JavaScript web apps, [@maccaw]()’s [post](http://blog.alexmaccaw.com/time-to-first-tweet)
+ - Articles
+   - A guide to the essential *HTML5 media events* (`play`, `pause`, `progress`, …), [@brothercake]()’s [post](http://www.sitepoint.com/essential-audio-and-video-events-for-html5/)
+   - An extensive overview of *upcoming Sass features* (version 3.3 and beyond), [@HugoGiraudel]()’s [post](http://davidwalsh.name/future-sass)
+   - Evaluating the performance of *SPDY-enabled web servers*, Hervé Servy’s [post](http://www.neotys.com/blog/performance-of-spdy-enabled-web-servers/)
+ - Media
+   - Topic Undefined #2 ([@cfjedimaster]()/[@remotesynth]() discuss *web dev links and news*), 32-min [podcast](http://flippinawesome.org/topic-undefined/topic-undefined-episode-2/) ![][*]
+   - “*Enough with the JavaScript* Already”, [@slicknet]()’s 65-min [talk](http://tech.blog.box.com/2013/07/video-enough-with-the-javascript-already-by-nicholas-zakas/) + 84-page [slide deck](http://www.slideshare.net/nzakas/enough-withthejavascriptalready)
+   - “HTML5 and beyond” (an *overview of current techs and tools*), [@codepo8]()’s 50-min [@SenchaCon]() [talk](http://youtu.be/Jev8c85-G1U)
+ - Content
+   - A list of *useful Git aliases*, [@robmil]()’s [gist](https://gist.github.com/robmiller/6018582) (+ a few more in [@sitegenius]()’s [gist](https://gist.github.com/andycole/5927625))
+   - Developer Economics Q3 2013 [report](http://www.visionmobile.com/blog/2013/07/report-developer-economics-q3-2013-state-of-the-developer-nation/) (based on a *global developer survey*)
+ - Demos
+   - A fixed *header that animates when scrolling* the page (multiple effects), [@crnacura]()’s [demo](http://tympanus.net/Development/HeaderEffects/)
+ - Opinion
+   - Why JavaScript web applications should *embrace traditional URLs*, [@molily]()’s [post](http://9elements.com/io/index.php/hybrid-javascript-apps/)
+   - *Betting on open source* in your products, [@vincent_hardy]()’s [post](http://insights.wired.com/profiles/blogs/betting-on-open-source-in-your-products)
+   - “The web: less engine, more gas”, [@mattpointblank]()’s [post](http://www.threechords.org/blog/the-web-less-engine-more-gas/) (+ read Paul’s comment) ![][*]
+
 ## July 17th, 2013
 
  - W3C
@@ -299,38 +329,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - lazyload, a library for *lazy loading images* and other page elements, [repo](https://github.com/vvo/lazyload)
  - Opinion
    - IE11: please bring “real *script preloading*” back,  [@getify]()’s [post](http://blog.getify.com/ie11-please-bring-real-script-preloading-back/)
-
-## July 2nd, 2013
-
- - News
-   - Google experimenting with QUIC, a network protocol aimed to *reduce the number of round trips*, [post](http://blog.chromium.org/2013/06/experimenting-with-quic.html)
-   - Firefox Nightly: Improved *SVG text* support, [post](http://mcc.id.au/blog/2013/07/firefox-svg-text-improvements), *`<iframe srcdoc>`*, [source](https://twitter.com/FirefoxNightly/status/351632554908073984), new dev tools features, [post](https://hacks.mozilla.org/2013/07/new-features-in-firefox-developer-tools-episode-24/)
-   - Effeckt.css, a proposed CSS library of *performant transitions and animations* for mobile, [discussion](https://github.com/h5bp/lazyweb-requests/issues/122)
-   - Mozilla and partners prepare to launch *first Firefox OS smartphones*, Mozilla press [release](https://blog.mozilla.org/press/2013/07/mozilla-and-partners-prepare-to-launch-first-firefox-os-smartphones/)
-   - Firefox wins latest “*Web Browser Grand Prix*” on Tom’s Hardware, 12-page [review](http://www.tomshardware.com/reviews/chrome-27-firefox-21-opera-next,3534-12.html)
- - FYI
-   - The *median website has 13 scripts* (5 from own host + 8 from other hosts), [source](http://bigqueri.es/t/how-are-javascript-files-being-served-and-how-many-are-there/36)
-   - In Chrome, `chrome:net-internals` gives you a dump of the *network stack’s internal state*, [source](https://twitter.com/addyosmani/status/351848621970427905) ![][*]
- - Tutorials
-   - *Adding custom CSS selectors* to your style sheets with Hitch.js, [@briankardell]()’s [post](http://css-tricks.com/an-intro-to-hitch-js-and-the-extensible-web/)
-   - *Dynamically adding CSS rules* and creating new style sheets with CSSOM APIs, [@davidwalshblog]()’s [post](http://davidwalsh.name/add-rules-stylesheets)
-   - Patterns for *asynchronous operations* in JavaScript (callbacks, promises,…), [@ifandelse]()’s extensive [post](http://tech.pro/blog/1402/five-patterns-to-help-you-tame-asynchronous-javascript)
-   - *Concurrency in JavaScript* with Web Workers, [@thibault_imbert]()’s extensive [post](http://typedarray.org/concurrency-in-javascript/)
- - Articles
-   - About the new *Web Animations* API and why it’s important, [@jaffathecake]()’s extensive [post](http://coding.smashingmagazine.com/2013/03/04/animating-web-gonna-need-bigger-api/) ![][*]
-   - On *using more CSS classes* in your HTML code, [@csswizardry]()’s [post](http://csswizardry.com/2012/10/a-classless-class-on-using-more-classes-in-your-html/)
-   - Thoughts on better *code organization in Sass*, [@vangogh]()’s [post](http://www.vanseodesign.com/css/variable-organization-in-sass/)
- - Media
-   - *Panel discussion* with [@rem](), [@wilto](), [@jaffathecake]() and [@torgo]() at [@mobilismconf](), 54-min [video](http://vimeopro.com/mirabeaunl/mobilism-2013/video/69386528) ![][*]
-   - Front-end development in *Node.js* (Express + Jade + Stylus), [@rockbot]()’s 34-min [@jqcon]() [talk](https://www.youtube.com/watch?v=icNHLlRazds)
- - Demos
-   - A *responsive grid of icons*, [@crnacura]()’s [demo](http://tympanus.net/Blueprints/ResponsiveIconGrid/)
- - Sites
-   - Native form elements, lists all the different *HTML5 form elements* (for testing), [site](http://nativeformelements.com/)
- - Tools
-   - Communist, a *library for Web Workers*, [page](http://communistjs.com/) + blog [post](http://cwmma.tumblr.com/post/54338607071/making-web-workers-with-communistjs) w/ usage example
-   - Aristochart, a highly customizable and flexible *line charting library* for `<canvas>`, [page](http://dunxrion.github.io/aristochart/)
-   - console.snapshot, outputs a *`<canvas>` snapshot* to the console, [page](http://dunxrion.github.io/console.snapshot/)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
