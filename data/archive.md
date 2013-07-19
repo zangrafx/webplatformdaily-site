@@ -1,3 +1,40 @@
+## July 3rd, 2013
+
+ - News
+   - *Opera 15* released, [@brucel]()’s [post](http://my.opera.com/ODIN/blog/2013/07/02/introducing-opera-15-for-desktop-and-a-fast-release-cycle) + CNET [coverage](http://news.cnet.com/8301-1023_3-57591913-93/opera-15-arrives-with-chromium-based-rapid-release-revamp/)
+   - Standards for *web Applications on mobile*: current state and roadmap, June [update](http://www.w3.org/2013/06/mobile-web-app-state/) ![][*]
+   - Last two weeks in *WebKit*: better events and new APIs, Surfin’ Safari [post](https://www.webkit.org/blog/2728/last-two-weeks-in-webkit-better-events-and-new-apis/)
+   - With Firefox OS, Mozilla takes on *the ‘closed’ internet*—again, ReadWrite [article](http://readwrite.com/2013/07/01/firefox-os-mozilla-takes-on-the-closed-internet-again)
+ - FYI
+   - An [overview](http://operasoftware.github.io/upstreamtools/) of Opera’s upstreamed *Chromium/Blink commits* thus far ([via](https://twitter.com/andreasbovens/status/351974396371542016))
+   - Changes to IE’s *Pointer Events* implementation that are coming to IE11, MSDN [page](http://msdn.microsoft.com/en-us/library/ie/dn304886%28v=vs.85%29.aspx)
+ - Tutorials
+   - Using CSS `font-size` and `em` units to easily *enlarge page components for mobile*, [@simurai]()’s [post](https://medium.com/p/8f433689736f)
+   - *Comparing your custom objects* with JavaScript’s built-in `.valueOf()` functionality, [@sidekicksrc]()’s [post](http://sidekicksrc.com/post/the-value-of-valueof/)
+ - Articles
+   - ECMAScript 6 *`let` and `const`* - short introduction and *current browser support*, [@dstorey]()’s [post](http://generatedcontent.org/post/54444832868/variables-and-constants-in-es6)
+   - Real world examples of *insecure implementations of “remember me”* on log-in forms, [@troyhunt]()’s [post](http://www.troyhunt.com/2013/07/how-to-build-and-how-not-to-build.html)
+   - *Firefox OS* - thoughts and some history, [@robertnyman]()’s [post](http://robertnyman.com/2013/07/02/the-launch-of-firefox-os-my-thoughts-and-some-history/)
+   - Information about the recently released *IE11 preview build*, [@dstorey]()’s [post](http://generatedcontent.org/post/53943518693/ie11preview1) + [@slicknet]()’s [post](http://www.nczonline.net/blog/2013/07/02/internet-explorer-11-dont-call-me-ie/) ![][*]
+   - Tips for making a 60fps *mobile web app* (website performance), [@aerotwist]()’s [post](http://aerotwist.com/blog/making-a-60fps-mobile-app/)
+ - Media
+   - JavaScript’s *strict mode* vs “YOLO mode”, [@glenmaddern]()’s 15-min [@webdirections]() [talk](https://www.youtube.com/watch?v=gq95_h-IrHo)
+   - “Depending on jQuery” (about *AMD and require.js*), [@SlexAxton]()’s 32-min [@jqcon]() [talk](https://www.youtube.com/watch?v=SpVE54WmHv0)
+   - *Managing third-party cookies* on the web, 45-min [@AirMozilla]() [discussion](https://air.mozilla.org/3rd-party-cookies/) w/ [@BrendanEich]() ![][*]
+ - Content
+   - A [discussion](http://html5doctor.com/the-main-element/#comment-35839) about the *HTML `<main>` element* between [@stevefaulkner]() and [@Hixie]()
+   - Is an *accessible mobile web* actually possible on today’s devices?, [discussion](https://twitter.com/rem/status/352011876470759425) on Twitter
+ - Demos
+   - Collection of optical illusions, [page](http://codepen.io/collection/Ilnuh/) on Codepen
+ - Sites
+   - Big JS-Compatibility-Table, information about *API support* in various web browsers, [@tobiasbu]()’s [site](http://compatibility.shwups-cms.ch/)
+ - Tools
+   - jquery.pop.js, a lightweight jQuery plugin for *kinetic drag* on mobile/desktop, [page](http://pep.briangonzalez.org/) w/ demo
+   - lazyload, a library for *lazy loading images* and other page elements, [repo](https://github.com/vvo/lazyload)
+ - Opinion
+   - IE11: please bring “real *script preloading*” back,  [@getify]()’s [post](http://blog.getify.com/ie11-please-bring-real-script-preloading-back/)
+
+
 ## July 2nd, 2013
 
  - News
