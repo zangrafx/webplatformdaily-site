@@ -93,7 +93,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - paste.sh, a paste site that encrypts data using the *`crypto.getRandomValues` API*, [site](https://paste.sh/) 
  - Tools
    - Embed Responsively, an online tool for *embedding rich third-party media* into responsive web pages, [site](http://embedresponsively.com/)
-   - grunt-hub, A Grunt task to watch and *run tasks on multiple Grunt projects*
+   - grunt-hub, A Grunt task to watch and *run tasks on multiple Grunt projects*, [site](http://shama.github.io/grunt-hub/)
 
 ## July 16th, 2013
 
