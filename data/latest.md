@@ -326,6 +326,8 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - activetable.js (bookmarklet), *makes any table sortable* and allows hiding columns, [gist](https://gist.github.com/stevesouders/5952488)
    - Minimit anima, a jQuery plugin for *animations powered by CSS* (w/ fallback), [page](http://www.minimit.com/projects/code/minimit-anima-plugin) + [repo](https://github.com/minimit/minimit-anima)
 
+**Note:** I’ve temporarily disabled loading additional content onto the page. You can view older dailies in [the “archive” on GitHub](https://github.com/simevidas/webplatformdaily-site/blob/master/data/archive.md). I’ll implement viewing (and searching) all data soon.
+
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
 [1]: /img/calendar.png "upcoming event"
