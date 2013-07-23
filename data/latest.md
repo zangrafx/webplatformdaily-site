@@ -1,5 +1,35 @@
 The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files). The README file of the repository also serves as a FAQ. Refer to it for information about this web-site.
 
+## July 23rd, 2013
+
+ - News
+   - *Korea’s IE dependency* blamed for hacking of over 100m user records since 2008, TNW [article](http://thenextweb.com/asia/2013/07/21/koreas-internet-explorer-dependency-blamed-for-hacking-of-over-100m-user-records-since-2008/)
+   - Interactive Advertising Bureau *attacks Mozilla over cookie policy*, [article](http://blogs.computerworlduk.com/open-enterprise/2013/07/mozilla-comes-under-attack---and-of-age/index.htm)
+ - Tutorials
+   - Creating a simple *line graph with inline SVG*, [@roemervlasveld]()’s [post](http://rvlasveld.github.io/blog/2013/07/02/creating-interactive-graphs-with-svg-part-1/)
+   - Making the web page header image *responsive with CSS `background-image`*, [@stephen_thomas]()’s [post](http://mobile.smashingmagazine.com/2013/07/22/simple-responsive-images-with-css-backgrounds/) ![][*]
+   - *From microphone to WAV* with `getUserMedia` and Web Audio , [@thibault_imbert]()’s [post](http://typedarray.org/from-microphone-to-wav-with-getusermedia-and-web-audio/)
+   - JavaScript web apps - providing a *fallback for Google’s spider* (SEO), [@maccaw]()’s [post](http://blog.alexmaccaw.com/seo-in-js-web-apps)
+ - Articles
+   - The *advantages of WebRTC over Skype*’s application, [@chrismatthieu]()’s [post](http://bloggeek.me/skype-in-9-months/) ![][*]
+   - *Pre-fetching web resources* for better performance, [@lukew]()’s [@bdconf]() [notes](http://www.lukew.com/ff/entry.asp?1747)
+ - Media
+   - *Working with the PhantomJS* headless browser, [@sayanee_]()’s 20-min [screencast](http://build-podcast.com/phantomjs/)
+   - *CSS Flexbox*, [@stephenhay]()’s 50-min [@cssdayconf]() [talk](https://vimeo.com/69531447)
+ - Content
+   - *Firefox OS*, [@mepartoconmigo]() [slide deck](http://arcturus.github.io/firefoxos-hackedio/) w/ good *Web APIs overview* ![][*]
+   - A round up of the *latest news on PhoneGap* and Cordova, [page](https://github.com/phonegap/phonegap-community/)
+   - An overview of 25 *JavaScript visualization libraries*, [post](http://www.ma-no.org/en/content/index_visualize-your-data-25-javascript-visualization-libraries_1796.php)
+ - Demos
+   - *Text reflection* with pure CSS, [@codepo8]()’s [demo](http://jsbin.com/ihuxap/2/edit)
+ - Sites
+   - “I want to use on mobile”, a *Can I Use visualization*, [site](http://onmobile.iwanttouse.com/)
+   - Component.fm, a repository of *Web Audio components*, [site](http://component.fm/)
+ - Tools
+   - Intro.js, a *step-by-step guide for visitors* to your web site, [page](http://usablica.github.io/intro.js/) w/ live demo
+   - Sync.js, *syncs your local folder with a remote folder* using SCP ([?](http://en.wikipedia.org/wiki/Secure_copy)), [repo](https://github.com/serkanyersen/sync)
+   - Mock Response, an online service that *returns various HTTP responses* (for testing), [page](http://mock.isssues.com/)
+
 ## July 22nd, 2013
 
  - News
@@ -300,31 +330,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - Stylie (online tool), a *code generator for CSS animations*,  [@jeremyckahn]()’s [page](http://jeremyckahn.github.io/stylie/)
    - Voodoo (JavaScript framework), lets you *mix 2D and 3D content* on the same page, [site](http://www.voodoojs.com/index.php) w/ demo
    - Manifesto, an HTML5 Offline *Application Cache verification* bookmarklet, [site](http://manifesto.ericdelabar.com/)
-
-## July 9th, 2013
-
- - News
-   - *Audio Recording* (`window.MediaRecorder`) has landed in Firefox Nightly, [source](https://twitter.com/FirefoxNightly/status/354246401363951616)
-   - “*Last week in Blink*” - Promises, ALPN support and font mime-types, [@beverloo]() [post](http://peter.sh/2013/07/last-week-in-blink-promises-alpn-support-and-font-mime-types/)
- - FYI
-   - Overview of *ES6 numeric literals* (binary and octal are new), [tweet](https://twitter.com/mathias/status/354246135205998594)
-   - *Chrome DevTools protip*: “Elements” panel lets you drag-and-drop any element…, [tweet](https://twitter.com/addyosmani/status/354385745655517184) w/ screen shot
- - Tutorials
-   - A guide to *choosing a responsive image* solution, [@sherrialexander]()’s extensive [post](http://mobile.smashingmagazine.com/2013/07/08/choosing-a-responsive-image-solution/) ![][*]
-   - A guide to *using the `@extend` feature* (available with Sass, LESS, …), [@chriscoyier]()’s [post](http://css-tricks.com/the-extend-concept/)
-   - Using *CSS fallback properties* for better cross-browser compatibility, [@afshinmeh]()’s short [post](http://afshinm.name/css-fallback-properties-better-cross-browser-compatibility/)
-   - *Building a crowdfunding site* with Node.js, MongoDB and Balanced Payments, [@ncasenmare]()’s [post](https://hacks.mozilla.org/2013/07/so-you-wanna-build-a-crowdfunding-site/)
- - Content
-   - Progressive enhancement and *feature detection with Modernizr*, [@StuCoxMedia]()’s cool [slide deck](http://stucox.github.io/mcrfred/) ![][*]
-   - *JavaScript coding conventions* crowdsourced from GitHub commits, [page](http://sideeffect.kr/popularconvention/)
-   - *Interview with [@addyosmani]()* about Yeoman, DevTools, JavaScript, Web Components, TasteJS, Dart, [page](http://www.awwwards.com/interview-with-addy-osmani-developer-programs-engineer-at-google.html)
- - Demos
-   - *Direction-aware hover* effect (CSS 3D transforms + JavaScript), [@pixelia_me]()’s [demo](http://codepen.io/noeldelgado/pen/pGwFx)
- - Tools
-   - Postman (Chrome extension), an HTTP client to *test REST web services*, [site](http://www.getpostman.com/)
-   - WBench (Ruby gem), a tool to *benchmark end user load times* for websites, [repo](https://github.com/desktoppr/wbench)
-   - activetable.js (bookmarklet), *makes any table sortable* and allows hiding columns, [gist](https://gist.github.com/stevesouders/5952488)
-   - Minimit anima, a jQuery plugin for *animations powered by CSS* (w/ fallback), [page](http://www.minimit.com/projects/code/minimit-anima-plugin) + [repo](https://github.com/minimit/minimit-anima)
 
 **Note:** I’ve temporarily disabled loading additional content onto the page. You can view older dailies in [the “archive” on GitHub](https://github.com/simevidas/webplatformdaily-site/blob/master/data/archive.md). I’ll implement viewing (and searching) all data soon.
 
