@@ -1,5 +1,39 @@
 The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files). The README file of the repository also serves as a FAQ. Refer to it for information about this web-site.
 
+## July 24th, 2013
+ - W3C
+   - Candidate Recommendation of “*Vibration API*” published, [TR](http://www.w3.org/TR/2013/CR-vibration-20130723/) + [diff](http://www.w3.org/TR/2013/CR-vibration-20130723/,diff)
+   - “*Requirements for providing text* to act as an alternative for images” section in HTML 5.1 updated, [source](https://twitter.com/stevefaulkner/status/359655186215604225)
+ - News
+   - New findings: Typical leading ecommerce site takes *4.9 seconds to serve usable content*, [post](http://www.webperformancetoday.com/2013/07/23/report-ecommerce-page-speed-web-performance-summer-2013/)
+   - The Web’s longest nightmare ends: *Eolas’ patents are dead* on appeal, Ars [article](http://arstechnica.com/tech-policy/2013/07/the-webs-longest-nightmare-ends-eolas-patents-are-dead-on-appeal/)
+ - FYI
+   - [@tokbox]() is doing a *survey on WebRTC* and where it’s headed. Check it out [here](https://www.surveymonkey.com/s/DevE)
+ - UA dev.
+   - Support for ECMAScript 6 *binary and octal integer literals* added to V8, [source](https://twitter.com/beverloo/status/359674116640489473)
+ - Tutorials
+   - Performing *asynchronous operations with Promises* + the Q library, [@kishorelive]()’s [post](http://12devs.co.uk/articles/promises-an-alternative-way-to-approach-asynchronous-javascript/)
+ - Articles
+   - Does *Flexbox have a performance problem*?, [@chriscoyier]()’s [post](http://css-tricks.com/does-flexbox-have-a-performance-problem/) + feedback in comments
+   - The *networking terminology of WebRTC* (ICE, STUN, NAT, TURN, SDP, …), [@louisstow]()’s [post](https://hacks.mozilla.org/2013/07/webrtc-and-the-ocean-of-acronyms/) ![][*]
+   - An *overview of bootstraps* (Twitter, Pure, Cardinal, UI Kit, Foundation, Topcoat), [@inserthtml]()’s [post](http://www.inserthtml.com/2013/07/bootstraps-and-web-kits-enemy-or-efficient/)
+   - On mobile, *data URIs are slower* than linking external resources, [@b1tr0t]()’s [post](http://www.mobify.com/blog/data-uris-are-slow-on-mobile/)
+ - Media
+   - How *illusion of speed* is more important than actual speed, [@souders]()’s 5-min clip in [@akosner]()’s [post](http://www.forbes.com/sites/anthonykosner/2013/07/13/how-mobile-experiences-can-shape-our-perception-through-illusions-of-speed/)
+   - *Unit testing*: Minutes now will save hours later, [@EricMann]()’s 41-min [@jqcon]() [talk](http://youtu.be/_UmmaPe8Bzc) ![][*]
+   - *ShopTalk Show*, ep. 78 w/ [@chriscoyier]() & [@rblalock](), 66-min [podcast](http://shoptalkshow.com/episodes/078-with-rick-blalock/)
+ - Content
+   - CSS Guidelines, high-level guidelines for *writing manageable, maintainable CSS*, [@csswizardry]()’s [page](https://github.com/csswizardry/CSS-Guidelines)
+   - *Carousel interaction stats*, [@erunyon]()’s [post](http://weedygarden.net/2013/07/carousel-interaction-stats/)
+ - Demos
+   - A *responsive slider* with pure CSS, [@teapoted]()’s [demo](http://csscience.com/responsiveslidercss3/)
+   - Plink, a real-time *collaborative music experience*, [@DinahmoeSTHLM]()’s [page](http://labs.dinahmoe.com/plink/) ![][*]
+   - “Riding the New Silk Road” *interactive feature*, NY Times [page](http://www.nytimes.com/newsgraphics/2013/07/21/silk-road/)
+ - Sites
+   - Contrast Rebellion: “To hell with *low-contrast font color* and unreadable texts!”, [site](http://contrastrebellion.com/)
+ - Tools
+   - localtunnel (Ruby gem), *shares your `localhost` web server* to the rest of the world, [page](http://progrium.com/localtunnel/)
+
 ## July 23rd, 2013
 
  - News
@@ -300,36 +334,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - Opinion
    - In defense of the humble *`id` attribute*, [@johnallsopp]()’s [post](http://www.webdirections.org/blog/in-defense-of-the-humble-id-attribute/)
    - *Responsible design* = responsive design + accessibility, [tweet](https://twitter.com/PayPalInclusive/status/354281912686243840)
-
-## July 10th, 2013
-
- - News
-   - *W3C TAG by-election*: two candidates for vacated seat, TAG blog [post](http://www.w3.org/blog/TAG/2013/07/09/the-upcoming-tag-by-election/)
-   - The first *HTTP/2.0 implementable draft* has been published by the IETF, [post](http://msopentech.com/blog/2013/07/09/start-prototyping-with-the-first-implementable-draft-of-http2-0-from-the-ietf-standards-community/) (MS OpenTech)
-   - *Web Audio API* comes to Firefox, [post](https://hacks.mozilla.org/2013/07/web-audio-api-comes-to-firefox/) (Mozilla Hacks)
-   - Chromium addresses the *300ms click delay* on mobile, [source](https://codereview.chromium.org/18850005/)
- - FYI
-   - Microsoft is doing a good job at *upgrading users from IE9 to IE10*, [source](https://twitter.com/dstorey/status/354511055390654464) ![][*]
-   - Does *CSS Flexbox* have performance issues?, [discussion](https://twitter.com/chriscoyier/status/354644516914987008) on Twitter
- - Tutorials
-   - *Integrating JSHint* (JavaScript linter) into your build process (Grunt + Sublime Text), [@burkeholland]()’s [post](http://www.kendoui.com/blogs/teamblog/posts/13-07-09/protecting-your-mellow-with-javascript-linters.aspx)
-   - *Creating striped backgrounds* with CSS gradients and Sass, [@HugoGiraudel]()’s [post](http://css-tricks.com/striped-background-gradients/) + [demo](http://codepen.io/HugoGiraudel/pen/9fc7aefc8b2d9e7d8ccd0ddd976a1d53)
-   - Getting started with *CSS sourcemaps and in-browser Sass editing*, [@toolmantim]()’s [post](https://medium.com/what-i-learned-building/b4daab987fb0) ![][*]
- - Articles
-   - *Web Animations* spec editor Brian Birtles explains *timing groups for synchronizing animations*, [post](http://brian.sol1.net/svg/2013/07/09/group-and-conquer-timing-groups-for-your-synchronization-woes/)
-   - 13 stats to convince your boss to *invest in mobile* in 2013, [@Mike_Abasov]()’s [post](http://www.mobify.com/blog/13-stats-to-convince-your-boss-to-invest-in-mobile-in-2013/)
-   - An introduction to *CSS Custom Filters*, [@inserthtml]()’s [post](http://www.inserthtml.com/2013/07/css-custom-filters/) w/ short video demos ![][*]
-   - About *`setImmediate()`* and why it would be an useful addition to the web platform, [@slicknet]()’s [post](http://www.nczonline.net/blog/2013/07/09/the-case-for-setimmediate/)
-   - Why *mobile web apps* are slow, [@drewcrawford]()’s gigantic [post](http://sealedabstract.com/rants/why-mobile-web-apps-are-slow/)
- - Content
-   - A huge *list of frontend development tools* (w/ links to comparison pages), [@codylindley]()’s [page](https://github.com/codylindley/frontend-tools)
-   - A little *CSS selectors quiz* (15 questions), [@mdaverde]()’s  [page](http://milanlandaverde.com/css-quiz)
-   - Idea: jQuery Lint, [mockup](https://twitter.com/simevidas/status/354640468107198466) (screen shot) + some [context](https://twitter.com/simevidas/status/354628777055236096)
- - Tools
-   - fastclick, *eliminates the 300ms delay* between a physical tap and the firing of a `click` event, [repo](https://github.com/ftlabs/fastclick)
-   - Stylie (online tool), a *code generator for CSS animations*,  [@jeremyckahn]()’s [page](http://jeremyckahn.github.io/stylie/)
-   - Voodoo (JavaScript framework), lets you *mix 2D and 3D content* on the same page, [site](http://www.voodoojs.com/index.php) w/ demo
-   - Manifesto, an HTML5 Offline *Application Cache verification* bookmarklet, [site](http://manifesto.ericdelabar.com/)
 
 **Note:** I’ve temporarily disabled loading additional content onto the page. You can view older dailies in [the “archive” on GitHub](https://github.com/simevidas/webplatformdaily-site/blob/master/data/archive.md). I’ll implement viewing (and searching) all data soon.
 

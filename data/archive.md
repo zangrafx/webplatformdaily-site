@@ -1,3 +1,34 @@
+## July 10th, 2013
+
+ - News
+   - *W3C TAG by-election*: two candidates for vacated seat, TAG blog [post](http://www.w3.org/blog/TAG/2013/07/09/the-upcoming-tag-by-election/)
+   - The first *HTTP/2.0 implementable draft* has been published by the IETF, [post](http://msopentech.com/blog/2013/07/09/start-prototyping-with-the-first-implementable-draft-of-http2-0-from-the-ietf-standards-community/) (MS OpenTech)
+   - *Web Audio API* comes to Firefox, [post](https://hacks.mozilla.org/2013/07/web-audio-api-comes-to-firefox/) (Mozilla Hacks)
+   - Chromium addresses the *300ms click delay* on mobile, [source](https://codereview.chromium.org/18850005/)
+ - FYI
+   - Microsoft is doing a good job at *upgrading users from IE9 to IE10*, [source](https://twitter.com/dstorey/status/354511055390654464) ![][*]
+   - Does *CSS Flexbox* have performance issues?, [discussion](https://twitter.com/chriscoyier/status/354644516914987008) on Twitter
+ - Tutorials
+   - *Integrating JSHint* (JavaScript linter) into your build process (Grunt + Sublime Text), [@burkeholland]()’s [post](http://www.kendoui.com/blogs/teamblog/posts/13-07-09/protecting-your-mellow-with-javascript-linters.aspx)
+   - *Creating striped backgrounds* with CSS gradients and Sass, [@HugoGiraudel]()’s [post](http://css-tricks.com/striped-background-gradients/) + [demo](http://codepen.io/HugoGiraudel/pen/9fc7aefc8b2d9e7d8ccd0ddd976a1d53)
+   - Getting started with *CSS sourcemaps and in-browser Sass editing*, [@toolmantim]()’s [post](https://medium.com/what-i-learned-building/b4daab987fb0) ![][*]
+ - Articles
+   - *Web Animations* spec editor Brian Birtles explains *timing groups for synchronizing animations*, [post](http://brian.sol1.net/svg/2013/07/09/group-and-conquer-timing-groups-for-your-synchronization-woes/)
+   - 13 stats to convince your boss to *invest in mobile* in 2013, [@Mike_Abasov]()’s [post](http://www.mobify.com/blog/13-stats-to-convince-your-boss-to-invest-in-mobile-in-2013/)
+   - An introduction to *CSS Custom Filters*, [@inserthtml]()’s [post](http://www.inserthtml.com/2013/07/css-custom-filters/) w/ short video demos ![][*]
+   - About *`setImmediate()`* and why it would be an useful addition to the web platform, [@slicknet]()’s [post](http://www.nczonline.net/blog/2013/07/09/the-case-for-setimmediate/)
+   - Why *mobile web apps* are slow, [@drewcrawford]()’s gigantic [post](http://sealedabstract.com/rants/why-mobile-web-apps-are-slow/)
+ - Content
+   - A huge *list of frontend development tools* (w/ links to comparison pages), [@codylindley]()’s [page](https://github.com/codylindley/frontend-tools)
+   - A little *CSS selectors quiz* (15 questions), [@mdaverde]()’s  [page](http://milanlandaverde.com/css-quiz)
+   - Idea: jQuery Lint, [mockup](https://twitter.com/simevidas/status/354640468107198466) (screen shot) + some [context](https://twitter.com/simevidas/status/354628777055236096)
+ - Tools
+   - fastclick, *eliminates the 300ms delay* between a physical tap and the firing of a `click` event, [repo](https://github.com/ftlabs/fastclick)
+   - Stylie (online tool), a *code generator for CSS animations*,  [@jeremyckahn]()’s [page](http://jeremyckahn.github.io/stylie/)
+   - Voodoo (JavaScript framework), lets you *mix 2D and 3D content* on the same page, [site](http://www.voodoojs.com/index.php) w/ demo
+   - Manifesto, an HTML5 Offline *Application Cache verification* bookmarklet, [site](http://manifesto.ericdelabar.com/)
+
+
 ## July 9th, 2013
 
  - News
