@@ -1,3 +1,40 @@
+## July 11th, 2013
+
+ - News
+   - [@Hixie]() starts a *discussion about script preloading* at WHATWG’s maling list, [post](http://lists.whatwg.org/htdig.cgi/whatwg-whatwg.org/2013-July/039960.html)
+   - *Chrome 28 released* - read what’s new: SitePoint [article](http://www.sitepoint.com/chrome-28-whats-new/) + TNW [article](http://thenextweb.com/google/2013/07/09/chrome-28-arrives-with-rich-notifications-for-apps-and-extensions-on-windows-mac-and-linux-coming-soon/)
+   - New *Custom Elements features* in Chrome Canary, 14-min [screencast](https://plus.google.com/+EricBidelman/posts/L1iMpwVByP3)
+   - Support for *`"mouseenter"`/`"mouseleave"` events* has landed in Blink, [source](https://twitter.com/beverloo/status/354914034660802560)
+ - Tutorials
+   - 5 HTML5 and *ARIA design patterns*, [@LeonieWatson]()/[@stevefaulkner]()’s [post](http://www.netmagazine.com/features/5-html5-and-aria-design-patterns) ![][*]
+   - An *introduction to CSS regions*, [@chrisdavidmills]()’s DEV.OPERA [post](http://dev.opera.com/articles/view/an-introduction-to-css-regions/)
+   - *Adding keyboard commands* to a web page with Mousetrap, [@davidwalshblog]()’s [post](http://davidwalsh.name/keyboard-shortcuts) w/ demo
+   - How the *“Face to GIF” app* was built (`getUserMedia`, `createObjectURL`, `<canvas>`, …), [@hdragomir]()’s [post](https://hacks.mozilla.org/2013/07/the-making-of-face-to-gif/)
+ - Articles
+   - A roundup of the *new web platform technologies* in the upcoming Safari 6.1 and 7, [@stopsatgreen]()’s [post](http://www.broken-links.com/2013/07/10/web-platform-technologies-in-safari-6-1-and-7/)
+   - *This is a web page* (“…the most powerful tool on the web is still words”), [page](http://justinjackson.ca/words.html) ![][*]
+ - Media
+   - 2 *videos from the SF Node.js meetup* at Mozilla: Working with Node.js and the Buffer API, [page](http://blog.strongloop.com/new-videos-working-with-node-js-and-the-buffer-api/)
+   - Tips, tricks, and tools for developing *fast applications with JavaScript*, 61-min [@bldwin]() [talk](http://channel9.msdn.com/Events/Build/2013/4-313)
+ - Content
+   - Techniques for addressing *keyboard accessibility issues*, [@jared_w_smith]()’s 42-page [slide deck](http://www.slideshare.net/jared_w_smith/keyboard-accessibility-24070581)
+   - *Interview about HTTP 2.0* with [@mnot]() (chair of HTTP WG at IETF), [page](http://www.geekpage.jp/en/blog/2013/akamai-http20.php) ![][*]
+   - A small *test page for Shadow DOM* - view how the built-in elements are structured in Chrome, [tweet](https://twitter.com/ryanseddon/status/355126351071690752)
+   - A huge *list of WebRTC resources*, [@sw12]()’s Google [document](https://docs.google.com/document/d/1idl_NYQhllFEFqkGQOLv8KBK8M3EVzyvxnKkHl4SuM8/edit)
+ - Demos
+   - Several cool *Web Audio demo pages*, [@stuartmemo]()’s [site](http://stuartmemo.com/)
+   - *Animated 3D molecules* in pure CSS, [@thebabydino]()’s [demo](http://codepen.io/thebabydino/details/xbfao)
+   - *Fluid simulation* with Turing patterns, [@Flexi23]()’s WebGL [demo](http://cake23.de/turing-fluid.html)
+ - Sites
+   - Should I use a carousel? (*arguments against using carousels* on web sites), [site](http://shouldiuseacarousel.com/)
+ - Tools
+   - atMedia.info (online tool), provides *media query information* for your device, [site](http://atmedia.info/)
+   - Mocky, an online tool for *generating custom HTTP responses* (for testing purposes), [site](http://www.mocky.io/)
+ - Opinion
+   - In defense of the humble *`id` attribute*, [@johnallsopp]()’s [post](http://www.webdirections.org/blog/in-defense-of-the-humble-id-attribute/)
+   - *Responsible design* = responsive design + accessibility, [tweet](https://twitter.com/PayPalInclusive/status/354281912686243840)
+
+
 ## July 10th, 2013
 
  - News
