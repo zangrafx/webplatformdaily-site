@@ -1,5 +1,37 @@
 The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files). The README file of the repository also serves as a FAQ. Refer to it for information about this web-site.
 
+## July26th, 2013
+
+ - W3C
+   - **New:** First working draft of “*UI Events*”, [TR](http://www.w3.org/TR/2013/WD-uievents-20130725/) (extends DOM Events Level 3)
+   - **New:** First working draft of “*Predefined Counter Styles*”, [TR](http://www.w3.org/TR/2013/WD-predefined-counter-styles-20130725/)
+ - News
+   - *IE11 Developer Preview* for Windows 7 released, [post](http://blogs.msdn.com/b/ie/archive/2013/07/25/ie11-developer-preview-for-windows-7-enabling-next-generation-sites-and-apps-faster.aspx) (IEblog) + [guide](http://msdn.microsoft.com/en-us/library/ie/bg182636%28v=vs.85%29.aspx) for developers (MSDN)
+   - MS OpenTech releases a new *prototype implementation of CU-RTC-Web*, [post](http://msopentech.com/?p=241431)
+   - BBC News hits a “majority-mobile mark” (*more traffic from mobile* than from desktop), [post](http://www.niemanlab.org/2013/07/bbc-news-hits-a-majority-mobile-mark/)
+ - Tutorials
+   - A best-practices *guide to writing Backbone apps*, [@pamelafox]()’s extensive [post](http://blog.pamelafox.org/2013/07/a-guide-to-writing-backbone-apps-at.html)
+   - A quick *introduction to `reqeustAnimationFrame()`*, [@jonraasch]()’s [post](http://html5hub.com/request-animation-frame-for-better-performance/)
+   - Techniques for *styling subheads with CSS*, [@markodugonjic]()’s [post](http://blog.typekit.com/2013/07/25/setting-subheads-with-css/)
+   - Using *Push Notifications in Firefox OS apps*, [@nikhilcutshort]()’s [post](https://hacks.mozilla.org/2013/07/dont-miss-out-on-the-real-time-fun-use-firefox-os-push-notifications/) ![][*]
+   - Backbone.js deconstructed - an *extensive guide to Backbone*, [@codylindley]()’s [post](http://tech.pro/tutorial/1367/part-1-backbonejs-deconstructed)
+ - Articles
+   - The current status of the *`::selection` pseudo element*, [@ImpressiveWebs]()’s [post](http://www.impressivewebs.com/status-selection-pseudo-element/)
+   - *Placeholders are not substitutes* for labels, [post](http://www.pardot.com/faqs/forms/placeholders-and-labels/)
+   - Introducing the *“player” concept in Web Animations*, Brian Birtles’s [post](http://brian.sol1.net/svg/2013/07/25/players-wanted-the-pause-and-seek-game/)
+   - Mobile product lists need very *distinct hit areas*, [@KiehnHolst]()’s [post](http://baymard.com/blog/mobile-product-list-hit-areas)
+ - Media
+   - *The Big Web Show* Ep. 95: [@zeldman]() interviews [@jaffathecake](), 47-min [podcast](http://5by5.tv/bigwebshow/95)
+ - Content
+   - GOV.UK *design principles* w/ examples, [page](https://www.gov.uk/designprinciples)
+   - Resources for *learning Ember.js*, [page](http://net.tutsplus.com/tutorials/javascript-ajax/resources-to-get-you-up-to-speed-in-ember-js/)
+ - Demos
+   - The *future of airline websites*, [@F_i]()’s design [concept](http://www.f-i.com/fi/airlines) ![][*]
+ - Tools
+   - VMUX, plugin-free *video calls in your browser* using WebRTC, [repo](https://github.com/malditogeek/vmux)
+   - pickadate.js, a lightweight *responsive date/time picker*, [page](http://amsul.ca/pickadate.js/) w/ live demo ![][*]
+   - jspm.io, a *browser module loader* that will load any module format (ES6/AMD/CJS), [site](http://jspm.io/)
+
 ## July 25th, 2013
 
  - W3C
@@ -300,36 +332,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - Opinion
    - The biggest *challenges of responsive design* are not technology problems, [@adactio]()’s [post](http://adactio.com/journal/6328/)
    - Don’t make *second-class APIs*, [@bgalbs]()’s [post](http://benzilla.galbraiths.org/2013/06/19/dont-make-second-class-apis/)
-
-## July 12th, 2013
-
- - News
-   - *Web Platform Doc Sprint* to be held in Zurich on August 28th, [post](http://blog.webplatform.org/2013/07/web-platform-doc-sprint-august-28-2013-zurich-switzerland/)
-   - Experimental support for *ES6 `Array` iterator methods* in V8, [source](https://twitter.com/beverloo/status/355318301070589953)
-   - *Firefox OS Simulator* 4.0 released (now simulates touch events), [post](https://hacks.mozilla.org/2013/07/firefox-os-simulator-4-0-released/) (Mozilla Hacks)
-   - Deutsche Telekom announces European launch of *Firefox OS devices*, [post](https://blog.mozilla.org/blog/2013/07/11/deutsche-telekom-announces-european-launch-of-firefox-os-devices/) (Mozilla blog)
- - FYI
-   - Upcoming GDL session (July 16): *Encrypted Media Extensions* 101, [tweet](https://twitter.com/ChromiumDev/status/355328024650072067) (post and vote for questions)
-   - IE11 added to [@kangax]()’s *ECMAScript compatibility tables*, [source](https://twitter.com/kangax/status/355360954395017217)
- - Tutorials
-   - *Capturing responsive screenshots* with PhantomJS and Casper, [@shaundunne]()’s [post](http://net.tutsplus.com/tutorials/javascript-ajax/responsive-screenshots-with-casper/)
-   - A quick overview of the *HTML5 History API*, [@ImpressiveWebs]()’s [post](http://www.impressivewebs.com/html5-history-api-syntax/)
-   - Creating a *fluid-height banner*, [@csswizardry]()’s [demo](http://jsfiddle.net/csswizardry/upRpy/) w/ instructions
- - Articles
-   - *Node.js* - where we came from and where we are headed, [@FaisalAbid]()’s [post](https://medium.com/i-m-h-o/433b55562cd5)
-   - *Responsive design*: we are not there yet, [@helloanselm]()’s [post](http://www.netmagazine.com/features/responsive-design-we-are-not-there-yet) ![][*]
- - Media
-   - ShopTalk Rapidfire #18, [@chriscoyier]()/[@davatron5000]()’s 73-min [podcast](http://shoptalkshow.com/episodes/077-rapidfire-18/) ![][*]
-   - Using jQuery to build a federated, *real-time video chat app*, [@robinraymond]()’s 38-min [@jqcon]() [talk](https://www.youtube.com/watch?v=XR5p8eudSSk)
- - Content
-   - *Practical screen reader support* by browser and OS (support table), [@stevefaulkner]() [post](http://blog.paciellogroup.com/2012/02/rough-guide-browsers-operating-systems-and-screen-reader-support/)
-   - Accessibility expert warns: *stop using carousels*, [interview](http://www.netmagazine.com/news/accessibility-expert-warns-stop-using-carousels-132875) with [@jared_w_smith]()
-   - *Synchronized cross-device live-reloading* on every change with Grunt, [post](https://plus.google.com/+AddyOsmani/posts/Utwx3g7ACar)
-   - A large-scale field study of *browser security warning effectiveness*, [@frgx]()/[@\__apf__]()’s PDF [document](http://www.cs.berkeley.edu/~devdatta/papers/alice-in-warningland.pdf)
-   - Assemble: *Yeoman’s missing piece*, [@glenmaddern]()’s [@melbjs]() [slide deck](http://geelen.github.io/assemble-talk/)
- - Demos
-   - *Animated books* with CSS 3D Transforms, [@marco_bf]()’s [demo](http://tympanus.net/Development/AnimatedBooks/index.html) + [post](http://tympanus.net/codrops/2013/07/11/animated-books-with-css-3d-transforms/)
-   - *Chrome-style loader* with minimal SVG and CSS animations, [@LeaVerou]()’s [demo](http://dabblet.com/gist/5975018)
 
 **Note:** I’ve temporarily disabled loading additional content onto the page. You can view older dailies in [the “archive” on GitHub](https://github.com/simevidas/webplatformdaily-site/blob/master/data/archive.md). I’ll implement viewing (and searching) all data soon.
 

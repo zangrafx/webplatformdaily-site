@@ -1,3 +1,33 @@
+## July 12th, 2013
+
+ - News
+   - *Web Platform Doc Sprint* to be held in Zurich on August 28th, [post](http://blog.webplatform.org/2013/07/web-platform-doc-sprint-august-28-2013-zurich-switzerland/)
+   - Experimental support for *ES6 `Array` iterator methods* in V8, [source](https://twitter.com/beverloo/status/355318301070589953)
+   - *Firefox OS Simulator* 4.0 released (now simulates touch events), [post](https://hacks.mozilla.org/2013/07/firefox-os-simulator-4-0-released/) (Mozilla Hacks)
+   - Deutsche Telekom announces European launch of *Firefox OS devices*, [post](https://blog.mozilla.org/blog/2013/07/11/deutsche-telekom-announces-european-launch-of-firefox-os-devices/) (Mozilla blog)
+ - FYI
+   - Upcoming GDL session (July 16): *Encrypted Media Extensions* 101, [tweet](https://twitter.com/ChromiumDev/status/355328024650072067) (post and vote for questions)
+   - IE11 added to [@kangax]()’s *ECMAScript compatibility tables*, [source](https://twitter.com/kangax/status/355360954395017217)
+ - Tutorials
+   - *Capturing responsive screenshots* with PhantomJS and Casper, [@shaundunne]()’s [post](http://net.tutsplus.com/tutorials/javascript-ajax/responsive-screenshots-with-casper/)
+   - A quick overview of the *HTML5 History API*, [@ImpressiveWebs]()’s [post](http://www.impressivewebs.com/html5-history-api-syntax/)
+   - Creating a *fluid-height banner*, [@csswizardry]()’s [demo](http://jsfiddle.net/csswizardry/upRpy/) w/ instructions
+ - Articles
+   - *Node.js* - where we came from and where we are headed, [@FaisalAbid]()’s [post](https://medium.com/i-m-h-o/433b55562cd5)
+   - *Responsive design*: we are not there yet, [@helloanselm]()’s [post](http://www.netmagazine.com/features/responsive-design-we-are-not-there-yet) ![][*]
+ - Media
+   - ShopTalk Rapidfire #18, [@chriscoyier]()/[@davatron5000]()’s 73-min [podcast](http://shoptalkshow.com/episodes/077-rapidfire-18/) ![][*]
+   - Using jQuery to build a federated, *real-time video chat app*, [@robinraymond]()’s 38-min [@jqcon]() [talk](https://www.youtube.com/watch?v=XR5p8eudSSk)
+ - Content
+   - *Practical screen reader support* by browser and OS (support table), [@stevefaulkner]() [post](http://blog.paciellogroup.com/2012/02/rough-guide-browsers-operating-systems-and-screen-reader-support/)
+   - Accessibility expert warns: *stop using carousels*, [interview](http://www.netmagazine.com/news/accessibility-expert-warns-stop-using-carousels-132875) with [@jared_w_smith]()
+   - *Synchronized cross-device live-reloading* on every change with Grunt, [post](https://plus.google.com/+AddyOsmani/posts/Utwx3g7ACar)
+   - A large-scale field study of *browser security warning effectiveness*, [@frgx]()/[@\__apf__]()’s PDF [document](http://www.cs.berkeley.edu/~devdatta/papers/alice-in-warningland.pdf)
+   - Assemble: *Yeoman’s missing piece*, [@glenmaddern]()’s [@melbjs]() [slide deck](http://geelen.github.io/assemble-talk/)
+ - Demos
+   - *Animated books* with CSS 3D Transforms, [@marco_bf]()’s [demo](http://tympanus.net/Development/AnimatedBooks/index.html) + [post](http://tympanus.net/codrops/2013/07/11/animated-books-with-css-3d-transforms/)
+   - *Chrome-style loader* with minimal SVG and CSS animations, [@LeaVerou]()’s [demo](http://dabblet.com/gist/5975018)
+
 ## July 11th, 2013
 
  - News
