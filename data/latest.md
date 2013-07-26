@@ -11,7 +11,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - BBC News hits a “majority-mobile mark” (*more traffic from mobile* than from desktop), [post](http://www.niemanlab.org/2013/07/bbc-news-hits-a-majority-mobile-mark/)
  - Tutorials
    - A best-practices *guide to writing Backbone apps*, [@pamelafox]()’s extensive [post](http://blog.pamelafox.org/2013/07/a-guide-to-writing-backbone-apps-at.html)
-   - A quick *introduction to `reqeustAnimationFrame()`*, [@jonraasch]()’s [post](http://html5hub.com/request-animation-frame-for-better-performance/)
+   - A quick *introduction to `requestAnimationFrame()`*, [@jonraasch]()’s [post](http://html5hub.com/request-animation-frame-for-better-performance/)
    - Techniques for *styling subheads with CSS*, [@markodugonjic]()’s [post](http://blog.typekit.com/2013/07/25/setting-subheads-with-css/)
    - Using *Push Notifications in Firefox OS apps*, [@nikhilcutshort]()’s [post](https://hacks.mozilla.org/2013/07/dont-miss-out-on-the-real-time-fun-use-firefox-os-push-notifications/) ![][*]
    - Backbone.js deconstructed - an *extensive guide to Backbone*, [@codylindley]()’s [post](http://tech.pro/tutorial/1367/part-1-backbonejs-deconstructed)
