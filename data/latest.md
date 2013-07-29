@@ -1,5 +1,36 @@
 The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files). The README file of the repository also serves as a FAQ. Refer to it for information about this web-site.
 
+## July 29th, 2013
+
+ - News
+   - *Do Not Track opt-out* icon coming to mobile browsers, CNET [article](http://news.cnet.com/8301-1023_3-57595191-93/do-not-track-opt-out-icon-coming-to-mobile-browsers/)
+ - UA dev.
+   - Chrome Canary now supports *video alpha transparency in WebM*, [post](http://updates.html5rocks.com/2013/07/Alpha-transparency-in-Chrome-video) w/ video demo
+ - Tutorials
+   - A good comprehensive *introduction to `requestAnimationFrame`*, [@kirupa]()’s [post](http://www.kirupa.com/html5/animating_with_requestAnimationFrame.htm)
+   - Creating a *3D game with WebGL* and Three.js, [@nklsrh]()’s [post](http://buildnewgames.com/webgl-threejs/)
+   - Tools for *automated CSS testing* (syntax checking, image diffs, …), [@thingsinjars]()’s [post](http://www.netmagazine.com/tutorials/4-tools-automatic-css-testing)
+   - A guide to *working with ECMAScript 6 modules* (+ polyfills for using today), [@rauschma]()’s [post](http://www.2ality.com/2013/07/es6-modules.html) ![][*]
+   - A *getting-started guide to git*, [@tobidobi]()’s [post](http://sixrevisions.com/web-development/easy-git-tutorial/)
+ - Articles
+   - A roundup of the different *website deployment methods*, [@chriscoyier]()’s [post](http://css-tricks.com/deployment/)
+   - 10 things you might not know *about accessibility*, Scott Hollier’s [post](http://www.connectingup.org/learn/articles/10-things-you-might-not-know-about-accessibility) ![][*]
+   - Some users continue to *double-click online* (+ how to prevent issues with this), [@jamieappleseed]()’s [post](http://baymard.com/blog/users-double-click-online)
+   - How developers can *contribute to the HTML5 specification*, [@iandevlin]()’s [post](http://html5hub.com/how-developers-can-contribute-to-the-html5-specification/)
+   - Performance comparison: *CSS transitions vs jQuery’s `.animate()`*, [@richbradshaw]()’s [post](http://css3.bradshawenterprises.com/blog/jquery-vs-css3-transitions/)
+ - Media
+   - Tools for *building apps for Firefox OS*, 7-min [discussion](https://hacks.mozilla.org/2013/07/getting-started-with-apps-firefox-os-for-developers-the-platform-html5-deserves/) between [@torgo]() and [@codepo8]()
+   - “*Non profits in the digital age*”, 24-min [video](http://ww3.tvo.org/video/193146/mark-surman-non-profits-digital-age) interview w/ Mozilla exec [@msurman]() ![][*]
+   - Dark patterns: User interfaces *designed to trick people*, [@harrybr]()’s 29-min [screencast](http://www.slideshare.net/harrybr/ux-brighton-dark-patterns)
+ - Content
+   - Interview with [@brucel]() (Open *Web Standards evangelist for Opera*), [page](http://html5hub.com/bruce-lawson-interview/)
+   - Locale Preferences API (… to enable *dynamic localization of content*), [@marcosc]()’s [proposal](https://github.com/marcoscaceres/Locale-Preferences-API/blob/master/proposal.md)
+ - Sites
+   - WebGL Academy, an online course for *learning the basics of WebGL*, [site](http://www.webglacademy.com/)
+ - Tools
+   - loads.in, an online tool for testing *how fast your site loads* from different geographical locations, [site](http://loads.in/)
+   - animations.css, a *set of preset, plug-and-play CSS animations*, [page](http://www.justinaguilar.com/animations/) + jsFiddle [demo](https://twitter.com/simevidas/status/361646229471506432)
+
 ## July 26th, 2013
 
  - W3C
@@ -167,7 +198,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
 ## July 19th, 2013
 
  - W3C
-   - **Last Call** WD of “*CSS Counter Styles Level 3*”, [TR](http://www.w3.org/TR/2013/WD-css-counter-styles-3-20130718/) + [diff](http://www.w3.org/TR/2013/WD-css-counter-styles-3-20130718/,diff)
+   - **Last Call** WD of “*CSS Counter Styles Level 3*”, [TR](http://www.w3.org/TR/2013/WD-css-counter-styles-3-20130718/) + [diff](http://www.w3.org/TR/2013/WD-css-counter-styles-3-20130718/,diff) + release [notes](http://www.w3.org/blog/CSS/2013/07/25/counter-styles-3-lcwd-published/)
  - News
    - Chrome 29 Beta: *Web Audio and WebRTC in Chrome* for Android, [post](http://blog.chromium.org/2013/07/chrome-29-beta-web-audio-and-webrtc-in.html) (Chromium Blog)
    - IE11 to support *prerendering and prefetching*, MSDN [page](http://msdn.microsoft.com/en-us/library/ie/dn265039%28v=vs.85%29.aspx)
@@ -296,42 +327,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - SlimerJS, a *scriptable browser* (similar to PhantomJS but runs Gecko), [site](http://slimerjs.org/)
  - Opinion
    - Support *Sergey for W3C TAG* (**polls close today**), [@slightlylate]()’s [post](http://briankardell.wordpress.com/2013/07/15/once-more-unto-the-breach/)
-
-## July 15th, 2013
-
- - FYI
-   - Chrome DevTools protips:
-     - `copy(JSON.stringify(data, null, 2))` for nifty *formatted JSON to your clipboard*, [tweet](https://twitter.com/ryanseddon/status/355619613729497088)
-     - Setting *breakpoints for DOM modifications*, [tweet](https://twitter.com/addyosmani/status/355784723043332101)
- - Tutorials
-   - Nice JavaScript trick: *Placing custom text into the clipboard* when user presses `Ctrl+C`, [@d_lec]()’s [post](http://stackoverflow.com/a/17528590/425275)
-   - A guide to *styling custom elements in Polymer* (new CSS features + Polymer’s polyfills), [@ebidel]()’s [post](http://www.polymer-project.org/articles/styling-elements.html)
-   - Two interesting examples of using *partially configured (curried) functions*, [@hughfdjackson]()’s [post](http://hughfdjackson.com/javascript/2013/07/06/why-curry-helps/)
-   - *Applying SVG filters* to your HTML content with CSS, [@agreenblatt]()’s [post](http://blattchat.com/2013/07/13/fun-with-svg-filters/) ![][*]
- - Articles
-   - *Firefox OS’s openness* explained (w/ useful links), [@ruk]()’s [post](http://ruk.ca/content/my-first-firefox-os-app-hits-firefox-marketplace)
-   - Trying to *completely disable any HTML element* with HTML/CSS alone, [@vasilis]()’s [post](http://nerd.vasilis.nl/disable-html-elements-with-css-only/)
-   - *Hyperlink design tips* for better user experience and enhanced accessibility, [@johneemac]()’s [post](http://sixrevisions.com/usability/hyperlink-design/)
-   - “*Chrome DevTools* Revolutions 2013” recap, [@DevDocDude]()’s [post](http://www.html5rocks.com/en/tutorials/developertools/revolutions2013/) ![][*]
- - Media
-   - *jQuery* is a Swiss army knife (and that’s OK!), [@ajpiano]()’s 32-min [@jqcon]() [talk](http://youtu.be/_FNiw0BFoMQ)
- - Content
-   - A selected list of the best *web accessibility resources*, [page](http://www.deque.com/top-web-accessibility-resources)
-   - “ES6: The Awesome Parts” (covers *generators and template strings*), [@domenic]()’s 41-page [slide deck](http://www.slideshare.net/domenicdenicola/es6-the-awesome-parts)
-   - *Site compatibility for Firefox* 22, useful MDN [page](https://developer.mozilla.org/en-US/docs/Site_Compatibility_for_Firefox_22) (each Firefox version has one such page) ![][*]
- - Demos
-   - Rotating 3D iPhone *with live on-screen video* in pure CSS,[@jlwebart]()’s [demo](http://codepen.io/jlwebart/full/JDHne) (view in Chrome)
- - Sites
-   - DevTools Snippets, a *collection of helpful code snippets* to use inside Chrome’s DevTools ([?](https://developers.google.com/chrome-developer-tools/docs/authoring-development-workflow#snippets)), [site](http://bgrins.github.io/devtools-snippets/)
-   - npmsearch, a *search tool for Node.js packages* w/ ratings, [site](http://npmsearch.com/)
- - Tools
-   - Minified.js, a 4kB *alternative to jQuery*, [site](http://minifiedjs.com/)
-   - date for humans (JS library), an *English language date parser*, [page](http://matthewmueller.github.io/date/)
-   - GistBox, a personal code library for *organizing code snippets*, [site](http://www.gistboxapp.com/)
-   - elementTransitions.js (CSS + JS file), a collection of *transition effects for page elements*, [page](http://dan-silver.github.io/ElementTransitions.js/)
- - Opinion
-   - The biggest *challenges of responsive design* are not technology problems, [@adactio]()’s [post](http://adactio.com/journal/6328/)
-   - Don’t make *second-class APIs*, [@bgalbs]()’s [post](http://benzilla.galbraiths.org/2013/06/19/dont-make-second-class-apis/)
 
 **Note:** I’ve temporarily disabled loading additional content onto the page. You can view older dailies in [the “archive” on GitHub](https://github.com/simevidas/webplatformdaily-site/blob/master/data/archive.md). I’ll implement viewing (and searching) all data soon.
 
