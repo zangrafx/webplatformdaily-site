@@ -1,5 +1,37 @@
 The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files). The README file of the repository also serves as a FAQ. Refer to it for information about this web-site.
 
+## July 30th, 2013
+
+ - News
+   - *TC-39 July meeting* held, [@rwaldron]()’s [notes](https://github.com/rwldrn/tc39-notes/tree/master/es6/2013-07)
+   - MS OpenTech releases an *HTTP/2.0 server prototype*, [post](http://msopentech.com/blog/2013/07/29/start-testing-with-first-implementation-of-ietf-http2-0-draft-from-ms-open-tech/)
+ - UA dev. 
+   - *MediaRecorder API* ([?](https://dvcs.w3.org/hg/dap/raw-file/default/media-stream-capture/MediaRecorder.html#MediaRecorderAPI)) added to Firefox Nightly, [source](https://twitter.com/sw12/status/361864499046780928)
+   - Intent to implement: *NavigationController* in Firefox, [source](https://twitter.com/codepo8/status/361899573033172993)
+   - *Discussion about `setImmediate`* on `blink-dev`, [link](https://groups.google.com/a/chromium.org/d/topic/blink-dev/Hn3GxRLXmR0/discussion)
+ - FYI
+   - *SVG limitations* in IE11, [discussion](https://twitter.com/jaffathecake/status/361763320765743104) on Twitter
+ - Tutorials
+   - A great *introductory guide to Node.js*, [@nzgb]()’s [post](http://blog.ponyfoo.com/2013/07/12/teach-yourself-nodejs-in-10-steps) ![][*]
+   - *Dynamic CSS animations* with Rekapi, [@jeremyckahn]()’s [post](http://jeremyckahn.github.io/blog/2013/07/28/60-fps-or-bust-dynamically-prerendering-css-animations/)
+   - *Optimizing (minifying) images* with grunt-contrib-imagemin, [@gryghostvisuals]()’s [post](http://blog.grayghostvisuals.com/grunt/image-optimization/)
+   - *Animated line drawing* in SVG, [@jaffathecake]()’s [post](http://jakearchibald.com/2013/animated-line-drawing-svg/) (+ [@mbostock]()’s related [demo](http://bl.ocks.org/mbostock/5649592))
+   - Reliably retrieving the *dimensions of the CSS viewport* (in JavaScript), [@tysonmatanich]()’s [post](http://www.matanich.com/2013/01/07/viewport-size/)
+ - Media
+   - “Lessons from the experimental edge of technology”, [@rem]()’s 31-min [@jsconf]() [talk](http://youtu.be/f_9nDBtSInI)
+ - Content
+   - *Test your knowledge*: What size is your viewport width?, [page](http://www.matanich.com/test/viewport-width/) ![][*]
+   - Proposal: *`autoselect` attribute* on form input fields, [@getify]()’s [post](http://html5hub.com/autoselect-this/)
+   - A small collection of *HTML email protips*, [@devongovett]()’s [page](http://storify.com/devongovett/html-email-protips)
+   - Introduction to *ARIA widgets*, [@jkiss]()’s [slide deck](http://accessibleculture.org/articles/2013/07/slides-from-wdcnz-2013/)
+ - Demos
+   - A *spinning cube* with pure CSS, [@davidwalshblog]()’s [post](http://davidwalsh.name/css-cube)
+ - Tools
+   - ViewportTester (bookmarklet), *displays the viewport dimensions* of the current window, [page](http://tysonmatanich.github.io/viewportTester/)
+   - Pixel density tests (online tool), *tests support for `device-pixel-ratio`* and `min/max-resolution`, [page](http://www.matanich.com/examples/pixel-density-tests/)
+   - SVGeneration (online tool), an *SVG pattern code generator* for use in CSS `background-image`, [site](http://www.svgeneration.com/) ![][*]
+   - codeshare.io, an online editor for *sharing code in real-time*, [site](http://codeshare.io/)
+
 ## July 29th, 2013
 
  - News
@@ -289,44 +321,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - Tools
    - Embed Responsively, an online tool for *embedding rich third-party media* into responsive web pages, [site](http://embedresponsively.com/)
    - grunt-hub, A Grunt task to watch and *run tasks on multiple Grunt projects*, [site](http://shama.github.io/grunt-hub/)
-
-## July 16th, 2013
-
- - News
-   - An *introduction to Encrypted Media Extensions*, GDL [session](https://developers.google.com/live/shows/826991846) (**today at 5 p.m. UTC**)
-   - A new *ECMAScript 6 specification draft* released (revision 16), [tweet](https://twitter.com/awbjs/status/356939809119420416) 
-   - Add-ons support coming to *Firefox OS*, [source](https://twitter.com/fabricedesre/status/356697308458532866)
-   - *Remote debugging over raw USB* coming to Chrome, [source](https://plus.google.com/u/0/100132233764003563318/posts/RJFZSYDgpMm?e=-RedirectToSandbox)
-   - Support for *CSS `background-attachment: local`* coming to Firefox, [source](https://twitter.com/LeaVerou/status/356915789716135936)
- - Tutorials
-   - Writing *maintainable and scalable JavaScript* with the soma.js framework, [@soundstep]()’s extensive [post](http://flippinawesome.org/2013/07/15/soma-js-your-way-out-of-chaotic-javascript/)
-   - Quick JavaScript lesson: How *trailing commas in object/array literals* work, [@rauschma]()’s [post](http://www.2ality.com/2013/07/trailing-commas.html)
-   - Building web apps with the *Yeoman workflow*, [@stephenplusplus]()’s [post](http://net.tutsplus.com/tutorials/javascript-ajax/building-apps-with-the-yeoman-workflow/) ![][*]
- - Articles
-   - What’s new in *IE11’s developer tools* (IntelliSense, tracepoints, …), [@craigbuckler]()’s [post](http://www.sitepoint.com/ie11-developer-tools/)
-   - ES6 modules, build tools and *browser app delivery*, [@ryanflorence]()’s [post](http://ryanflorence.com/2013/es6-modules-and-browser-app-delivery/)
-   - *Building apps for Windows devices* using open source technologies, [@OpenAtMicrosoft]() [post](http://msopentech.com/opentech-projects/building-apps-for-windows-devices-using-open-source-technologies/)
-   - *Reporting User Timing marks* to RUM services (Google Analytics, …), [@patmeenan]()’s [post](http://blog.patrickmeenan.com/2013/07/measuring-performance-of-user-experience.html) ![][*]
- - Media
-   - An overview of why your business should *use open source software*, [@dajbelshaw]()’s 5-min [video](http://youtu.be/JkgjS_phvHY)
-   - When to stop using jQuery’s `.animate()` and *start using CSS animations*, [@jessicard]()’s 29-min [@jqcon]() [talk](https://www.youtube.com/watch?v=n-5UYqn8v04&feature=youtu.be&t=3m54s)
- - Content
-   - *Automated testing for web apps*: What tool(s) do you use?, [discussion](https://twitter.com/karlpro/status/356757147654168577) on Twitter + public [pad](https://etherpad.mozilla.org/5iHD1O6XeK)
-   - A *discovery page for Yeoman generators*, [page](http://yeoman.io/community-generators.html)
- - Demos
-   - 25 *interactive web sites* that look like Flash, [page](http://line25.com/articles/25-interactive-html-websites-that-look-like-flash)
-   - A couple of neat *on/off switches* with pure CSS, [@billyysea]()’s [demo](http://codepen.io/billycrist/pen/CHmiE)
-   - A proof-of-concept for a *Flexbox-driven responsive layout*, [@mrJasonWeaver]()’s [demo](http://codepen.io/indyplanets/full/LFocp) ![][*]
-   - Several impressive *three.js WebGL demos*, [tweet](https://twitter.com/mrdoob/status/356845067979337728)
- - Sites
-   - JSLint error explanations, helps understanding the *error messages produced by JSLint/JSHint*, [site](http://jslinterrors.com/)
-   - Choosing an *open source license*, GitHub [post](https://github.com/blog/1530-choosing-an-open-source-license) + [site](http://choosealicense.com/)
- - Tools
-   - es6-module-loader, an *ES6 module loader polyfill*, [repo](https://github.com/ModuleLoader/es6-module-loader)
-   - PouchDB, a *JavaScript database for web apps* that need to work offline, [repo](https://github.com/daleharvey/pouchdb)
-   - SlimerJS, a *scriptable browser* (similar to PhantomJS but runs Gecko), [site](http://slimerjs.org/)
- - Opinion
-   - Support *Sergey for W3C TAG* (**polls close today**), [@slightlylate]()’s [post](http://briankardell.wordpress.com/2013/07/15/once-more-unto-the-breach/)
 
 **Note:** I’ve temporarily disabled loading additional content onto the page. You can view older dailies in [the “archive” on GitHub](https://github.com/simevidas/webplatformdaily-site/blob/master/data/archive.md). I’ll implement viewing (and searching) all data soon.
 
