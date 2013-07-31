@@ -14,7 +14,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - Tutorials
    - The *`classList` API* (API overview + browser support + polyfills), [@derekjohnson]()’s [post](http://html5doctor.com/the-classlist-api/)
    - HTML5 Geolocation: *Drawing routes with the Google Maps API*, [@JonnySchnittger]()’s [post](http://www.developerdrive.com/2013/07/html5-geo-location-api-and-google-maps-api/) + [demo](http://developerdrive.developerdrive.netdna-cdn.com/wp-content/uploads/2013/07/location1.html)
-   - A 7-step guide to establishing a *font-end workflow with Grunt*, [@toddmotto]()’s [post](http://tech.pro/tutorial/1456/a-primer-into-front-end-tooling-gruntjs-for-an-open-source-workflow) ![][*]
+   - A 7-step guide to establishing a *front-end workflow with Grunt*, [@toddmotto]()’s [post](http://tech.pro/tutorial/1456/a-primer-into-front-end-tooling-gruntjs-for-an-open-source-workflow) ![][*]
  - Articles
    - The pros/cons of *checking in your front-end dependencies* into source control, [@addyosmani]()’s [post](http://addyosmani.com/blog/checking-in-front-end-dependencies/)
    - Introduction to the new F12 *developer tools in IE11*, [post](http://blogs.msdn.com/b/ie/archive/2013/07/29/debugging-and-tuning-web-sites-and-apps-with-f12-developer-tools-in-ie11.aspx) (IEblog)
