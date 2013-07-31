@@ -1,5 +1,37 @@
 The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files). The README file of the repository also serves as a FAQ. Refer to it for information about this web-site.
 
+## July 31st, 2013
+
+ - W3C
+   - “*Web Storage*” published as a **W3C Recommendation**, [TR](http://www.w3.org/TR/2013/REC-webstorage-20130730/)
+   - Updated Candidate Recommendation of “*CSS Values and Units*”, [TR](http://www.w3.org/TR/2013/CR-css3-values-20130730/) + [diff](http://www.w3.org/TR/2013/CR-css3-values-20130730/,diff)
+   - **Last Call** Working Draft of “*CSS Cascading and Inheritance*”, [TR](http://www.w3.org/TR/2013/WD-css-cascade-3-20130730/) + [diff](http://www.w3.org/TR/2013/WD-css-cascade-3-20130730/,diff)
+   - Updated Working Draft of “*IndieUI: Events*”, [TR](http://www.w3.org/TR/2013/WD-indie-ui-events-20130730/) + [diff](http://www.w3.org/TR/2013/WD-indie-ui-events-20130730/,diff) + release [notes](http://www.w3.org/News/2013.html?utm_source=dlvr.it&utm_medium=twitter#entry-9903)
+ - UA dev.
+   - Intent to Implement: *NavigationController in Blink*, [source](https://twitter.com/addyosmani/status/362325317228048385)
+ - FYI
+   - Would you *prefer Date objects* or a number for a timestamp in an API?, [discussion](https://twitter.com/annevk/status/362017983461212160) on Twitter
+ - Tutorials
+   - The *`classList` API* (API overview + browser support + polyfills), [@derekjohnson]()’s [post](http://html5doctor.com/the-classlist-api/)
+   - HTML5 Geolocation: *Drawing routes with the Google Maps API*, [@JonnySchnittger]()’s [post](http://www.developerdrive.com/2013/07/html5-geo-location-api-and-google-maps-api/) + [demo](http://developerdrive.developerdrive.netdna-cdn.com/wp-content/uploads/2013/07/location1.html)
+   - A 7-step guide to establishing a *font-end workflow with Grunt*, [@toddmotto]()’s [post](http://tech.pro/tutorial/1456/a-primer-into-front-end-tooling-gruntjs-for-an-open-source-workflow) ![][*]
+ - Articles
+   - The pros/cons of *checking in your front-end dependencies* into source control, [@addyosmani]()’s [post](http://addyosmani.com/blog/checking-in-front-end-dependencies/)
+   - Introduction to the new F12 *developer tools in IE11*, [post](http://blogs.msdn.com/b/ie/archive/2013/07/29/debugging-and-tuning-web-sites-and-apps-with-f12-developer-tools-in-ie11.aspx) (IEblog)
+   - A solid explanation of *how HTTPS works*, [@hartleybrody]()’s [post](http://blog.hartleybrody.com/https-certificates/)
+   - Introducing NEX - *standards-oriented browser add-ons*, [@richtibbett]()’s [post](http://my.opera.com/ODIN/blog/2013/07/30/introducing-nex) ![][*]
+ - Media
+   - Bootstrap’s new flat design brings *reduced paint times*, [@paul_irish]()’s quick 4-min [screencast](http://youtu.be/Z1IqzeA3XXg)
+   - *Microformats2 & HTML5*: The next evolutionary step for web data, [@t]()’s 72-min [talk](http://marakana.com/s/post/1520/microformats_with_tantek_celik_video) + [slide deck](http://tantek.com/presentations/2013/07/microformats2/) ![][*]
+ - Content
+   - Known *implementations of HTTP/2*, [wiki](https://github.com/http2/http2-spec/wiki/Implementations) page (GitHub)
+   - Chrome DevTools documentation: *Working with CSS preprocessors*, [page](https://developers.google.com/chrome-developer-tools/docs/css-preprocessors)
+ - Tools
+   - Number converter, converts *ASCII numbers into local alternatives* per CSS3 Counter Styles, [page](http://rishida.net/tools/numberconverter/)
+   - he, a robust *HTML entity encoder/decoder* written in JavaScript, [repo](https://github.com/mathiasbynens/he)
+ - Opinion
+   - “After 20 years the web still has no culture of *design excellence*”, [@mbutterick]()’s [post](http://unitscale.com/mb/bomb-in-the-garden/) ![][*]
+
 ## July 30th, 2013
 
  - News
@@ -289,40 +321,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - *Betting on open source* in your products, [@vincent_hardy]()’s [post](http://insights.wired.com/profiles/blogs/betting-on-open-source-in-your-products)
    - “The web: less engine, more gas”, [@mattpointblank]()’s [post](http://www.threechords.org/blog/the-web-less-engine-more-gas/) (+ read Paul’s comment) ![][*]
 
-## July 17th, 2013
-
- - W3C
-   - **Last Call** WD of “*CSS Fonts Level 3*”, [TR](http://www.w3.org/TR/2013/WD-css-fonts-3-20130711/) + [diff](http://www.w3.org/TR/2013/WD-css-fonts-3-20130711/,diff) + release [notes](http://lists.w3.org/Archives/Public/www-style/2013Jul/0416.html) w/ changelog
-   - **Last Call** WD of “*HTML5 Image Description Extension*” (`longdesc` attribute), [TR](http://www.w3.org/TR/2013/WD-html-longdesc-20130716/) + [diff](http://www.w3.org/TR/2013/WD-html-longdesc-20130716/,diff)
- - News
-   - Establishing the *meaning of Do Not Track*, W3C blog [post](http://www.w3.org/QA/2013/07/establishing_the_meaning_of_do.html)
-   - *Do Not Track standards group* shoots down advertiser proposal, CNET [article](http://news.cnet.com/8301-1023_3-57593907-93/do-not-track-standards-group-shoots-down-advertiser-proposal/)
-   - *Blink development*: Fractional spacings, MouseEnter and MouseLeave and Promises, [@beverloo]() [post](http://peter.sh/2013/07/fractional-spacings-mouseenter-and-mouseleave-and-promises/)
-   - New *ES6 APIs* coming to Firefox: `Array.from/of` ([tw.](https://twitter.com/FirefoxNightly/status/357274306402729986)), `Number.parseInt/Float` ([tw.](https://twitter.com/FirefoxNightly/status/357274304020348928)), `Math` f’ns ([tw.](https://twitter.com/FirefoxNightly/status/357274301554098177))
- - FYI
-   - Mozilla chair [@MitchellBaker]() will *answer Firefox OS questions* **today at 5:30 p.m UTC**, [tweet](https://twitter.com/firefox/status/357145094685605889)
- - Articles
-   - Smartphone browser *`localStorage` faster than native cache* (up to 5 times), [@b1tr0t]()’s [post](http://www.mobify.com/blog/smartphone-localstorage-outperforms-browser-cache/)
-   - A good recap of last month’s *Velocity conference*, [@derek]()’s [post](http://www.yuiblog.com/blog/2013/07/16/velocity-2013-building-a-faster-and-stronger-web/) ![][*]
-   - Introducing *ESLint, a JavaScript linting tool* where all rules are pluggable, [@slicknet]()’s [post](http://www.nczonline.net/blog/2013/07/16/introducing-eslint/)
-   - “Let’s talk differently about *JavaScript performance* in web apps”, [@aerotwist]()’s [post](http://aerotwist.com/blog/reflections-on-performance-at-google-io/)
- - Media
-   - An *introduction to Polymer* w/ [@ebidel](), [@mattsmcnulty]() and [@jkomoros](), 35-min GDL [session](https://developers.google.com/live/shows/836113307) ![][*]
-   - An *introduction to Encrypted Media Extensions* (EME) w/ John Luther and [@sw12](), 35-min GDL [session](https://developers.google.com/live/shows/826991846)
-   - “Chrome Office hours” - *Google developers answer* your questions, 41-min GDL [session](https://developers.google.com/events/835900373/)
- - Content
-   - Where does *Chrome’s main thread* spend its time during page load (data from one million sites), [tweet](https://twitter.com/addyosmani/status/357269853486329859)
-   - Browser support for *nested `@media` at-rules*, [@LeaVerou]()’s [tweet](https://twitter.com/LeaVerou/status/357174606630621184) w/ test page
- - Demos
-   - 9 mind-blowing *WebGL demos*, [@davidwalshblog]()’s [post](http://davidwalsh.name/webgl-demos)
-   - SculptGL, a *WebGL sculpting app*, [@stephomi]()’s [page](http://stephaneginier.com/sculptgl/) ![][*]
-   - A Google Maps *`<g-maps>` element* defined with Polymer, [tweet](https://twitter.com/Paul_Kinlan/status/357260218062733312)
-   - paste.sh, a paste site that encrypts data using the *`crypto.getRandomValues` API*, [site](https://paste.sh/) 
- - Tools
-   - Embed Responsively, an online tool for *embedding rich third-party media* into responsive web pages, [site](http://embedresponsively.com/)
-   - grunt-hub, A Grunt task to watch and *run tasks on multiple Grunt projects*, [site](http://shama.github.io/grunt-hub/)
-
-**Note:** I’ve temporarily disabled loading additional content onto the page. You can view older dailies in [the “archive” on GitHub](https://github.com/simevidas/webplatformdaily-site/blob/master/data/archive.md). I’ll implement viewing (and searching) all data soon.
+**Note:** I’ve temporarily disabled loading additional content onto the page. You can view older dailies in [the “archive” on GitHub](https://github.com/simevidas/webplatformdaily-site/blob/master/data/archive.md). I’ll implement viewing (and searching) of all data soon.
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
