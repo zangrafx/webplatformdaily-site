@@ -1,5 +1,39 @@
 The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files). The README file of the repository also serves as a FAQ. Refer to it for information about this web-site.
 
+## August 1st, 2013
+
+ - W3C
+   - *Web and TV Interest Group* rechartered with new mission, [post](http://www.w3.org/News/2013.html#entry-9905)
+ - News
+   - *js-git receives $25k donation* from Mozilla, [source](https://twitter.com/valueof/status/362355802914291713)
+   - Now that it’s in the broadband game, *Google flip-flops on network neutrality*, [article](http://www.wired.com/threatlevel/2013/07/google-neutrality/) (Wired)
+ - UA dev.
+   - *Last week in Blink*, [@beverloo]()’s [post](http://peter.sh/2013/07/faster-queryselectoralls-pnacl-and-a-new-popup-blocker/)
+   - *OCSP stapling* has landed in Firefox Nightly, [post](https://blog.mozilla.org/security/2013/07/29/ocsp-stapling-in-firefox/) (Mozilla Security)
+ - FYI
+   - Firefox provides a built-in *webpage screenshot tool* (via command-line), [tweet](https://twitter.com/fvsch/status/362547143996735489) w/ instructions ![][*]
+ - Tutorials
+   - A quick *introduction to AngularJS* (part 1 of an upcoming series), [@ngnewsletter]()’s [post](http://www.ng-newsletter.com/posts/beginner2expert-how_to_start.html)
+   - A *guide to WebRTC*: Transmitting media over peer-to-peer data channels, [@louisstow]()’s [post](https://hacks.mozilla.org/2013/07/webrtc-and-the-early-api/) ![][*]
+   - The different methods for *centering content in CSS*, [@getify]()’s [post](http://html5hub.com/centering-all-the-directions/)
+   - Two advanced *examples of CSS Transitions* (alternative reversing transitions, …), [@craigbuckler]()’s [post](http://www.sitepoint.com/advanced-css3-transitions/)
+ - Articles
+   - *Responsive web design*: 6 experts, 4 questions (recommended tools and resources), [post](http://www.netmagazine.com/advertorial/responsive-web-design-6-experts-4-questions)
+ - Media
+   - *Unit and integration testing* with Karma and QUnit, [@toranb]()’s 20-min [screencast]()
+   - *CSS `@font-face`*, [@meyerweb]()’s 50-min [@cssdayconf]() [talk](https://vimeo.com/69531448) + [slide deck](https://docs.google.com/viewer?url=http%3A%2F%2Fcomplexspiral.com%2Fevents%2Farchive%2F2013%2Fcssday%2Ffontface.pdf)
+ - Content
+   - A performance comparison of several *image optimization tools*, [page](http://jamiemason.github.io/ImageOptim-CLI/) ![][*]
+ - Demos
+   - A responsive *slide-out sidebar menu*, [@crnacura]()’s [demo](http://tympanus.net/Tutorials/GoogleNexusWebsiteMenu/) (+ [post](http://tympanus.net/codrops/2013/07/30/google-nexus-website-menu/))
+   - Crypt Run, a Zelda-style *HTML5 Canvas game*, [demo](http://cryptrun.lostdecadegames.com/) (still in alpha)
+ - Tools
+   - Wraith, BBC’s automated tool for *visually testing/diffing responsive designs*, [post](http://responsivenews.co.uk/post/56884056177/wraith) + [repo](https://github.com/BBC-News/wraith)
+   - vminpoly, a *polyfill for CSS viewport units* (`vw`, `vh`, `vmin`), [repo](https://github.com/saabi/vminpoly)
+   - Baseline.js, *restores vertical baselines* thrown off by odd image sizes, [page](http://daneden.me/baseline/) w/ live demo
+ - Opinion
+   - “Crippling the Web”, [@tkadlec]()’s [post](http://timkadlec.com/2013/07/crippling-the-web/) ![][*]
+
 ## July 31st, 2013
 
  - W3C
@@ -290,36 +324,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - grunt-express, starts an Express.js *server with live reload and server reload*, [repo](https://github.com/blai/grunt-express)
  - Opinion
    - “*Money and open source* - the current situation isn’t optimal”, [@izs]()’s [post](https://medium.com/open-source-life/d44a1953749c)
-
-## July 18th, 2013
-
- - News
-   - MPEG-DASH is […] the latest *ISO standard for Internet video streaming*, MS OpenTech [article](http://msopentech.com/?p=207961)
-   - *Promises supported* in Firefox Nightly ([source](https://twitter.com/juandopazo/status/357541032008769536)) and Chrome Canary ([source](https://twitter.com/juandopazo/status/357232261822824449))
-   - Call for participation in *Accessible SVG Community Group*, W3C [post](http://www.w3.org/community/blog/2013/07/17/call-for-participation-in-accessible-svg-community-group/)
- - FYI
-   - This is how *Web Notifications* look on Android (supported in Firefox), [screenshot](https://twitter.com/simevidas/status/357601633850499072) ([context](https://twitter.com/ryanseddon/status/357348453149442049))
- - Tutorials
-   - Another 9 ways to *optimize your front end performance*, [@davidwalshblog]()’s [post](http://tech.pro/tutorial/1400/another-9-ways-to-optimize-your-front-end-performance)
-   - Troubleshooting CSS - 6 *common CSS issues* and how to solve them, [@HugoGiraudel]()’s [post](http://tympanus.net/codrops/2013/07/17/troubleshooting-css/) ![][*]
-   - Tips for *speeding up the initial page load* of JavaScript web apps, [@maccaw]()’s [post](http://blog.alexmaccaw.com/time-to-first-tweet)
- - Articles
-   - A guide to the essential *HTML5 media events* (`play`, `pause`, `progress`, …), [@brothercake]()’s [post](http://www.sitepoint.com/essential-audio-and-video-events-for-html5/)
-   - An extensive overview of *upcoming Sass features* (version 3.3 and beyond), [@HugoGiraudel]()’s [post](http://davidwalsh.name/future-sass)
-   - Evaluating the performance of *SPDY-enabled web servers*, Hervé Servy’s [post](http://www.neotys.com/blog/performance-of-spdy-enabled-web-servers/)
- - Media
-   - Topic Undefined #2 ([@cfjedimaster]()/[@remotesynth]() discuss *web dev links and news*), 32-min [podcast](http://flippinawesome.org/topic-undefined/topic-undefined-episode-2/) ![][*]
-   - “*Enough with the JavaScript* Already”, [@slicknet]()’s 65-min [talk](http://tech.blog.box.com/2013/07/video-enough-with-the-javascript-already-by-nicholas-zakas/) + 84-page [slide deck](http://www.slideshare.net/nzakas/enough-withthejavascriptalready)
-   - “HTML5 and beyond” (an *overview of current techs and tools*), [@codepo8]()’s 50-min [@SenchaCon]() [talk](http://youtu.be/Jev8c85-G1U)
- - Content
-   - A list of *useful Git aliases*, [@robmil]()’s [gist](https://gist.github.com/robmiller/6018582) (+ a few more in [@sitegenius]()’s [gist](https://gist.github.com/andycole/5927625))
-   - Developer Economics Q3 2013 [report](http://www.visionmobile.com/blog/2013/07/report-developer-economics-q3-2013-state-of-the-developer-nation/) (based on a *global developer survey*)
- - Demos
-   - A fixed *header that animates when scrolling* the page (multiple effects), [@crnacura]()’s [demo](http://tympanus.net/Development/HeaderEffects/)
- - Opinion
-   - Why JavaScript web applications should *embrace traditional URLs*, [@molily]()’s [post](http://9elements.com/io/index.php/hybrid-javascript-apps/)
-   - *Betting on open source* in your products, [@vincent_hardy]()’s [post](http://insights.wired.com/profiles/blogs/betting-on-open-source-in-your-products)
-   - “The web: less engine, more gas”, [@mattpointblank]()’s [post](http://www.threechords.org/blog/the-web-less-engine-more-gas/) (+ read Paul’s comment) ![][*]
 
 **Note:** I’ve temporarily disabled loading additional content onto the page. You can view older dailies in [the “archive” on GitHub](https://github.com/simevidas/webplatformdaily-site/blob/master/data/archive.md). I’ll implement viewing (and searching) of all data soon.
 
