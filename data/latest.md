@@ -20,7 +20,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - Articles
    - *Responsive web design*: 6 experts, 4 questions (recommended tools and resources), [post](http://www.netmagazine.com/advertorial/responsive-web-design-6-experts-4-questions)
  - Media
-   - *Unit and integration testing* with Karma and QUnit, [@toranb]()’s 20-min [screencast]()
+   - *Unit and integration testing* with Karma and QUnit, [@toranb]()’s 20-min [screencast](http://toranbillups.com/blog/archive/2013/07/21/Integration-testing-your-emberjs-app-with-QUnit-and-Karma/)
    - *CSS `@font-face`*, [@meyerweb]()’s 50-min [@cssdayconf]() [talk](https://vimeo.com/69531448) + [slide deck](https://docs.google.com/viewer?url=http%3A%2F%2Fcomplexspiral.com%2Fevents%2Farchive%2F2013%2Fcssday%2Ffontface.pdf)
  - Content
    - A performance comparison of several *image optimization tools*, [page](http://jamiemason.github.io/ImageOptim-CLI/) ![][*]
