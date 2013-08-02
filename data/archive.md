@@ -1,3 +1,35 @@
+## July 19th, 2013
+
+ - W3C
+   - **Last Call** WD of “*CSS Counter Styles Level 3*”, [TR](http://www.w3.org/TR/2013/WD-css-counter-styles-3-20130718/) + [diff](http://www.w3.org/TR/2013/WD-css-counter-styles-3-20130718/,diff) + release [notes](http://www.w3.org/blog/CSS/2013/07/25/counter-styles-3-lcwd-published/)
+ - News
+   - Chrome 29 Beta: *Web Audio and WebRTC in Chrome* for Android, [post](http://blog.chromium.org/2013/07/chrome-29-beta-web-audio-and-webrtc-in.html) (Chromium Blog)
+   - IE11 to support *prerendering and prefetching*, MSDN [page](http://msdn.microsoft.com/en-us/library/ie/dn265039%28v=vs.85%29.aspx)
+   - The internet sector calls for *greater transparency in requests for user data*, [post](https://blog.mozilla.org/blog/2013/07/18/the-internet-sector-calls-for-greater-transparency-in-requests-for-user-data/) (Mozilla blog)
+ - Tutorials
+   - Creating a *clean testing environment* for Chrome’s DevTools, [page](https://developers.google.com/chrome-developer-tools/docs/clean-testing-environment)
+   - Creating *reusable widgets with Shadow DOM*, [@MattAntWest]()’s [post](http://blog.teamtreehouse.com/working-with-shadow-dom)
+   - Building next generation *widgets with Web Components* and Polymer, [@jdcravens]()’s [post](http://tech.pro/tutorial/1421/building-next-generation-widgets-with-web-components) ![][*]
+   - Adding a *“Install on Firefox OS” button* to your web site, [@codepo8]()’s [post](https://hacks.mozilla.org/2013/07/app-discovery-firefox-os-for-developers-the-platform-html5-deserves/)
+ - Articles
+   - *Fastbook, [@Sencha]()’s HTML5 app* for Facebook, at Sencha Con 2013, [@edspencer]()’s [post](http://edspencer.net/2013/07/19/sencha-con-2013-fastbook/) ![][*]
+   - Update on the current *status of Web Cryptography*, [@poulpita]()’s [post](http://alistapart.com/column/security-affair)
+   - A proposal for *installable web apps*, [@borismus]()’s [post](http://smus.com/installable-webapps/)
+ - Media
+   - *Filter effects and blend modes*, [@divya]()’s 40-min [@cssdayconf]() [talk](https://vimeo.com/70171265)
+   - Developing *inside of Chrome’s DevTools* with nodemon and workspaces, [@rem]()’s 6-min [screencast](http://remysharp.com/2013/07/18/my-workflow-v3-full-coding-stack/)
+   - “Optimizing the *critical rendering path*”, [@igrigorik]()’s 45-min [@velocityconf]() [talk](http://youtu.be/YV1nKLWoARQ) + [slide deck](https://docs.google.com/presentation/d/1IRHyU7_crIiCjl0Gvue0WY3eY_eYvFQvSfwQouW9368/present#slide=id.p19) ![][*]
+ - Content
+   - A browser support table for *graphics-related CSS properties*, [@agreenblatt]()’s [repo](https://github.com/awgreenblatt/css-graphics)
+ - Sites
+   - “The Node Beginner Book”, a free *online book for learning Node.js*, [site](http://www.nodebeginner.org/)
+ - Tools
+   - S Gallery, a *responsive image gallery* jQuery plugin with CSS3 Animations, [page](http://sarasoueidan.com/blog/s-gallery-responsive-jquery-gallery-plugin-with-css3-animations/) + [demo](http://sarasoueidan.com/blog/s-gallery-responsive-jquery-gallery-plugin-with-css3-animations/demo/index.html)
+   - Fresh Tilled Soil WebRTC, enables real-time *video/audio streaming between two web browsers*, [page](http://freshtilledsoil.com/the-future-of-web/webrtc-video/)
+   - grunt-express, starts an Express.js *server with live reload and server reload*, [repo](https://github.com/blai/grunt-express)
+ - Opinion
+   - “*Money and open source* - the current situation isn’t optimal”, [@izs]()’s [post](https://medium.com/open-source-life/d44a1953749c)
+
 ## July 18th, 2013
 
  - News

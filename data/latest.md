@@ -1,5 +1,42 @@
 The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files). The README file of the repository also serves as a FAQ. Refer to it for information about this web-site.
 
+## August 2nd, 2013
+
+ - W3C
+   - *W3C highlights* August 2013 [report](http://www.w3.org/2013/08/w3c-highlights/) (covers some recent and upcoming W3C work)
+   - Candidate Recommendation of “*CSS Text Decoration*”, [TR](http://www.w3.org/TR/2013/CR-css-text-decor-3-20130801/) + [diff](http://www.w3.org/TR/2013/CR-css-text-decor-3-20130801/,diff)
+ - News
+   - *Firefox OS devices* launch in Latin America (Colombia and Venezuela), [post](http://blog.digital.telefonica.com/?press-release=Firefox-os-Latin-America-launch) (Telefonica)
+   - In response to NSA’s XKeyscore, *Wikimedia to enable HTTPS* by default, [article](http://thenextweb.com/insider/2013/08/01/in-response-to-nsas-xkeyscore-wikimedia-to-enable-https-by-default-starting-with-logged-in-users-on-august-21/) (TNW)
+ - UA dev.
+   - Improved touch APIs and *unprefixed Pointer Events* in IE11, [post](https://blogs.msdn.com/b/ie/archive/2013/07/31/ie11-touch-browsing-for-today-s-web-and-beyond.aspx?Redirected=true) (IEBlog)
+   - Intent to ship: *WebGL on Android*, [source](https://twitter.com/b1tr0t/status/362731588137656320)
+   - *Unprefixed Shadow DOM* added to Blink, [source](https://twitter.com/ebidel/status/362581995903131651)
+ - Articles
+   - 5 myths about *mobile web performance*, [@mmullany]()’s extensive [post](http://www.sencha.com/blog/5-myths-about-mobile-web-performance/) ![][*]
+   - Mobile application performance: *Analyzing device traffic* with ARO, [@dougsillars]()’s [post](http://www.speedawarenessmonth.com/mobile-application-performance-caching/)
+   - Some insights into *mobile web app performance*, [@vincent_hardy]()’s [post](http://blogs.adobe.com/digitalmedia/2013/08/are-mobile-web-apps-slow/)
+   - *PhoneGap 3.0* FAQ, [@colene]()’s [post](http://phonegap.com/blog/2013/07/31/phonegap-30-faq/)
+ - Media
+   - *Testing JavaScript* applications with Jasmine, [@clemenshelm]()’s 7-min [screencast](http://blog.codeship.io/2013/07/30/testing-tuesday-16-javascript-testing-with-jasmine.html)
+   - *YUI 3* - the complete guide, [@danwellman]()’s *online course* on [@techdotpro](), [page](http://tech.pro/tutorial/1437/yui3-the-complete-guide-widgets-1-lesson-1) (5 parts and counting)
+ - Content
+   - BBC’s *mobile accessibility guidelines*, [page](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/mobile_access.shtml) ![][*] + [@iheni]()’s “about” [post](http://www.headstar.com/eablive/?p=907)
+   - Discussion: *Web development advice*, [page](https://www.mobify.com/blog/best-web-development-advice/) (comments section)
+   - [@GSMA]()’s guidelines for *building mobile web apps*, [page](http://smarterappsguidelines.gsma.com/content/web-apps-1)
+   - Recommended *Yeoman articles*, [wiki](https://github.com/yeoman/yeoman/wiki/Articles) (GitHub)
+   - A couple of resources on *responsive web design performance*, [@lukew]()’s [post]() ![][*]
+ - Demos
+   - A responsive *slidable navigation sidebar* with Topcoat, [@outof_me]()’s [demo](http://outof.me/navigation-drawer-pattern-with-topcoat-css-library/)
+   - Animatable, showcases *which CSS properties can be animated*, [@LeaVerou]()’s [demo](http://leaverou.github.io/animatable/)
+ - Tools
+   - Karma, a *test runner for JavaScript*, [page](http://karma-runner.github.io/0.8/index.html)
+   - jQuery Transit, a jQuery plugin for *transforms/animations powered by CSS*, [page](http://ricostacruz.com/jquery.transit/)
+   - PageSpeed Insights (online tool), *analyzes the performance* of your web pages  [page](http://developers.google.com/speed/pagespeed/insights/) ![][*]
+   - Bone.io, a framework for *building real-time HTML5 apps* (powered by WebSocket), [site](http://bone.io/)
+ - Opinion
+   - “Being practical”, [@tkadlec]()’s [post](http://timkadlec.com/2013/08/being-practical/)
+
 ## August 1st, 2013
 
  - W3C
@@ -38,8 +75,8 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
 
  - W3C
    - “*Web Storage*” published as a **W3C Recommendation**, [TR](http://www.w3.org/TR/2013/REC-webstorage-20130730/)
-   - Updated Candidate Recommendation of “*CSS Values and Units*”, [TR](http://www.w3.org/TR/2013/CR-css3-values-20130730/) + [diff](http://www.w3.org/TR/2013/CR-css3-values-20130730/,diff)
-   - **Last Call** Working Draft of “*CSS Cascading and Inheritance*”, [TR](http://www.w3.org/TR/2013/WD-css-cascade-3-20130730/) + [diff](http://www.w3.org/TR/2013/WD-css-cascade-3-20130730/,diff)
+   - Updated Candidate Recommendation of “*CSS Values and Units*”, [TR](http://www.w3.org/TR/2013/CR-css3-values-20130730/) + [diff](http://www.w3.org/TR/2013/CR-css3-values-20130730/,diff) + release [notes](http://www.w3.org/blog/CSS/2013/07/31/css3-values-cr-update/)
+   - **Last Call** Working Draft of “*CSS Cascading and Inheritance*”, [TR](http://www.w3.org/TR/2013/WD-css-cascade-3-20130730/) + [diff](http://www.w3.org/TR/2013/WD-css-cascade-3-20130730/,diff) + release [notes](http://www.w3.org/blog/CSS/2013/07/31/css3-cascade-lcwd/)
    - Updated Working Draft of “*IndieUI: Events*”, [TR](http://www.w3.org/TR/2013/WD-indie-ui-events-20130730/) + [diff](http://www.w3.org/TR/2013/WD-indie-ui-events-20130730/,diff) + release [notes](http://www.w3.org/News/2013.html?utm_source=dlvr.it&utm_medium=twitter#entry-9903)
  - UA dev.
    - Intent to Implement: *NavigationController in Blink*, [source](https://twitter.com/addyosmani/status/362325317228048385)
@@ -292,38 +329,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - CSS Trashman (online tool), examines your live site and *generates optimized CSS/Sass*, [site](http://www.csstrashman.com/)
    - ie8, a *polyfill specifically targeted at IE8* (polyfills the W3C event system), [@WebReflection]()’s [repo](https://github.com/WebReflection/ie8)
    - VerbalExpressions (JavaScript library), provides an API for *constructing regular expressions*, [repo](https://github.com/jehna/VerbalExpressions)
-
-## July 19th, 2013
-
- - W3C
-   - **Last Call** WD of “*CSS Counter Styles Level 3*”, [TR](http://www.w3.org/TR/2013/WD-css-counter-styles-3-20130718/) + [diff](http://www.w3.org/TR/2013/WD-css-counter-styles-3-20130718/,diff) + release [notes](http://www.w3.org/blog/CSS/2013/07/25/counter-styles-3-lcwd-published/)
- - News
-   - Chrome 29 Beta: *Web Audio and WebRTC in Chrome* for Android, [post](http://blog.chromium.org/2013/07/chrome-29-beta-web-audio-and-webrtc-in.html) (Chromium Blog)
-   - IE11 to support *prerendering and prefetching*, MSDN [page](http://msdn.microsoft.com/en-us/library/ie/dn265039%28v=vs.85%29.aspx)
-   - The internet sector calls for *greater transparency in requests for user data*, [post](https://blog.mozilla.org/blog/2013/07/18/the-internet-sector-calls-for-greater-transparency-in-requests-for-user-data/) (Mozilla blog)
- - Tutorials
-   - Creating a *clean testing environment* for Chrome’s DevTools, [page](https://developers.google.com/chrome-developer-tools/docs/clean-testing-environment)
-   - Creating *reusable widgets with Shadow DOM*, [@MattAntWest]()’s [post](http://blog.teamtreehouse.com/working-with-shadow-dom)
-   - Building next generation *widgets with Web Components* and Polymer, [@jdcravens]()’s [post](http://tech.pro/tutorial/1421/building-next-generation-widgets-with-web-components) ![][*]
-   - Adding a *“Install on Firefox OS” button* to your web site, [@codepo8]()’s [post](https://hacks.mozilla.org/2013/07/app-discovery-firefox-os-for-developers-the-platform-html5-deserves/)
- - Articles
-   - *Fastbook, [@Sencha]()’s HTML5 app* for Facebook, at Sencha Con 2013, [@edspencer]()’s [post](http://edspencer.net/2013/07/19/sencha-con-2013-fastbook/) ![][*]
-   - Update on the current *status of Web Cryptography*, [@poulpita]()’s [post](http://alistapart.com/column/security-affair)
-   - A proposal for *installable web apps*, [@borismus]()’s [post](http://smus.com/installable-webapps/)
- - Media
-   - *Filter effects and blend modes*, [@divya]()’s 40-min [@cssdayconf]() [talk](https://vimeo.com/70171265)
-   - Developing *inside of Chrome’s DevTools* with nodemon and workspaces, [@rem]()’s 6-min [screencast](http://remysharp.com/2013/07/18/my-workflow-v3-full-coding-stack/)
-   - “Optimizing the *critical rendering path*”, [@igrigorik]()’s 45-min [@velocityconf]() [talk](http://youtu.be/YV1nKLWoARQ) + [slide deck](https://docs.google.com/presentation/d/1IRHyU7_crIiCjl0Gvue0WY3eY_eYvFQvSfwQouW9368/present#slide=id.p19) ![][*]
- - Content
-   - A browser support table for *graphics-related CSS properties*, [@agreenblatt]()’s [repo](https://github.com/awgreenblatt/css-graphics)
- - Sites
-   - “The Node Beginner Book”, a free *online book for learning Node.js*, [site](http://www.nodebeginner.org/)
- - Tools
-   - S Gallery, a *responsive image gallery* jQuery plugin with CSS3 Animations, [page](http://sarasoueidan.com/blog/s-gallery-responsive-jquery-gallery-plugin-with-css3-animations/) + [demo](http://sarasoueidan.com/blog/s-gallery-responsive-jquery-gallery-plugin-with-css3-animations/demo/index.html)
-   - Fresh Tilled Soil WebRTC, enables real-time *video/audio streaming between two web browsers*, [page](http://freshtilledsoil.com/the-future-of-web/webrtc-video/)
-   - grunt-express, starts an Express.js *server with live reload and server reload*, [repo](https://github.com/blai/grunt-express)
- - Opinion
-   - “*Money and open source* - the current situation isn’t optimal”, [@izs]()’s [post](https://medium.com/open-source-life/d44a1953749c)
 
 **Note:** I’ve temporarily disabled loading additional content onto the page. You can view older dailies in [the “archive” on GitHub](https://github.com/simevidas/webplatformdaily-site/blob/master/data/archive.md). I’ll implement viewing (and searching) of all data soon.
 
