@@ -25,7 +25,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - Discussion: *Web development advice*, [page](https://www.mobify.com/blog/best-web-development-advice/) (comments section)
    - [@GSMA]()’s guidelines for *building mobile web apps*, [page](http://smarterappsguidelines.gsma.com/content/web-apps-1)
    - Recommended *Yeoman articles*, [wiki](https://github.com/yeoman/yeoman/wiki/Articles) (GitHub)
-   - A couple of resources on *responsive web design performance*, [@lukew]()’s [post]() ![][*]
+   - A couple of resources on *responsive web design performance*, [@lukew]()’s [post](http://www.lukew.com/ff/entry.asp?1760) ![][*]
  - Demos
    - A responsive *slidable navigation sidebar* with Topcoat, [@outof_me]()’s [demo](http://outof.me/navigation-drawer-pattern-with-topcoat-css-library/)
    - Animatable, showcases *which CSS properties can be animated*, [@LeaVerou]()’s [demo](http://leaverou.github.io/animatable/)
