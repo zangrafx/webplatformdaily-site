@@ -32,7 +32,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - Tools
    - Karma, a *test runner for JavaScript*, [page](http://karma-runner.github.io/0.8/index.html)
    - jQuery Transit, a jQuery plugin for *transforms/animations powered by CSS*, [page](http://ricostacruz.com/jquery.transit/)
-   - PageSpeed Insights (online tool), *analyzes the performance* of your web pages  [page](http://developers.google.com/speed/pagespeed/insights/) ![][*]
+   - PageSpeed Insights (online tool), *analyzes the performance* of your web pages,  [page](http://developers.google.com/speed/pagespeed/insights/) ![][*]
    - Bone.io, a framework for *building real-time HTML5 apps* (powered by WebSocket), [site](http://bone.io/)
  - Opinion
    - “Being practical”, [@tkadlec]()’s [post](http://timkadlec.com/2013/08/being-practical/)
