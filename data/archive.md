@@ -1,3 +1,40 @@
+## July 22nd, 2013
+
+ - News
+   - *HTML5 Hub* ([?](https://twitter.com/getify/status/355744926929133572)) to launch this week, [source](https://twitter.com/iandevlin/status/358112182950559745)
+   - *Adobe PhoneGap* 3.0 released, [post](http://phonegap.com/blog/2013/07/19/adobe-phonegap-3.0-released/) + TNW [coverage](http://thenextweb.com/dd/2013/07/19/adobe-launches-phonegap-3-plans-support-for-windows-phone-8-blackberry-10-ubuntu-and-firefox-os/) + [interview](http://www.netmagazine.com/news/mobile-app-framework-phonegap-30-launches-132895) with [@brianleroux]()
+   - *Netflix presses ahead with HTML5* as free software activists call for boycott, GigaOM [article](http://gigaom.com/2013/07/18/netflix-presses-ahead-with-html5-as-free-software-activists-call-for-boycott/)
+   - Mozilla unveils *‘aggressive’ Firefox OS schedule* (quarterly feature releases), TNW [article](http://thenextweb.com/mobile/2013/07/20/mozilla-unveils-aggressive-firefox-os-schedule-quarterly-feature-releases-security-updates-every-six-weeks/)
+ - UA dev.
+   - *CSS media type emulation* added to Firefox Nightly, [@graememcc]() [post](http://www.graememcc.co.uk/2013/07/20/developer-tools-gcli-command-for-emulating-css-media-types/)
+   - “*Show potential scroll bottlenecks*” feature added to DevTools in Chrome Canary, [post](https://plus.google.com/115788095648461403871/posts/LXKEENhnQSD)
+ - FYI
+   - Firefox DevTools provide a graphical *command line interface*, [tweet](https://twitter.com/simevidas/status/359007846861512705) w/ screenshot
+ - Tutorials
+   - The *pros and cons of Server Sent Events* (SSE) + usage with Aura and Node, [@z3r0]()’s [post](http://www.activestate.com/blog/2013/07/server-sent-events-aura-and-nodejs) ![][*]
+   - *Getting started with Ember.js* in 5 minutes, [@matthewpearse]()’s [post](http://matthewlehner.net/get-started-with-ember-js-in-5-minutes/)
+   - *Using the Express framework* to build a simple blog site, [@cfjedimaster]()’s [post](http://net.tutsplus.com/tutorials/javascript-ajax/introduction-to-express/)
+ - Articles
+   - How ECMAScript 6 generators and *`yield` will transform Node.js*, [@maccaw]()’s [post](http://blog.alexmaccaw.com/how-yield-will-transform-node) + [discussion](http://monocle.io/posts/how-yield-will-transform-node)
+   - The messy *state of Web Notifications* in Blink and Webkit, [@auchenberg]()’s [post](http://kenneth.io/blog/2013/07/15/the-messy-state-of-web-notifications-in-chrome-safari-blink-webkit/)
+   - How to ensure *privacy in the age of HTML5*, [@chrisminnick]()’s [post](http://www.cio.com/article/735373/How_to_Ensure_Privacy_in_the_Age_of_HTML5)
+ - Media
+   - *Variables and conditionals* in CSS, [@tabatkins]()’s 53-min [@cssdayconf]() [talk](https://vimeo.com/69531455) w/ Q&A
+   - Chrome Office Hours: *Performance*, [@aerotwist]()/[@paul_irish]()’s 45-min GDL [session](https://developers.google.com/live/shows/840309825) ![][*]
+   - “Hyperaudio - *making audio a first class citizen* of the web”, [@maboa]()’s 50-min [@ScotlandJS]() [talk](http://scotlandjs.com/mark.html)
+ - Content
+   - *Considering the mobile experience* when it’s too late for “mobile first”, [@think_ui]() 115-page [slide deck](http://www.slideshare.net/Think-ui/cmag-mobileux) ![][*]
+   - *microformats2* & HTML5 - the evolution of web data, [@t]()’s 41-page [slide deck](http://tantek.com/presentations/2013/07/microformats2/)
+   - [@mfg_labs]() icon set, a free *retina-ready SVG icon font*, [page](http://mfglabs.github.io/mfglabs-iconset/) w/ usage guide
+ - Demos
+   - *Horizontal portfolio layout* with CSS3 Animations and jQuery, [@SaraSoueidan]()’s [post](http://sarasoueidan.com/blog/horizontal-portfolio-layout/) + [demo](http://sarasoueidan.com/blog/horizontal-portfolio-layout/demo/index.html)
+   - Soul Reaper, a *digital comic built with HTML5*, [site](http://www.soul-reaper.com/) w/ audio narration
+ - Tools
+   - CSS Trashman (online tool), examines your live site and *generates optimized CSS/Sass*, [site](http://www.csstrashman.com/)
+   - ie8, a *polyfill specifically targeted at IE8* (polyfills the W3C event system), [@WebReflection]()’s [repo](https://github.com/WebReflection/ie8)
+   - VerbalExpressions (JavaScript library), provides an API for *constructing regular expressions*, [repo](https://github.com/jehna/VerbalExpressions)
+
+
 ## July 19th, 2013
 
  - W3C

@@ -1,5 +1,42 @@
 The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files). The README file of the repository also serves as a FAQ. Refer to it for information about this web-site.
 
+## August 5th, 2013
+
+ - W3C 
+   - An overview of the first *Web Cryptography API implementations*, [@poulpita]()’s [post](https://poulpitablog.wordpress.com/2013/07/31/first-web-crypto-implementations-expecting-your-imagination-to-play-with/)   
+ - News
+   - *Mozilla collaborates with BlackBerry* in development of open source security testing platform, [article](http://www.smartcompany.com.au/information-technology/056792-firefox-os-developer-mozilla-forges-security-collaboration-with-blackberry.html)
+   - Game developer Arkadium announces *support for HTML5 games*, [article](http://techcrunch.com/2013/07/17/arkadium-html5/) (TechCrunch)
+ - UA dev.
+   - *Vibration API experimentally implemented* in Chrome for Android, [source](https://twitter.com/Paul_Kinlan/status/363320210935128064)
+ - FYI
+   - The `?` key is the de facto standard for *displaying the “keyboard shortcuts” dialog* in web apps, [tweet](https://twitter.com/simevidas/status/364027659455430660)
+ - Tutorials
+   - How to *draw regular polygons* with the HTML5 Canvas API, [@johnrobinsn]()’s [post](http://www.storminthecastle.com/2013/07/24/how-you-can-draw-regular-polygons-with-the-html5-canvas-api/)
+   - A simple example of *URL routing in AngularJS apps* with AngularUI, [@jhooks]()’s [post](http://joelhooks.com/blog/2013/07/22/the-basics-of-using-ui-router-with-angularjs/)
+   - *Deploying a Node.js web app* (by configuring Apache or using a 3rd party service), [@cfjedimaster]()’s [post](http://net.tutsplus.com/tutorials/javascript-ajax/going-live-with-node/)
+ - Articles
+   - *Increasing the perception of performance* by “performing actions optimistically”, [@lukew]()’s [post](http://www.lukew.com/ff/entry.asp?1759) ![][*]
+   - Applying the “atomic design” principle to *organize Sass style sheets*, [@robinrendle]()’s [post](http://coding.smashingmagazine.com/2013/08/02/other-interface-atomic-design-sass/)
+   - 5 reasons why *Firefox OS is important* (interview with [@codepo8]()), [post](https://blog.mozilla.org/theden/2013/07/12/what-firefox-os-means-for-you/) (Mozilla blog)
+   - Techniques for *mobile and responsive cross-browser testing*, [@jordanlewiz]()’s extensive [post](http://webuild.envato.com/blog/techniques-for-mobile-and-responsive-cross-browser-testing/) ![][*]
+ - Media
+   - JS Jabber Ep. 69: [@jaffathecake]() about *NavigationController (alternative to AppCache)*, 51-min [podcast](http://javascriptjabber.com/069-jsj-the-application-cache-with-jake-archibald/) ![][*]
+   - The *CSS block formatting context* (cool trick!), [@mobywhale]()’s short 7-min [talk](http://www.stubbornella.org/content/2013/07/31/re-visiting-the-secret-power-of-block-fomatting-context/)
+   - *Web performance crash course*, [@igrigorik]()’s 3-hour 4-part [workshop](https://www.youtube.com/playlist?list=PLS3jzvALRSe6uP9gVfXLCG6nWo7M0hAJY)
+ - Content
+   - Upcoming: free online *class on mobile web development* (instructed by [@cwilso]() et al.), [page](https://www.udacity.com/course/cs256)
+   - Latest draft (revision 16) of *ECMAScript 6 now available as HTML*, [@jorendorff]()’s [page](https://people.mozilla.com/~jorendorff/es6-draft.html)
+ - Sites
+   - JavaScript ∞, a *catalog of JavaScript projects* w/ examples, install commands, CDN links et al., [site](http://www.javascriptoo.com/)
+ - Tools
+   - A collection of *Handlebars helper functions*, [repo](https://github.com/assemble/handlebars-helpers) + [documentation](http://assemble.io/docs/helpers/index.html)
+   - formFive, a *polyfill for some HTML5 form features* (polyfills 7 attributes, e.g. `placeholder`), [page](http://etiennetalbot.github.io/formFive/)
+   - Bookmarklets for *outlining/removing CSS background images* (for accessibility testing), [page](http://zomigi.com/demo/background-images_remove_outline.html) + [post](http://zomigi.com/blog/bookmarklets-for-accessibility-testing/)
+ - Opinion
+   - “The true *cost of progressive enhancement*”, [@AaronGustafson]()’s [post](http://blog.easy-designs.net/archives/the-true-cost-of-progressive-enhancement/)
+   - Is *the word “native” offensive?*, [discussion](https://twitter.com/divya/status/363457698584473600) on Twitter
+
 ## August 2nd, 2013
 
  - W3C
@@ -293,42 +330,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - Intro.js, a *step-by-step guide for visitors* to your web site, [page](http://usablica.github.io/intro.js/) w/ live demo
    - Sync.js, *syncs your local folder with a remote folder* using SCP ([?](http://en.wikipedia.org/wiki/Secure_copy)), [repo](https://github.com/serkanyersen/sync)
    - Mock Response, an online service that *returns various HTTP responses* (for testing), [page](http://mock.isssues.com/)
-
-## July 22nd, 2013
-
- - News
-   - *HTML5 Hub* ([?](https://twitter.com/getify/status/355744926929133572)) to launch this week, [source](https://twitter.com/iandevlin/status/358112182950559745)
-   - *Adobe PhoneGap* 3.0 released, [post](http://phonegap.com/blog/2013/07/19/adobe-phonegap-3.0-released/) + TNW [coverage](http://thenextweb.com/dd/2013/07/19/adobe-launches-phonegap-3-plans-support-for-windows-phone-8-blackberry-10-ubuntu-and-firefox-os/) + [interview](http://www.netmagazine.com/news/mobile-app-framework-phonegap-30-launches-132895) with [@brianleroux]()
-   - *Netflix presses ahead with HTML5* as free software activists call for boycott, GigaOM [article](http://gigaom.com/2013/07/18/netflix-presses-ahead-with-html5-as-free-software-activists-call-for-boycott/)
-   - Mozilla unveils *‘aggressive’ Firefox OS schedule* (quarterly feature releases), TNW [article](http://thenextweb.com/mobile/2013/07/20/mozilla-unveils-aggressive-firefox-os-schedule-quarterly-feature-releases-security-updates-every-six-weeks/)
- - UA dev.
-   - *CSS media type emulation* added to Firefox Nightly, [@graememcc]() [post](http://www.graememcc.co.uk/2013/07/20/developer-tools-gcli-command-for-emulating-css-media-types/)
-   - “*Show potential scroll bottlenecks*” feature added to DevTools in Chrome Canary, [post](https://plus.google.com/115788095648461403871/posts/LXKEENhnQSD)
- - FYI
-   - Firefox DevTools provide a graphical *command line interface*, [tweet](https://twitter.com/simevidas/status/359007846861512705) w/ screenshot
- - Tutorials
-   - The *pros and cons of Server Sent Events* (SSE) + usage with Aura and Node, [@z3r0]()’s [post](http://www.activestate.com/blog/2013/07/server-sent-events-aura-and-nodejs) ![][*]
-   - *Getting started with Ember.js* in 5 minutes, [@matthewpearse]()’s [post](http://matthewlehner.net/get-started-with-ember-js-in-5-minutes/)
-   - *Using the Express framework* to build a simple blog site, [@cfjedimaster]()’s [post](http://net.tutsplus.com/tutorials/javascript-ajax/introduction-to-express/)
- - Articles
-   - How ECMAScript 6 generators and *`yield` will transform Node.js*, [@maccaw]()’s [post](http://blog.alexmaccaw.com/how-yield-will-transform-node) + [discussion](http://monocle.io/posts/how-yield-will-transform-node)
-   - The messy *state of Web Notifications* in Blink and Webkit, [@auchenberg]()’s [post](http://kenneth.io/blog/2013/07/15/the-messy-state-of-web-notifications-in-chrome-safari-blink-webkit/)
-   - How to ensure *privacy in the age of HTML5*, [@chrisminnick]()’s [post](http://www.cio.com/article/735373/How_to_Ensure_Privacy_in_the_Age_of_HTML5)
- - Media
-   - *Variables and conditionals* in CSS, [@tabatkins]()’s 53-min [@cssdayconf]() [talk](https://vimeo.com/69531455) w/ Q&A
-   - Chrome Office Hours: *Performance*, [@aerotwist]()/[@paul_irish]()’s 45-min GDL [session](https://developers.google.com/live/shows/840309825) ![][*]
-   - “Hyperaudio - *making audio a first class citizen* of the web”, [@maboa]()’s 50-min [@ScotlandJS]() [talk](http://scotlandjs.com/mark.html)
- - Content
-   - *Considering the mobile experience* when it’s too late for “mobile first”, [@think_ui]() 115-page [slide deck](http://www.slideshare.net/Think-ui/cmag-mobileux) ![][*]
-   - *microformats2* & HTML5 - the evolution of web data, [@t]()’s 41-page [slide deck](http://tantek.com/presentations/2013/07/microformats2/)
-   - [@mfg_labs]() icon set, a free *retina-ready SVG icon font*, [page](http://mfglabs.github.io/mfglabs-iconset/) w/ usage guide
- - Demos
-   - *Horizontal portfolio layout* with CSS3 Animations and jQuery, [@SaraSoueidan]()’s [post](http://sarasoueidan.com/blog/horizontal-portfolio-layout/) + [demo](http://sarasoueidan.com/blog/horizontal-portfolio-layout/demo/index.html)
-   - Soul Reaper, a *digital comic built with HTML5*, [site](http://www.soul-reaper.com/) w/ audio narration
- - Tools
-   - CSS Trashman (online tool), examines your live site and *generates optimized CSS/Sass*, [site](http://www.csstrashman.com/)
-   - ie8, a *polyfill specifically targeted at IE8* (polyfills the W3C event system), [@WebReflection]()’s [repo](https://github.com/WebReflection/ie8)
-   - VerbalExpressions (JavaScript library), provides an API for *constructing regular expressions*, [repo](https://github.com/jehna/VerbalExpressions)
 
 **Note:** I’ve temporarily disabled loading additional content onto the page. You can view older dailies in [the “archive” on GitHub](https://github.com/simevidas/webplatformdaily-site/blob/master/data/archive.md). I’ll implement viewing (and searching) of all data soon.
 
