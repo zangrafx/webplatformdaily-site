@@ -50,7 +50,7 @@ jQuery(function ( $ ) {
             }
         });
 
-        $temp.children( 'h2' ).append( ' <a class="edit-button" href="https://github.com/simevidas/webplatformdaily-site/edit/master/data/latest.md" target="_blank">Edit on GitHub</a>' );
+        $temp.children( 'h2' ).append( ' <a class="edit-button" href="https://github.com/simevidas/webplatformdaily-site/blob/master/data/latest.md" target="_blank">Edit on GitHub</a>' );
 
         $dataWrapper.append( $temp.children() );
         countFiles += 1;
