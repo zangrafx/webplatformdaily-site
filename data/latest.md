@@ -1,5 +1,40 @@
 The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files). The README file of the repository also serves as a FAQ. Refer to it for information about this web-site.
 
+## August 7th, 2013
+
+ - W3C
+   - Updated CR of “*HTML5*”, [TR](http://www.w3.org/TR/2013/CR-html5-20130806/) + [diff](http://www.w3.org/TR/2013/CR-html5-20130806/,diff)
+   - Updated CR of “*HTML Canvas 2D Context*”, [TR](http://www.w3.org/TR/2013/CR-2dcontext-20130806/) + [diff](http://www.w3.org/TR/2013/CR-2dcontext-20130806/,diff)
+ - News
+   - **Petition:** “Apple, please support *Navigation Timing API in Safari*”, [page](https://www.change.org/petitions/apple-please-support-navigation-timing-api-in-safari)
+   - Court in Germany rules that *VP8 does not infringe Nokia’s patent*, [post](http://blog.webmproject.org/2013/08/good-news-from-germany.html)
+   - Does *web accessibility* really “place ruinous obligations on websites”?, [article](http://www.hassellinclusion.com/2013/08/web-accessibility-ruinous-obligation/)
+ - UA dev.
+   - Firefox Nightly talking to Microsoft’s *HTTP/2 draft server*, [source](https://twitter.com/igrigorik/status/364585110982508544)
+   - Experimental support for *blend modes for SVG in Chromium*, [@rcabanier]()’s [post](http://blogs.adobe.com/webplatform/2013/08/05/experimental-support-for-blend-modes-for-svg-in-chromium/) 
+ - Tutorials
+   - A terse and easily digestible *introductory guide to Grunt*, [@swapnil_mishra]()’s [post](http://howtonode.org/simplifying-chores-with-grunt)
+   - *Resizing images on the client-side* with HTML5 Canvas, [@ttrenka]()’s [post](http://davidwalsh.name/resize-image-canvas)
+   - The *`inherit`, `initial` and `unset`* CSS keywords,  [@ImpressiveWebs]()’s [post](http://www.impressivewebs.com/language-wide-features-css/)
+   - *Client-side storage* options: Web Storage, Indexed Database, File System et al., [@ifandelse]()’s [post](http://tech.pro/blog/1486/client-side-storage-options) ![][*]
+ - Articles
+   - Using WebGL to add *interactive 3D effects* to your website, [@glecollinet]()’s [post](http://html5hub.com/using-webgl-to-add-3d-effects-to-your-website/) + cool [demo](http://glecollinet.github.io/webgl-demo/)
+   - How to *choose between a link and a button*, [@karlgroves]()’s [post](http://www.karlgroves.com/2013/05/14/links-are-not-buttons-neither-are-divs-and-spans/) ![][*]
+   - 11 JavaScript tools for *creating charts and graphs*, [@inspiretrend]()’s [post](http://inspiretrends.com/11-javascript-toolkit-for-creating-charts-and-graphs/) w/ screenshots
+ - Media
+   - Topic Undefined Ep. 3 ([@cfjedimaster]()/[@remotesynth]() *discuss web dev links* and news), 34-min [podcast](http://flippinawesome.org/topic-undefined/topic-undefined-episode-3/)
+ - Content
+   - A cheat sheet for *coding with Emmet*, [page](http://docs.emmet.io/cheat-sheet/)
+ - Demos
+   - 21 cool *CSS effects for links or menu items*, [@crnacura]()’s demo [page](http://tympanus.net/Development/CreativeLinkEffects/)
+   - A *3D cube image gallery*, [@chinchang457]()’s [demo](http://codepen.io/chinchang/full/lLzyB) + [tutorial](http://css-tricks.com/creating-a-3d-cube-image-gallery/)
+   - A GPU-powered WebGL experiment that *renders over a million particles*, [@soulwire]()’s [demo](http://creativejs.com/2013/08/gpu-particles/)
+ - Tools
+   - gradientmaps.js, allows you to *apply gradient maps to any HTML element* on the page, [post](http://blogs.adobe.com/webplatform/2013/08/06/gradientmaps-js-gradient-maps-for-html/) ![][*]
+   - Signature Pad, a HTML5 Canvas based library for *drawing smooth signatures*, [page](http://szimek.github.io/signature_pad/)
+ - Opinion
+   - *Annoying trends* in modern web design, Corey Siegel’s [post](http://www.designyourway.net/blog/inspiration/annoying-trends-in-modern-web-design/)
+
 ## August 6th, 2013
 
  - UA dev.
@@ -297,40 +332,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - Tools
    - Koala, a GUI application for *Less/Sass/Compass/CoffeeScript compilation*, [site](http://koala-app.com/)
    - Operative, a JavaScript utility for *seamlessly creating Web Worker scripts*, [repo](https://github.com/padolsey/operative)
-
-## July 24th, 2013
- - W3C
-   - Candidate Recommendation of “*Vibration API*” published, [TR](http://www.w3.org/TR/2013/CR-vibration-20130723/) + [diff](http://www.w3.org/TR/2013/CR-vibration-20130723/,diff)
-   - “*Requirements for providing text* to act as an alternative for images” section in HTML 5.1 updated, [source](https://twitter.com/stevefaulkner/status/359655186215604225)
- - News
-   - New findings: Typical leading ecommerce site takes *4.9 seconds to serve usable content*, [post](http://www.webperformancetoday.com/2013/07/23/report-ecommerce-page-speed-web-performance-summer-2013/)
-   - The Web’s longest nightmare ends: *Eolas’ patents are dead* on appeal, Ars [article](http://arstechnica.com/tech-policy/2013/07/the-webs-longest-nightmare-ends-eolas-patents-are-dead-on-appeal/)
- - FYI
-   - [@tokbox]() is doing a *survey on WebRTC* and where it’s headed. Check it out [here](https://www.surveymonkey.com/s/DevE)
- - UA dev.
-   - Support for ECMAScript 6 *binary and octal integer literals* added to V8, [source](https://twitter.com/beverloo/status/359674116640489473)
- - Tutorials
-   - Performing *asynchronous operations with Promises* + the Q library, [@kishorelive]()’s [post](http://12devs.co.uk/articles/promises-an-alternative-way-to-approach-asynchronous-javascript/)
- - Articles
-   - Does *Flexbox have a performance problem*?, [@chriscoyier]()’s [post](http://css-tricks.com/does-flexbox-have-a-performance-problem/) + feedback in comments
-   - The *networking terminology of WebRTC* (ICE, STUN, NAT, TURN, SDP, …), [@louisstow]()’s [post](https://hacks.mozilla.org/2013/07/webrtc-and-the-ocean-of-acronyms/) ![][*]
-   - An *overview of bootstraps* (Twitter, Pure, Cardinal, UI Kit, Foundation, Topcoat), [@inserthtml]()’s [post](http://www.inserthtml.com/2013/07/bootstraps-and-web-kits-enemy-or-efficient/)
-   - On mobile, *data URIs are slower* than linking external resources, [@b1tr0t]()’s [post](http://www.mobify.com/blog/data-uris-are-slow-on-mobile/)
- - Media
-   - How *illusion of speed* is more important than actual speed, [@souders]()’s 5-min clip in [@akosner]()’s [post](http://www.forbes.com/sites/anthonykosner/2013/07/13/how-mobile-experiences-can-shape-our-perception-through-illusions-of-speed/)
-   - *Unit testing*: Minutes now will save hours later, [@EricMann]()’s 41-min [@jqcon]() [talk](http://youtu.be/_UmmaPe8Bzc) ![][*]
-   - *ShopTalk Show*, ep. 78 w/ [@chriscoyier]() & [@rblalock](), 66-min [podcast](http://shoptalkshow.com/episodes/078-with-rick-blalock/)
- - Content
-   - CSS Guidelines, high-level guidelines for *writing manageable, maintainable CSS*, [@csswizardry]()’s [page](https://github.com/csswizardry/CSS-Guidelines)
-   - *Carousel interaction stats*, [@erunyon]()’s [post](http://weedygarden.net/2013/07/carousel-interaction-stats/)
- - Demos
-   - A *responsive slider* with pure CSS, [@teapoted]()’s [demo](http://csscience.com/responsiveslidercss3/)
-   - Plink, a real-time *collaborative music experience*, [@DinahmoeSTHLM]()’s [page](http://labs.dinahmoe.com/plink/) ![][*]
-   - “Riding the New Silk Road” *interactive feature*, NY Times [page](http://www.nytimes.com/newsgraphics/2013/07/21/silk-road/)
- - Sites
-   - Contrast Rebellion: “To hell with *low-contrast font color* and unreadable texts!”, [site](http://contrastrebellion.com/)
- - Tools
-   - localtunnel (Ruby gem), *shares your `localhost` web server* to the rest of the world, [page](http://progrium.com/localtunnel/)
 
 **Note:** I’ve temporarily disabled loading additional content onto the page. You can view older dailies in [the “archive” on GitHub](https://github.com/simevidas/webplatformdaily-site/blob/master/data/archive.md). I’ll implement viewing (and searching) of all data soon.
 
