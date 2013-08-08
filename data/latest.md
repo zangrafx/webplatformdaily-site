@@ -1,5 +1,41 @@
 The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files). The README file of the repository also serves as a FAQ. Refer to it for information about this web-site.
 
+## August 8th, 2013
+
+ - W3C
+   - CSS Working Group: “Help us name the *drag-and-drop pseudo-classes*”, [survey](https://twitter.com/csswg/status/365213130613211137) ![][*]
+ - News
+   - *Firefox 23 released*, release [notes](https://www.mozilla.org/en-US/firefox/23.0/releasenotes/) + [information](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/23) for developers + [coverage](http://arstechnica.com/information-technology/2013/08/firefox-23-lands-with-a-new-logo-and-mixed-content-blocking/) (Ars Technica)
+   - *New release of TodoMVC* (new frameworks, Bower integration), [@tastejs]()’s release [notes](http://tastejs.roon.io/todomvc-1-2)
+   - *Amazon Appstore now open to web apps*, with one-click in-app purchases in tow, [article](http://techcrunch.com/2013/08/07/amazon-appstore-now-open-to-web-apps-with-one-click-in-app-purchases-in-tow/) (TechCrunch)
+ - UA dev.
+   - Feature request: *Make cross-origin requests easier to debug* in Chrome, [source](https://twitter.com/jaffathecake/status/365050723249041408)
+   - *Faster CSS gradients* in Firefox Nightly, [source](https://twitter.com/FirefoxNightly/status/365151471941058561)
+ - FYI
+   - With the recent release of Firefox 23, *`<input type="range">` is finally in all current browsers*, [source](https://twitter.com/Fyrd/status/365218096870457344)
+ - Tutorials
+   - *Benchmarking web servers* with HTTPerf.js and NodeUnit, [@mervinej]()’s [post](http://www.speedawarenessmonth.com/benchmarking-with-httperf-js-and-nodeunit/)
+   - Use cases and *patterns for Web Workers* (inline, dedicated and shared), [@jdcravens]()’s [post](http://tech.pro/tutorial/1487/web-worker-patterns)
+   - *Gesture design* in mobile web apps with Hammer.js, [@inserthtml]()’s [post](http://www.inserthtml.com/2013/08/gesture-design-javascript/) ![][*]
+ - Articles
+   - Autoprefixer - a CSS postprocessor for *dealing with vendor prefixes*, [@andrey_sitnik]()’s [post](http://css-tricks.com/autoprefixer/) ![][*]
+   - New features in *Bootstrap 3*, [@AntJanus]()’s [post](http://antjanus.com/blog/web-design-tips/web-design-elements/best-new-features-in-bootstrap-3-0/)
+   - *Data URI performance* bottleneck: Is Base64 to blame?, [@b1tr0t]()’s [post](https://www.mobify.com/blog/base64-does-not-impact-data-uri-performance/)
+ - Media
+   - Unit testing: *Spying on JavaScript methods* with Jasmine, [@clemenshelm]()’s short 6-min [screencast](http://blog.codeship.io/2013/08/06/testing-tuesday-17-how-to-spy-on-javascript-methods-with-jasmine.html)
+   - *REST + JSON APIs* in detail, [@lhazlewood]()’s 57-min [@JAXconf]() [talk](http://marakana.com/s/post/1526/beautiful_rest_and_json_apis_les_hazelwood_video)
+ - Content
+   - Infographic: *Evolution of HTML5*, [page](http://www.csschopper.com/blog/infographic-evolution-of-html5-past-present-and-future)
+   - “Pixel perfect *timing attacks with HTML5*” (white paper), [@pdjstone]()’s 29-page [PDF](http://contextis.co.uk/files/Browser_Timing_Attacks.pdf)
+   - Things can you do with *ES6 string template literals*, [@littlecalculist]()’s code [examples](https://gist.github.com/dherman/6165867)
+   - The *history of SEO*, [@HubSpot]()’s extensive 101-page [slide deck](http://blog.hubspot.com/history-of-seo-glimpse-into-future-tl-ss)
+ - Tools
+   - Pancake.js, a library for *flattening SVG and Canvas elements* into images on the fly, [repo](https://github.com/veltman/pancakejs)
+   - polyfill.io, a polyfill combinator that *selectively polyfills* just what the browser needs, [repo](https://github.com/jonathantneal/polyfill)
+ - Opinion
+   - *Should you review code* that you’re not familiar with?, [@rmurphey]()’s [post](http://the-pastry-box-project.net/rebecca-murphey/2013-august-5/)
+   - A *call to contributors* (“We need more amazing community contributors”), [@ArleyM]()’s [post](http://arleym.com/join-the-conversation/)
+
 ## August 7th, 2013
 
  - W3C
@@ -300,38 +336,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - VMUX, plugin-free *video calls in your browser* using WebRTC, [repo](https://github.com/malditogeek/vmux)
    - pickadate.js, a lightweight *responsive date/time picker*, [page](http://amsul.ca/pickadate.js/) w/ live demo ![][*]
    - jspm.io, a *browser module loader* that will load any module format (ES6/AMD/CJS), [site](http://jspm.io/)
-
-## July 25th, 2013
-
- - W3C
-   - *CSS WG teleconference* (July 24th), [notes](http://www.w3.org/blog/CSS/2013/07/24/resolutions-103/)
- - UA dev.
-   - Blink: Intent to deprecate and *remove XSLT*, [message](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/zIg2KC7PyH0)
-   - Blink: Intent to *implement KeyboardEvent*, [source](https://twitter.com/jaffathecake/status/359966381246132224) (aligning implementation with other browsers)
-   - *WebGL 2 prototype* available in Firefox Nightly, [page](https://wiki.mozilla.org/Platform/GFX/WebGL2)
-   - *Contacts API* landed in Fennec Nightly (Firefox for Android), [source](https://twitter.com/FennecNightly/status/360076136421662721)
- - Tutorials
-   - *Building HTML5 web components* with Polymer and X-Tags, [@davidgeary]()’s [post](http://www.ibm.com/developerworks/web/library/wa-html5components3/)
-   - *Automatic JSON parsing* via `xhr.responseType='json'` (supported only in Firefox), [@mathias]()’s [post](http://mathiasbynens.be/notes/xhr-responsetype-json)
-   - *Serving high resolution video* to devices with retina displays, [@iandevlin]()’s [post](http://www.iandevlin.com/blog/2012/12/html5/html5-video-for-retina-displays)
- - Articles
-   - A guide to Google’s new *mobile SEO rules*, [@b1tr0t]()’s [post](http://moz.com/ugc/the-definitive-guide-to-googles-new-mobile-seo-rules) ![][*]
-   - How the *Android stock browser* affects web developers, [@firt]()’s [post](http://www.mobilexweb.com/blog/android-browser-eternal-dying)
-   - For the *mobile Internet*, tomorrow belongs to Asia, [@loosewire]()’s [post](http://www.reuters.com/article/2013/07/23/smartphones-saturation-idUSL4N0FT0X420130723)
- - Media
-   - A guide to *object-oriented JavaScript*, [@jamesshore]()’s 27-min [screencast](http://www.objectplayground.com/) ![][*]
- - Content
-   - Performance profiling: *Recording traces* in Chrome DevTools, [@progers_]()’s 16-page [slide deck](https://docs.google.com/presentation/d/1pw9kbUFMD7s9KME8yIsCpCNKaSwjkGa89tt4M5rxIGM/mobilepresent)
- - Demos
-   - *Bifter SVG Comic* issue 32: HTML5 Clive, [@jonathan_ingram]()’s [page](http://www.bifter.co.uk/issue/32/)
-   - A collection of *visualizations made with D3.js*, [@alignedleft]()’s [page](http://visualizing.org/galleries/made-d3js)
-   - *CSS hyphenation* (supported in Firefox, IE10 and Safari), [tweet](https://twitter.com/simevidas/status/360150586554982402)
- - Sites
-   - HTML5 Hub, an *HTML5 developer community*, [site](http://html5hub.com/) (hosts articles)
-   - “Butterick’s Practical Typography”, a *guide to typography* (online book), [@mbutterick]()’s [site](http://practicaltypography.com/)
- - Tools
-   - Koala, a GUI application for *Less/Sass/Compass/CoffeeScript compilation*, [site](http://koala-app.com/)
-   - Operative, a JavaScript utility for *seamlessly creating Web Worker scripts*, [repo](https://github.com/padolsey/operative)
 
 **Note:** I’ve temporarily disabled loading additional content onto the page. You can view older dailies in [the “archive” on GitHub](https://github.com/simevidas/webplatformdaily-site/blob/master/data/archive.md). I’ll implement viewing (and searching) of all data soon.
 
