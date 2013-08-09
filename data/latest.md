@@ -1,5 +1,36 @@
 The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files). The README file of the repository also serves as a FAQ. Refer to it for information about this web-site.
 
+## August 9th, 2013
+
+ - News
+   - Google, Mozilla lead *web’s mobile renaissance*, [article](http://www.informationweek.com/internet/google/the-webs-mobile-renaissance/240159636) (InformationWeek)
+   - *Persona makes signing in easy* for Gmail users, [post](http://identity.mozilla.com/post/57712756801/persona-makes-signing-in-easy-for-gmail-users)
+   - Mozilla’s *Firefox OS phones get operator billing* through Bango, [article](http://techcrunch.com/2013/08/07/mozillas-firefox-phones-get-operator-billing-through-bango/) (TechCrunch)
+ - UA dev.
+   - The first *Opera Developer build* has been released (analogous to Chrome Canary, Ed.), [post](http://my.opera.com/ODIN/blog/2013/08/08/start-of-the-opera-developer-stream)
+   - *Improved `window.onerror`* in Blink, [@mikewest]()’s [post](https://mikewest.org/2013/08/debugging-runtime-errors-with-window-onerror)
+ - FYI
+   - *Chromestatus.com* completely revamped, [@ebidel]()’s [post](https://plus.google.com/+EricBidelman/posts/M51MGPUcHJ7) ![][*]
+ - Tutorials
+   - *Creating dynamic SVG charts* with AngularJS data-binding, [@kevinrockwood]()’s [post](http://gaslight.co/blog/angular-backed-svgs) ![][*]
+   - *Reactive programming* with JavaScript, [@alex_young]()’s [post](http://dailyjs.com/2013/08/08/reactive/)
+   - Transforming a *jsFiddle into a Firefox OS app*, [@angelinamagnum]()’s [post](https://hacks.mozilla.org/2013/08/using-jsfiddle-to-prototype-firefox-os-apps/)
+   - *CSS live reload* with Emmet LiveStyle, [@chikuyonok]()’s [post](http://coding.smashingmagazine.com/2013/08/08/release-livestyle-css-live-reload/)
+ - Articles
+   - Porting a *PhoneGap app to Firefox OS*, [@andytrice]()’s [post](http://www.tricedesigns.com/2013/08/08/porting-a-phonegap-app-to-firefox-os/)
+   - *Asm.js is reasonably competitive* with native C++ code on ARM, [@kannan_vijayan]()’s [post](https://blog.mozilla.org/javascript/2013/08/01/staring-at-the-sun-dalvik-vs-spidermonkey/)
+   - *Web design trends* in 2013, [@CasJam]()’s [post](http://mashable.com/2013/01/04/web-design-trends-2013/)
+   - *Device communication with ultrasound* powered by the Web Audio API, [@borismus]()’s [post](http://smus.com/ultrasonic-networking/) ![][*]
+ - Media
+   - *Using the Web Speech API* to create voice driven HTML5 games, [@HTML5Tyler]()’s 9-min [screencast](http://youtu.be/ILXR3dlxFNk)
+   - Tutorial: Writing a *native Windows 8.1 app* (HTML5 + TypeScript), [@AlaShiban]()’s 17-min [screencast](http://youtu.be/mPljRj4IS3w)
+ - Content
+   - *Git best practices*, Seth Robertson’s [page](http://sethrobertson.github.io/GitBestPractices/)
+ - Sites
+   - appear.in, a simple *video meeting service* powered by WebRTC, [post](http://comoyo.github.io/blog/2013/08/05/video-meetings-in-the-browser-using-webrtc-and-angularjs/)
+ - Tools
+   - harp, an open-source *web server with built-in pre-processing*, [site](http://harpjs.com/) + [repo](https://github.com/sintaxi/harp)
+
 ## August 8th, 2013
 
  - W3C
@@ -304,38 +335,6 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
  - Tools
    - loads.in, an online tool for testing *how fast your site loads* from different geographical locations, [site](http://loads.in/)
    - animations.css, a *set of preset, plug-and-play CSS animations*, [page](http://www.justinaguilar.com/animations/) + jsFiddle [demo](https://twitter.com/simevidas/status/361646229471506432)
-
-## July 26th, 2013
-
- - W3C
-   - **New:** First working draft of “*UI Events*”, [TR](http://www.w3.org/TR/2013/WD-uievents-20130725/) (extends DOM Events Level 3)
-   - **New:** First working draft of “*Predefined Counter Styles*”, [TR](http://www.w3.org/TR/2013/WD-predefined-counter-styles-20130725/)
- - News
-   - *IE11 Developer Preview* for Windows 7 released, [post](http://blogs.msdn.com/b/ie/archive/2013/07/25/ie11-developer-preview-for-windows-7-enabling-next-generation-sites-and-apps-faster.aspx) (IEblog) + [guide](http://msdn.microsoft.com/en-us/library/ie/bg182636%28v=vs.85%29.aspx) for developers (MSDN)
-   - MS OpenTech releases a new *prototype implementation of CU-RTC-Web*, [post](http://msopentech.com/?p=241431)
-   - BBC News hits a “majority-mobile mark” (*more traffic from mobile* than from desktop), [post](http://www.niemanlab.org/2013/07/bbc-news-hits-a-majority-mobile-mark/)
- - Tutorials
-   - A best-practices *guide to writing Backbone apps*, [@pamelafox]()’s extensive [post](http://blog.pamelafox.org/2013/07/a-guide-to-writing-backbone-apps-at.html)
-   - A quick *introduction to `requestAnimationFrame()`*, [@jonraasch]()’s [post](http://html5hub.com/request-animation-frame-for-better-performance/)
-   - Techniques for *styling subheads with CSS*, [@markodugonjic]()’s [post](http://blog.typekit.com/2013/07/25/setting-subheads-with-css/)
-   - Using *Push Notifications in Firefox OS apps*, [@nikhilcutshort]()’s [post](https://hacks.mozilla.org/2013/07/dont-miss-out-on-the-real-time-fun-use-firefox-os-push-notifications/) ![][*]
-   - Backbone.js deconstructed - an *extensive guide to Backbone*, [@codylindley]()’s [post](http://tech.pro/tutorial/1367/part-1-backbonejs-deconstructed)
- - Articles
-   - The current status of the *`::selection` pseudo element*, [@ImpressiveWebs]()’s [post](http://www.impressivewebs.com/status-selection-pseudo-element/)
-   - *Placeholders are not substitutes* for labels, [post](http://www.pardot.com/faqs/forms/placeholders-and-labels/)
-   - Introducing the *“player” concept in Web Animations*, Brian Birtles’s [post](http://brian.sol1.net/svg/2013/07/25/players-wanted-the-pause-and-seek-game/)
-   - Mobile product lists need very *distinct hit areas*, [@KiehnHolst]()’s [post](http://baymard.com/blog/mobile-product-list-hit-areas)
- - Media
-   - *The Big Web Show* Ep. 95: [@zeldman]() interviews [@jaffathecake](), 47-min [podcast](http://5by5.tv/bigwebshow/95)
- - Content
-   - GOV.UK *design principles* w/ examples, [page](https://www.gov.uk/designprinciples)
-   - Resources for *learning Ember.js*, [page](http://net.tutsplus.com/tutorials/javascript-ajax/resources-to-get-you-up-to-speed-in-ember-js/)
- - Demos
-   - The *future of airline websites*, [@F_i]()’s design [concept](http://www.f-i.com/fi/airlines) ![][*]
- - Tools
-   - VMUX, plugin-free *video calls in your browser* using WebRTC, [repo](https://github.com/malditogeek/vmux)
-   - pickadate.js, a lightweight *responsive date/time picker*, [page](http://amsul.ca/pickadate.js/) w/ live demo ![][*]
-   - jspm.io, a *browser module loader* that will load any module format (ES6/AMD/CJS), [site](http://jspm.io/)
 
 **Note:** I’ve temporarily disabled loading additional content onto the page. You can view older dailies in [the “archive” on GitHub](https://github.com/simevidas/webplatformdaily-site/blob/master/data/archive.md). I’ll implement viewing (and searching) of all data soon.
 
