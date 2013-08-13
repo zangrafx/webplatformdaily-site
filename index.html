@@ -9,6 +9,10 @@
     <link rel="icon" type="image/png" href="favicon.png">
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic,300" rel="stylesheet">
     <link href="/styles/daily.css" rel="stylesheet">
+    <style>
+        /* Hide the menu temporarily */
+        .daily-menu { display: none !important }
+    </style>
 </head>
 <body>
 <article>
@@ -25,13 +29,15 @@
     <ul class="daily-menu"></ul>
 </article>
 
+<!-- Uncomment once .daily-menu is made visible again
 <a id="fork_me" href="https://github.com/simevidas/webplatformdaily-site" target="_blank"><img style="position: fixed; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
+-->
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/libs/jquery-1.9.1.min.js"><\x3C/script>');</script>
 <!-- <script src="//cdnjs.cloudflare.com/ajax/libs/pagedown/1.0/Markdown.Converter.js"></script> --> <!-- ~10s waiting periods recently, not sue why -->
 <script>window.Markdown || document.write('<script src="/js/libs/Markdown.Converter.js"><\x3C/script>');</script>
-<script src="/js/daily.js?v=20130807"></script>
+<script src="/js/daily.js?v=20130812"></script>
 
 <script>
     // Google Analytics queue

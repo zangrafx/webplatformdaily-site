@@ -1,5 +1,9 @@
 The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files). The README file of the repository also serves as a FAQ. Refer to it for information about this web-site.
 
+## **STATUS UPDATE**
+
+Hi everyone! This digest will be offline for 3 weeks. During the first week (August 12th to 18th), I’ll define my plans for upcoming features. On Sunday, August 18th, I’ll release a “master issue” on GitHub detailing those plans. I welcome feedback. Then, I’ll be on vacation for 2 weeks. The next daily will be released on September 2nd.
+
 ## August 9th, 2013
 
  - News
@@ -13,7 +17,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
    - *Chromestatus.com* completely revamped, [@ebidel]()’s [post](https://plus.google.com/+EricBidelman/posts/M51MGPUcHJ7) ![][*]
  - Tutorials
    - *Creating dynamic SVG charts* with AngularJS data-binding, [@kevinrockwood]()’s [post](http://gaslight.co/blog/angular-backed-svgs) ![][*]
-   - *Reactive programming* with JavaScript, [@alex_young]()’s [post](http://dailyjs.com/2013/08/08/reactive/)
+   - *Reactive programming* in JavaScript, [@alex_young]()’s [post](http://dailyjs.com/2013/08/08/reactive/)
    - Transforming a *jsFiddle into a Firefox OS app*, [@angelinamagnum]()’s [post](https://hacks.mozilla.org/2013/08/using-jsfiddle-to-prototype-firefox-os-apps/)
    - *CSS live reload* with Emmet LiveStyle, [@chikuyonok]()’s [post](http://coding.smashingmagazine.com/2013/08/08/release-livestyle-css-live-reload/)
  - Articles
