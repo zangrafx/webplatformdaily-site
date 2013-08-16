@@ -258,20 +258,16 @@ handlers:
   static_files: static/\1
   upload: static/(.*\.(bz2|gz|rar|tar|tgz|zip))
 
-# If you want a completely static site uncomment the following
-# lines and remove the gae.py reference from below.
-#
-# # index files
-# - url: /(.*)/
-#   static_files: static/\1/index.html
-#   upload: static/(.*)/index.html
-#   expiration: "15m"
-#
-# # site root
-# - url: /
-#   static_files: static/index.html
-#   upload: static/index.html
-#   expiration: "15m"
+# index files
+- url: /(.*)/
+  static_files: static/\1/index.html
+  upload: static/(.*)/index.html
+  expiration: "15m"
+
+# site root
+- url: /
+  static_files: static/index.html
+  upload: static/index.html
+  expiration: "15m"
 
 - url: /.*
-  script: gae.py
