@@ -1,7 +1,6 @@
 {
   "name": "webplatformdaily-site",
-  "version": "1.0.0",
-  "homepage": "http://github.com/simevidas/webplatformdaily-site",
+  "version": "0.0.0",
   "repository": {
     "type": "git",
     "url": "http://github.com/simevidas/webplatformdaily-site.git"
