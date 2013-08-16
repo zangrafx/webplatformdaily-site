@@ -1,0 +1,16 @@
+{
+  "name": "webplatformdaily-site",
+  "version": "1.0.0",
+  "homepage": "http://github.com/simevidas/webplatformdaily-site",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/simevidas/webplatformdaily-site.git"
+  },
+  "author": {
+    "name": "Šime Vidas",
+    "url": "http://twitter.com/simevidas"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1"
+  }
+}
