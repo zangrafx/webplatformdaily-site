@@ -165,3 +165,4 @@ pip-log.txt
 # my own stuff
 .sass-cache
 styles/*.css
+js/*.min.js
