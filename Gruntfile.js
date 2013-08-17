@@ -31,9 +31,27 @@ module.exports = function (grunt) {
 				src: 'js/daily.js',
 				dest: 'js/daily.min.js'
 			}
+		},
+		markdown: {
+			all: {
+				files: [
+					{
+						src: 'data/latest.md',
+						dest: 'web/latest.html'
+					}
+				],
+				options: {
+					template: 'web/template.html',
+					markdownOptions: {
+						gfm: true
+					}	
+				}
+			}
 		}
 	});
 	grunt.loadNpmTasks('grunt-contrib-uglify');
 	grunt.loadNpmTasks('grunt-contrib-jshint');
-	grunt.registerTask('default', ['jshint', 'uglify']);
+	grunt.loadNpmTasks('grunt-markdown');
+	grunt.registerTask('js', ['jshint', 'uglify']);
+	grunt.registerTask('md', ['markdown']);
 };
