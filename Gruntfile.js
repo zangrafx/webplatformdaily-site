@@ -1,13 +1,31 @@
 module.exports = function (grunt) {
 	grunt.initConfig({
 		pkg: grunt.file.readJSON('package.json'),
+		banner: '/*! <%= pkg.name %>' +
+				' <%= grunt.template.today("yyyy-mm-dd") %> */\n',
 		jshint: {
-			all: ['*.js']
+			options: {
+				curly: true,
+				eqeqeq: true,
+				immed: true,
+				newcap: true,
+				noarg: true,
+				sub: true,
+				undef: true,
+				unused: true,
+				boss: true,
+				eqnull: true,
+				browser: true,
+				globals: {
+					jQuery: true,
+					Markdown: true
+				}
+			},
+			files: 'js/daily.js'
 		},
 		uglify: {
 			options: {
-				banner: '/*! <%= pkg.name %>' +
-						' <%= grunt.template.today("yyyy-mm-dd") %> */\n'
+				banner: '<%= banner %>'
 			},
 			dist: {
 				src: 'js/daily.js',
