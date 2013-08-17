@@ -6,7 +6,6 @@ jQuery(function ( $ ) {
         $menu,          // the list of dailies in the top right of the page
         $article,       // the <article> element (i.e. the entire page)
         $headers,       // those <h2> elements that represent dailies
-        data,           // the Markdown text (retrieved via Ajax)
         jqXHR,          // the jQuery Ajax object used for retrieving MD files
         countFiles,     // counts how many times MD files were requested
 
