@@ -34,9 +34,9 @@
 -->
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="/js/libs/jquery-1.9.1.min.js"><\x3C/script>');</script>
+<script>window.jQuery || document.write('<script src="/js/libs/jquery-1.9.1.min.js"><\x3C/script>')</script>
 <!-- <script src="//cdnjs.cloudflare.com/ajax/libs/pagedown/1.0/Markdown.Converter.js"></script> --> <!-- ~10s waiting periods recently, not sue why -->
-<script>window.Markdown || document.write('<script src="/js/libs/Markdown.Converter.js"><\x3C/script>');</script>
+<script>window.Markdown || document.write('<script src="/js/libs/Markdown.Converter.js"><\x3C/script>')</script>
 <script src="/js/daily.min.js"></script>
 
 <script>
@@ -62,6 +62,11 @@
 <label><input type=checkbox onchange="document.body.classList[ this.checked ? 'add' : 'remove' ]( 'chrome-fix' )"> apply `-webkit-text-stroke`</label>
 (improves font-smoothness in Chrome on Windows; [info](http://stackoverflow.com/q/10953037/425275))
 -->
+
+<script> // enable live-reload on Node server (during development on local machine)
+if (window.location.host === 'localhost:9001') {
+    document.write('<script src="http://localhost:35729/livereload.js"><\x3C/script>')
+}</script>
 
 </body>
 </html>
