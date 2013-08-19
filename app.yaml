@@ -270,4 +270,4 @@ handlers:
   upload: static/index.html
   expiration: "15m"
 
-- url: /.*
+#- url: /.*
