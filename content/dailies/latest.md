@@ -1,9 +1,3 @@
-The source code of this web-site is [on GitHub](https://github.com/simevidas/webplatformdaily-site). This includes all the data (which is in Markdown files). The README file of the repository also serves as a FAQ. Refer to it for information about this web-site.
-
-## **STATUS UPDATE**
-
-Hi everyone! This digest will be offline for 3 weeks. During the first week (August 12th to 18th), I’ll define my plans for upcoming features. On Sunday, August 18th, I’ll release a “master issue” on GitHub detailing those plans. I welcome feedback. Then, I’ll be on vacation for 2 weeks. The next daily will be released on September 2nd.
-
 ## August 9th, 2013
 
  - News
@@ -339,12 +333,3 @@ Hi everyone! This digest will be offline for 3 weeks. During the first week (Aug
  - Tools
    - loads.in, an online tool for testing *how fast your site loads* from different geographical locations, [site](http://loads.in/)
    - animations.css, a *set of preset, plug-and-play CSS animations*, [page](http://www.justinaguilar.com/animations/) + jsFiddle [demo](https://twitter.com/simevidas/status/361646229471506432)
-
-**Note:** I’ve temporarily disabled loading additional content onto the page. You can view older dailies in [the “archive” on GitHub](https://github.com/simevidas/webplatformdaily-site/blob/master/data/archive.md). I’ll implement viewing (and searching) of all data soon.
-
-[*]: /img/star.png "don’t miss"
-[+]: /img/funding.png "seeks funding"
-[1]: /img/calendar.png "upcoming event"
-[o]: /img/contributor.png "seeks contributors"
-[>]: /img/media.png "audio/video"
-[&]: /img/feedback.png "seeks feedback"

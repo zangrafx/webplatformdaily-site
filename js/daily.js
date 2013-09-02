@@ -15,7 +15,7 @@ jQuery(function ( $ ) {
 
 
     // request the data as soon as possible
-    jqXHR = $.get( '/data/latest.md' );
+    jqXHR = $.get( '/content/main.md' );
 
 
     // FUNCTION DEFINITIONS

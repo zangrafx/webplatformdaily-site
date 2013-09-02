@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
+	<channel>
+		<title>Open Web Platform Daily Digest</title>
+		<description>Feed for Open Web Platform Daily Digest</description>
+		<link>http://webplatformdaily.org/</link>
+		<languange>en</languange>
+		<pubDate><%=time%></pubDate>
+		<lastBuildDate><%=time%></lastBuildDate>
+		<atom:link href="http://webplatformdaily.org/feed/rss.xml" rel="self" type="application/rss+xml" />
+		<sy:updatePeriod>daily</sy:updatePeriod>
+		<%=content%>
+	</channel>
+</rss>

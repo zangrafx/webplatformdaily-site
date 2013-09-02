@@ -1,12 +1,53 @@
 module.exports = function (grunt) {
 	'use strict';
 
+	var rss = require('./js/rss.js');
+
 	grunt.initConfig({
 		pkg: grunt.file.readJSON('package.json'),
-		banner: '/*! <%= pkg.name %>' +
-				' <%= grunt.template.today("yyyy-mm-dd") %> */\n',
+		banner: '/*! <%= pkg.name %> <%= grunt.template.today("yyyy-mm-dd") %> */\n',
+
+		// File concatenations
+		concat: {
+			// Adds the reset style sheet to the front of my main CSS file
+			css: {
+				files: {
+					'styles/daily.css': [
+						'styles/reset/cssreset-min.css', 
+						'styles/daily.css'
+					]
+				}
+			},
+			// Merges the components into the main MD file
+			md: {
+				files: {
+					'content/main.md': [
+						'content/main/head.md',
+						'content/dailies/latest.md',
+						'content/main/foot.md',
+						'content/main/refs.md'
+					]
+				}
+			},
+			// A temp. file for the RSS generator task below
+			for_rss: {
+				files: {
+					'feed/latest.temp.md': [
+						'content/dailies/latest.md',
+						'content/main/refs.md'
+					]
+				}
+			}
+		},
+
+		// File deletions
+		clean: {
+			temp_md: ['feed/latest.temp.md']
+		},
+
+		// Generating the CSS file(s)
 		sass: {
-			dist: {
+			main: {
 				options: {
 					style: 'compressed'
 				},
@@ -17,15 +58,12 @@ module.exports = function (grunt) {
 		},
 		csslint: {
 			strict: {
-				// src: ['styles/daily.css'] // disabled by default
+				// I've disabled this for now; it generates lots of errors by default
+				// src: ['styles/daily.css']
 			}
 		},
-		concat: {
-			dist: {
-				src: ['styles/reset/cssreset-min.css', 'styles/daily.css'],
-				dest: 'styles/daily.css'
-			}
-		},
+
+		// Generating the JavaScript file(s)
 		jshint: {
 			options: {
 				curly: true,
@@ -50,27 +88,34 @@ module.exports = function (grunt) {
 			options: {
 				banner: '<%= banner %>'
 			},
-			dist: {
-				src: 'js/daily.js',
-				dest: 'js/daily.min.js'
+			main: {
+				files: {
+					'js/daily.min.js': ['js/daily.js']
+				}
 			}
 		},
+
+		// Generating the RSS feed XML file
 		markdown: {
-			all: {
-				files: [
-					{
-						src: 'data/latest.md',
-						dest: 'web/latest.html'
-					}
-				],
+			rss: {
+				files: {
+					'feed/rss.xml': ['feed/latest.temp.md']
+				},
 				options: {
-					template: 'web/template.html',
+					template: 'feed/template.xml',
+					templateContext: {
+						time: (new Date).toString()
+					},
+					preCompile: rss.preCompile,
+					postCompile: rss.postCompile,
 					markdownOptions: {
 						gfm: true
 					}	
 				}
 			}
 		},
+
+		// Local server with live-reload
 		connect: {
 			server: {
 				options: {
@@ -86,12 +131,13 @@ module.exports = function (grunt) {
 				files: ['styles/daily.sass'],
 				tasks: ['css']
 			},
-			scripts: {
+			js: {
 				files: ['js/daily.js'],
 				tasks: ['js']
 			}
 		}
 	});
+
 	grunt.loadNpmTasks('grunt-contrib-concat');
 	grunt.loadNpmTasks('grunt-contrib-sass');
 	grunt.loadNpmTasks('grunt-contrib-csslint');
@@ -100,8 +146,11 @@ module.exports = function (grunt) {
 	grunt.loadNpmTasks('grunt-markdown');
 	grunt.loadNpmTasks('grunt-contrib-connect');
 	grunt.loadNpmTasks('grunt-contrib-watch');
-	grunt.registerTask('css', ['sass', 'csslint', 'concat']);
+	grunt.loadNpmTasks('grunt-contrib-clean');
+
+	grunt.registerTask('css', ['sass', 'csslint', 'concat:css']);
 	grunt.registerTask('js', ['jshint', 'uglify']);
-	grunt.registerTask('md', ['markdown']);
+	grunt.registerTask('daily', ['concat:md']);
+	grunt.registerTask('rss', ['concat:for_rss', 'markdown:rss', 'clean:temp_md']);
 	grunt.registerTask('server', ['connect', 'watch']);
 };
