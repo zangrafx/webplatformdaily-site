@@ -9,7 +9,8 @@
 
     Glen Cheney -- @Vestride -- provided favicon and the apple-touch-icon PNGs, and the initial version of the generic async script loader
     Alberto Congiu -- @4lbertoC -- provided CSS to make the site fit on smaller widths
-    cust0dian -- optimized the PNG images    
+    cust0dian -- optimized the PNG images
+    Rasmus Bengtsson -- @rasmusbe -- provided an RSS feed written in PHP which helped me write my own implementation in JavaScript
 
 # TECHNOLOGY COLOPHON
 
