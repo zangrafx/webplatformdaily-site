@@ -18,7 +18,7 @@ exports.postCompile = function (src) {
 		var id = 'http://webplatformdaily.org/#' + escape(title.replace(/[ ,]/g, ''));
 
 		res += '<item>\n' +
-			'<title>' + title + '</title>\n' +
+			'<title>Web Platform Daily: ' + title + '</title>\n' +
 			'<link>' + id + '</link>\n' +
 			'<guid>' + id + '</guid>\n' +
 			'<description><![CDATA[' + val + ']]></description>\n' +
