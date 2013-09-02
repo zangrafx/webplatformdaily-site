@@ -2,6 +2,8 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
 
 ## Current status
 
+**September 2nd update:** I’ve created an RSS feed for this site. It is [available here](http://feeds.feedburner.com/OpenWebPlatformDailyDigest). You can read about implementation details in my [message on GitHub](https://github.com/simevidas/webplatformdaily-site/issues/22#issuecomment-23661594). I’m taking an additional week off to work on the site. The digest will *resume on September 9th*.
+
 **August 19th update:** I’ve released the below mentioned  master issue [on GitHub](https://github.com/simevidas/webplatformdaily-site/issues/48).
 
 Hi everyone! This digest will be offline for 3 weeks. During the first week (August 12th to 18th), I’ll define my plans for upcoming features. On Sunday, August 18th, I’ll release a “master issue” on GitHub detailing those plans. I welcome feedback. Then, I’ll be on vacation for 2 weeks. The next daily will be released on September 2nd.
