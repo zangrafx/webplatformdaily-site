@@ -1,10 +1,10 @@
-## What's coming next for this daily?
+## What’s the current status of this digest?
 
-Next I'm implementing some sort of search functionality. So, you enter a term like "WebGL" and the entire database is filtered by that term.
+Information about the current status is available on [the website](http://webplatformdaily.org/).
 
-## Is there an RSS feed?
+## Is there an RSS feed for this digest?
 
-Nope. It'll come eventually.
+Yes. It’s [available here](http://feeds.feedburner.com/OpenWebPlatformDailyDigest).
 
 ## When are new dailies released?
 
@@ -12,25 +12,26 @@ Weekdays in the early morning hours (European time).
 
 ## Where is the data stored?
 
-In Markdown files, which makes it open source. You're free to use the data anyhow you like.
+In Markdown files. You can view them [on GitHub](https://github.com/simevidas/webplatformdaily-site/tree/master/content/dailies).
 
 ## What goes into creating a daily?
 
-I gather the content from Twitter, i.e. from the tweets of the ~130 people I follow on Twitter. Usually, I select around 40-50 tweets (potential entries). Then, based on those tweets I create around 20-30 entries for the daily.
-
+I gather the content from Twitter, i.e. from the tweets of the ~160 people I follow on Twitter. Usually, I select around 40-50 tweets (candidates). Then, based on those tweets I create around 20-30 entries for the daily.
+ 
 ## What topics are covered?
 
  - Open Web Platform (including the open standards that comprise it)
  - JavaScript (the core language and libraries written in it)
  - web-browsers (including their development tools)
  - front-end web-development in general
+ - Node.js, Grunt
  - open source to some degree (e.g. GitHub related content)
  - openness (open data)
  - privacy
 
-## How do you decide what goes into a daily?
+## What are the criteria for the content?
 
-The general rule is that the content should be recent (say, less than 2 weeks old) and relevant for the majority of visitors.
+The general rule is that the content should be recent (say, less than 2 weeks old), relevant for the majority of visitors, direct and easily digestible.
 
 ## May I suggest content?
 
