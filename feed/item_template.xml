@@ -1,0 +1,6 @@
+<item>
+	<title>Web Platform Daily: <%=title%></title>
+	<link><%=id%></link>
+	<guid><%=id%></guid>
+	<description><![CDATA[<h2><%=val%>]]></description>
+</item>

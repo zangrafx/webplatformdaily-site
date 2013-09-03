@@ -1,8 +1,6 @@
 module.exports = function (grunt) {
 	'use strict';
 
-	var rss = require('./js/rss.js');
-
 	grunt.initConfig({
 		pkg: grunt.file.readJSON('package.json'),
 		banner: '/*! <%= pkg.name %> <%= grunt.template.today("yyyy-mm-dd") %> */\n',
@@ -106,8 +104,27 @@ module.exports = function (grunt) {
 					templateContext: {
 						time: (new Date).toString()
 					},
-					preCompile: rss.preCompile,
-					postCompile: rss.postCompile,
+					preCompile: function (src) {
+						return src
+								.replace(/\[@(\w+)\]\(\)/g, '[@$1](http://twitter.com/$1)')
+								.replace(/\/img\//g, 'http://webplatformdaily.org/img/');
+					},
+					postCompile: function (src) {
+						var template = grunt.file.read('feed/item_template.xml');
+
+						return src.split('<h2>').slice(1).map(function (val) {
+							var title = val.match(/(.+)<\/h2>/)[1],
+								id = 'http://webplatformdaily.org/#' + escape(title.replace(/[ ,]/g, ''));
+
+							return grunt.template.process(template, {
+								data: {
+									title: title,
+									id: id,
+									val: val
+								}
+							});
+						}).join('');
+					},
 					markdownOptions: {
 						gfm: true
 					}	
@@ -134,6 +151,10 @@ module.exports = function (grunt) {
 			js: {
 				files: ['js/daily.js'],
 				tasks: ['js']
+			},
+			md: {
+				files: ['content/*/*.md'],
+				tasks: ['md']
 			}
 		}
 	});
@@ -150,7 +171,7 @@ module.exports = function (grunt) {
 
 	grunt.registerTask('css', ['sass', 'csslint', 'concat:css']);
 	grunt.registerTask('js', ['jshint', 'uglify']);
-	grunt.registerTask('daily', ['concat:md']);
+	grunt.registerTask('md', ['concat:md']);
 	grunt.registerTask('rss', ['concat:for_rss', 'markdown:rss', 'clean:temp_md']);
 	grunt.registerTask('server', ['connect', 'watch']);
 };

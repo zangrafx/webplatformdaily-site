@@ -6,15 +6,15 @@
 		<description>Feed for Open Web Platform Daily Digest</description>
 		<link>http://webplatformdaily.org/</link>
 		<languange>en</languange>
-		<pubDate>Mon Sep 02 2013 15:02:41 GMT+0200 (Central European Daylight Time)</pubDate>
-		<lastBuildDate>Mon Sep 02 2013 15:02:41 GMT+0200 (Central European Daylight Time)</lastBuildDate>
+		<pubDate>Tue Sep 03 2013 05:05:52 GMT+0200 (Central European Daylight Time)</pubDate>
+		<lastBuildDate>Tue Sep 03 2013 05:05:52 GMT+0200 (Central European Daylight Time)</lastBuildDate>
 		<atom:link href="http://webplatformdaily.org/feed/rss.xml" rel="self" type="application/rss+xml" />
 		<sy:updatePeriod>daily</sy:updatePeriod>
 		<item>
-<title>Web Platform Daily: August 9th, 2013</title>
-<link>http://webplatformdaily.org/#August9th2013</link>
-<guid>http://webplatformdaily.org/#August9th2013</guid>
-<description><![CDATA[<h2>August 9th, 2013</h2>
+	<title>Web Platform Daily: August 9th, 2013</title>
+	<link>http://webplatformdaily.org/#August9th2013</link>
+	<guid>http://webplatformdaily.org/#August9th2013</guid>
+	<description><![CDATA[<h2>August 9th, 2013</h2>
 <ul>
 <li>News<ul>
 <li>Google, Mozilla lead <em>web’s mobile renaissance</em>, <a href="http://www.informationweek.com/internet/google/the-webs-mobile-renaissance/240159636">article</a> (InformationWeek)</li>
@@ -64,12 +64,11 @@
 </li>
 </ul>
 ]]></description>
-</item>
-<item>
-<title>Web Platform Daily: August 8th, 2013</title>
-<link>http://webplatformdaily.org/#August8th2013</link>
-<guid>http://webplatformdaily.org/#August8th2013</guid>
-<description><![CDATA[<h2>August 8th, 2013</h2>
+</item><item>
+	<title>Web Platform Daily: August 8th, 2013</title>
+	<link>http://webplatformdaily.org/#August8th2013</link>
+	<guid>http://webplatformdaily.org/#August8th2013</guid>
+	<description><![CDATA[<h2>August 8th, 2013</h2>
 <ul>
 <li>W3C<ul>
 <li>CSS Working Group: “Help us name the <em>drag-and-drop pseudo-classes</em>”, <a href="https://twitter.com/csswg/status/365213130613211137">survey</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
@@ -126,12 +125,11 @@
 </li>
 </ul>
 ]]></description>
-</item>
-<item>
-<title>Web Platform Daily: August 7th, 2013</title>
-<link>http://webplatformdaily.org/#August7th2013</link>
-<guid>http://webplatformdaily.org/#August7th2013</guid>
-<description><![CDATA[<h2>August 7th, 2013</h2>
+</item><item>
+	<title>Web Platform Daily: August 7th, 2013</title>
+	<link>http://webplatformdaily.org/#August7th2013</link>
+	<guid>http://webplatformdaily.org/#August7th2013</guid>
+	<description><![CDATA[<h2>August 7th, 2013</h2>
 <ul>
 <li>W3C<ul>
 <li>Updated CR of “<em>HTML5</em>”, <a href="http://www.w3.org/TR/2013/CR-html5-20130806/">TR</a> + <a href="http://www.w3.org/TR/2013/CR-html5-20130806/,diff">diff</a></li>
@@ -187,12 +185,11 @@
 </li>
 </ul>
 ]]></description>
-</item>
-<item>
-<title>Web Platform Daily: August 6th, 2013</title>
-<link>http://webplatformdaily.org/#August6th2013</link>
-<guid>http://webplatformdaily.org/#August6th2013</guid>
-<description><![CDATA[<h2>August 6th, 2013</h2>
+</item><item>
+	<title>Web Platform Daily: August 6th, 2013</title>
+	<link>http://webplatformdaily.org/#August6th2013</link>
+	<guid>http://webplatformdaily.org/#August6th2013</guid>
+	<description><![CDATA[<h2>August 6th, 2013</h2>
 <ul>
 <li>UA dev.<ul>
 <li>Proposal: <em>Remove Microdata support</em> from WebKit, <a href="https://twitter.com/dstorey/status/364492051833815043">source</a></li>
@@ -240,12 +237,11 @@
 </li>
 </ul>
 ]]></description>
-</item>
-<item>
-<title>Web Platform Daily: August 5th, 2013</title>
-<link>http://webplatformdaily.org/#August5th2013</link>
-<guid>http://webplatformdaily.org/#August5th2013</guid>
-<description><![CDATA[<h2>August 5th, 2013</h2>
+</item><item>
+	<title>Web Platform Daily: August 5th, 2013</title>
+	<link>http://webplatformdaily.org/#August5th2013</link>
+	<guid>http://webplatformdaily.org/#August5th2013</guid>
+	<description><![CDATA[<h2>August 5th, 2013</h2>
 <ul>
 <li>W3C <ul>
 <li>An overview of the first <em>Web Cryptography API implementations</em>, <a href="http://twitter.com/poulpita">@poulpita</a>’s <a href="https://poulpitablog.wordpress.com/2013/07/31/first-web-crypto-implementations-expecting-your-imagination-to-play-with/">post</a>   </li>
@@ -305,12 +301,11 @@
 </li>
 </ul>
 ]]></description>
-</item>
-<item>
-<title>Web Platform Daily: August 2nd, 2013</title>
-<link>http://webplatformdaily.org/#August2nd2013</link>
-<guid>http://webplatformdaily.org/#August2nd2013</guid>
-<description><![CDATA[<h2>August 2nd, 2013</h2>
+</item><item>
+	<title>Web Platform Daily: August 2nd, 2013</title>
+	<link>http://webplatformdaily.org/#August2nd2013</link>
+	<guid>http://webplatformdaily.org/#August2nd2013</guid>
+	<description><![CDATA[<h2>August 2nd, 2013</h2>
 <ul>
 <li>W3C<ul>
 <li><em>W3C highlights</em> August 2013 <a href="http://www.w3.org/2013/08/w3c-highlights/">report</a> (covers some recent and upcoming W3C work)</li>
@@ -366,12 +361,11 @@
 </li>
 </ul>
 ]]></description>
-</item>
-<item>
-<title>Web Platform Daily: August 1st, 2013</title>
-<link>http://webplatformdaily.org/#August1st2013</link>
-<guid>http://webplatformdaily.org/#August1st2013</guid>
-<description><![CDATA[<h2>August 1st, 2013</h2>
+</item><item>
+	<title>Web Platform Daily: August 1st, 2013</title>
+	<link>http://webplatformdaily.org/#August1st2013</link>
+	<guid>http://webplatformdaily.org/#August1st2013</guid>
+	<description><![CDATA[<h2>August 1st, 2013</h2>
 <ul>
 <li>W3C<ul>
 <li><em>Web and TV Interest Group</em> rechartered with new mission, <a href="http://www.w3.org/News/2013.html#entry-9905">post</a></li>
@@ -428,12 +422,11 @@
 </li>
 </ul>
 ]]></description>
-</item>
-<item>
-<title>Web Platform Daily: July 31st, 2013</title>
-<link>http://webplatformdaily.org/#July31st2013</link>
-<guid>http://webplatformdaily.org/#July31st2013</guid>
-<description><![CDATA[<h2>July 31st, 2013</h2>
+</item><item>
+	<title>Web Platform Daily: July 31st, 2013</title>
+	<link>http://webplatformdaily.org/#July31st2013</link>
+	<guid>http://webplatformdaily.org/#July31st2013</guid>
+	<description><![CDATA[<h2>July 31st, 2013</h2>
 <ul>
 <li>W3C<ul>
 <li>“<em>Web Storage</em>” published as a <strong>W3C Recommendation</strong>, <a href="http://www.w3.org/TR/2013/REC-webstorage-20130730/">TR</a></li>
@@ -484,12 +477,11 @@
 </li>
 </ul>
 ]]></description>
-</item>
-<item>
-<title>Web Platform Daily: July 30th, 2013</title>
-<link>http://webplatformdaily.org/#July30th2013</link>
-<guid>http://webplatformdaily.org/#July30th2013</guid>
-<description><![CDATA[<h2>July 30th, 2013</h2>
+</item><item>
+	<title>Web Platform Daily: July 30th, 2013</title>
+	<link>http://webplatformdaily.org/#July30th2013</link>
+	<guid>http://webplatformdaily.org/#July30th2013</guid>
+	<description><![CDATA[<h2>July 30th, 2013</h2>
 <ul>
 <li>News<ul>
 <li><em>TC-39 July meeting</em> held, <a href="http://twitter.com/rwaldron">@rwaldron</a>’s <a href="https://github.com/rwldrn/tc39-notes/tree/master/es6/2013-07">notes</a></li>
@@ -538,12 +530,11 @@
 </li>
 </ul>
 ]]></description>
-</item>
-<item>
-<title>Web Platform Daily: July 29th, 2013</title>
-<link>http://webplatformdaily.org/#July29th2013</link>
-<guid>http://webplatformdaily.org/#July29th2013</guid>
-<description><![CDATA[<h2>July 29th, 2013</h2>
+</item><item>
+	<title>Web Platform Daily: July 29th, 2013</title>
+	<link>http://webplatformdaily.org/#July29th2013</link>
+	<guid>http://webplatformdaily.org/#July29th2013</guid>
+	<description><![CDATA[<h2>July 29th, 2013</h2>
 <ul>
 <li>News<ul>
 <li><em>Do Not Track opt-out</em> icon coming to mobile browsers, CNET <a href="http://news.cnet.com/8301-1023_3-57595191-93/do-not-track-opt-out-icon-coming-to-mobile-browsers/">article</a></li>
@@ -592,6 +583,5 @@
 </ul>
 ]]></description>
 </item>
-
 	</channel>
 </rss>
