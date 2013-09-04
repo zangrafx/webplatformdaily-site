@@ -344,7 +344,7 @@ Hi everyone! This digest will be offline for 3 weeks. During the first week (Aug
    - loads.in, an online tool for testing *how fast your site loads* from different geographical locations, [site](http://loads.in/)
    - animations.css, a *set of preset, plug-and-play CSS animations*, [page](http://www.justinaguilar.com/animations/) + jsFiddle [demo](https://twitter.com/simevidas/status/361646229471506432)
 
-**Note:** I’ve temporarily disabled loading additional content onto the page. You can view older dailies in [the “archive” on GitHub](https://github.com/simevidas/webplatformdaily-site/blob/master/data/archive.md). I’ll implement viewing (and searching) of all data soon.
+**Note:** I’ve temporarily disabled loading additional content onto the page. You can view older dailies in [the “archive” on GitHub](https://github.com/simevidas/webplatformdaily-site/blob/master/content/dailies/archive.md). I’ll implement viewing (and searching) of all data soon.
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
