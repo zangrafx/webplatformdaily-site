@@ -163,6 +163,7 @@ pip-log.txt
 .DS_Store
 
 # my own stuff
+.archive
 .sass-cache
 styles/*.css
 js/*.min.js

@@ -175,4 +175,7 @@ module.exports = function (grunt) {
 	grunt.registerTask('md', ['concat:md']);
 	grunt.registerTask('rss', ['concat:for_rss', 'markdown:rss', 'clean:temp_md']);
 	grunt.registerTask('server', ['connect', 'watch']);
+
+	grunt.loadTasks('tasks');
+
 };
