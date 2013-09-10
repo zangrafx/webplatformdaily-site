@@ -4,3 +4,5 @@
 [o]: /img/contributor.png "seeks contributors"
 [>]: /img/media.png "audio/video"
 [&]: /img/feedback.png "seeks feedback"
+
+[Client-Hints]: https://github.com/igrigorik/http-client-hints

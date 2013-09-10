@@ -49,7 +49,14 @@ jQuery(function ( $ ) {
             }
         });
 
-        $temp.children( 'h2' ).append( ' <a class="edit-button" href="https://github.com/simevidas/webplatformdaily-site/blob/master/data/latest.md" target="_blank">Edit on GitHub</a>' );
+        $temp.children( 'h2' ).each(function () {
+            var filename = (new Date(this.innerHTML.trim().replace(/\w{2},/, ',') + ' 12:00 UTC')).toISOString().slice(0,10);
+            $(this).append([
+                ' <a class="edit-button" href="https://github.com/simevidas/webplatformdaily-site/blob/master/content/dailies/',
+                filename,
+                '.md" target="_blank">Edit on GitHub</a>'
+            ].join(''));
+        });
 
         $dataWrapper.append( $temp.children() );
         countFiles += 1;

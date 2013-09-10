@@ -6,10 +6,125 @@
 		<description>Feed for Open Web Platform Daily Digest</description>
 		<link>http://webplatformdaily.org/</link>
 		<languange>en</languange>
-		<pubDate>Tue Sep 03 2013 05:17:23 GMT+0200 (Central European Daylight Time)</pubDate>
-		<lastBuildDate>Tue Sep 03 2013 05:17:23 GMT+0200 (Central European Daylight Time)</lastBuildDate>
+		<pubDate>Tue Sep 10 2013 09:28:16 GMT+0200 (Central European Daylight Time)</pubDate>
+		<lastBuildDate>Tue Sep 10 2013 09:28:16 GMT+0200 (Central European Daylight Time)</lastBuildDate>
 		<atom:link href="http://webplatformdaily.org/feed/rss.xml" rel="self" type="application/rss+xml" />
 		<sy:updatePeriod>daily</sy:updatePeriod>
+		<item>
+			<title>Web Platform Daily: September 10th, 2013</title>
+			<link>http://webplatformdaily.org/#September10th2013</link>
+			<guid>http://webplatformdaily.org/#September10th2013</guid>
+			<description>
+<![CDATA[<h2>September 10th, 2013</h2>
+<ul>
+<li>News<ul>
+<li><strong>Today:</strong> <em>Responsive images meetup</em> in Paris, <a href="https://twitter.com/marcosc/status/376978875689218048">source</a></li>
+<li><em>Opera launches Coast</em>, a web browser for iPad, <a href="http://twitter.com/brucel">@brucel</a>’s <a href="http://my.opera.com/ODIN/blog/introducing-coast-by-opera">post</a> + optimizing web apps for Coast, <a href="http://coastbyopera.com/developer">page</a></li>
+<li>The U.S. government <em>tapped into computer networks</em> of companies including Google, <a href="http://www.reuters.com/article/2013/09/09/usa-security-snowden-petrobras-idUSL1N0H40HV20130909">article</a> (Reuters)</li>
+</ul>
+</li>
+<li>UA dev.<ul>
+<li>Firefox Scratchpad: <em>Auto-fixing JavaScript typos</em> (prototype), <a href="http://twitter.com/valueof">@valueof</a>’s <a href="http://anton.kovalyov.net/p/js-typos/">post</a></li>
+</ul>
+</li>
+<li>Tutorials<ul>
+<li><em>Ignoring library code while debugging</em> in Chrome (like Firefox’s “black boxing”), <a href="http://twitter.com/collintmiller">@collintmiller</a>’s <a href="http://www.divshot.com/blog/tips-and-tricks/ignoring-library-code-while-debugging-in-chrome/">post</a></li>
+<li>Five helpful tips when <em>using RequireJS</em> (i.a. working with non-AMD libraries), <a href="http://twitter.com/ifandelse">@ifandelse</a>’s <a href="http://tech.pro/blog/1561/five-helpful-tips-when-using-requirejs">post</a></li>
+</ul>
+</li>
+<li>Articles<ul>
+<li>Two <em>responsive image approaches</em> that require minimal developer effort, <a href="http://twitter.com/borismus">@borismus</a>’s <a href="http://smus.com/responsive-image-workflow/">post</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+<li>An ambitious proposal for a new <em>responsive image format</em> (includes prototype), <a href="http://twitter.com/yoavweiss">@yoavweiss</a>’s <a href="http://blog.yoav.ws/2013/09/Responsive-Image-Container">post</a></li>
+<li>Building <em>games that take advantage of HTML5</em> and the web platform, <a href="http://twitter.com/austinhallock">@austinhallock</a>’s <a href="http://clay.io/blog/building-games-for-html5-not-with-html5/">post</a></li>
+<li><em>HTML5 video on mobile</em> - considerations and troubleshooting, <a href="http://twitter.com/aliciatweet">@aliciatweet</a>’s <a href="http://html5hub.com/html5-video-on-mobile-a-primer/#i.xov2jogpddzntz">post</a></li>
+</ul>
+</li>
+<li>Media<ul>
+<li><em>Testing Node.js applications</em> with Jasmine, <a href="http://twitter.com/clemenshelm">@clemenshelm</a>’s 5-min <a href="http://blog.codeship.io/2013/08/20/testing-tuesday-19-how-to-test-node-js-applications-with-jasmine.html">screencast</a></li>
+<li><em>Frontend security</em> (i.a. Content Security Policy), <a href="">mikewest</a>’s 47-min <a href="https://mikewest.org/2013/09/frontend-security-frontendconf-2013">talk</a> (+ slides + transcript) <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+</ul>
+</li>
+<li>Content<ul>
+<li>Idea: <em>Set Client-Hints</em> (<a href="https://github.com/igrigorik/http-client-hints">?</a>) via <code>&lt;meta&gt;</code> tag, <a href="https://github.com/igrigorik/http-client-hints/issues/8">discussion</a> on GitHub</li>
+<li>A good visual <em>overview of HTML elements</em> (w/ links to MDN and W3C), <a href="http://twitter.com/joshduck">@joshduck</a>’s <a href="http://joshduck.com/periodic-table.html">page</a></li>
+</ul>
+</li>
+<li>Demos<ul>
+<li>Cool effect: <em>Image pixelation on hover</em>, <a href="http://twitter.com/pixelia_me">@pixelia_me</a>’s <a href="http://codepen.io/noeldelgado/pen/FmEBh">demo</a></li>
+<li>HelloRun, a visually impressive <em>HTML5 game</em> by <a href="http://twitter.com/HelloEnjoy">@HelloEnjoy</a>, <a href="http://hellorun.helloenjoy.com/">play</a></li>
+</ul>
+</li>
+<li>Tools<ul>
+<li>URLcrypt (PHP port), a library <em>for securely transmitting binary data</em> in URLs, <a href="https://github.com/aarondfrancis/urlcrypt">repo</a></li>
+<li>Two.js, a render-agnostic <em>2D drawing API</em> (draws in SVG, Canvas and WebGL), <a href="http://jonobr1.github.io/two.js/">page</a></li>
+</ul>
+</li>
+<li>Opinion<ul>
+<li>“That PE thang” (<em>progressive enhancement</em>), <a href="http://twitter.com/slightlylate">@slightlylate</a>’s <a href="http://infrequently.org/2013/09/that-pe-thang/">post</a></li>
+</ul>
+</li>
+</ul>
+]]>
+			</description>
+		</item>
+		<item>
+			<title>Web Platform Daily: September 9th, 2013</title>
+			<link>http://webplatformdaily.org/#September9th2013</link>
+			<guid>http://webplatformdaily.org/#September9th2013</guid>
+			<description>
+<![CDATA[<h2>September 9th, 2013</h2>
+<ul>
+<li>News<ul>
+<li>Premium <em>media experiences without plug-ins</em> in Internet Explorer 11, IEBlog <a href="http://blogs.msdn.com/b/ie/archive/2013/09/05/online-professional-quality-video-premium-media-experiences-without-plug-ins-in-internet-explorer-11.aspx">post</a></li>
+<li>“<em>Security tools and web browsers</em> come together in Mozilla Plug-n-Hack”, <a href="http://twitter.com/writingadam">@writingadam</a>’s <a href="http://www.scmagazine.com/security-tools-and-web-browsers-come-together-in-mozilla-plug-n-hack/article/310019/">post</a></li>
+<li><em>Opera TV Store</em> brings HTML5 web apps to TiVo’s set-top DVRs, <a href="http://techcrunch.com/2013/08/29/tivos-roamio-platform-gets-opera-sdk-support-bringing-html5-web-apps-to-tivo-dvrs/">article</a></li>
+<li><em>Live development for HTML</em> in latest Brackets build, <a href="http://blog.brackets.io/2013/09/05/brackets-sprint-30-build/">post</a></li>
+</ul>
+</li>
+<li>UA dev.<ul>
+<li>Firefox Nightly adds (CSS) <em><code>position: sticky</code></em> (<a href="https://twitter.com/FirefoxNightly/status/376808286211022848">source</a>) and <em><code>image-orientation: from-image</code></em> (<a href="https://twitter.com/FirefoxNightly/status/376283501899051008">source</a>)</li>
+</ul>
+</li>
+<li>Tutorials<ul>
+<li><em>Observing the DOM</em> (e.g. addition/removal of child nodes) with <em>Mutation Observers</em>, <a href="http://twitter.com/webinista">@webinista</a>’s <a href="http://dev.opera.com/articles/view/mutation-observers-tutorial/">post</a></li>
+<li><em>Protecting objects in JavaScript</em> (preventing extensions, sealing and freezing), <a href="http://twitter.com/rauschma">@rauschma</a>’s <a href="http://www.2ality.com/2013/08/protecting-objects.html">post</a></li>
+<li>Implementing <em>HTML Drag and drop</em> on page elements and external files, <a href="http://twitter.com/MattAntWest">@MattAntWest</a>’s <a href="http://blog.teamtreehouse.com/implementing-native-drag-and-drop">post</a></li>
+<li><em>Styling the <code>&lt;progress&gt;</code> element</em> (w/ HTML fallback), <a href="http://twitter.com/pankajparashar">@pankajparashar</a>’s <a href="http://css-tricks.com/html5-progress-element/">post</a></li>
+<li><em>Defining new elements in HTML</em> with Custom Elements, <a href="http://twitter.com/ebidel">@ebidel</a>’s <a href="http://www.html5rocks.com/en/tutorials/webcomponents/customelements/">post</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+</ul>
+</li>
+<li>Articles<ul>
+<li>Should we standardize <em><code>ellipsis</code> for multi-line text</em>?, <a href="http://twitter.com/getify">@getify</a>’s <a href="http://html5hub.com/ellipse-my-text/">post</a></li>
+<li>Getting started with <em>HTML5 game development</em>, <a href="http://twitter.com/austinhallock">@austinhallock</a>’s <a href="https://hacks.mozilla.org/2013/09/getting-started-with-html5-game-development/">post</a></li>
+<li>6 simple <em>web accessibility tests</em> anyone can do, <a href="http://twitter.com/karlgroves">@karlgroves</a>’s <a href="http://www.karlgroves.com/2013/09/05/the-6-simplest-web-accessibility-tests-anyone-can-do/">post</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+<li><em>Frontend generators</em>: Initializr, Yo and grunt-init, <a href="http://twitter.com/jonthanfielding">@jonthanfielding</a>’s <a href="http://flippinawesome.org/2013/09/03/getting-a-head-start-with-front-end-generators/">post</a></li>
+</ul>
+</li>
+<li>Media<ul>
+<li>Chrome DevTools: <em>Visualizing JavaScript processing</em> with flame charts, <a href="http://twitter.com/addyosmani">@addyosmani</a>’s 3-min <a href="http://addyosmani.com/blog/devtools-flame-charts/">screencast</a></li>
+<li>JSJ Ep. 74: <em>Information about Grunt</em> from its creator (<a href="http://twitter.com/cowboy">@cowboy</a>), 74-min <a href="http://javascriptjabber.com/074-jsj-grunt-js-with-ben-alman/">podcast</a></li>
+<li><em>Debugging and fixing jank</em> on a live website, <a href="http://twitter.com/paul_irish">@paul_irish</a>’s 10-min <a href="https://www.youtube.com/watch?v=mSK70FwUz2A">screencast</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+</ul>
+</li>
+<li>Content<ul>
+<li>“DOM Core” <em>browser compatibility tables</em> updated on QuirksMode, <a href="http://quirksmode.org/dom/core/">desktop</a> + <a href="http://quirksmode.org/dom/core/mobile.html">mobile</a></li>
+<li>“Know your HTTP well”, an <em>overview of HTTP</em> headers, methods and status codes (w/ links to spec), <a href="https://github.com/andreineculau/know-your-http-well">repo</a></li>
+<li>A comprehensive <em>cheat sheet to favicon sizes</em> and types, <a href="http://twitter.com/audreyr">@audreyr</a>’s <a href="https://github.com/audreyr/favicon-cheat-sheet">page</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+</ul>
+</li>
+<li>Tools<ul>
+<li>favico.js, a library for <em>adding a notification badge to the favicon</em> of a web page, <a href="http://lab.ejci.net/favico.js/">page</a></li>
+<li>XDomain, a <em>pure JavaScript CORS</em> alternative, <a href="https://github.com/jpillora/xdomain">repo</a></li>
+</ul>
+</li>
+<li>Opinion<ul>
+<li><em>Progressive enhancement</em> is faster, <a href="http://twitter.com/jaffathecake">@jaffathecake</a>’s <a href="http://jakearchibald.com/2013/progressive-enhancement-is-faster/">post</a></li>
+</ul>
+</li>
+</ul>
+]]>
+			</description>
+		</item>
 		<item>
 			<title>Web Platform Daily: August 9th, 2013</title>
 			<link>http://webplatformdaily.org/#August9th2013</link>
@@ -606,6 +721,470 @@
 <li>Tools<ul>
 <li>loads.in, an online tool for testing <em>how fast your site loads</em> from different geographical locations, <a href="http://loads.in/">site</a></li>
 <li>animations.css, a <em>set of preset, plug-and-play CSS animations</em>, <a href="http://www.justinaguilar.com/animations/">page</a> + jsFiddle <a href="https://twitter.com/simevidas/status/361646229471506432">demo</a></li>
+</ul>
+</li>
+</ul>
+]]>
+			</description>
+		</item>
+		<item>
+			<title>Web Platform Daily: July 26th, 2013</title>
+			<link>http://webplatformdaily.org/#July26th2013</link>
+			<guid>http://webplatformdaily.org/#July26th2013</guid>
+			<description>
+<![CDATA[<h2>July 26th, 2013</h2>
+<ul>
+<li>W3C<ul>
+<li><strong>New:</strong> First working draft of “<em>UI Events</em>”, <a href="http://www.w3.org/TR/2013/WD-uievents-20130725/">TR</a> (extends DOM Events Level 3)</li>
+<li><strong>New:</strong> First working draft of “<em>Predefined Counter Styles</em>”, <a href="http://www.w3.org/TR/2013/WD-predefined-counter-styles-20130725/">TR</a></li>
+</ul>
+</li>
+<li>News<ul>
+<li><em>IE11 Developer Preview</em> for Windows 7 released, <a href="http://blogs.msdn.com/b/ie/archive/2013/07/25/ie11-developer-preview-for-windows-7-enabling-next-generation-sites-and-apps-faster.aspx">post</a> (IEblog) + <a href="http://msdn.microsoft.com/en-us/library/ie/bg182636%28v=vs.85%29.aspx">guide</a> for developers (MSDN)</li>
+<li>MS OpenTech releases a new <em>prototype implementation of CU-RTC-Web</em>, <a href="http://msopentech.com/?p=241431">post</a></li>
+<li>BBC News hits a “majority-mobile mark” (<em>more traffic from mobile</em> than from desktop), <a href="http://www.niemanlab.org/2013/07/bbc-news-hits-a-majority-mobile-mark/">post</a></li>
+</ul>
+</li>
+<li>Tutorials<ul>
+<li>A best-practices <em>guide to writing Backbone apps</em>, <a href="http://twitter.com/pamelafox">@pamelafox</a>’s extensive <a href="http://blog.pamelafox.org/2013/07/a-guide-to-writing-backbone-apps-at.html">post</a></li>
+<li>A quick <em>introduction to <code>requestAnimationFrame()</code></em>, <a href="http://twitter.com/jonraasch">@jonraasch</a>’s <a href="http://html5hub.com/request-animation-frame-for-better-performance/">post</a></li>
+<li>Techniques for <em>styling subheads with CSS</em>, <a href="http://twitter.com/markodugonjic">@markodugonjic</a>’s <a href="http://blog.typekit.com/2013/07/25/setting-subheads-with-css/">post</a></li>
+<li>Using <em>Push Notifications in Firefox OS apps</em>, <a href="http://twitter.com/nikhilcutshort">@nikhilcutshort</a>’s <a href="https://hacks.mozilla.org/2013/07/dont-miss-out-on-the-real-time-fun-use-firefox-os-push-notifications/">post</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+<li>Backbone.js deconstructed - an <em>extensive guide to Backbone</em>, <a href="http://twitter.com/codylindley">@codylindley</a>’s <a href="http://tech.pro/tutorial/1367/part-1-backbonejs-deconstructed">post</a></li>
+</ul>
+</li>
+<li>Articles<ul>
+<li>The current status of the <em><code>::selection</code> pseudo element</em>, <a href="http://twitter.com/ImpressiveWebs">@ImpressiveWebs</a>’s <a href="http://www.impressivewebs.com/status-selection-pseudo-element/">post</a></li>
+<li><em>Placeholders are not substitutes</em> for labels, <a href="http://www.pardot.com/faqs/forms/placeholders-and-labels/">post</a></li>
+<li>Introducing the <em>“player” concept in Web Animations</em>, Brian Birtles’s <a href="http://brian.sol1.net/svg/2013/07/25/players-wanted-the-pause-and-seek-game/">post</a></li>
+<li>Mobile product lists need very <em>distinct hit areas</em>, <a href="http://twitter.com/KiehnHolst">@KiehnHolst</a>’s <a href="http://baymard.com/blog/mobile-product-list-hit-areas">post</a></li>
+</ul>
+</li>
+<li>Media<ul>
+<li><em>The Big Web Show</em> Ep. 95: <a href="http://twitter.com/zeldman">@zeldman</a> interviews <a href="http://twitter.com/jaffathecake">@jaffathecake</a>, 47-min <a href="http://5by5.tv/bigwebshow/95">podcast</a></li>
+</ul>
+</li>
+<li>Content<ul>
+<li>GOV.UK <em>design principles</em> w/ examples, <a href="https://www.gov.uk/designprinciples">page</a></li>
+<li>Resources for <em>learning Ember.js</em>, <a href="http://net.tutsplus.com/tutorials/javascript-ajax/resources-to-get-you-up-to-speed-in-ember-js/">page</a></li>
+</ul>
+</li>
+<li>Demos<ul>
+<li>The <em>future of airline websites</em>, <a href="http://twitter.com/F_i">@F_i</a>’s design <a href="http://www.f-i.com/fi/airlines">concept</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+</ul>
+</li>
+<li>Tools<ul>
+<li>VMUX, plugin-free <em>video calls in your browser</em> using WebRTC, <a href="https://github.com/malditogeek/vmux">repo</a></li>
+<li>pickadate.js, a lightweight <em>responsive date/time picker</em>, <a href="http://amsul.ca/pickadate.js/">page</a> w/ live demo <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+<li>jspm.io, a <em>browser module loader</em> that will load any module format (ES6/AMD/CJS), <a href="http://jspm.io/">site</a></li>
+</ul>
+</li>
+</ul>
+]]>
+			</description>
+		</item>
+		<item>
+			<title>Web Platform Daily: July 25th, 2013</title>
+			<link>http://webplatformdaily.org/#July25th2013</link>
+			<guid>http://webplatformdaily.org/#July25th2013</guid>
+			<description>
+<![CDATA[<h2>July 25th, 2013</h2>
+<ul>
+<li>W3C<ul>
+<li><em>CSS WG teleconference</em> (July 24th), <a href="http://www.w3.org/blog/CSS/2013/07/24/resolutions-103/">notes</a></li>
+</ul>
+</li>
+<li>UA dev.<ul>
+<li>Blink: Intent to deprecate and <em>remove XSLT</em>, <a href="https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/zIg2KC7PyH0">message</a></li>
+<li>Blink: Intent to <em>implement KeyboardEvent</em>, <a href="https://twitter.com/jaffathecake/status/359966381246132224">source</a> (aligning implementation with other browsers)</li>
+<li><em>WebGL 2 prototype</em> available in Firefox Nightly, <a href="https://wiki.mozilla.org/Platform/GFX/WebGL2">page</a></li>
+<li><em>Contacts API</em> landed in Fennec Nightly (Firefox for Android), <a href="https://twitter.com/FennecNightly/status/360076136421662721">source</a></li>
+</ul>
+</li>
+<li>Tutorials<ul>
+<li><em>Building HTML5 web components</em> with Polymer and X-Tags, <a href="http://twitter.com/davidgeary">@davidgeary</a>’s <a href="http://www.ibm.com/developerworks/web/library/wa-html5components3/">post</a></li>
+<li><em>Automatic JSON parsing</em> via <code>xhr.responseType=&#39;json&#39;</code> (supported only in Firefox), <a href="http://twitter.com/mathias">@mathias</a>’s <a href="http://mathiasbynens.be/notes/xhr-responsetype-json">post</a></li>
+<li><em>Serving high resolution video</em> to devices with retina displays, <a href="http://twitter.com/iandevlin">@iandevlin</a>’s <a href="http://www.iandevlin.com/blog/2012/12/html5/html5-video-for-retina-displays">post</a></li>
+</ul>
+</li>
+<li>Articles<ul>
+<li>A guide to Google’s new <em>mobile SEO rules</em>, <a href="http://twitter.com/b1tr0t">@b1tr0t</a>’s <a href="http://moz.com/ugc/the-definitive-guide-to-googles-new-mobile-seo-rules">post</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+<li>How the <em>Android stock browser</em> affects web developers, <a href="http://twitter.com/firt">@firt</a>’s <a href="http://www.mobilexweb.com/blog/android-browser-eternal-dying">post</a></li>
+<li>For the <em>mobile Internet</em>, tomorrow belongs to Asia, <a href="http://twitter.com/loosewire">@loosewire</a>’s <a href="http://www.reuters.com/article/2013/07/23/smartphones-saturation-idUSL4N0FT0X420130723">post</a></li>
+</ul>
+</li>
+<li>Media<ul>
+<li>A guide to <em>object-oriented JavaScript</em>, <a href="http://twitter.com/jamesshore">@jamesshore</a>’s 27-min <a href="http://www.objectplayground.com/">screencast</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+</ul>
+</li>
+<li>Content<ul>
+<li>Performance profiling: <em>Recording traces</em> in Chrome DevTools, <a href="http://twitter.com/progers_">@progers_</a>’s 16-page <a href="https://docs.google.com/presentation/d/1pw9kbUFMD7s9KME8yIsCpCNKaSwjkGa89tt4M5rxIGM/mobilepresent">slide deck</a></li>
+</ul>
+</li>
+<li>Demos<ul>
+<li><em>Bifter SVG Comic</em> issue 32: HTML5 Clive, <a href="http://twitter.com/jonathan_ingram">@jonathan_ingram</a>’s <a href="http://www.bifter.co.uk/issue/32/">page</a></li>
+<li>A collection of <em>visualizations made with D3.js</em>, <a href="http://twitter.com/alignedleft">@alignedleft</a>’s <a href="http://visualizing.org/galleries/made-d3js">page</a></li>
+<li><em>CSS hyphenation</em> (supported in Firefox, IE10 and Safari), <a href="https://twitter.com/simevidas/status/360150586554982402">tweet</a></li>
+</ul>
+</li>
+<li>Sites<ul>
+<li>HTML5 Hub, an <em>HTML5 developer community</em>, <a href="http://html5hub.com/">site</a> (hosts articles)</li>
+<li>“Butterick’s Practical Typography”, a <em>guide to typography</em> (online book), <a href="http://twitter.com/mbutterick">@mbutterick</a>’s <a href="http://practicaltypography.com/">site</a></li>
+</ul>
+</li>
+<li>Tools<ul>
+<li>Koala, a GUI application for <em>Less/Sass/Compass/CoffeeScript compilation</em>, <a href="http://koala-app.com/">site</a></li>
+<li>Operative, a JavaScript utility for <em>seamlessly creating Web Worker scripts</em>, <a href="https://github.com/padolsey/operative">repo</a></li>
+</ul>
+</li>
+</ul>
+]]>
+			</description>
+		</item>
+		<item>
+			<title>Web Platform Daily: July 24th, 2013</title>
+			<link>http://webplatformdaily.org/#July24th2013</link>
+			<guid>http://webplatformdaily.org/#July24th2013</guid>
+			<description>
+<![CDATA[<h2>July 24th, 2013</h2>
+<ul>
+<li>W3C<ul>
+<li>Candidate Recommendation of “<em>Vibration API</em>” published, <a href="http://www.w3.org/TR/2013/CR-vibration-20130723/">TR</a> + <a href="http://www.w3.org/TR/2013/CR-vibration-20130723/,diff">diff</a></li>
+<li>“<em>Requirements for providing text</em> to act as an alternative for images” section in HTML 5.1 updated, <a href="https://twitter.com/stevefaulkner/status/359655186215604225">source</a></li>
+</ul>
+</li>
+<li>News<ul>
+<li>New findings: Typical leading ecommerce site takes <em>4.9 seconds to serve usable content</em>, <a href="http://www.webperformancetoday.com/2013/07/23/report-ecommerce-page-speed-web-performance-summer-2013/">post</a></li>
+<li>The Web’s longest nightmare ends: <em>Eolas’ patents are dead</em> on appeal, Ars <a href="http://arstechnica.com/tech-policy/2013/07/the-webs-longest-nightmare-ends-eolas-patents-are-dead-on-appeal/">article</a></li>
+</ul>
+</li>
+<li>FYI<ul>
+<li><a href="http://twitter.com/tokbox">@tokbox</a> is doing a <em>survey on WebRTC</em> and where it’s headed. Check it out <a href="https://www.surveymonkey.com/s/DevE">here</a></li>
+</ul>
+</li>
+<li>UA dev.<ul>
+<li>Support for ECMAScript 6 <em>binary and octal integer literals</em> added to V8, <a href="https://twitter.com/beverloo/status/359674116640489473">source</a></li>
+</ul>
+</li>
+<li>Tutorials<ul>
+<li>Performing <em>asynchronous operations with Promises</em> + the Q library, <a href="http://twitter.com/kishorelive">@kishorelive</a>’s <a href="http://12devs.co.uk/articles/promises-an-alternative-way-to-approach-asynchronous-javascript/">post</a></li>
+</ul>
+</li>
+<li>Articles<ul>
+<li>Does <em>Flexbox have a performance problem</em>?, <a href="http://twitter.com/chriscoyier">@chriscoyier</a>’s <a href="http://css-tricks.com/does-flexbox-have-a-performance-problem/">post</a> + feedback in comments</li>
+<li>The <em>networking terminology of WebRTC</em> (ICE, STUN, NAT, TURN, SDP, …), <a href="http://twitter.com/louisstow">@louisstow</a>’s <a href="https://hacks.mozilla.org/2013/07/webrtc-and-the-ocean-of-acronyms/">post</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+<li>An <em>overview of bootstraps</em> (Twitter, Pure, Cardinal, UI Kit, Foundation, Topcoat), <a href="http://twitter.com/inserthtml">@inserthtml</a>’s <a href="http://www.inserthtml.com/2013/07/bootstraps-and-web-kits-enemy-or-efficient/">post</a></li>
+<li>On mobile, <em>data URIs are slower</em> than linking external resources, <a href="http://twitter.com/b1tr0t">@b1tr0t</a>’s <a href="http://www.mobify.com/blog/data-uris-are-slow-on-mobile/">post</a></li>
+</ul>
+</li>
+<li>Media<ul>
+<li>How <em>illusion of speed</em> is more important than actual speed, <a href="http://twitter.com/souders">@souders</a>’s 5-min clip in <a href="http://twitter.com/akosner">@akosner</a>’s <a href="http://www.forbes.com/sites/anthonykosner/2013/07/13/how-mobile-experiences-can-shape-our-perception-through-illusions-of-speed/">post</a></li>
+<li><em>Unit testing</em>: Minutes now will save hours later, <a href="http://twitter.com/EricMann">@EricMann</a>’s 41-min <a href="http://twitter.com/jqcon">@jqcon</a> <a href="http://youtu.be/_UmmaPe8Bzc">talk</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+<li><em>ShopTalk Show</em>, ep. 78 w/ <a href="http://twitter.com/chriscoyier">@chriscoyier</a> &amp; <a href="http://twitter.com/rblalock">@rblalock</a>, 66-min <a href="http://shoptalkshow.com/episodes/078-with-rick-blalock/">podcast</a></li>
+</ul>
+</li>
+<li>Content<ul>
+<li>CSS Guidelines, high-level guidelines for <em>writing manageable, maintainable CSS</em>, <a href="http://twitter.com/csswizardry">@csswizardry</a>’s <a href="https://github.com/csswizardry/CSS-Guidelines">page</a></li>
+<li><em>Carousel interaction stats</em>, <a href="http://twitter.com/erunyon">@erunyon</a>’s <a href="http://weedygarden.net/2013/07/carousel-interaction-stats/">post</a></li>
+</ul>
+</li>
+<li>Demos<ul>
+<li>A <em>responsive slider</em> with pure CSS, <a href="http://twitter.com/teapoted">@teapoted</a>’s <a href="http://csscience.com/responsiveslidercss3/">demo</a></li>
+<li>Plink, a real-time <em>collaborative music experience</em>, <a href="http://twitter.com/DinahmoeSTHLM">@DinahmoeSTHLM</a>’s <a href="http://labs.dinahmoe.com/plink/">page</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+<li>“Riding the New Silk Road” <em>interactive feature</em>, NY Times <a href="http://www.nytimes.com/newsgraphics/2013/07/21/silk-road/">page</a></li>
+</ul>
+</li>
+<li>Sites<ul>
+<li>Contrast Rebellion: “To hell with <em>low-contrast font color</em> and unreadable texts!”, <a href="http://contrastrebellion.com/">site</a></li>
+</ul>
+</li>
+<li>Tools<ul>
+<li>localtunnel (Ruby gem), <em>shares your <code>localhost</code> web server</em> to the rest of the world, <a href="http://progrium.com/localtunnel/">page</a></li>
+</ul>
+</li>
+</ul>
+]]>
+			</description>
+		</item>
+		<item>
+			<title>Web Platform Daily: July 23rd, 2013</title>
+			<link>http://webplatformdaily.org/#July23rd2013</link>
+			<guid>http://webplatformdaily.org/#July23rd2013</guid>
+			<description>
+<![CDATA[<h2>July 23rd, 2013</h2>
+<ul>
+<li>News<ul>
+<li><em>Korea’s IE dependency</em> blamed for hacking of over 100m user records since 2008, TNW <a href="http://thenextweb.com/asia/2013/07/21/koreas-internet-explorer-dependency-blamed-for-hacking-of-over-100m-user-records-since-2008/">article</a></li>
+<li>Interactive Advertising Bureau <em>attacks Mozilla over cookie policy</em>, <a href="http://blogs.computerworlduk.com/open-enterprise/2013/07/mozilla-comes-under-attack---and-of-age/index.htm">article</a></li>
+</ul>
+</li>
+<li>Tutorials<ul>
+<li>Creating a simple <em>line graph with inline SVG</em>, <a href="http://twitter.com/roemervlasveld">@roemervlasveld</a>’s <a href="http://rvlasveld.github.io/blog/2013/07/02/creating-interactive-graphs-with-svg-part-1/">post</a></li>
+<li>Making the web page header image <em>responsive with CSS <code>background-image</code></em>, <a href="http://twitter.com/stephen_thomas">@stephen_thomas</a>’s <a href="http://mobile.smashingmagazine.com/2013/07/22/simple-responsive-images-with-css-backgrounds/">post</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+<li><em>From microphone to WAV</em> with <code>getUserMedia</code> and Web Audio , <a href="http://twitter.com/thibault_imbert">@thibault_imbert</a>’s <a href="http://typedarray.org/from-microphone-to-wav-with-getusermedia-and-web-audio/">post</a></li>
+<li>JavaScript web apps - providing a <em>fallback for Google’s spider</em> (SEO), <a href="http://twitter.com/maccaw">@maccaw</a>’s <a href="http://blog.alexmaccaw.com/seo-in-js-web-apps">post</a></li>
+</ul>
+</li>
+<li>Articles<ul>
+<li>The <em>advantages of WebRTC over Skype</em>’s application, <a href="http://twitter.com/chrismatthieu">@chrismatthieu</a>’s <a href="http://bloggeek.me/skype-in-9-months/">post</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+<li><em>Pre-fetching web resources</em> for better performance, <a href="http://twitter.com/lukew">@lukew</a>’s <a href="http://twitter.com/bdconf">@bdconf</a> <a href="http://www.lukew.com/ff/entry.asp?1747">notes</a></li>
+</ul>
+</li>
+<li>Media<ul>
+<li><em>Working with the PhantomJS</em> headless browser, <a href="http://twitter.com/sayanee_">@sayanee_</a>’s 20-min <a href="http://build-podcast.com/phantomjs/">screencast</a></li>
+<li><em>CSS Flexbox</em>, <a href="http://twitter.com/stephenhay">@stephenhay</a>’s 50-min <a href="http://twitter.com/cssdayconf">@cssdayconf</a> <a href="https://vimeo.com/69531447">talk</a></li>
+</ul>
+</li>
+<li>Content<ul>
+<li><em>Firefox OS</em>, <a href="http://twitter.com/mepartoconmigo">@mepartoconmigo</a> <a href="http://arcturus.github.io/firefoxos-hackedio/">slide deck</a> w/ good <em>Web APIs overview</em> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+<li>A round up of the <em>latest news on PhoneGap</em> and Cordova, <a href="https://github.com/phonegap/phonegap-community/">page</a></li>
+<li>An overview of 25 <em>JavaScript visualization libraries</em>, <a href="http://www.ma-no.org/en/content/index_visualize-your-data-25-javascript-visualization-libraries_1796.php">post</a></li>
+</ul>
+</li>
+<li>Demos<ul>
+<li><em>Text reflection</em> with pure CSS, <a href="http://twitter.com/codepo8">@codepo8</a>’s <a href="http://jsbin.com/ihuxap/2/edit">demo</a></li>
+</ul>
+</li>
+<li>Sites<ul>
+<li>“I want to use on mobile”, a <em>Can I Use visualization</em>, <a href="http://onmobile.iwanttouse.com/">site</a></li>
+<li>Component.fm, a repository of <em>Web Audio components</em>, <a href="http://component.fm/">site</a></li>
+</ul>
+</li>
+<li>Tools<ul>
+<li>Intro.js, a <em>step-by-step guide for visitors</em> to your web site, <a href="http://usablica.github.io/intro.js/">page</a> w/ live demo</li>
+<li>Sync.js, <em>syncs your local folder with a remote folder</em> using SCP (<a href="http://en.wikipedia.org/wiki/Secure_copy">?</a>), <a href="https://github.com/serkanyersen/sync">repo</a></li>
+<li>Mock Response, an online service that <em>returns various HTTP responses</em> (for testing), <a href="http://mock.isssues.com/">page</a></li>
+</ul>
+</li>
+</ul>
+]]>
+			</description>
+		</item>
+		<item>
+			<title>Web Platform Daily: July 22nd, 2013</title>
+			<link>http://webplatformdaily.org/#July22nd2013</link>
+			<guid>http://webplatformdaily.org/#July22nd2013</guid>
+			<description>
+<![CDATA[<h2>July 22nd, 2013</h2>
+<ul>
+<li>News<ul>
+<li><em>HTML5 Hub</em> (<a href="https://twitter.com/getify/status/355744926929133572">?</a>) to launch this week, <a href="https://twitter.com/iandevlin/status/358112182950559745">source</a></li>
+<li><em>Adobe PhoneGap</em> 3.0 released, <a href="http://phonegap.com/blog/2013/07/19/adobe-phonegap-3.0-released/">post</a> + TNW <a href="http://thenextweb.com/dd/2013/07/19/adobe-launches-phonegap-3-plans-support-for-windows-phone-8-blackberry-10-ubuntu-and-firefox-os/">coverage</a> + <a href="http://www.netmagazine.com/news/mobile-app-framework-phonegap-30-launches-132895">interview</a> with <a href="http://twitter.com/brianleroux">@brianleroux</a></li>
+<li><em>Netflix presses ahead with HTML5</em> as free software activists call for boycott, GigaOM <a href="http://gigaom.com/2013/07/18/netflix-presses-ahead-with-html5-as-free-software-activists-call-for-boycott/">article</a></li>
+<li>Mozilla unveils <em>‘aggressive’ Firefox OS schedule</em> (quarterly feature releases), TNW <a href="http://thenextweb.com/mobile/2013/07/20/mozilla-unveils-aggressive-firefox-os-schedule-quarterly-feature-releases-security-updates-every-six-weeks/">article</a></li>
+</ul>
+</li>
+<li>UA dev.<ul>
+<li><em>CSS media type emulation</em> added to Firefox Nightly, <a href="http://twitter.com/graememcc">@graememcc</a> <a href="http://www.graememcc.co.uk/2013/07/20/developer-tools-gcli-command-for-emulating-css-media-types/">post</a></li>
+<li>“<em>Show potential scroll bottlenecks</em>” feature added to DevTools in Chrome Canary, <a href="https://plus.google.com/115788095648461403871/posts/LXKEENhnQSD">post</a></li>
+</ul>
+</li>
+<li>FYI<ul>
+<li>Firefox DevTools provide a graphical <em>command line interface</em>, <a href="https://twitter.com/simevidas/status/359007846861512705">tweet</a> w/ screenshot</li>
+</ul>
+</li>
+<li>Tutorials<ul>
+<li>The <em>pros and cons of Server Sent Events</em> (SSE) + usage with Aura and Node, <a href="http://twitter.com/z3r0">@z3r0</a>’s <a href="http://www.activestate.com/blog/2013/07/server-sent-events-aura-and-nodejs">post</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+<li><em>Getting started with Ember.js</em> in 5 minutes, <a href="http://twitter.com/matthewpearse">@matthewpearse</a>’s <a href="http://matthewlehner.net/get-started-with-ember-js-in-5-minutes/">post</a></li>
+<li><em>Using the Express framework</em> to build a simple blog site, <a href="http://twitter.com/cfjedimaster">@cfjedimaster</a>’s <a href="http://net.tutsplus.com/tutorials/javascript-ajax/introduction-to-express/">post</a></li>
+</ul>
+</li>
+<li>Articles<ul>
+<li>How ECMAScript 6 generators and <em><code>yield</code> will transform Node.js</em>, <a href="http://twitter.com/maccaw">@maccaw</a>’s <a href="http://blog.alexmaccaw.com/how-yield-will-transform-node">post</a> + <a href="http://monocle.io/posts/how-yield-will-transform-node">discussion</a></li>
+<li>The messy <em>state of Web Notifications</em> in Blink and Webkit, <a href="http://twitter.com/auchenberg">@auchenberg</a>’s <a href="http://kenneth.io/blog/2013/07/15/the-messy-state-of-web-notifications-in-chrome-safari-blink-webkit/">post</a></li>
+<li>How to ensure <em>privacy in the age of HTML5</em>, <a href="http://twitter.com/chrisminnick">@chrisminnick</a>’s <a href="http://www.cio.com/article/735373/How_to_Ensure_Privacy_in_the_Age_of_HTML5">post</a></li>
+</ul>
+</li>
+<li>Media<ul>
+<li><em>Variables and conditionals</em> in CSS, <a href="http://twitter.com/tabatkins">@tabatkins</a>’s 53-min <a href="http://twitter.com/cssdayconf">@cssdayconf</a> <a href="https://vimeo.com/69531455">talk</a> w/ Q&amp;A</li>
+<li>Chrome Office Hours: <em>Performance</em>, <a href="http://twitter.com/aerotwist">@aerotwist</a>/<a href="http://twitter.com/paul_irish">@paul_irish</a>’s 45-min GDL <a href="https://developers.google.com/live/shows/840309825">session</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+<li>“Hyperaudio - <em>making audio a first class citizen</em> of the web”, <a href="http://twitter.com/maboa">@maboa</a>’s 50-min <a href="http://twitter.com/ScotlandJS">@ScotlandJS</a> <a href="http://scotlandjs.com/mark.html">talk</a></li>
+</ul>
+</li>
+<li>Content<ul>
+<li><em>Considering the mobile experience</em> when it’s too late for “mobile first”, <a href="http://twitter.com/think_ui">@think_ui</a> 115-page <a href="http://www.slideshare.net/Think-ui/cmag-mobileux">slide deck</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+<li><em>microformats2</em> &amp; HTML5 - the evolution of web data, <a href="http://twitter.com/t">@t</a>’s 41-page <a href="http://tantek.com/presentations/2013/07/microformats2/">slide deck</a></li>
+<li><a href="http://twitter.com/mfg_labs">@mfg_labs</a> icon set, a free <em>retina-ready SVG icon font</em>, <a href="http://mfglabs.github.io/mfglabs-iconset/">page</a> w/ usage guide</li>
+</ul>
+</li>
+<li>Demos<ul>
+<li><em>Horizontal portfolio layout</em> with CSS3 Animations and jQuery, <a href="http://twitter.com/SaraSoueidan">@SaraSoueidan</a>’s <a href="http://sarasoueidan.com/blog/horizontal-portfolio-layout/">post</a> + <a href="http://sarasoueidan.com/blog/horizontal-portfolio-layout/demo/index.html">demo</a></li>
+<li>Soul Reaper, a <em>digital comic built with HTML5</em>, <a href="http://www.soul-reaper.com/">site</a> w/ audio narration</li>
+</ul>
+</li>
+<li>Tools<ul>
+<li>CSS Trashman (online tool), examines your live site and <em>generates optimized CSS/Sass</em>, <a href="http://www.csstrashman.com/">site</a></li>
+<li>ie8, a <em>polyfill specifically targeted at IE8</em> (polyfills the W3C event system), <a href="http://twitter.com/WebReflection">@WebReflection</a>’s <a href="https://github.com/WebReflection/ie8">repo</a></li>
+<li>VerbalExpressions (JavaScript library), provides an API for <em>constructing regular expressions</em>, <a href="https://github.com/jehna/VerbalExpressions">repo</a></li>
+</ul>
+</li>
+</ul>
+]]>
+			</description>
+		</item>
+		<item>
+			<title>Web Platform Daily: July 19th, 2013</title>
+			<link>http://webplatformdaily.org/#July19th2013</link>
+			<guid>http://webplatformdaily.org/#July19th2013</guid>
+			<description>
+<![CDATA[<h2>July 19th, 2013</h2>
+<ul>
+<li>W3C<ul>
+<li><strong>Last Call</strong> WD of “<em>CSS Counter Styles Level 3</em>”, <a href="http://www.w3.org/TR/2013/WD-css-counter-styles-3-20130718/">TR</a> + <a href="http://www.w3.org/TR/2013/WD-css-counter-styles-3-20130718/,diff">diff</a> + release <a href="http://www.w3.org/blog/CSS/2013/07/25/counter-styles-3-lcwd-published/">notes</a></li>
+</ul>
+</li>
+<li>News<ul>
+<li>Chrome 29 Beta: <em>Web Audio and WebRTC in Chrome</em> for Android, <a href="http://blog.chromium.org/2013/07/chrome-29-beta-web-audio-and-webrtc-in.html">post</a> (Chromium Blog)</li>
+<li>IE11 to support <em>prerendering and prefetching</em>, MSDN <a href="http://msdn.microsoft.com/en-us/library/ie/dn265039%28v=vs.85%29.aspx">page</a></li>
+<li>The internet sector calls for <em>greater transparency in requests for user data</em>, <a href="https://blog.mozilla.org/blog/2013/07/18/the-internet-sector-calls-for-greater-transparency-in-requests-for-user-data/">post</a> (Mozilla blog)</li>
+</ul>
+</li>
+<li>Tutorials<ul>
+<li>Creating a <em>clean testing environment</em> for Chrome’s DevTools, <a href="https://developers.google.com/chrome-developer-tools/docs/clean-testing-environment">page</a></li>
+<li>Creating <em>reusable widgets with Shadow DOM</em>, <a href="http://twitter.com/MattAntWest">@MattAntWest</a>’s <a href="http://blog.teamtreehouse.com/working-with-shadow-dom">post</a></li>
+<li>Building next generation <em>widgets with Web Components</em> and Polymer, <a href="http://twitter.com/jdcravens">@jdcravens</a>’s <a href="http://tech.pro/tutorial/1421/building-next-generation-widgets-with-web-components">post</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+<li>Adding a <em>“Install on Firefox OS” button</em> to your web site, <a href="http://twitter.com/codepo8">@codepo8</a>’s <a href="https://hacks.mozilla.org/2013/07/app-discovery-firefox-os-for-developers-the-platform-html5-deserves/">post</a></li>
+</ul>
+</li>
+<li>Articles<ul>
+<li><em>Fastbook, <a href="http://twitter.com/Sencha">@Sencha</a>’s HTML5 app</em> for Facebook, at Sencha Con 2013, <a href="http://twitter.com/edspencer">@edspencer</a>’s <a href="http://edspencer.net/2013/07/19/sencha-con-2013-fastbook/">post</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+<li>Update on the current <em>status of Web Cryptography</em>, <a href="http://twitter.com/poulpita">@poulpita</a>’s <a href="http://alistapart.com/column/security-affair">post</a></li>
+<li>A proposal for <em>installable web apps</em>, <a href="http://twitter.com/borismus">@borismus</a>’s <a href="http://smus.com/installable-webapps/">post</a></li>
+</ul>
+</li>
+<li>Media<ul>
+<li><em>Filter effects and blend modes</em>, <a href="http://twitter.com/divya">@divya</a>’s 40-min <a href="http://twitter.com/cssdayconf">@cssdayconf</a> <a href="https://vimeo.com/70171265">talk</a></li>
+<li>Developing <em>inside of Chrome’s DevTools</em> with nodemon and workspaces, <a href="http://twitter.com/rem">@rem</a>’s 6-min <a href="http://remysharp.com/2013/07/18/my-workflow-v3-full-coding-stack/">screencast</a></li>
+<li>“Optimizing the <em>critical rendering path</em>”, <a href="http://twitter.com/igrigorik">@igrigorik</a>’s 45-min <a href="http://twitter.com/velocityconf">@velocityconf</a> <a href="http://youtu.be/YV1nKLWoARQ">talk</a> + <a href="https://docs.google.com/presentation/d/1IRHyU7_crIiCjl0Gvue0WY3eY_eYvFQvSfwQouW9368/present#slide=id.p19">slide deck</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+</ul>
+</li>
+<li>Content<ul>
+<li>A browser support table for <em>graphics-related CSS properties</em>, <a href="http://twitter.com/agreenblatt">@agreenblatt</a>’s <a href="https://github.com/awgreenblatt/css-graphics">repo</a></li>
+</ul>
+</li>
+<li>Sites<ul>
+<li>“The Node Beginner Book”, a free <em>online book for learning Node.js</em>, <a href="http://www.nodebeginner.org/">site</a></li>
+</ul>
+</li>
+<li>Tools<ul>
+<li>S Gallery, a <em>responsive image gallery</em> jQuery plugin with CSS3 Animations, <a href="http://sarasoueidan.com/blog/s-gallery-responsive-jquery-gallery-plugin-with-css3-animations/">page</a> + <a href="http://sarasoueidan.com/blog/s-gallery-responsive-jquery-gallery-plugin-with-css3-animations/demo/index.html">demo</a></li>
+<li>Fresh Tilled Soil WebRTC, enables real-time <em>video/audio streaming between two web browsers</em>, <a href="http://freshtilledsoil.com/the-future-of-web/webrtc-video/">page</a></li>
+<li>grunt-express, starts an Express.js <em>server with live reload and server reload</em>, <a href="https://github.com/blai/grunt-express">repo</a></li>
+</ul>
+</li>
+<li>Opinion<ul>
+<li>“<em>Money and open source</em> - the current situation isn’t optimal”, <a href="http://twitter.com/izs">@izs</a>’s <a href="https://medium.com/open-source-life/d44a1953749c">post</a></li>
+</ul>
+</li>
+</ul>
+]]>
+			</description>
+		</item>
+		<item>
+			<title>Web Platform Daily: July 18th, 2013</title>
+			<link>http://webplatformdaily.org/#July18th2013</link>
+			<guid>http://webplatformdaily.org/#July18th2013</guid>
+			<description>
+<![CDATA[<h2>July 18th, 2013</h2>
+<ul>
+<li>News<ul>
+<li>MPEG-DASH is […] the latest <em>ISO standard for Internet video streaming</em>, MS OpenTech <a href="http://msopentech.com/?p=207961">article</a></li>
+<li><em>Promises supported</em> in Firefox Nightly (<a href="https://twitter.com/juandopazo/status/357541032008769536">source</a>) and Chrome Canary (<a href="https://twitter.com/juandopazo/status/357232261822824449">source</a>)</li>
+<li>Call for participation in <em>Accessible SVG Community Group</em>, W3C <a href="http://www.w3.org/community/blog/2013/07/17/call-for-participation-in-accessible-svg-community-group/">post</a></li>
+</ul>
+</li>
+<li>FYI<ul>
+<li>This is how <em>Web Notifications</em> look on Android (supported in Firefox), <a href="https://twitter.com/simevidas/status/357601633850499072">screenshot</a> (<a href="https://twitter.com/ryanseddon/status/357348453149442049">context</a>)</li>
+</ul>
+</li>
+<li>Tutorials<ul>
+<li>Another 9 ways to <em>optimize your front end performance</em>, <a href="http://twitter.com/davidwalshblog">@davidwalshblog</a>’s <a href="http://tech.pro/tutorial/1400/another-9-ways-to-optimize-your-front-end-performance">post</a></li>
+<li>Troubleshooting CSS - 6 <em>common CSS issues</em> and how to solve them, <a href="http://twitter.com/HugoGiraudel">@HugoGiraudel</a>’s <a href="http://tympanus.net/codrops/2013/07/17/troubleshooting-css/">post</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+<li>Tips for <em>speeding up the initial page load</em> of JavaScript web apps, <a href="http://twitter.com/maccaw">@maccaw</a>’s <a href="http://blog.alexmaccaw.com/time-to-first-tweet">post</a></li>
+</ul>
+</li>
+<li>Articles<ul>
+<li>A guide to the essential <em>HTML5 media events</em> (<code>play</code>, <code>pause</code>, <code>progress</code>, …), <a href="http://twitter.com/brothercake">@brothercake</a>’s <a href="http://www.sitepoint.com/essential-audio-and-video-events-for-html5/">post</a></li>
+<li>An extensive overview of <em>upcoming Sass features</em> (version 3.3 and beyond), <a href="http://twitter.com/HugoGiraudel">@HugoGiraudel</a>’s <a href="http://davidwalsh.name/future-sass">post</a></li>
+<li>Evaluating the performance of <em>SPDY-enabled web servers</em>, Hervé Servy’s <a href="http://www.neotys.com/blog/performance-of-spdy-enabled-web-servers/">post</a></li>
+</ul>
+</li>
+<li>Media<ul>
+<li>Topic Undefined #2 (<a href="http://twitter.com/cfjedimaster">@cfjedimaster</a>/<a href="http://twitter.com/remotesynth">@remotesynth</a> discuss <em>web dev links and news</em>), 32-min <a href="http://flippinawesome.org/topic-undefined/topic-undefined-episode-2/">podcast</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+<li>“<em>Enough with the JavaScript</em> Already”, <a href="http://twitter.com/slicknet">@slicknet</a>’s 65-min <a href="http://tech.blog.box.com/2013/07/video-enough-with-the-javascript-already-by-nicholas-zakas/">talk</a> + 84-page <a href="http://www.slideshare.net/nzakas/enough-withthejavascriptalready">slide deck</a></li>
+<li>“HTML5 and beyond” (an <em>overview of current techs and tools</em>), <a href="http://twitter.com/codepo8">@codepo8</a>’s 50-min <a href="http://twitter.com/SenchaCon">@SenchaCon</a> <a href="http://youtu.be/Jev8c85-G1U">talk</a></li>
+</ul>
+</li>
+<li>Content<ul>
+<li>A list of <em>useful Git aliases</em>, <a href="http://twitter.com/robmil">@robmil</a>’s <a href="https://gist.github.com/robmiller/6018582">gist</a> (+ a few more in <a href="http://twitter.com/sitegenius">@sitegenius</a>’s <a href="https://gist.github.com/andycole/5927625">gist</a>)</li>
+<li>Developer Economics Q3 2013 <a href="http://www.visionmobile.com/blog/2013/07/report-developer-economics-q3-2013-state-of-the-developer-nation/">report</a> (based on a <em>global developer survey</em>)</li>
+</ul>
+</li>
+<li>Demos<ul>
+<li>A fixed <em>header that animates when scrolling</em> the page (multiple effects), <a href="http://twitter.com/crnacura">@crnacura</a>’s <a href="http://tympanus.net/Development/HeaderEffects/">demo</a></li>
+</ul>
+</li>
+<li>Opinion<ul>
+<li>Why JavaScript web applications should <em>embrace traditional URLs</em>, <a href="http://twitter.com/molily">@molily</a>’s <a href="http://9elements.com/io/index.php/hybrid-javascript-apps/">post</a></li>
+<li><em>Betting on open source</em> in your products, <a href="http://twitter.com/vincent_hardy">@vincent_hardy</a>’s <a href="http://insights.wired.com/profiles/blogs/betting-on-open-source-in-your-products">post</a></li>
+<li>“The web: less engine, more gas”, <a href="http://twitter.com/mattpointblank">@mattpointblank</a>’s <a href="http://www.threechords.org/blog/the-web-less-engine-more-gas/">post</a> (+ read Paul’s comment) <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+</ul>
+</li>
+</ul>
+]]>
+			</description>
+		</item>
+		<item>
+			<title>Web Platform Daily: July 17th, 2013</title>
+			<link>http://webplatformdaily.org/#July17th2013</link>
+			<guid>http://webplatformdaily.org/#July17th2013</guid>
+			<description>
+<![CDATA[<h2>July 17th, 2013</h2>
+<ul>
+<li>W3C<ul>
+<li><strong>Last Call</strong> WD of “<em>CSS Fonts Level 3</em>”, <a href="http://www.w3.org/TR/2013/WD-css-fonts-3-20130711/">TR</a> + <a href="http://www.w3.org/TR/2013/WD-css-fonts-3-20130711/,diff">diff</a> + release <a href="http://lists.w3.org/Archives/Public/www-style/2013Jul/0416.html">notes</a> w/ changelog</li>
+<li><strong>Last Call</strong> WD of “<em>HTML5 Image Description Extension</em>” (<code>longdesc</code> attribute), <a href="http://www.w3.org/TR/2013/WD-html-longdesc-20130716/">TR</a> + <a href="http://www.w3.org/TR/2013/WD-html-longdesc-20130716/,diff">diff</a></li>
+</ul>
+</li>
+<li>News<ul>
+<li>Establishing the <em>meaning of Do Not Track</em>, W3C blog <a href="http://www.w3.org/QA/2013/07/establishing_the_meaning_of_do.html">post</a></li>
+<li><em>Do Not Track standards group</em> shoots down advertiser proposal, CNET <a href="http://news.cnet.com/8301-1023_3-57593907-93/do-not-track-standards-group-shoots-down-advertiser-proposal/">article</a></li>
+<li><em>Blink development</em>: Fractional spacings, MouseEnter and MouseLeave and Promises, <a href="http://twitter.com/beverloo">@beverloo</a> <a href="http://peter.sh/2013/07/fractional-spacings-mouseenter-and-mouseleave-and-promises/">post</a></li>
+<li>New <em>ES6 APIs</em> coming to Firefox: <code>Array.from/of</code> (<a href="https://twitter.com/FirefoxNightly/status/357274306402729986">tw.</a>), <code>Number.parseInt/Float</code> (<a href="https://twitter.com/FirefoxNightly/status/357274304020348928">tw.</a>), <code>Math</code> f’ns (<a href="https://twitter.com/FirefoxNightly/status/357274301554098177">tw.</a>)</li>
+</ul>
+</li>
+<li>FYI<ul>
+<li>Mozilla chair <a href="http://twitter.com/MitchellBaker">@MitchellBaker</a> will <em>answer Firefox OS questions</em> <strong>today at 5:30 p.m UTC</strong>, <a href="https://twitter.com/firefox/status/357145094685605889">tweet</a></li>
+</ul>
+</li>
+<li>Articles<ul>
+<li>Smartphone browser <em><code>localStorage</code> faster than native cache</em> (up to 5 times), <a href="http://twitter.com/b1tr0t">@b1tr0t</a>’s <a href="http://www.mobify.com/blog/smartphone-localstorage-outperforms-browser-cache/">post</a></li>
+<li>A good recap of last month’s <em>Velocity conference</em>, <a href="http://twitter.com/derek">@derek</a>’s <a href="http://www.yuiblog.com/blog/2013/07/16/velocity-2013-building-a-faster-and-stronger-web/">post</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+<li>Introducing <em>ESLint, a JavaScript linting tool</em> where all rules are pluggable, <a href="http://twitter.com/slicknet">@slicknet</a>’s <a href="http://www.nczonline.net/blog/2013/07/16/introducing-eslint/">post</a></li>
+<li>“Let’s talk differently about <em>JavaScript performance</em> in web apps”, <a href="http://twitter.com/aerotwist">@aerotwist</a>’s <a href="http://aerotwist.com/blog/reflections-on-performance-at-google-io/">post</a></li>
+</ul>
+</li>
+<li>Media<ul>
+<li>An <em>introduction to Polymer</em> w/ <a href="http://twitter.com/ebidel">@ebidel</a>, <a href="http://twitter.com/mattsmcnulty">@mattsmcnulty</a> and <a href="http://twitter.com/jkomoros">@jkomoros</a>, 35-min GDL <a href="https://developers.google.com/live/shows/836113307">session</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+<li>An <em>introduction to Encrypted Media Extensions</em> (EME) w/ John Luther and <a href="http://twitter.com/sw12">@sw12</a>, 35-min GDL <a href="https://developers.google.com/live/shows/826991846">session</a></li>
+<li>“Chrome Office hours” - <em>Google developers answer</em> your questions, 41-min GDL <a href="https://developers.google.com/events/835900373/">session</a></li>
+</ul>
+</li>
+<li>Content<ul>
+<li>Where does <em>Chrome’s main thread</em> spend its time during page load (data from one million sites), <a href="https://twitter.com/addyosmani/status/357269853486329859">tweet</a></li>
+<li>Browser support for <em>nested <code>@media</code> at-rules</em>, <a href="http://twitter.com/LeaVerou">@LeaVerou</a>’s <a href="https://twitter.com/LeaVerou/status/357174606630621184">tweet</a> w/ test page</li>
+</ul>
+</li>
+<li>Demos<ul>
+<li>9 mind-blowing <em>WebGL demos</em>, <a href="http://twitter.com/davidwalshblog">@davidwalshblog</a>’s <a href="http://davidwalsh.name/webgl-demos">post</a></li>
+<li>SculptGL, a <em>WebGL sculpting app</em>, <a href="http://twitter.com/stephomi">@stephomi</a>’s <a href="http://stephaneginier.com/sculptgl/">page</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+<li>A Google Maps <em><code>&lt;g-maps&gt;</code> element</em> defined with Polymer, <a href="https://twitter.com/Paul_Kinlan/status/357260218062733312">tweet</a></li>
+<li>paste.sh, a paste site that encrypts data using the <em><code>crypto.getRandomValues</code> API</em>, <a href="https://paste.sh/">site</a> </li>
+</ul>
+</li>
+<li>Tools<ul>
+<li>Embed Responsively, an online tool for <em>embedding rich third-party media</em> into responsive web pages, <a href="http://embedresponsively.com/">site</a></li>
+<li>grunt-hub, A Grunt task to watch and <em>run tasks on multiple Grunt projects</em>, <a href="http://shama.github.io/grunt-hub/">site</a></li>
 </ul>
 </li>
 </ul>

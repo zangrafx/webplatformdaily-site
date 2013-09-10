@@ -156,7 +156,8 @@ module.exports = function (grunt) {
 			md: {
 				files: ['content/*/*.md'],
 				tasks: ['md']
-			}
+			},
+			files: ['index.html']
 		}
 	});
 
@@ -172,7 +173,7 @@ module.exports = function (grunt) {
 
 	grunt.registerTask('css', ['sass', 'csslint', 'concat:css']);
 	grunt.registerTask('js', ['jshint', 'uglify']);
-	grunt.registerTask('md', ['concat:md']);
+	grunt.registerTask('md', ['merge', 'concat:md']);
 	grunt.registerTask('rss', ['concat:for_rss', 'markdown:rss', 'clean:temp_md']);
 	grunt.registerTask('server', ['connect', 'watch']);
 

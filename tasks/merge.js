@@ -9,7 +9,9 @@ module.exports = function (grunt) {
 			path,
 			content,
 			counter = 0,
-			result = '';
+			result = '',
+			latest = '',
+			minimal = false;
 
 		// adds one leading zero to one-digit numbers
 		function z(n) {
@@ -39,6 +41,9 @@ module.exports = function (grunt) {
 						counter++;
 						if (counter === 20) {
 							grunt.file.write('content/dailies/latest.md', result);
+							if (minimal) break loop; // don't create archive.md and all.md
+
+							latest = result;
 							result = '';
 						}
 
@@ -53,6 +58,13 @@ module.exports = function (grunt) {
 			month = 12;
 		}
 
-		grunt.file.write('content/dailies/archive.md', result);
+		if (!minimal) {
+			grunt.file.write('content/dailies/archive.md', result);
+
+			// used to perform Ctrl + F searches withing the web page on all data locally
+			// e.g. checking if you have something already
+			result = latest + result;
+			grunt.file.write('content/dailies/all.md', result + grunt.file.read('content/main/refs.md'));
+		}
 	});
 };

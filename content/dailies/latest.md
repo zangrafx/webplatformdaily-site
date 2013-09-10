@@ -1,3 +1,70 @@
+## September 10th, 2013
+
+ - News
+   - **Today:** *Responsive images meetup* in Paris, [source](https://twitter.com/marcosc/status/376978875689218048)
+   - *Opera launches Coast*, a web browser for iPad, [@brucel]()’s [post](http://my.opera.com/ODIN/blog/introducing-coast-by-opera) + optimizing web apps for Coast, [page](http://coastbyopera.com/developer)
+   - The U.S. government *tapped into computer networks* of companies including Google, [article](http://www.reuters.com/article/2013/09/09/usa-security-snowden-petrobras-idUSL1N0H40HV20130909) (Reuters)
+ - UA dev.
+   - Firefox Scratchpad: *Auto-fixing JavaScript typos* (prototype), [@valueof]()’s [post](http://anton.kovalyov.net/p/js-typos/)
+ - Tutorials
+   - *Ignoring library code while debugging* in Chrome (like Firefox’s “black boxing”), [@collintmiller]()’s [post](http://www.divshot.com/blog/tips-and-tricks/ignoring-library-code-while-debugging-in-chrome/)
+   - Five helpful tips when *using RequireJS* (i.a. working with non-AMD libraries), [@ifandelse]()’s [post](http://tech.pro/blog/1561/five-helpful-tips-when-using-requirejs)
+ - Articles
+   - Two *responsive image approaches* that require minimal developer effort, [@borismus]()’s [post](http://smus.com/responsive-image-workflow/) ![][*]
+   - An ambitious proposal for a new *responsive image format* (includes prototype), [@yoavweiss]()’s [post](http://blog.yoav.ws/2013/09/Responsive-Image-Container)
+   - Building *games that take advantage of HTML5* and the web platform, [@austinhallock]()’s [post](http://clay.io/blog/building-games-for-html5-not-with-html5/)
+   - *HTML5 video on mobile* - considerations and troubleshooting, [@aliciatweet]()’s [post](http://html5hub.com/html5-video-on-mobile-a-primer/#i.xov2jogpddzntz)
+ - Media
+   - *Testing Node.js applications* with Jasmine, [@clemenshelm]()’s 5-min [screencast](http://blog.codeship.io/2013/08/20/testing-tuesday-19-how-to-test-node-js-applications-with-jasmine.html)
+   - *Frontend security* (i.a. Content Security Policy), [mikewest]()’s 47-min [talk](https://mikewest.org/2013/09/frontend-security-frontendconf-2013) (+ slides + transcript) ![][*]
+ - Content
+   - Idea: *Set Client-Hints* ([?][Client-Hints]) via `<meta>` tag, [discussion](https://github.com/igrigorik/http-client-hints/issues/8) on GitHub
+   - A good visual *overview of HTML elements* (w/ links to MDN and W3C), [@joshduck]()’s [page](http://joshduck.com/periodic-table.html)
+ - Demos
+   - Cool effect: *Image pixelation on hover*, [@pixelia_me]()’s [demo](http://codepen.io/noeldelgado/pen/FmEBh)
+   - HelloRun, a visually impressive *HTML5 game* by [@HelloEnjoy](), [play](http://hellorun.helloenjoy.com/)
+ - Tools
+   - URLcrypt (PHP port), a library *for securely transmitting binary data* in URLs, [repo](https://github.com/aarondfrancis/urlcrypt)
+   - Two.js, a render-agnostic *2D drawing API* (draws in SVG, Canvas and WebGL), [page](http://jonobr1.github.io/two.js/)
+ - Opinion
+   - “That PE thang” (*progressive enhancement*), [@slightlylate]()’s [post](http://infrequently.org/2013/09/that-pe-thang/)
+
+
+## September 9th, 2013
+
+ - News
+   - Premium *media experiences without plug-ins* in Internet Explorer 11, IEBlog [post](http://blogs.msdn.com/b/ie/archive/2013/09/05/online-professional-quality-video-premium-media-experiences-without-plug-ins-in-internet-explorer-11.aspx)
+   - “*Security tools and web browsers* come together in Mozilla Plug-n-Hack”, [@writingadam]()’s [post](http://www.scmagazine.com/security-tools-and-web-browsers-come-together-in-mozilla-plug-n-hack/article/310019/)
+   - *Opera TV Store* brings HTML5 web apps to TiVo’s set-top DVRs, [article](http://techcrunch.com/2013/08/29/tivos-roamio-platform-gets-opera-sdk-support-bringing-html5-web-apps-to-tivo-dvrs/)
+   - *Live development for HTML* in latest Brackets build, [post](http://blog.brackets.io/2013/09/05/brackets-sprint-30-build/)
+ - UA dev.
+   - Firefox Nightly adds (CSS) *`position: sticky`* ([source](https://twitter.com/FirefoxNightly/status/376808286211022848)) and *`image-orientation: from-image`* ([source](https://twitter.com/FirefoxNightly/status/376283501899051008))
+ - Tutorials
+   - *Observing the DOM* (e.g. addition/removal of child nodes) with *Mutation Observers*, [@webinista]()’s [post](http://dev.opera.com/articles/view/mutation-observers-tutorial/)
+   - *Protecting objects in JavaScript* (preventing extensions, sealing and freezing), [@rauschma]()’s [post](http://www.2ality.com/2013/08/protecting-objects.html)
+   - Implementing *HTML Drag and drop* on page elements and external files, [@MattAntWest]()’s [post](http://blog.teamtreehouse.com/implementing-native-drag-and-drop)
+   - *Styling the `<progress>` element* (w/ HTML fallback), [@pankajparashar]()’s [post](http://css-tricks.com/html5-progress-element/)
+   - *Defining new elements in HTML* with Custom Elements, [@ebidel]()’s [post](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/) ![][*]
+ - Articles
+   - Should we standardize *`ellipsis` for multi-line text*?, [@getify]()’s [post](http://html5hub.com/ellipse-my-text/)
+   - Getting started with *HTML5 game development*, [@austinhallock]()’s [post](https://hacks.mozilla.org/2013/09/getting-started-with-html5-game-development/)
+   - 6 simple *web accessibility tests* anyone can do, [@karlgroves]()’s [post](http://www.karlgroves.com/2013/09/05/the-6-simplest-web-accessibility-tests-anyone-can-do/) ![][*]
+   - *Frontend generators*: Initializr, Yo and grunt-init, [@jonthanfielding]()’s [post](http://flippinawesome.org/2013/09/03/getting-a-head-start-with-front-end-generators/)
+ - Media
+   - Chrome DevTools: *Visualizing JavaScript processing* with flame charts, [@addyosmani]()’s 3-min [screencast](http://addyosmani.com/blog/devtools-flame-charts/)
+   - JSJ Ep. 74: *Information about Grunt* from its creator ([@cowboy]()), 74-min [podcast](http://javascriptjabber.com/074-jsj-grunt-js-with-ben-alman/)
+   - *Debugging and fixing jank* on a live website, [@paul_irish]()’s 10-min [screencast](https://www.youtube.com/watch?v=mSK70FwUz2A) ![][*]
+ - Content
+   - “DOM Core” *browser compatibility tables* updated on QuirksMode, [desktop](http://quirksmode.org/dom/core/) + [mobile](http://quirksmode.org/dom/core/mobile.html)
+   - “Know your HTTP well”, an *overview of HTTP* headers, methods and status codes (w/ links to spec), [repo](https://github.com/andreineculau/know-your-http-well)
+   - A comprehensive *cheat sheet to favicon sizes* and types, [@audreyr]()’s [page](https://github.com/audreyr/favicon-cheat-sheet) ![][*]
+ - Tools
+   - favico.js, a library for *adding a notification badge to the favicon* of a web page, [page](http://lab.ejci.net/favico.js/)
+   - XDomain, a *pure JavaScript CORS* alternative, [repo](https://github.com/jpillora/xdomain)
+ - Opinion
+   - *Progressive enhancement* is faster, [@jaffathecake]()’s [post](http://jakearchibald.com/2013/progressive-enhancement-is-faster/)
+
+
 ## August 9th, 2013
 
  - News
@@ -593,78 +660,4 @@
  - Tools
    - Embed Responsively, an online tool for *embedding rich third-party media* into responsive web pages, [site](http://embedresponsively.com/)
    - grunt-hub, A Grunt task to watch and *run tasks on multiple Grunt projects*, [site](http://shama.github.io/grunt-hub/)
-
-## July 16th, 2013
-
- - News
-   - An *introduction to Encrypted Media Extensions*, GDL [session](https://developers.google.com/live/shows/826991846) (**today at 5 p.m. UTC**)
-   - A new *ECMAScript 6 specification draft* released (revision 16), [tweet](https://twitter.com/awbjs/status/356939809119420416) 
-   - Add-ons support coming to *Firefox OS*, [source](https://twitter.com/fabricedesre/status/356697308458532866)
-   - *Remote debugging over raw USB* coming to Chrome, [source](https://plus.google.com/u/0/100132233764003563318/posts/RJFZSYDgpMm?e=-RedirectToSandbox)
-   - Support for *CSS `background-attachment: local`* coming to Firefox, [source](https://twitter.com/LeaVerou/status/356915789716135936)
- - Tutorials
-   - Writing *maintainable and scalable JavaScript* with the soma.js framework, [@soundstep]()’s extensive [post](http://flippinawesome.org/2013/07/15/soma-js-your-way-out-of-chaotic-javascript/)
-   - Quick JavaScript lesson: How *trailing commas in object/array literals* work, [@rauschma]()’s [post](http://www.2ality.com/2013/07/trailing-commas.html)
-   - Building web apps with the *Yeoman workflow*, [@stephenplusplus]()’s [post](http://net.tutsplus.com/tutorials/javascript-ajax/building-apps-with-the-yeoman-workflow/) ![][*]
- - Articles
-   - What’s new in *IE11’s developer tools* (IntelliSense, tracepoints, …), [@craigbuckler]()’s [post](http://www.sitepoint.com/ie11-developer-tools/)
-   - ES6 modules, build tools and *browser app delivery*, [@ryanflorence]()’s [post](http://ryanflorence.com/2013/es6-modules-and-browser-app-delivery/)
-   - *Building apps for Windows devices* using open source technologies, [@OpenAtMicrosoft]() [post](http://msopentech.com/opentech-projects/building-apps-for-windows-devices-using-open-source-technologies/)
-   - *Reporting User Timing marks* to RUM services (Google Analytics, …), [@patmeenan]()’s [post](http://blog.patrickmeenan.com/2013/07/measuring-performance-of-user-experience.html) ![][*]
- - Media
-   - An overview of why your business should *use open source software*, [@dajbelshaw]()’s 5-min [video](http://youtu.be/JkgjS_phvHY)
-   - When to stop using jQuery’s `.animate()` and *start using CSS animations*, [@jessicard]()’s 29-min [@jqcon]() [talk](https://www.youtube.com/watch?v=n-5UYqn8v04&feature=youtu.be&t=3m54s)
- - Content
-   - *Automated testing for web apps*: What tool(s) do you use?, [discussion](https://twitter.com/karlpro/status/356757147654168577) on Twitter + public [pad](https://etherpad.mozilla.org/5iHD1O6XeK)
-   - A *discovery page for Yeoman generators*, [page](http://yeoman.io/community-generators.html)
- - Demos
-   - 25 *interactive web sites* that look like Flash, [page](http://line25.com/articles/25-interactive-html-websites-that-look-like-flash)
-   - A couple of neat *on/off switches* with pure CSS, [@billyysea]()’s [demo](http://codepen.io/billycrist/pen/CHmiE)
-   - A proof-of-concept for a *Flexbox-driven responsive layout*, [@mrJasonWeaver]()’s [demo](http://codepen.io/indyplanets/full/LFocp) ![][*]
-   - Several impressive *three.js WebGL demos*, [tweet](https://twitter.com/mrdoob/status/356845067979337728)
- - Sites
-   - JSLint error explanations, helps understanding the *error messages produced by JSLint/JSHint*, [site](http://jslinterrors.com/)
-   - Choosing an *open source license*, GitHub [post](https://github.com/blog/1530-choosing-an-open-source-license) + [site](http://choosealicense.com/)
- - Tools
-   - es6-module-loader, an *ES6 module loader polyfill*, [repo](https://github.com/ModuleLoader/es6-module-loader)
-   - PouchDB, a *JavaScript database for web apps* that need to work offline, [repo](https://github.com/daleharvey/pouchdb)
-   - SlimerJS, a *scriptable browser* (similar to PhantomJS but runs Gecko), [site](http://slimerjs.org/)
- - Opinion
-   - Support *Sergey for W3C TAG* (**polls close today**), [@slightlylate]()’s [post](http://briankardell.wordpress.com/2013/07/15/once-more-unto-the-breach/)
-
-## July 15th, 2013
-
- - FYI
-   - Chrome DevTools protips:
-     - `copy(JSON.stringify(data, null, 2))` for nifty *formatted JSON to your clipboard*, [tweet](https://twitter.com/ryanseddon/status/355619613729497088)
-     - Setting *breakpoints for DOM modifications*, [tweet](https://twitter.com/addyosmani/status/355784723043332101)
- - Tutorials
-   - Nice JavaScript trick: *Placing custom text into the clipboard* when user presses `Ctrl+C`, [@d_lec]()’s [post](http://stackoverflow.com/a/17528590/425275)
-   - A guide to *styling custom elements in Polymer* (new CSS features + Polymer’s polyfills), [@ebidel]()’s [post](http://www.polymer-project.org/articles/styling-elements.html)
-   - Two interesting examples of using *partially configured (curried) functions*, [@hughfdjackson]()’s [post](http://hughfdjackson.com/javascript/2013/07/06/why-curry-helps/)
-   - *Applying SVG filters* to your HTML content with CSS, [@agreenblatt]()’s [post](http://blattchat.com/2013/07/13/fun-with-svg-filters/) ![][*]
- - Articles
-   - *Firefox OS’s openness* explained (w/ useful links), [@ruk]()’s [post](http://ruk.ca/content/my-first-firefox-os-app-hits-firefox-marketplace)
-   - Trying to *completely disable any HTML element* with HTML/CSS alone, [@vasilis]()’s [post](http://nerd.vasilis.nl/disable-html-elements-with-css-only/)
-   - *Hyperlink design tips* for better user experience and enhanced accessibility, [@johneemac]()’s [post](http://sixrevisions.com/usability/hyperlink-design/)
-   - “*Chrome DevTools* Revolutions 2013” recap, [@DevDocDude]()’s [post](http://www.html5rocks.com/en/tutorials/developertools/revolutions2013/) ![][*]
- - Media
-   - *jQuery* is a Swiss army knife (and that’s OK!), [@ajpiano]()’s 32-min [@jqcon]() [talk](http://youtu.be/_FNiw0BFoMQ)
- - Content
-   - A selected list of the best *web accessibility resources*, [page](http://www.deque.com/top-web-accessibility-resources)
-   - “ES6: The Awesome Parts” (covers *generators and template strings*), [@domenic]()’s 41-page [slide deck](http://www.slideshare.net/domenicdenicola/es6-the-awesome-parts)
-   - *Site compatibility for Firefox* 22, useful MDN [page](https://developer.mozilla.org/en-US/docs/Site_Compatibility_for_Firefox_22) (each Firefox version has one such page) ![][*]
- - Demos
-   - Rotating 3D iPhone *with live on-screen video* in pure CSS,[@jlwebart]()’s [demo](http://codepen.io/jlwebart/full/JDHne) (view in Chrome)
- - Sites
-   - DevTools Snippets, a *collection of helpful code snippets* to use inside Chrome’s DevTools ([?](https://developers.google.com/chrome-developer-tools/docs/authoring-development-workflow#snippets)), [site](http://bgrins.github.io/devtools-snippets/)
-   - npmsearch, a *search tool for Node.js packages* w/ ratings, [site](http://npmsearch.com/)
- - Tools
-   - Minified.js, a 4kB *alternative to jQuery*, [site](http://minifiedjs.com/)
-   - date for humans (JS library), an *English language date parser*, [page](http://matthewmueller.github.io/date/)
-   - GistBox, a personal code library for *organizing code snippets*, [site](http://www.gistboxapp.com/)
-   - elementTransitions.js (CSS + JS file), a collection of *transition effects for page elements*, [page](http://dan-silver.github.io/ElementTransitions.js/)
- - Opinion
-   - The biggest *challenges of responsive design* are not technology problems, [@adactio]()’s [post](http://adactio.com/journal/6328/)
-   - Don’t make *second-class APIs*, [@bgalbs]()’s [post](http://benzilla.galbraiths.org/2013/06/19/dont-make-second-class-apis/)
 
