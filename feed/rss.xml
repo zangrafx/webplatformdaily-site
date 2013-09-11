@@ -6,8 +6,8 @@
 		<description>Feed for Open Web Platform Daily Digest</description>
 		<link>http://webplatformdaily.org/</link>
 		<languange>en</languange>
-		<pubDate>Wed Sep 11 2013 09:02:56 GMT+0200 (Central European Daylight Time)</pubDate>
-		<lastBuildDate>Wed Sep 11 2013 09:02:56 GMT+0200 (Central European Daylight Time)</lastBuildDate>
+		<pubDate>Wed Sep 11 2013 17:02:11 GMT+0200 (Central European Daylight Time)</pubDate>
+		<lastBuildDate>Wed Sep 11 2013 17:02:11 GMT+0200 (Central European Daylight Time)</lastBuildDate>
 		<atom:link href="http://webplatformdaily.org/feed/rss.xml" rel="self" type="application/rss+xml" />
 		<sy:updatePeriod>daily</sy:updatePeriod>
 		<item>
@@ -39,7 +39,7 @@
 <li>Content<ul>
 <li><strong>Upcoming:</strong> “Introduction to <em>Web Accessibility</em>”, Google’s free online <a href="https://webaccessibility.withgoogle.com/preview">course</a> + <a href="http://googledevelopers.blogspot.co.uk/2013/09/make-your-website-more-accessible-to.html">announcement</a></li>
 <li>“Responsive image container” (a proposed <em>responsive image format</em>), <a href="http://twitter.com/yoavweiss">@yoavweiss</a>’s <a href="http://yoavweiss.github.io/respimg-paris-presentation/">slide deck</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
-<li>Suggestion: Using <em>SVG’s <code>&lt;switch&gt;</code> element</em> for responsive images, <a href="http://twitter.com/robinberjon">@robinberjon</a>’s <a href="@robinberjon">slide deck</a> + <a href="https://twitter.com/robinberjon/status/377408321013436416">demo</a></li>
+<li>Suggestion: Using <em>SVG’s <code>&lt;switch&gt;</code> element</em> for responsive images, <a href="http://twitter.com/robinberjon">@robinberjon</a>’s <a href="http://berjon.com/presentations/20130910-ricg-switch/">slide deck</a> + <a href="https://twitter.com/robinberjon/status/377408321013436416">demo</a></li>
 <li><em>Installing web apps</em> on different mobile platforms (comparison), <a href="https://pbs.twimg.com/media/BTwDt1xCAAAwN6m.jpg:large">image</a> (<a href="https://twitter.com/scottjenson/status/377180554849812480">via</a>)</li>
 <li>Google moderator <em>questions for Edge conference</em> 2013, <a href="https://www.google.com/moderator/#16/e=20e3ec">page</a></li>
 </ul>

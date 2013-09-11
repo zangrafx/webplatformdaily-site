@@ -14,7 +14,7 @@
  - Content
    - **Upcoming:** “Introduction to *Web Accessibility*”, Google’s free online [course](https://webaccessibility.withgoogle.com/preview) + [announcement](http://googledevelopers.blogspot.co.uk/2013/09/make-your-website-more-accessible-to.html)
    - “Responsive image container” (a proposed *responsive image format*), [@yoavweiss]()’s [slide deck](http://yoavweiss.github.io/respimg-paris-presentation/) ![][*]
-   - Suggestion: Using *SVG’s `<switch>` element* for responsive images, [@robinberjon]()’s [slide deck](@robinberjon) + [demo](https://twitter.com/robinberjon/status/377408321013436416)
+   - Suggestion: Using *SVG’s `<switch>` element* for responsive images, [@robinberjon]()’s [slide deck](http://berjon.com/presentations/20130910-ricg-switch/) + [demo](https://twitter.com/robinberjon/status/377408321013436416)
    - *Installing web apps* on different mobile platforms (comparison), [image](https://pbs.twimg.com/media/BTwDt1xCAAAwN6m.jpg:large) ([via](https://twitter.com/scottjenson/status/377180554849812480))
    - Google moderator *questions for Edge conference* 2013, [page](https://www.google.com/moderator/#16/e=20e3ec)
  - Tools
