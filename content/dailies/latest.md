@@ -1,3 +1,32 @@
+## September 11th, 2013
+
+ - News
+   - The Open Agenda: A call for a *debate on the future of the Web*, [video](http://www.youtube.com/watch?v=67NU7ZmoDsc)
+   - Upcoming *TC-39 panel discussion* in Boston (Sept 17), [info](http://www.meetup.com/javascript-2/events/139338322/) + [submit](https://www.google.com/moderator/#16/e=211faa) questions via Google moderator
+ - Tutorials
+   - Understanding *ECMAScript 6 arrow functions*, [@slicknet]()’s [post](http://www.nczonline.net/blog/2013/09/10/understanding-ecmascript-6-arrow-functions/)
+ - Articles
+   - Javascript has never been updated to *support UTF-16*, [@conradirwin]()’s [post](http://cirw.in/blog/node-unicode)
+   - CSS length explained (i.a. device pixel vs CSS pixel, *device pixel ratio*), [@timdream]()’s [post](https://hacks.mozilla.org/2013/09/css-length-explained/) ![][*]
+ - Media
+   - *Testing with QUnit*: synchronous and asynchronous JS callbacks, [@clemenshelm]()’s 5-min [screencast](http://blog.codeship.io/2013/09/03/testing-tuesday-21-testing-synchronous-and-asynchronous-javascript-callbacks-with-qunit.html)
+   - Tools and techniques for *investigating JavaScript performance issues*, [@knownissues]()’s 30-min [talk](http://www.youtube.com/watch?v=480JL_WuMt0)
+ - Content
+   - **Upcoming:** “Introduction to *Web Accessibility*”, Google’s free online [course](https://webaccessibility.withgoogle.com/preview) + [announcement](http://googledevelopers.blogspot.co.uk/2013/09/make-your-website-more-accessible-to.html)
+   - “Responsive image container” (a proposed *responsive image format*), [@yoavweiss]()’s [slide deck](http://yoavweiss.github.io/respimg-paris-presentation/) ![][*]
+   - Suggestion: Using *SVG’s `<switch>` element* for responsive images, [@robinberjon]()’s [slide deck](@robinberjon) + [demo](https://twitter.com/robinberjon/status/377408321013436416)
+   - *Installing web apps* on different mobile platforms (comparison), [image](https://pbs.twimg.com/media/BTwDt1xCAAAwN6m.jpg:large) ([via](https://twitter.com/scottjenson/status/377180554849812480))
+   - Google moderator *questions for Edge conference* 2013, [page](https://www.google.com/moderator/#16/e=20e3ec)
+ - Tools
+   - QuestionMark.js, for displaying a *modal window with keyboard commands*, [@ImpressiveWebs]()’s [post](http://www.impressivewebs.com/questionmark-js-shortcut-keys-displayed/)
+   - Perimeter.js, creates an invisible perimeter around an element and *monitors mouse breaches*, [page](http://github.e-sites.nl/perimeter.js/)
+   - REST Hooks, reduces *REST API server load*, [site](http://resthooks.org/)
+ - Opinion
+   - Thoughts about *responsive images*, [@arobson]()’s [post](http://www.htmlhive.com/our-responsive-images-solution-we-have/)
+   - The *Node.js community* is changing the face of open source, [@GreggCaines]()’s [post](http://caines.ca/blog/programming/the-node-js-community-is-quietly-changing-the-face-of-open-source/)
+   - Why *the open web is under threat*, [@torgos]()’s [post](http://blog.digital.telefonica.com/2013/09/03/the-open-web-dan-appelquist/)
+
+
 ## September 10th, 2013
 
  - News
@@ -627,37 +656,4 @@
    - Why JavaScript web applications should *embrace traditional URLs*, [@molily]()’s [post](http://9elements.com/io/index.php/hybrid-javascript-apps/)
    - *Betting on open source* in your products, [@vincent_hardy]()’s [post](http://insights.wired.com/profiles/blogs/betting-on-open-source-in-your-products)
    - “The web: less engine, more gas”, [@mattpointblank]()’s [post](http://www.threechords.org/blog/the-web-less-engine-more-gas/) (+ read Paul’s comment) ![][*]
-
-## July 17th, 2013
-
- - W3C
-   - **Last Call** WD of “*CSS Fonts Level 3*”, [TR](http://www.w3.org/TR/2013/WD-css-fonts-3-20130711/) + [diff](http://www.w3.org/TR/2013/WD-css-fonts-3-20130711/,diff) + release [notes](http://lists.w3.org/Archives/Public/www-style/2013Jul/0416.html) w/ changelog
-   - **Last Call** WD of “*HTML5 Image Description Extension*” (`longdesc` attribute), [TR](http://www.w3.org/TR/2013/WD-html-longdesc-20130716/) + [diff](http://www.w3.org/TR/2013/WD-html-longdesc-20130716/,diff)
- - News
-   - Establishing the *meaning of Do Not Track*, W3C blog [post](http://www.w3.org/QA/2013/07/establishing_the_meaning_of_do.html)
-   - *Do Not Track standards group* shoots down advertiser proposal, CNET [article](http://news.cnet.com/8301-1023_3-57593907-93/do-not-track-standards-group-shoots-down-advertiser-proposal/)
-   - *Blink development*: Fractional spacings, MouseEnter and MouseLeave and Promises, [@beverloo]() [post](http://peter.sh/2013/07/fractional-spacings-mouseenter-and-mouseleave-and-promises/)
-   - New *ES6 APIs* coming to Firefox: `Array.from/of` ([tw.](https://twitter.com/FirefoxNightly/status/357274306402729986)), `Number.parseInt/Float` ([tw.](https://twitter.com/FirefoxNightly/status/357274304020348928)), `Math` f’ns ([tw.](https://twitter.com/FirefoxNightly/status/357274301554098177))
- - FYI
-   - Mozilla chair [@MitchellBaker]() will *answer Firefox OS questions* **today at 5:30 p.m UTC**, [tweet](https://twitter.com/firefox/status/357145094685605889)
- - Articles
-   - Smartphone browser *`localStorage` faster than native cache* (up to 5 times), [@b1tr0t]()’s [post](http://www.mobify.com/blog/smartphone-localstorage-outperforms-browser-cache/)
-   - A good recap of last month’s *Velocity conference*, [@derek]()’s [post](http://www.yuiblog.com/blog/2013/07/16/velocity-2013-building-a-faster-and-stronger-web/) ![][*]
-   - Introducing *ESLint, a JavaScript linting tool* where all rules are pluggable, [@slicknet]()’s [post](http://www.nczonline.net/blog/2013/07/16/introducing-eslint/)
-   - “Let’s talk differently about *JavaScript performance* in web apps”, [@aerotwist]()’s [post](http://aerotwist.com/blog/reflections-on-performance-at-google-io/)
- - Media
-   - An *introduction to Polymer* w/ [@ebidel](), [@mattsmcnulty]() and [@jkomoros](), 35-min GDL [session](https://developers.google.com/live/shows/836113307) ![][*]
-   - An *introduction to Encrypted Media Extensions* (EME) w/ John Luther and [@sw12](), 35-min GDL [session](https://developers.google.com/live/shows/826991846)
-   - “Chrome Office hours” - *Google developers answer* your questions, 41-min GDL [session](https://developers.google.com/events/835900373/)
- - Content
-   - Where does *Chrome’s main thread* spend its time during page load (data from one million sites), [tweet](https://twitter.com/addyosmani/status/357269853486329859)
-   - Browser support for *nested `@media` at-rules*, [@LeaVerou]()’s [tweet](https://twitter.com/LeaVerou/status/357174606630621184) w/ test page
- - Demos
-   - 9 mind-blowing *WebGL demos*, [@davidwalshblog]()’s [post](http://davidwalsh.name/webgl-demos)
-   - SculptGL, a *WebGL sculpting app*, [@stephomi]()’s [page](http://stephaneginier.com/sculptgl/) ![][*]
-   - A Google Maps *`<g-maps>` element* defined with Polymer, [tweet](https://twitter.com/Paul_Kinlan/status/357260218062733312)
-   - paste.sh, a paste site that encrypts data using the *`crypto.getRandomValues` API*, [site](https://paste.sh/) 
- - Tools
-   - Embed Responsively, an online tool for *embedding rich third-party media* into responsive web pages, [site](http://embedresponsively.com/)
-   - grunt-hub, A Grunt task to watch and *run tasks on multiple Grunt projects*, [site](http://shama.github.io/grunt-hub/)
 

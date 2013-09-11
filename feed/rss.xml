@@ -6,10 +6,60 @@
 		<description>Feed for Open Web Platform Daily Digest</description>
 		<link>http://webplatformdaily.org/</link>
 		<languange>en</languange>
-		<pubDate>Tue Sep 10 2013 09:28:16 GMT+0200 (Central European Daylight Time)</pubDate>
-		<lastBuildDate>Tue Sep 10 2013 09:28:16 GMT+0200 (Central European Daylight Time)</lastBuildDate>
+		<pubDate>Wed Sep 11 2013 09:02:56 GMT+0200 (Central European Daylight Time)</pubDate>
+		<lastBuildDate>Wed Sep 11 2013 09:02:56 GMT+0200 (Central European Daylight Time)</lastBuildDate>
 		<atom:link href="http://webplatformdaily.org/feed/rss.xml" rel="self" type="application/rss+xml" />
 		<sy:updatePeriod>daily</sy:updatePeriod>
+		<item>
+			<title>Web Platform Daily: September 11th, 2013</title>
+			<link>http://webplatformdaily.org/#September11th2013</link>
+			<guid>http://webplatformdaily.org/#September11th2013</guid>
+			<description>
+<![CDATA[<h2>September 11th, 2013</h2>
+<ul>
+<li>News<ul>
+<li>The Open Agenda: A call for a <em>debate on the future of the Web</em>, <a href="http://www.youtube.com/watch?v=67NU7ZmoDsc">video</a></li>
+<li>Upcoming <em>TC-39 panel discussion</em> in Boston (Sept 17), <a href="http://www.meetup.com/javascript-2/events/139338322/">info</a> + <a href="https://www.google.com/moderator/#16/e=211faa">submit</a> questions via Google moderator</li>
+</ul>
+</li>
+<li>Tutorials<ul>
+<li>Understanding <em>ECMAScript 6 arrow functions</em>, <a href="http://twitter.com/slicknet">@slicknet</a>’s <a href="http://www.nczonline.net/blog/2013/09/10/understanding-ecmascript-6-arrow-functions/">post</a></li>
+</ul>
+</li>
+<li>Articles<ul>
+<li>Javascript has never been updated to <em>support UTF-16</em>, <a href="http://twitter.com/conradirwin">@conradirwin</a>’s <a href="http://cirw.in/blog/node-unicode">post</a></li>
+<li>CSS length explained (i.a. device pixel vs CSS pixel, <em>device pixel ratio</em>), <a href="http://twitter.com/timdream">@timdream</a>’s <a href="https://hacks.mozilla.org/2013/09/css-length-explained/">post</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+</ul>
+</li>
+<li>Media<ul>
+<li><em>Testing with QUnit</em>: synchronous and asynchronous JS callbacks, <a href="http://twitter.com/clemenshelm">@clemenshelm</a>’s 5-min <a href="http://blog.codeship.io/2013/09/03/testing-tuesday-21-testing-synchronous-and-asynchronous-javascript-callbacks-with-qunit.html">screencast</a></li>
+<li>Tools and techniques for <em>investigating JavaScript performance issues</em>, <a href="http://twitter.com/knownissues">@knownissues</a>’s 30-min <a href="http://www.youtube.com/watch?v=480JL_WuMt0">talk</a></li>
+</ul>
+</li>
+<li>Content<ul>
+<li><strong>Upcoming:</strong> “Introduction to <em>Web Accessibility</em>”, Google’s free online <a href="https://webaccessibility.withgoogle.com/preview">course</a> + <a href="http://googledevelopers.blogspot.co.uk/2013/09/make-your-website-more-accessible-to.html">announcement</a></li>
+<li>“Responsive image container” (a proposed <em>responsive image format</em>), <a href="http://twitter.com/yoavweiss">@yoavweiss</a>’s <a href="http://yoavweiss.github.io/respimg-paris-presentation/">slide deck</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+<li>Suggestion: Using <em>SVG’s <code>&lt;switch&gt;</code> element</em> for responsive images, <a href="http://twitter.com/robinberjon">@robinberjon</a>’s <a href="@robinberjon">slide deck</a> + <a href="https://twitter.com/robinberjon/status/377408321013436416">demo</a></li>
+<li><em>Installing web apps</em> on different mobile platforms (comparison), <a href="https://pbs.twimg.com/media/BTwDt1xCAAAwN6m.jpg:large">image</a> (<a href="https://twitter.com/scottjenson/status/377180554849812480">via</a>)</li>
+<li>Google moderator <em>questions for Edge conference</em> 2013, <a href="https://www.google.com/moderator/#16/e=20e3ec">page</a></li>
+</ul>
+</li>
+<li>Tools<ul>
+<li>QuestionMark.js, for displaying a <em>modal window with keyboard commands</em>, <a href="http://twitter.com/ImpressiveWebs">@ImpressiveWebs</a>’s <a href="http://www.impressivewebs.com/questionmark-js-shortcut-keys-displayed/">post</a></li>
+<li>Perimeter.js, creates an invisible perimeter around an element and <em>monitors mouse breaches</em>, <a href="http://github.e-sites.nl/perimeter.js/">page</a></li>
+<li>REST Hooks, reduces <em>REST API server load</em>, <a href="http://resthooks.org/">site</a></li>
+</ul>
+</li>
+<li>Opinion<ul>
+<li>Thoughts about <em>responsive images</em>, <a href="http://twitter.com/arobson">@arobson</a>’s <a href="http://www.htmlhive.com/our-responsive-images-solution-we-have/">post</a></li>
+<li>The <em>Node.js community</em> is changing the face of open source, <a href="http://twitter.com/GreggCaines">@GreggCaines</a>’s <a href="http://caines.ca/blog/programming/the-node-js-community-is-quietly-changing-the-face-of-open-source/">post</a></li>
+<li>Why <em>the open web is under threat</em>, <a href="http://twitter.com/torgos">@torgos</a>’s <a href="http://blog.digital.telefonica.com/2013/09/03/the-open-web-dan-appelquist/">post</a></li>
+</ul>
+</li>
+</ul>
+]]>
+			</description>
+		</item>
 		<item>
 			<title>Web Platform Daily: September 10th, 2013</title>
 			<link>http://webplatformdaily.org/#September10th2013</link>
@@ -1128,63 +1178,6 @@
 <li>Why JavaScript web applications should <em>embrace traditional URLs</em>, <a href="http://twitter.com/molily">@molily</a>’s <a href="http://9elements.com/io/index.php/hybrid-javascript-apps/">post</a></li>
 <li><em>Betting on open source</em> in your products, <a href="http://twitter.com/vincent_hardy">@vincent_hardy</a>’s <a href="http://insights.wired.com/profiles/blogs/betting-on-open-source-in-your-products">post</a></li>
 <li>“The web: less engine, more gas”, <a href="http://twitter.com/mattpointblank">@mattpointblank</a>’s <a href="http://www.threechords.org/blog/the-web-less-engine-more-gas/">post</a> (+ read Paul’s comment) <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
-</ul>
-</li>
-</ul>
-]]>
-			</description>
-		</item>
-		<item>
-			<title>Web Platform Daily: July 17th, 2013</title>
-			<link>http://webplatformdaily.org/#July17th2013</link>
-			<guid>http://webplatformdaily.org/#July17th2013</guid>
-			<description>
-<![CDATA[<h2>July 17th, 2013</h2>
-<ul>
-<li>W3C<ul>
-<li><strong>Last Call</strong> WD of “<em>CSS Fonts Level 3</em>”, <a href="http://www.w3.org/TR/2013/WD-css-fonts-3-20130711/">TR</a> + <a href="http://www.w3.org/TR/2013/WD-css-fonts-3-20130711/,diff">diff</a> + release <a href="http://lists.w3.org/Archives/Public/www-style/2013Jul/0416.html">notes</a> w/ changelog</li>
-<li><strong>Last Call</strong> WD of “<em>HTML5 Image Description Extension</em>” (<code>longdesc</code> attribute), <a href="http://www.w3.org/TR/2013/WD-html-longdesc-20130716/">TR</a> + <a href="http://www.w3.org/TR/2013/WD-html-longdesc-20130716/,diff">diff</a></li>
-</ul>
-</li>
-<li>News<ul>
-<li>Establishing the <em>meaning of Do Not Track</em>, W3C blog <a href="http://www.w3.org/QA/2013/07/establishing_the_meaning_of_do.html">post</a></li>
-<li><em>Do Not Track standards group</em> shoots down advertiser proposal, CNET <a href="http://news.cnet.com/8301-1023_3-57593907-93/do-not-track-standards-group-shoots-down-advertiser-proposal/">article</a></li>
-<li><em>Blink development</em>: Fractional spacings, MouseEnter and MouseLeave and Promises, <a href="http://twitter.com/beverloo">@beverloo</a> <a href="http://peter.sh/2013/07/fractional-spacings-mouseenter-and-mouseleave-and-promises/">post</a></li>
-<li>New <em>ES6 APIs</em> coming to Firefox: <code>Array.from/of</code> (<a href="https://twitter.com/FirefoxNightly/status/357274306402729986">tw.</a>), <code>Number.parseInt/Float</code> (<a href="https://twitter.com/FirefoxNightly/status/357274304020348928">tw.</a>), <code>Math</code> f’ns (<a href="https://twitter.com/FirefoxNightly/status/357274301554098177">tw.</a>)</li>
-</ul>
-</li>
-<li>FYI<ul>
-<li>Mozilla chair <a href="http://twitter.com/MitchellBaker">@MitchellBaker</a> will <em>answer Firefox OS questions</em> <strong>today at 5:30 p.m UTC</strong>, <a href="https://twitter.com/firefox/status/357145094685605889">tweet</a></li>
-</ul>
-</li>
-<li>Articles<ul>
-<li>Smartphone browser <em><code>localStorage</code> faster than native cache</em> (up to 5 times), <a href="http://twitter.com/b1tr0t">@b1tr0t</a>’s <a href="http://www.mobify.com/blog/smartphone-localstorage-outperforms-browser-cache/">post</a></li>
-<li>A good recap of last month’s <em>Velocity conference</em>, <a href="http://twitter.com/derek">@derek</a>’s <a href="http://www.yuiblog.com/blog/2013/07/16/velocity-2013-building-a-faster-and-stronger-web/">post</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
-<li>Introducing <em>ESLint, a JavaScript linting tool</em> where all rules are pluggable, <a href="http://twitter.com/slicknet">@slicknet</a>’s <a href="http://www.nczonline.net/blog/2013/07/16/introducing-eslint/">post</a></li>
-<li>“Let’s talk differently about <em>JavaScript performance</em> in web apps”, <a href="http://twitter.com/aerotwist">@aerotwist</a>’s <a href="http://aerotwist.com/blog/reflections-on-performance-at-google-io/">post</a></li>
-</ul>
-</li>
-<li>Media<ul>
-<li>An <em>introduction to Polymer</em> w/ <a href="http://twitter.com/ebidel">@ebidel</a>, <a href="http://twitter.com/mattsmcnulty">@mattsmcnulty</a> and <a href="http://twitter.com/jkomoros">@jkomoros</a>, 35-min GDL <a href="https://developers.google.com/live/shows/836113307">session</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
-<li>An <em>introduction to Encrypted Media Extensions</em> (EME) w/ John Luther and <a href="http://twitter.com/sw12">@sw12</a>, 35-min GDL <a href="https://developers.google.com/live/shows/826991846">session</a></li>
-<li>“Chrome Office hours” - <em>Google developers answer</em> your questions, 41-min GDL <a href="https://developers.google.com/events/835900373/">session</a></li>
-</ul>
-</li>
-<li>Content<ul>
-<li>Where does <em>Chrome’s main thread</em> spend its time during page load (data from one million sites), <a href="https://twitter.com/addyosmani/status/357269853486329859">tweet</a></li>
-<li>Browser support for <em>nested <code>@media</code> at-rules</em>, <a href="http://twitter.com/LeaVerou">@LeaVerou</a>’s <a href="https://twitter.com/LeaVerou/status/357174606630621184">tweet</a> w/ test page</li>
-</ul>
-</li>
-<li>Demos<ul>
-<li>9 mind-blowing <em>WebGL demos</em>, <a href="http://twitter.com/davidwalshblog">@davidwalshblog</a>’s <a href="http://davidwalsh.name/webgl-demos">post</a></li>
-<li>SculptGL, a <em>WebGL sculpting app</em>, <a href="http://twitter.com/stephomi">@stephomi</a>’s <a href="http://stephaneginier.com/sculptgl/">page</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
-<li>A Google Maps <em><code>&lt;g-maps&gt;</code> element</em> defined with Polymer, <a href="https://twitter.com/Paul_Kinlan/status/357260218062733312">tweet</a></li>
-<li>paste.sh, a paste site that encrypts data using the <em><code>crypto.getRandomValues</code> API</em>, <a href="https://paste.sh/">site</a> </li>
-</ul>
-</li>
-<li>Tools<ul>
-<li>Embed Responsively, an online tool for <em>embedding rich third-party media</em> into responsive web pages, <a href="http://embedresponsively.com/">site</a></li>
-<li>grunt-hub, A Grunt task to watch and <em>run tasks on multiple Grunt projects</em>, <a href="http://shama.github.io/grunt-hub/">site</a></li>
 </ul>
 </li>
 </ul>

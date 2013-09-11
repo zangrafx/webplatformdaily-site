@@ -1,3 +1,36 @@
+## July 17th, 2013
+
+ - W3C
+   - **Last Call** WD of “*CSS Fonts Level 3*”, [TR](http://www.w3.org/TR/2013/WD-css-fonts-3-20130711/) + [diff](http://www.w3.org/TR/2013/WD-css-fonts-3-20130711/,diff) + release [notes](http://lists.w3.org/Archives/Public/www-style/2013Jul/0416.html) w/ changelog
+   - **Last Call** WD of “*HTML5 Image Description Extension*” (`longdesc` attribute), [TR](http://www.w3.org/TR/2013/WD-html-longdesc-20130716/) + [diff](http://www.w3.org/TR/2013/WD-html-longdesc-20130716/,diff)
+ - News
+   - Establishing the *meaning of Do Not Track*, W3C blog [post](http://www.w3.org/QA/2013/07/establishing_the_meaning_of_do.html)
+   - *Do Not Track standards group* shoots down advertiser proposal, CNET [article](http://news.cnet.com/8301-1023_3-57593907-93/do-not-track-standards-group-shoots-down-advertiser-proposal/)
+   - *Blink development*: Fractional spacings, MouseEnter and MouseLeave and Promises, [@beverloo]() [post](http://peter.sh/2013/07/fractional-spacings-mouseenter-and-mouseleave-and-promises/)
+   - New *ES6 APIs* coming to Firefox: `Array.from/of` ([tw.](https://twitter.com/FirefoxNightly/status/357274306402729986)), `Number.parseInt/Float` ([tw.](https://twitter.com/FirefoxNightly/status/357274304020348928)), `Math` f’ns ([tw.](https://twitter.com/FirefoxNightly/status/357274301554098177))
+ - FYI
+   - Mozilla chair [@MitchellBaker]() will *answer Firefox OS questions* **today at 5:30 p.m UTC**, [tweet](https://twitter.com/firefox/status/357145094685605889)
+ - Articles
+   - Smartphone browser *`localStorage` faster than native cache* (up to 5 times), [@b1tr0t]()’s [post](http://www.mobify.com/blog/smartphone-localstorage-outperforms-browser-cache/)
+   - A good recap of last month’s *Velocity conference*, [@derek]()’s [post](http://www.yuiblog.com/blog/2013/07/16/velocity-2013-building-a-faster-and-stronger-web/) ![][*]
+   - Introducing *ESLint, a JavaScript linting tool* where all rules are pluggable, [@slicknet]()’s [post](http://www.nczonline.net/blog/2013/07/16/introducing-eslint/)
+   - “Let’s talk differently about *JavaScript performance* in web apps”, [@aerotwist]()’s [post](http://aerotwist.com/blog/reflections-on-performance-at-google-io/)
+ - Media
+   - An *introduction to Polymer* w/ [@ebidel](), [@mattsmcnulty]() and [@jkomoros](), 35-min GDL [session](https://developers.google.com/live/shows/836113307) ![][*]
+   - An *introduction to Encrypted Media Extensions* (EME) w/ John Luther and [@sw12](), 35-min GDL [session](https://developers.google.com/live/shows/826991846)
+   - “Chrome Office hours” - *Google developers answer* your questions, 41-min GDL [session](https://developers.google.com/events/835900373/)
+ - Content
+   - Where does *Chrome’s main thread* spend its time during page load (data from one million sites), [tweet](https://twitter.com/addyosmani/status/357269853486329859)
+   - Browser support for *nested `@media` at-rules*, [@LeaVerou]()’s [tweet](https://twitter.com/LeaVerou/status/357174606630621184) w/ test page
+ - Demos
+   - 9 mind-blowing *WebGL demos*, [@davidwalshblog]()’s [post](http://davidwalsh.name/webgl-demos)
+   - SculptGL, a *WebGL sculpting app*, [@stephomi]()’s [page](http://stephaneginier.com/sculptgl/) ![][*]
+   - A Google Maps *`<g-maps>` element* defined with Polymer, [tweet](https://twitter.com/Paul_Kinlan/status/357260218062733312)
+   - paste.sh, a paste site that encrypts data using the *`crypto.getRandomValues` API*, [site](https://paste.sh/) 
+ - Tools
+   - Embed Responsively, an online tool for *embedding rich third-party media* into responsive web pages, [site](http://embedresponsively.com/)
+   - grunt-hub, A Grunt task to watch and *run tasks on multiple Grunt projects*, [site](http://shama.github.io/grunt-hub/)
+
 ## July 16th, 2013
 
  - News
