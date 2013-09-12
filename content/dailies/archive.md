@@ -1,3 +1,33 @@
+## July 18th, 2013
+
+ - News
+   - MPEG-DASH is […] the latest *ISO standard for Internet video streaming*, MS OpenTech [article](http://msopentech.com/?p=207961)
+   - *Promises supported* in Firefox Nightly ([source](https://twitter.com/juandopazo/status/357541032008769536)) and Chrome Canary ([source](https://twitter.com/juandopazo/status/357232261822824449))
+   - Call for participation in *Accessible SVG Community Group*, W3C [post](http://www.w3.org/community/blog/2013/07/17/call-for-participation-in-accessible-svg-community-group/)
+ - FYI
+   - This is how *Web Notifications* look on Android (supported in Firefox), [screenshot](https://twitter.com/simevidas/status/357601633850499072) ([context](https://twitter.com/ryanseddon/status/357348453149442049))
+ - Tutorials
+   - Another 9 ways to *optimize your front end performance*, [@davidwalshblog]()’s [post](http://tech.pro/tutorial/1400/another-9-ways-to-optimize-your-front-end-performance)
+   - Troubleshooting CSS - 6 *common CSS issues* and how to solve them, [@HugoGiraudel]()’s [post](http://tympanus.net/codrops/2013/07/17/troubleshooting-css/) ![][*]
+   - Tips for *speeding up the initial page load* of JavaScript web apps, [@maccaw]()’s [post](http://blog.alexmaccaw.com/time-to-first-tweet)
+ - Articles
+   - A guide to the essential *HTML5 media events* (`play`, `pause`, `progress`, …), [@brothercake]()’s [post](http://www.sitepoint.com/essential-audio-and-video-events-for-html5/)
+   - An extensive overview of *upcoming Sass features* (version 3.3 and beyond), [@HugoGiraudel]()’s [post](http://davidwalsh.name/future-sass)
+   - Evaluating the performance of *SPDY-enabled web servers*, Hervé Servy’s [post](http://www.neotys.com/blog/performance-of-spdy-enabled-web-servers/)
+ - Media
+   - Topic Undefined #2 ([@cfjedimaster]()/[@remotesynth]() discuss *web dev links and news*), 32-min [podcast](http://flippinawesome.org/topic-undefined/topic-undefined-episode-2/) ![][*]
+   - “*Enough with the JavaScript* Already”, [@slicknet]()’s 65-min [talk](http://tech.blog.box.com/2013/07/video-enough-with-the-javascript-already-by-nicholas-zakas/) + 84-page [slide deck](http://www.slideshare.net/nzakas/enough-withthejavascriptalready)
+   - “HTML5 and beyond” (an *overview of current techs and tools*), [@codepo8]()’s 50-min [@SenchaCon]() [talk](http://youtu.be/Jev8c85-G1U)
+ - Content
+   - A list of *useful Git aliases*, [@robmil]()’s [gist](https://gist.github.com/robmiller/6018582) (+ a few more in [@sitegenius]()’s [gist](https://gist.github.com/andycole/5927625))
+   - Developer Economics Q3 2013 [report](http://www.visionmobile.com/blog/2013/07/report-developer-economics-q3-2013-state-of-the-developer-nation/) (based on a *global developer survey*)
+ - Demos
+   - A fixed *header that animates when scrolling* the page (multiple effects), [@crnacura]()’s [demo](http://tympanus.net/Development/HeaderEffects/)
+ - Opinion
+   - Why JavaScript web applications should *embrace traditional URLs*, [@molily]()’s [post](http://9elements.com/io/index.php/hybrid-javascript-apps/)
+   - *Betting on open source* in your products, [@vincent_hardy]()’s [post](http://insights.wired.com/profiles/blogs/betting-on-open-source-in-your-products)
+   - “The web: less engine, more gas”, [@mattpointblank]()’s [post](http://www.threechords.org/blog/the-web-less-engine-more-gas/) (+ read Paul’s comment) ![][*]
+
 ## July 17th, 2013
 
  - W3C
