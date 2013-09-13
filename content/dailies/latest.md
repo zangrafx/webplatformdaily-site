@@ -1,3 +1,37 @@
+## September 13th, 2013
+
+ - News
+   - Qt ([?](https://twitter.com/qtproject)) introduces the *Qt WebEngine*, switches from WebKit to Chromium, [post](http://blog.qt.digia.com/blog/2013/09/12/introducing-the-qt-webengine/)
+   - Kickstarter *switches to HTML5 video by default*, will only serve Flash to old browsers, [article](http://thenextweb.com/media/2013/09/12/kickstarter-switches-to-html5-video-by-default-will-only-serve-flash-to-old-browsers/) (TNW)
+   - Verizon’s diabolical plan to *turn the Web into pay-per-view*, [article](http://www.infoworld.com/d/the-industry-standard/verizons-diabolical-plan-turn-the-web-pay-view-226662) (InfoWorld)
+ - UA dev.
+   - IE11 supports the *`text-combine-horizontal` CSS property*, [@dstorey]()’s [post](http://generatedcontent.org/post/60984978732/text-combine-horizontal)
+   - *IE11 loads images faster* using more efficient hardware decoding (up to 45%), [post](http://jatindersmann.com/2013/09/12/using-hardware-to-decode-and-load-jpg-images-up-to-45-faster-in-internet-explorer-11/)
+ - FYI
+   - [@paul_irish]()’s *frontend development RSS feeds bundle* (OPML file) is on GitHub, [repo](https://github.com/paulirish/frontend-feeds)
+ - Tutorials
+   - *Switching to HTTPS*: Setting up StartSSL’s free SSL certificates, [@konklone]()’s [post](https://konklone.com/post/switch-to-https-now-for-free)
+   - *Filtering page content* with `data-` attributes and dynamic style sheets, [@francoisz]()’s [post](http://redotheweb.com/2013/05/15/client-side-full-text-search-in-css.html)
+   - *Creating a simple chat app* with Node.js and WebSocket, [@geekuillaume]()’s [post](http://net.tutsplus.com/tutorials/javascript-ajax/using-node-js-and-websockets-to-build-a-chat-service/)
+ - Articles
+   - How the *HTTP/1.1 spec defines the `User-Agent` string*, [@karlpro]()’s [post](https://hacks.mozilla.org/2013/09/user-agent-detection-history-and-checklist/)
+   - [@spolu]() shares his experiences *developing a web browser* built using web technologies, [post](http://spolu.github.io/exo_browser/2013/09/11/my-quest-for-a-new-browser.html) ![][*]
+   - [@ppk]() discovers a *CSS `text-align` bug in Android 4* stock browsers on some devices, [post](http://quirksmode.org/css/text/textaligntest.html)
+   - Node.js makes *network code more testable* resulting in stable software faster, [@_gsmith]()’s [post](http://weblog.bocoup.com/how-nodejs-makes-network-code-more-testable/)
+   - Responsive design: A *web performance guide*, [@gorkamolero]()’s [post](http://speckyboy.com/2013/09/11/responsive-design-is-not-about-screen-sizes-any-more/) ![][*]
+ - Content
+   - Browser compatibility table for *CSS blend modes*, [post](http://blogs.adobe.com/webplatform/2013/09/12/browser-support-matrix-for-css-blending/) (Adobe) 
+ - Demos
+   - A *semantic and accessible navigation* pattern with pure CSS, [@ramsden]()’s [post](http://jimramsden.com/design/nav-target) ![][*]
+   - *Animated media queries*, [@chriscoyier]()’s [demo](http://codepen.io/anon/pen/ecsmk)
+ - Tools
+   - grunt-newer, runs tasks on only those source files *that changed since last run*, [repo](https://github.com/tschaub/grunt-newer)
+   - request, a Node module for *performing HTTP requests*, [repo](https://github.com/mikeal/request)
+ - Opinion
+   - *Progressive enhancement*: It’s about the content, [@stephencaver]()’s [post](http://cognition.happycog.com/article/progressive-enhancement-its-about-the-content)
+   - The proposed *`<picture>` element is too complex*, [@zcorpan]()’s [message](http://lists.w3.org/Archives/Public/public-html/2013Sep/0137.html) on `public-html`
+
+
 ## September 12th, 2013
 
  - News
@@ -626,36 +660,4 @@
    - CSS Trashman (online tool), examines your live site and *generates optimized CSS/Sass*, [site](http://www.csstrashman.com/)
    - ie8, a *polyfill specifically targeted at IE8* (polyfills the W3C event system), [@WebReflection]()’s [repo](https://github.com/WebReflection/ie8)
    - VerbalExpressions (JavaScript library), provides an API for *constructing regular expressions*, [repo](https://github.com/jehna/VerbalExpressions)
-
-## July 19th, 2013
-
- - W3C
-   - **Last Call** WD of “*CSS Counter Styles Level 3*”, [TR](http://www.w3.org/TR/2013/WD-css-counter-styles-3-20130718/) + [diff](http://www.w3.org/TR/2013/WD-css-counter-styles-3-20130718/,diff) + release [notes](http://www.w3.org/blog/CSS/2013/07/25/counter-styles-3-lcwd-published/)
- - News
-   - Chrome 29 Beta: *Web Audio and WebRTC in Chrome* for Android, [post](http://blog.chromium.org/2013/07/chrome-29-beta-web-audio-and-webrtc-in.html) (Chromium Blog)
-   - IE11 to support *prerendering and prefetching*, MSDN [page](http://msdn.microsoft.com/en-us/library/ie/dn265039%28v=vs.85%29.aspx)
-   - The internet sector calls for *greater transparency in requests for user data*, [post](https://blog.mozilla.org/blog/2013/07/18/the-internet-sector-calls-for-greater-transparency-in-requests-for-user-data/) (Mozilla blog)
- - Tutorials
-   - Creating a *clean testing environment* for Chrome’s DevTools, [page](https://developers.google.com/chrome-developer-tools/docs/clean-testing-environment)
-   - Creating *reusable widgets with Shadow DOM*, [@MattAntWest]()’s [post](http://blog.teamtreehouse.com/working-with-shadow-dom)
-   - Building next generation *widgets with Web Components* and Polymer, [@jdcravens]()’s [post](http://tech.pro/tutorial/1421/building-next-generation-widgets-with-web-components) ![][*]
-   - Adding a *“Install on Firefox OS” button* to your web site, [@codepo8]()’s [post](https://hacks.mozilla.org/2013/07/app-discovery-firefox-os-for-developers-the-platform-html5-deserves/)
- - Articles
-   - *Fastbook, [@Sencha]()’s HTML5 app* for Facebook, at Sencha Con 2013, [@edspencer]()’s [post](http://edspencer.net/2013/07/19/sencha-con-2013-fastbook/) ![][*]
-   - Update on the current *status of Web Cryptography*, [@poulpita]()’s [post](http://alistapart.com/column/security-affair)
-   - A proposal for *installable web apps*, [@borismus]()’s [post](http://smus.com/installable-webapps/)
- - Media
-   - *Filter effects and blend modes*, [@divya]()’s 40-min [@cssdayconf]() [talk](https://vimeo.com/70171265)
-   - Developing *inside of Chrome’s DevTools* with nodemon and workspaces, [@rem]()’s 6-min [screencast](http://remysharp.com/2013/07/18/my-workflow-v3-full-coding-stack/)
-   - “Optimizing the *critical rendering path*”, [@igrigorik]()’s 45-min [@velocityconf]() [talk](http://youtu.be/YV1nKLWoARQ) + [slide deck](https://docs.google.com/presentation/d/1IRHyU7_crIiCjl0Gvue0WY3eY_eYvFQvSfwQouW9368/present#slide=id.p19) ![][*]
- - Content
-   - A browser support table for *graphics-related CSS properties*, [@agreenblatt]()’s [repo](https://github.com/awgreenblatt/css-graphics)
- - Sites
-   - “The Node Beginner Book”, a free *online book for learning Node.js*, [site](http://www.nodebeginner.org/)
- - Tools
-   - S Gallery, a *responsive image gallery* jQuery plugin with CSS3 Animations, [page](http://sarasoueidan.com/blog/s-gallery-responsive-jquery-gallery-plugin-with-css3-animations/) + [demo](http://sarasoueidan.com/blog/s-gallery-responsive-jquery-gallery-plugin-with-css3-animations/demo/index.html)
-   - Fresh Tilled Soil WebRTC, enables real-time *video/audio streaming between two web browsers*, [page](http://freshtilledsoil.com/the-future-of-web/webrtc-video/)
-   - grunt-express, starts an Express.js *server with live reload and server reload*, [repo](https://github.com/blai/grunt-express)
- - Opinion
-   - “*Money and open source* - the current situation isn’t optimal”, [@izs]()’s [post](https://medium.com/open-source-life/d44a1953749c)
 

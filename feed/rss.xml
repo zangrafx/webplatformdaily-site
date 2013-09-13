@@ -6,10 +6,69 @@
 		<description>Feed for Open Web Platform Daily Digest</description>
 		<link>http://webplatformdaily.org/</link>
 		<languange>en</languange>
-		<pubDate>Thu Sep 12 2013 09:08:28 GMT+0200 (Central European Daylight Time)</pubDate>
-		<lastBuildDate>Thu Sep 12 2013 09:08:28 GMT+0200 (Central European Daylight Time)</lastBuildDate>
+		<pubDate>Fri Sep 13 2013 09:26:46 GMT+0200 (Central European Daylight Time)</pubDate>
+		<lastBuildDate>Fri Sep 13 2013 09:26:46 GMT+0200 (Central European Daylight Time)</lastBuildDate>
 		<atom:link href="http://webplatformdaily.org/feed/rss.xml" rel="self" type="application/rss+xml" />
 		<sy:updatePeriod>daily</sy:updatePeriod>
+		<item>
+			<title>Web Platform Daily: September 13th, 2013</title>
+			<link>http://webplatformdaily.org/#September13th2013</link>
+			<guid>http://webplatformdaily.org/#September13th2013</guid>
+			<description>
+<![CDATA[<h2>September 13th, 2013</h2>
+<ul>
+<li>News<ul>
+<li>Qt (<a href="https://twitter.com/qtproject">?</a>) introduces the <em>Qt WebEngine</em>, switches from WebKit to Chromium, <a href="http://blog.qt.digia.com/blog/2013/09/12/introducing-the-qt-webengine/">post</a></li>
+<li>Kickstarter <em>switches to HTML5 video by default</em>, will only serve Flash to old browsers, <a href="http://thenextweb.com/media/2013/09/12/kickstarter-switches-to-html5-video-by-default-will-only-serve-flash-to-old-browsers/">article</a> (TNW)</li>
+<li>Verizon’s diabolical plan to <em>turn the Web into pay-per-view</em>, <a href="http://www.infoworld.com/d/the-industry-standard/verizons-diabolical-plan-turn-the-web-pay-view-226662">article</a> (InfoWorld)</li>
+</ul>
+</li>
+<li>UA dev.<ul>
+<li>IE11 supports the <em><code>text-combine-horizontal</code> CSS property</em>, <a href="http://twitter.com/dstorey">@dstorey</a>’s <a href="http://generatedcontent.org/post/60984978732/text-combine-horizontal">post</a></li>
+<li><em>IE11 loads images faster</em> using more efficient hardware decoding (up to 45%), <a href="http://jatindersmann.com/2013/09/12/using-hardware-to-decode-and-load-jpg-images-up-to-45-faster-in-internet-explorer-11/">post</a></li>
+</ul>
+</li>
+<li>FYI<ul>
+<li><a href="http://twitter.com/paul_irish">@paul_irish</a>’s <em>frontend development RSS feeds bundle</em> (OPML file) is on GitHub, <a href="https://github.com/paulirish/frontend-feeds">repo</a></li>
+</ul>
+</li>
+<li>Tutorials<ul>
+<li><em>Switching to HTTPS</em>: Setting up StartSSL’s free SSL certificates, <a href="http://twitter.com/konklone">@konklone</a>’s <a href="https://konklone.com/post/switch-to-https-now-for-free">post</a></li>
+<li><em>Filtering page content</em> with <code>data-</code> attributes and dynamic style sheets, <a href="http://twitter.com/francoisz">@francoisz</a>’s <a href="http://redotheweb.com/2013/05/15/client-side-full-text-search-in-css.html">post</a></li>
+<li><em>Creating a simple chat app</em> with Node.js and WebSocket, <a href="http://twitter.com/geekuillaume">@geekuillaume</a>’s <a href="http://net.tutsplus.com/tutorials/javascript-ajax/using-node-js-and-websockets-to-build-a-chat-service/">post</a></li>
+</ul>
+</li>
+<li>Articles<ul>
+<li>How the <em>HTTP/1.1 spec defines the <code>User-Agent</code> string</em>, <a href="http://twitter.com/karlpro">@karlpro</a>’s <a href="https://hacks.mozilla.org/2013/09/user-agent-detection-history-and-checklist/">post</a></li>
+<li><a href="http://twitter.com/spolu">@spolu</a> shares his experiences <em>developing a web browser</em> built using web technologies, <a href="http://spolu.github.io/exo_browser/2013/09/11/my-quest-for-a-new-browser.html">post</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+<li><a href="http://twitter.com/ppk">@ppk</a> discovers a <em>CSS <code>text-align</code> bug in Android 4</em> stock browsers on some devices, <a href="http://quirksmode.org/css/text/textaligntest.html">post</a></li>
+<li>Node.js makes <em>network code more testable</em> resulting in stable software faster, <a href="http://twitter.com/_gsmith">@_gsmith</a>’s <a href="http://weblog.bocoup.com/how-nodejs-makes-network-code-more-testable/">post</a></li>
+<li>Responsive design: A <em>web performance guide</em>, <a href="http://twitter.com/gorkamolero">@gorkamolero</a>’s <a href="http://speckyboy.com/2013/09/11/responsive-design-is-not-about-screen-sizes-any-more/">post</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+</ul>
+</li>
+<li>Content<ul>
+<li>Browser compatibility table for <em>CSS blend modes</em>, <a href="http://blogs.adobe.com/webplatform/2013/09/12/browser-support-matrix-for-css-blending/">post</a> (Adobe) </li>
+</ul>
+</li>
+<li>Demos<ul>
+<li>A <em>semantic and accessible navigation</em> pattern with pure CSS, <a href="http://twitter.com/ramsden">@ramsden</a>’s <a href="http://jimramsden.com/design/nav-target">post</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+<li><em>Animated media queries</em>, <a href="http://twitter.com/chriscoyier">@chriscoyier</a>’s <a href="http://codepen.io/anon/pen/ecsmk">demo</a></li>
+</ul>
+</li>
+<li>Tools<ul>
+<li>grunt-newer, runs tasks on only those source files <em>that changed since last run</em>, <a href="https://github.com/tschaub/grunt-newer">repo</a></li>
+<li>request, a Node module for <em>performing HTTP requests</em>, <a href="https://github.com/mikeal/request">repo</a></li>
+</ul>
+</li>
+<li>Opinion<ul>
+<li><em>Progressive enhancement</em>: It’s about the content, <a href="http://twitter.com/stephencaver">@stephencaver</a>’s <a href="http://cognition.happycog.com/article/progressive-enhancement-its-about-the-content">post</a></li>
+<li>The proposed <em><code>&lt;picture&gt;</code> element is too complex</em>, <a href="http://twitter.com/zcorpan">@zcorpan</a>’s <a href="http://lists.w3.org/Archives/Public/public-html/2013Sep/0137.html">message</a> on <code>public-html</code></li>
+</ul>
+</li>
+</ul>
+]]>
+			</description>
+		</item>
 		<item>
 			<title>Web Platform Daily: September 12th, 2013</title>
 			<link>http://webplatformdaily.org/#September12th2013</link>
@@ -1121,64 +1180,6 @@
 <li>CSS Trashman (online tool), examines your live site and <em>generates optimized CSS/Sass</em>, <a href="http://www.csstrashman.com/">site</a></li>
 <li>ie8, a <em>polyfill specifically targeted at IE8</em> (polyfills the W3C event system), <a href="http://twitter.com/WebReflection">@WebReflection</a>’s <a href="https://github.com/WebReflection/ie8">repo</a></li>
 <li>VerbalExpressions (JavaScript library), provides an API for <em>constructing regular expressions</em>, <a href="https://github.com/jehna/VerbalExpressions">repo</a></li>
-</ul>
-</li>
-</ul>
-]]>
-			</description>
-		</item>
-		<item>
-			<title>Web Platform Daily: July 19th, 2013</title>
-			<link>http://webplatformdaily.org/#July19th2013</link>
-			<guid>http://webplatformdaily.org/#July19th2013</guid>
-			<description>
-<![CDATA[<h2>July 19th, 2013</h2>
-<ul>
-<li>W3C<ul>
-<li><strong>Last Call</strong> WD of “<em>CSS Counter Styles Level 3</em>”, <a href="http://www.w3.org/TR/2013/WD-css-counter-styles-3-20130718/">TR</a> + <a href="http://www.w3.org/TR/2013/WD-css-counter-styles-3-20130718/,diff">diff</a> + release <a href="http://www.w3.org/blog/CSS/2013/07/25/counter-styles-3-lcwd-published/">notes</a></li>
-</ul>
-</li>
-<li>News<ul>
-<li>Chrome 29 Beta: <em>Web Audio and WebRTC in Chrome</em> for Android, <a href="http://blog.chromium.org/2013/07/chrome-29-beta-web-audio-and-webrtc-in.html">post</a> (Chromium Blog)</li>
-<li>IE11 to support <em>prerendering and prefetching</em>, MSDN <a href="http://msdn.microsoft.com/en-us/library/ie/dn265039%28v=vs.85%29.aspx">page</a></li>
-<li>The internet sector calls for <em>greater transparency in requests for user data</em>, <a href="https://blog.mozilla.org/blog/2013/07/18/the-internet-sector-calls-for-greater-transparency-in-requests-for-user-data/">post</a> (Mozilla blog)</li>
-</ul>
-</li>
-<li>Tutorials<ul>
-<li>Creating a <em>clean testing environment</em> for Chrome’s DevTools, <a href="https://developers.google.com/chrome-developer-tools/docs/clean-testing-environment">page</a></li>
-<li>Creating <em>reusable widgets with Shadow DOM</em>, <a href="http://twitter.com/MattAntWest">@MattAntWest</a>’s <a href="http://blog.teamtreehouse.com/working-with-shadow-dom">post</a></li>
-<li>Building next generation <em>widgets with Web Components</em> and Polymer, <a href="http://twitter.com/jdcravens">@jdcravens</a>’s <a href="http://tech.pro/tutorial/1421/building-next-generation-widgets-with-web-components">post</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
-<li>Adding a <em>“Install on Firefox OS” button</em> to your web site, <a href="http://twitter.com/codepo8">@codepo8</a>’s <a href="https://hacks.mozilla.org/2013/07/app-discovery-firefox-os-for-developers-the-platform-html5-deserves/">post</a></li>
-</ul>
-</li>
-<li>Articles<ul>
-<li><em>Fastbook, <a href="http://twitter.com/Sencha">@Sencha</a>’s HTML5 app</em> for Facebook, at Sencha Con 2013, <a href="http://twitter.com/edspencer">@edspencer</a>’s <a href="http://edspencer.net/2013/07/19/sencha-con-2013-fastbook/">post</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
-<li>Update on the current <em>status of Web Cryptography</em>, <a href="http://twitter.com/poulpita">@poulpita</a>’s <a href="http://alistapart.com/column/security-affair">post</a></li>
-<li>A proposal for <em>installable web apps</em>, <a href="http://twitter.com/borismus">@borismus</a>’s <a href="http://smus.com/installable-webapps/">post</a></li>
-</ul>
-</li>
-<li>Media<ul>
-<li><em>Filter effects and blend modes</em>, <a href="http://twitter.com/divya">@divya</a>’s 40-min <a href="http://twitter.com/cssdayconf">@cssdayconf</a> <a href="https://vimeo.com/70171265">talk</a></li>
-<li>Developing <em>inside of Chrome’s DevTools</em> with nodemon and workspaces, <a href="http://twitter.com/rem">@rem</a>’s 6-min <a href="http://remysharp.com/2013/07/18/my-workflow-v3-full-coding-stack/">screencast</a></li>
-<li>“Optimizing the <em>critical rendering path</em>”, <a href="http://twitter.com/igrigorik">@igrigorik</a>’s 45-min <a href="http://twitter.com/velocityconf">@velocityconf</a> <a href="http://youtu.be/YV1nKLWoARQ">talk</a> + <a href="https://docs.google.com/presentation/d/1IRHyU7_crIiCjl0Gvue0WY3eY_eYvFQvSfwQouW9368/present#slide=id.p19">slide deck</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
-</ul>
-</li>
-<li>Content<ul>
-<li>A browser support table for <em>graphics-related CSS properties</em>, <a href="http://twitter.com/agreenblatt">@agreenblatt</a>’s <a href="https://github.com/awgreenblatt/css-graphics">repo</a></li>
-</ul>
-</li>
-<li>Sites<ul>
-<li>“The Node Beginner Book”, a free <em>online book for learning Node.js</em>, <a href="http://www.nodebeginner.org/">site</a></li>
-</ul>
-</li>
-<li>Tools<ul>
-<li>S Gallery, a <em>responsive image gallery</em> jQuery plugin with CSS3 Animations, <a href="http://sarasoueidan.com/blog/s-gallery-responsive-jquery-gallery-plugin-with-css3-animations/">page</a> + <a href="http://sarasoueidan.com/blog/s-gallery-responsive-jquery-gallery-plugin-with-css3-animations/demo/index.html">demo</a></li>
-<li>Fresh Tilled Soil WebRTC, enables real-time <em>video/audio streaming between two web browsers</em>, <a href="http://freshtilledsoil.com/the-future-of-web/webrtc-video/">page</a></li>
-<li>grunt-express, starts an Express.js <em>server with live reload and server reload</em>, <a href="https://github.com/blai/grunt-express">repo</a></li>
-</ul>
-</li>
-<li>Opinion<ul>
-<li>“<em>Money and open source</em> - the current situation isn’t optimal”, <a href="http://twitter.com/izs">@izs</a>’s <a href="https://medium.com/open-source-life/d44a1953749c">post</a></li>
 </ul>
 </li>
 </ul>
