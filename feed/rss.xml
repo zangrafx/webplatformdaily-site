@@ -6,10 +6,69 @@
 		<description>Feed for Open Web Platform Daily Digest</description>
 		<link>http://webplatformdaily.org/</link>
 		<languange>en</languange>
-		<pubDate>Fri Sep 13 2013 09:26:46 GMT+0200 (Central European Daylight Time)</pubDate>
-		<lastBuildDate>Fri Sep 13 2013 09:26:46 GMT+0200 (Central European Daylight Time)</lastBuildDate>
+		<pubDate>Mon Sep 16 2013 09:08:46 GMT+0200 (Central European Daylight Time)</pubDate>
+		<lastBuildDate>Mon Sep 16 2013 09:08:46 GMT+0200 (Central European Daylight Time)</lastBuildDate>
 		<atom:link href="http://webplatformdaily.org/feed/rss.xml" rel="self" type="application/rss+xml" />
 		<sy:updatePeriod>daily</sy:updatePeriod>
+		<item>
+			<title>Web Platform Daily: September 16th, 2013</title>
+			<link>http://webplatformdaily.org/#September16th2013</link>
+			<guid>http://webplatformdaily.org/#September16th2013</guid>
+			<description>
+<![CDATA[<h2>September 16th, 2013</h2>
+<ul>
+<li>News<ul>
+<li><em>Unlocked Firefox OS phones</em> available on eBay UK for £59.99 (~$96), <a href="http://www.ebay.co.uk/itm/171123860758">page</a></li>
+<li><em>‘Net neutrality’ debate</em> may decide future of Netflix, <a href="http://www.rawstory.com/rs/2013/09/15/net-neutrality-debate-may-decide-future-of-netflix/">article</a></li>
+</ul>
+</li>
+<li>UA dev.<ul>
+<li>Experimental work in progress to <em>parallelize layout in Blink</em>, <a href="https://groups.google.com/a/chromium.org/d/msg/blink-dev/-TBnz3LJiGY/WO1-q--x86oJ">discussion</a> on <code>blink-dev</code></li>
+<li>An <em>inter-app communication API</em> added to Firefox OS, <a href="https://twitter.com/mozlabs/status/378588018602303488">source</a></li>
+<li>Firefox Nightly: <em>ES6 generators</em> enabled by default, <a href="https://twitter.com/apaprocki/status/379014444778790912">source</a></li>
+</ul>
+</li>
+<li>Tutorials<ul>
+<li>Passing JSON data to the client-side <em>when CSP is enabled</em> (bans inline <code>&lt;script&gt;</code>s), <a href="http://twitter.com/mathias">@mathias</a>’s <a href="http://mathiasbynens.be/notes/json-dom-csp">post</a></li>
+<li>An step-by-step guide to getting up and running <em>with Node.js and MongoDB</em>, <a href="http://twitter.com/cwbuecheler">@cwbuecheler</a>’s <a href="http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/">post</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+<li>Improving your SEO with <em><code>robots.txt</code> and canonical headers</em>, Ivan’s <a href="http://blog.netdna.com/maxcdn/manage-seo-with-cdn/">post</a></li>
+<li>Building a motion detector hooked up with a <em>WebRTC video feed</em>, <a href="http://twitter.com/chadwallacehart">@chadwallacehart</a>’s <a href="http://webrtchacks.com/baby-motion-detector/">post</a></li>
+</ul>
+</li>
+<li>Articles<ul>
+<li><em>CSS Regions</em>: Current browser support, use cases and a demo (w/ recording), <a href="http://twitter.com/LeeMallabone">@LeeMallabone</a>’s <a href="http://fonicmonkey.net/2013/09/09/css-regions-and-why-youll-be-using-them-before-you-know-it/">post</a></li>
+<li>Why <em>HTTP/2.0</em>? A perspective, <a href="http://twitter.com/masinter">@masinter</a>’s <a href="http://masinter.blogspot.com/2013/09/why-http20-perspective.html">post</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+<li>Rise of the <em>HTML5 ecosystems and Open Web Platform</em>, <a href="http://twitter.com/mmielone">@mmielone</a>’s <a href="http://sc5.io/blog/2013/09/rise-of-the-html5-ecosystems-and-open-web-platform/">post</a></li>
+<li>A recap of last week’s <em>responsive images meetup</em>, <a href="http://twitter.com/shoogledesigns">@shoogledesigns</a>’s <a href="http://shoogledesigns.com/blog/blog/2013/09/13/responsive-images-meetup-coming-together-is-a-beginning/">post</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
+<li>Beez, a <em>web real-time audio experiment</em> (uses WebRTC and Web Audio API), <a href="http://twitter.com/greweb">@greweb</a>’s <a href="http://greweb.me/2013/09/beez/">post</a></li>
+</ul>
+</li>
+<li>Media<ul>
+<li>JSJ Ep. 75: <a href="http://twitter.com/slicknet">@slicknet</a> about <em>maintainable JavaScript</em>, 58-min <a href="http://javascriptjabber.com/075-jsj-maintainable-javascript-with-nicholas-zakas/">podcast</a></li>
+<li><em>Responsive images</em>: A quick intro to its history and developer perspective, <a href="http://twitter.com/wilto">@wilto</a>’s 17-min <a href="http://vimeo.com/74380964">talk</a></li>
+<li>Google Developers Live: <em>Accessibility panel discussion</em>, 23-min <a href="https://developers.google.com/live/shows/919837902">video</a></li>
+</ul>
+</li>
+<li>Content<ul>
+<li>Proposal: <em>Media query variables</em> (solves verbosity/repetition), <a href="http://twitter.com/pornelski">@pornelski</a>’s <a href="https://github.com/ResponsiveImagesCG/picture-element/issues/64">post</a></li>
+<li>Fira Sans, the <em>Firefox OS typeface</em> (available for free), <a href="http://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface/">page</a></li>
+<li>Scriptless attacks: <em>Attacks against web applications</em> that don’t require JavaScript, <a href="">@</a>’s <a href="http://www.nds.rub.de/media/emma/veroeffentlichungen/2012/08/16/scriptlessAttacks-ccs2012.pdf">paper</a></li>
+</ul>
+</li>
+<li>Tools<ul>
+<li>Lo-Dash, an <em>utility library</em>, <a href="http://lodash.com/">page</a> (+ custom builds in Lo-Dash 2.0, <a href="http://twitter.com/kitcambridge">@kitcambridge</a>’s <a href="http://kitcambridge.be/blog/custom-builds-in-lo-dash-2-dot-0/">post</a>)</li>
+<li>RegExpJS, an online tool for <em>debugging regular expressions</em>, <a href="http://twitter.com/jviereck">@jviereck</a>’s <a href="http://jviereck.github.io/regexp.js/">page</a></li>
+<li>trumpet, a Node module for <em>parsing and transforming HTML</em> streams, <a href="http://twitter.com/substack">@substack</a>’s <a href="https://github.com/substack/node-trumpet">repo</a></li>
+</ul>
+</li>
+<li>Opinion<ul>
+<li><em>HTTP/2.0</em> worries, <a href="http://twitter.com/masinter">@masinter</a>’s <a href="http://masinter.blogspot.com/2013/09/http20-worries.html">post</a></li>
+</ul>
+</li>
+</ul>
+]]>
+			</description>
+		</item>
 		<item>
 			<title>Web Platform Daily: September 13th, 2013</title>
 			<link>http://webplatformdaily.org/#September13th2013</link>
@@ -1118,68 +1177,6 @@
 <li>Intro.js, a <em>step-by-step guide for visitors</em> to your web site, <a href="http://usablica.github.io/intro.js/">page</a> w/ live demo</li>
 <li>Sync.js, <em>syncs your local folder with a remote folder</em> using SCP (<a href="http://en.wikipedia.org/wiki/Secure_copy">?</a>), <a href="https://github.com/serkanyersen/sync">repo</a></li>
 <li>Mock Response, an online service that <em>returns various HTTP responses</em> (for testing), <a href="http://mock.isssues.com/">page</a></li>
-</ul>
-</li>
-</ul>
-]]>
-			</description>
-		</item>
-		<item>
-			<title>Web Platform Daily: July 22nd, 2013</title>
-			<link>http://webplatformdaily.org/#July22nd2013</link>
-			<guid>http://webplatformdaily.org/#July22nd2013</guid>
-			<description>
-<![CDATA[<h2>July 22nd, 2013</h2>
-<ul>
-<li>News<ul>
-<li><em>HTML5 Hub</em> (<a href="https://twitter.com/getify/status/355744926929133572">?</a>) to launch this week, <a href="https://twitter.com/iandevlin/status/358112182950559745">source</a></li>
-<li><em>Adobe PhoneGap</em> 3.0 released, <a href="http://phonegap.com/blog/2013/07/19/adobe-phonegap-3.0-released/">post</a> + TNW <a href="http://thenextweb.com/dd/2013/07/19/adobe-launches-phonegap-3-plans-support-for-windows-phone-8-blackberry-10-ubuntu-and-firefox-os/">coverage</a> + <a href="http://www.netmagazine.com/news/mobile-app-framework-phonegap-30-launches-132895">interview</a> with <a href="http://twitter.com/brianleroux">@brianleroux</a></li>
-<li><em>Netflix presses ahead with HTML5</em> as free software activists call for boycott, GigaOM <a href="http://gigaom.com/2013/07/18/netflix-presses-ahead-with-html5-as-free-software-activists-call-for-boycott/">article</a></li>
-<li>Mozilla unveils <em>‘aggressive’ Firefox OS schedule</em> (quarterly feature releases), TNW <a href="http://thenextweb.com/mobile/2013/07/20/mozilla-unveils-aggressive-firefox-os-schedule-quarterly-feature-releases-security-updates-every-six-weeks/">article</a></li>
-</ul>
-</li>
-<li>UA dev.<ul>
-<li><em>CSS media type emulation</em> added to Firefox Nightly, <a href="http://twitter.com/graememcc">@graememcc</a> <a href="http://www.graememcc.co.uk/2013/07/20/developer-tools-gcli-command-for-emulating-css-media-types/">post</a></li>
-<li>“<em>Show potential scroll bottlenecks</em>” feature added to DevTools in Chrome Canary, <a href="https://plus.google.com/115788095648461403871/posts/LXKEENhnQSD">post</a></li>
-</ul>
-</li>
-<li>FYI<ul>
-<li>Firefox DevTools provide a graphical <em>command line interface</em>, <a href="https://twitter.com/simevidas/status/359007846861512705">tweet</a> w/ screenshot</li>
-</ul>
-</li>
-<li>Tutorials<ul>
-<li>The <em>pros and cons of Server Sent Events</em> (SSE) + usage with Aura and Node, <a href="http://twitter.com/z3r0">@z3r0</a>’s <a href="http://www.activestate.com/blog/2013/07/server-sent-events-aura-and-nodejs">post</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
-<li><em>Getting started with Ember.js</em> in 5 minutes, <a href="http://twitter.com/matthewpearse">@matthewpearse</a>’s <a href="http://matthewlehner.net/get-started-with-ember-js-in-5-minutes/">post</a></li>
-<li><em>Using the Express framework</em> to build a simple blog site, <a href="http://twitter.com/cfjedimaster">@cfjedimaster</a>’s <a href="http://net.tutsplus.com/tutorials/javascript-ajax/introduction-to-express/">post</a></li>
-</ul>
-</li>
-<li>Articles<ul>
-<li>How ECMAScript 6 generators and <em><code>yield</code> will transform Node.js</em>, <a href="http://twitter.com/maccaw">@maccaw</a>’s <a href="http://blog.alexmaccaw.com/how-yield-will-transform-node">post</a> + <a href="http://monocle.io/posts/how-yield-will-transform-node">discussion</a></li>
-<li>The messy <em>state of Web Notifications</em> in Blink and Webkit, <a href="http://twitter.com/auchenberg">@auchenberg</a>’s <a href="http://kenneth.io/blog/2013/07/15/the-messy-state-of-web-notifications-in-chrome-safari-blink-webkit/">post</a></li>
-<li>How to ensure <em>privacy in the age of HTML5</em>, <a href="http://twitter.com/chrisminnick">@chrisminnick</a>’s <a href="http://www.cio.com/article/735373/How_to_Ensure_Privacy_in_the_Age_of_HTML5">post</a></li>
-</ul>
-</li>
-<li>Media<ul>
-<li><em>Variables and conditionals</em> in CSS, <a href="http://twitter.com/tabatkins">@tabatkins</a>’s 53-min <a href="http://twitter.com/cssdayconf">@cssdayconf</a> <a href="https://vimeo.com/69531455">talk</a> w/ Q&amp;A</li>
-<li>Chrome Office Hours: <em>Performance</em>, <a href="http://twitter.com/aerotwist">@aerotwist</a>/<a href="http://twitter.com/paul_irish">@paul_irish</a>’s 45-min GDL <a href="https://developers.google.com/live/shows/840309825">session</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
-<li>“Hyperaudio - <em>making audio a first class citizen</em> of the web”, <a href="http://twitter.com/maboa">@maboa</a>’s 50-min <a href="http://twitter.com/ScotlandJS">@ScotlandJS</a> <a href="http://scotlandjs.com/mark.html">talk</a></li>
-</ul>
-</li>
-<li>Content<ul>
-<li><em>Considering the mobile experience</em> when it’s too late for “mobile first”, <a href="http://twitter.com/think_ui">@think_ui</a> 115-page <a href="http://www.slideshare.net/Think-ui/cmag-mobileux">slide deck</a> <img src="http://webplatformdaily.org/img/star.png" alt="" title="don’t miss"></li>
-<li><em>microformats2</em> &amp; HTML5 - the evolution of web data, <a href="http://twitter.com/t">@t</a>’s 41-page <a href="http://tantek.com/presentations/2013/07/microformats2/">slide deck</a></li>
-<li><a href="http://twitter.com/mfg_labs">@mfg_labs</a> icon set, a free <em>retina-ready SVG icon font</em>, <a href="http://mfglabs.github.io/mfglabs-iconset/">page</a> w/ usage guide</li>
-</ul>
-</li>
-<li>Demos<ul>
-<li><em>Horizontal portfolio layout</em> with CSS3 Animations and jQuery, <a href="http://twitter.com/SaraSoueidan">@SaraSoueidan</a>’s <a href="http://sarasoueidan.com/blog/horizontal-portfolio-layout/">post</a> + <a href="http://sarasoueidan.com/blog/horizontal-portfolio-layout/demo/index.html">demo</a></li>
-<li>Soul Reaper, a <em>digital comic built with HTML5</em>, <a href="http://www.soul-reaper.com/">site</a> w/ audio narration</li>
-</ul>
-</li>
-<li>Tools<ul>
-<li>CSS Trashman (online tool), examines your live site and <em>generates optimized CSS/Sass</em>, <a href="http://www.csstrashman.com/">site</a></li>
-<li>ie8, a <em>polyfill specifically targeted at IE8</em> (polyfills the W3C event system), <a href="http://twitter.com/WebReflection">@WebReflection</a>’s <a href="https://github.com/WebReflection/ie8">repo</a></li>
-<li>VerbalExpressions (JavaScript library), provides an API for <em>constructing regular expressions</em>, <a href="https://github.com/jehna/VerbalExpressions">repo</a></li>
 </ul>
 </li>
 </ul>

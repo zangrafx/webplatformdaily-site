@@ -1,3 +1,39 @@
+## September 16th, 2013
+
+ - News
+   - *Unlocked Firefox OS phones* available on eBay UK for £59.99 (~$96), [page](http://www.ebay.co.uk/itm/171123860758)
+   - *‘Net neutrality’ debate* may decide future of Netflix, [article](http://www.rawstory.com/rs/2013/09/15/net-neutrality-debate-may-decide-future-of-netflix/)
+ - UA dev.
+   - Experimental work in progress to *parallelize layout in Blink*, [discussion](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-TBnz3LJiGY/WO1-q--x86oJ) on `blink-dev`
+   - An *inter-app communication API* added to Firefox OS, [source](https://twitter.com/mozlabs/status/378588018602303488)
+   - Firefox Nightly: *ES6 generators* enabled by default, [source](https://twitter.com/apaprocki/status/379014444778790912)
+ - Tutorials
+   - Passing JSON data to the client-side *when CSP is enabled* (bans inline `<script>`s), [@mathias]()’s [post](http://mathiasbynens.be/notes/json-dom-csp)
+   - An step-by-step guide to getting up and running *with Node.js and MongoDB*, [@cwbuecheler]()’s [post](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/) ![][*]
+   - Improving your SEO with *`robots.txt` and canonical headers*, Ivan’s [post](http://blog.netdna.com/maxcdn/manage-seo-with-cdn/)
+   - Building a motion detector hooked up with a *WebRTC video feed*, [@chadwallacehart]()’s [post](http://webrtchacks.com/baby-motion-detector/)
+ - Articles
+   - *CSS Regions*: Current browser support, use cases and a demo (w/ recording), [@LeeMallabone]()’s [post](http://fonicmonkey.net/2013/09/09/css-regions-and-why-youll-be-using-them-before-you-know-it/)
+   - Why *HTTP/2.0*? A perspective, [@masinter]()’s [post](http://masinter.blogspot.com/2013/09/why-http20-perspective.html) ![][*]
+   - Rise of the *HTML5 ecosystems and Open Web Platform*, [@mmielone]()’s [post](http://sc5.io/blog/2013/09/rise-of-the-html5-ecosystems-and-open-web-platform/)
+   - A recap of last week’s *responsive images meetup*, [@shoogledesigns]()’s [post](http://shoogledesigns.com/blog/blog/2013/09/13/responsive-images-meetup-coming-together-is-a-beginning/) ![][*]
+   - Beez, a *web real-time audio experiment* (uses WebRTC and Web Audio API), [@greweb]()’s [post](http://greweb.me/2013/09/beez/)
+ - Media
+   - JSJ Ep. 75: [@slicknet]() about *maintainable JavaScript*, 58-min [podcast](http://javascriptjabber.com/075-jsj-maintainable-javascript-with-nicholas-zakas/)
+   - *Responsive images*: A quick intro to its history and developer perspective, [@wilto]()’s 17-min [talk](http://vimeo.com/74380964)
+   - Google Developers Live: *Accessibility panel discussion*, 23-min [video](https://developers.google.com/live/shows/919837902)
+ - Content
+   - Proposal: *Media query variables* (solves verbosity/repetition), [@pornelski]()’s [post](https://github.com/ResponsiveImagesCG/picture-element/issues/64)
+   - Fira Sans, the *Firefox OS typeface* (available for free), [page](http://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface/)
+   - Scriptless attacks: *Attacks against web applications* that don’t require JavaScript, [@]()’s [paper](http://www.nds.rub.de/media/emma/veroeffentlichungen/2012/08/16/scriptlessAttacks-ccs2012.pdf)
+ - Tools
+   - Lo-Dash, an *utility library*, [page](http://lodash.com/) (+ custom builds in Lo-Dash 2.0, [@kitcambridge]()’s [post](http://kitcambridge.be/blog/custom-builds-in-lo-dash-2-dot-0/))
+   - RegExpJS, an online tool for *debugging regular expressions*, [@jviereck]()’s [page](http://jviereck.github.io/regexp.js/)
+   - trumpet, a Node module for *parsing and transforming HTML* streams, [@substack]()’s [repo](https://github.com/substack/node-trumpet)
+ - Opinion
+   - *HTTP/2.0* worries, [@masinter]()’s [post](http://masinter.blogspot.com/2013/09/http20-worries.html)
+
+
 ## September 13th, 2013
 
  - News
