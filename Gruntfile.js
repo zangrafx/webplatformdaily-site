@@ -136,8 +136,8 @@ module.exports = function (grunt) {
 		connect: {
 			server: {
 				options: {
-					port: 9001, // Note: this number is hard coded in index.html
-					hostname: '0.0.0.0'
+					port: 9001,
+					// hostname: '0.0.0.0' // set this when testing on onother device
 				}
 			}
 		},
@@ -154,7 +154,9 @@ module.exports = function (grunt) {
 				tasks: ['js']
 			},
 			md: {
-				files: ['content/*/*.md'],
+				// TODO: Use that grunt-newer plugin to make
+				// this work with 'content/*/*.md'
+				files: ['content/dailies/2013-09-16.md'],
 				tasks: ['md']
 			},
 			files: ['index.html']
