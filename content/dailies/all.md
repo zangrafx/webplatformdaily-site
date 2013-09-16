@@ -25,7 +25,7 @@
  - Content
    - Proposal: *Media query variables* (solves verbosity/repetition), [@pornelski]()’s [post](https://github.com/ResponsiveImagesCG/picture-element/issues/64)
    - Fira Sans, the *Firefox OS typeface* (available for free), [page](http://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface/)
-   - Scriptless attacks: *Attacks against web applications* that don’t require JavaScript, [@]()’s [paper](http://www.nds.rub.de/media/emma/veroeffentlichungen/2012/08/16/scriptlessAttacks-ccs2012.pdf)
+   - Scriptless attacks: *Attacks against web applications* that don’t require JavaScript, [paper](http://www.nds.rub.de/media/emma/veroeffentlichungen/2012/08/16/scriptlessAttacks-ccs2012.pdf)
  - Tools
    - Lo-Dash, an *utility library*, [page](http://lodash.com/) (+ custom builds in Lo-Dash 2.0, [@kitcambridge]()’s [post](http://kitcambridge.be/blog/custom-builds-in-lo-dash-2-dot-0/))
    - RegExpJS, an online tool for *debugging regular expressions*, [@jviereck]()’s [page](http://jviereck.github.io/regexp.js/)
