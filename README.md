@@ -1,6 +1,6 @@
 ### What’s the current status of this digest?
 
-Information about the current status is available on [the website](http://webplatformdaily.org/).
+I'll update this README with detailed information about this digest by the end of this week (Sept 22).
 
 ### Is there an RSS feed for this digest?
 
