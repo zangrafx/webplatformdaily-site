@@ -167,3 +167,4 @@ pip-log.txt
 .sass-cache
 styles/*.css
 js/*.min.js
+node_modules
