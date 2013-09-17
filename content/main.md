@@ -1,5 +1,37 @@
 The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDailyDigest). I’ve also activated the [email subscription](http://feedburner.google.com/fb/a/mailverify?uri=OpenWebPlatformDailyDigest&amp;loc=en_US) option.
 
+## September 17th, 2013
+
+ - News
+   - “21% of [US] cell phone owners say they *mostly access the internet using their phone*”, Pew’s [report](http://pewinternet.org/Reports/2013/Cell-Internet.aspx)
+ - UA dev.
+   - Firefox Nightly: *Off-thread JavaScript parsing* when loading `<script async>` scripts, [source](https://twitter.com/FirefoxNightly/status/378870111299309568)
+ - Tutorials
+   - Debugging `<canvas>` with *Chrome’s “Canvas inspection”* feature, [@aerotwist]()’s [post](http://www.html5rocks.com/en/tutorials/canvas/inspection/)
+   - *Mobile-first responsive design* with Bootstrap 3, [@burkeholland]()’s [post](http://flippinawesome.org/2013/09/16/break-the-wrist-and-walk-away-responsive-design-and-bootstrap-3/) (w/ lots of demos)
+   - Feature detection with *CSS `@supports`*, [@NikkitaFTW]()’s [post](http://www.developerdrive.com/2013/09/feature-detection-with-css-supports/)
+ - Articles
+   - Resolving the *mobile web app performance issue* is more about politics than technology, [post](http://www.developereconomics.com/accelerating-web-apps-its-all-about-politics/)
+   - Case study: Addressing the *responsive images performance problem*, [@andmag]()/[@jarlund]()’s [post](http://mobile.smashingmagazine.com/2013/09/16/responsive-images-performance-problem-case-study/)
+   - [@ppk]()’s review of *Microsoft’s modern.ie service*, [post](http://www.quirksmode.org/blog/archives/2013/09/modernie.html)
+   - The *mobile analysis tools* of the PageSpeed Insights API, [@Paul_Kinlan]()’s [post](http://paul.kinlan.me/pagespeed-insights-api-the-indispensable-gadget-in-your-mobile-toolbelt/)
+ - Media
+   - “The Internet must go”, a 30-min mockumentary about *net neutrality*, [site](http://www.theinternetmustgo.com/) + [coverage](http://boingboing.net/2013/09/11/the-internet-must-go-colberte.html) ![][*]
+   - Debugging a web app using the *Firefox OS Simulator*, a 9-min Mozilla Hacks [screencast](http://www.youtube.com/watch?v=kbTEYM_0dXg)
+ - Content
+   - IndieAuth: *use your own domain name* to sign in to websites (like Google and GitHub), [page](http://indiewebcamp.com/IndieAuth)
+   - Event Workers: Building *applications that work offline*, explainer [page](https://github.com/slightlyoff/EventWorker/blob/master/explainer.md) on GitHub
+   - HTMLBook, an open  standard for the *authoring and production of books* (print or digital), [repo](https://github.com/oreillymedia/HTMLBook)
+   - Free ebook: “*Developing for Firefox OS*” by [@soapdog]() (76 pages), [page](https://leanpub.com/quickguidefirefoxosdevelopment) ![][*]
+ - Tools
+   - A tool that generates *Content Security Policy* HTTP headers, [@snikchnz]()’s [page](http://cspisawesome.com/)
+   - Responsive elements, makes page elements *adapt to the area they occupy*, [@kumailht]()’s [repo](https://github.com/kumailht/responsive-elements)
+   - grunt-traceur, a *Grunt task for Google’s Traceur* (ES6-to-ES3 compiler), [@js_dev]()’s [repo](https://github.com/aaronfrost/grunt-traceur)
+ - Opinion
+   - “As an accessibility professional *I cannot recommend Google’s course*”, [@good_wally]()’s [post](https://plus.google.com/100697095765158521187/posts/gGzjCGdTm8M)
+   - “Why should you *work in the open*?”, [@vincent_hardy]()’s [post](http://blogs.adobe.com/digitalmedia/2013/09/why-should-you-work-in-the-open/)
+
+
 ## September 16th, 2013
 
  - News
@@ -632,36 +664,6 @@ The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDail
    - Contrast Rebellion: “To hell with *low-contrast font color* and unreadable texts!”, [site](http://contrastrebellion.com/)
  - Tools
    - localtunnel (Ruby gem), *shares your `localhost` web server* to the rest of the world, [page](http://progrium.com/localtunnel/)
-
-## July 23rd, 2013
-
- - News
-   - *Korea’s IE dependency* blamed for hacking of over 100m user records since 2008, TNW [article](http://thenextweb.com/asia/2013/07/21/koreas-internet-explorer-dependency-blamed-for-hacking-of-over-100m-user-records-since-2008/)
-   - Interactive Advertising Bureau *attacks Mozilla over cookie policy*, [article](http://blogs.computerworlduk.com/open-enterprise/2013/07/mozilla-comes-under-attack---and-of-age/index.htm)
- - Tutorials
-   - Creating a simple *line graph with inline SVG*, [@roemervlasveld]()’s [post](http://rvlasveld.github.io/blog/2013/07/02/creating-interactive-graphs-with-svg-part-1/)
-   - Making the web page header image *responsive with CSS `background-image`*, [@stephen_thomas]()’s [post](http://mobile.smashingmagazine.com/2013/07/22/simple-responsive-images-with-css-backgrounds/) ![][*]
-   - *From microphone to WAV* with `getUserMedia` and Web Audio , [@thibault_imbert]()’s [post](http://typedarray.org/from-microphone-to-wav-with-getusermedia-and-web-audio/)
-   - JavaScript web apps - providing a *fallback for Google’s spider* (SEO), [@maccaw]()’s [post](http://blog.alexmaccaw.com/seo-in-js-web-apps)
- - Articles
-   - The *advantages of WebRTC over Skype*’s application, [@chrismatthieu]()’s [post](http://bloggeek.me/skype-in-9-months/) ![][*]
-   - *Pre-fetching web resources* for better performance, [@lukew]()’s [@bdconf]() [notes](http://www.lukew.com/ff/entry.asp?1747)
- - Media
-   - *Working with the PhantomJS* headless browser, [@sayanee_]()’s 20-min [screencast](http://build-podcast.com/phantomjs/)
-   - *CSS Flexbox*, [@stephenhay]()’s 50-min [@cssdayconf]() [talk](https://vimeo.com/69531447)
- - Content
-   - *Firefox OS*, [@mepartoconmigo]() [slide deck](http://arcturus.github.io/firefoxos-hackedio/) w/ good *Web APIs overview* ![][*]
-   - A round up of the *latest news on PhoneGap* and Cordova, [page](https://github.com/phonegap/phonegap-community/)
-   - An overview of 25 *JavaScript visualization libraries*, [post](http://www.ma-no.org/en/content/index_visualize-your-data-25-javascript-visualization-libraries_1796.php)
- - Demos
-   - *Text reflection* with pure CSS, [@codepo8]()’s [demo](http://jsbin.com/ihuxap/2/edit)
- - Sites
-   - “I want to use on mobile”, a *Can I Use visualization*, [site](http://onmobile.iwanttouse.com/)
-   - Component.fm, a repository of *Web Audio components*, [site](http://component.fm/)
- - Tools
-   - Intro.js, a *step-by-step guide for visitors* to your web site, [page](http://usablica.github.io/intro.js/) w/ live demo
-   - Sync.js, *syncs your local folder with a remote folder* using SCP ([?](http://en.wikipedia.org/wiki/Secure_copy)), [repo](https://github.com/serkanyersen/sync)
-   - Mock Response, an online service that *returns various HTTP responses* (for testing), [page](http://mock.isssues.com/)
 
 
 **Note:** I’ve temporarily disabled loading additional content onto the page. You can view older dailies in [the “archive” on GitHub](https://github.com/simevidas/webplatformdaily-site/blob/master/content/dailies/archive.md). I’ll implement viewing (and searching) of all data soon.
