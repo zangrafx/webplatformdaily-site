@@ -1,3 +1,39 @@
+## September 18th, 2013
+
+ - News
+   - *Firefox 24 released*: release [notes](http://www.mozilla.org/en-US/firefox/24.0/releasenotes/) + [information](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/24) for developers + [coverage](http://techcrunch.com/2013/09/17/firefox-for-android-24-launches-with-webrtc-support-nfc-based-link-sharing/) (TechCrunch)
+   - *Do Not Track’s future in doubt* as major ad group withdraws from talks, [article](http://www.theverge.com/2013/9/17/4741028/do-not-tracks-future-in-doubt-as-major-ad-group-withdraws-from-talks) (Verge) + Jeff’s [post](http://www.w3.org/blog/2013/09/tracking-protection-working-group-progress/)
+   - Microsoft issues fix to stop active *attacks exploiting serious IE bug*, [article](http://arstechnica.com/security/2013/09/microsoft-issues-fix-to-stop-active-attacks-exploiting-serious-ie-bug/) (ars)
+ - UA dev.
+   - *CSS image orientation lands* in Firefox 26, Seth’s [post](http://sethfowler.org/blog/2013/09/13/new-in-firefox-26-css-image-orientation/)
+   - Latest Tizen WebKit supports *CSS `text-align-last`*, [source](https://twitter.com/ppk/status/379906764638265344)
+ - Tutorials
+   - A guide to *image compression*, [@duhroach]()’s [post](http://www.html5rocks.com/en/tutorials/speed/img-compression/) ![][*]
+   - Controlling *CSS animations and transitions* with JavaScript, Zack’s [post](http://css-tricks.com/controlling-css-animations-transitions-javascript/)
+   - Picking a *responsive tables solution*, [@grigs]()’s [post](http://blog.cloudfour.com/picking-responsive-tables-solution/)
+ - Articles
+   - *CSS sprites vs. data URIs*: Which is faster on mobile?, [@b1tr0t]()’s [post](http://www.mobify.com/blog/css-sprites-vs-data-uris-which-is-faster-on-mobile/)
+   - *Frameworkless JavaScript*: “Why Angular, Ember, or Backbone don’t work for us”, [@cloudpanic]()’s [post](https://moot.it/blog/technology/frameworkless-javascript.html)
+   - Firefox 24 for Android gets *WebRTC support by default*, Maire’s [post](https://hacks.mozilla.org/2013/09/firefox-24-for-android-gets-webrtc-support-by-default/)
+ - Media
+   - *Treehouse Show* Ep. 57 (CSS3 multiple backgrounds, Emberj.js, Favicons), 11-min [video](http://www.youtube.com/watch?v=yZ85oCGYefQ)
+   - A 10-part video tutorial series on *getting started with Node.js*, [page](https://thenewcircle.com/s/post/1534/nodejs_tutorial_videos_geolocation_app)
+ - Content
+   - [@igrigorik]()’s notes from the recent *responsive images meetup* (DPR-switching 1. priority), [page](https://docs.google.com/document/d/1gWy8ZpRcZjt6_00ISxTo3j2umrLEUQI_kutTCFEqOB4/edit) ![][*]
+   - nodeschool.io, *interactive Node.js tutorials* that run in the command line, [site](http://nodeschool.io)
+   - “CSS Text” *browser compatibility tables* updated on QuirksMode, [desktop](http://www.quirksmode.org/css/text/) + [mobile](http://www.quirksmode.org/css/text/mobile.html)
+   - An into to HTML5 and *ARIA /w practical design patterns*, [@LeonieWatson]()’s 38-page [slide deck](http://www.slideshare.net/LeonieWatson/generate-2013-09)
+ - Demos
+   - *Semantic, accessible bar-chart* in HTML and CSS, [@csswizardry]()’s [demo](http://dl.dropboxusercontent.com/u/2629908/sandbox/css-bar-chart/index.html)
+   - “Foot anatomy” and “Car configurator”, two impressive *WebGL demos*, [source](https://twitter.com/vincent_hardy/status/379990468651520001)
+ - Tools
+   - FireShell, a *front-end boilerplate* (HTML5 Boilerplate + Sass + Grunt), [@toddmotto]()’s [site](http://getfireshell.com/) ![][*]
+   - json.human.js, creates a tabular *human-friendly presentation of JSON data*, [page](http://marianoguerra.github.io/json.human.js/)
+   - Sunglass, useful *mixins and functions for Sass* (i.a. loading Google Web Fonts), [@devatrox]()’s [page](http://devatrox.github.io/Sunglass/)
+ - Opinion
+   - “HTML5 video still *can’t beat GIF*”, [@pornelski]()’s [post](http://pornel.net/beat-gif-manifesto) + [discussion](https://twitter.com/pornelski/status/379894191272120322) on Twitter
+   - “Adobe is passionate about *advancing the modern web*”, [@vincent_hardy]()’s [post](http://venturebeat.com/2013/09/16/why-i-believe-in-adobe-and-the-web-op-ed/)
+
 ## September 17th, 2013
 
  - News
@@ -9,7 +45,7 @@
    - *Mobile-first responsive design* with Bootstrap 3, [@burkeholland]()’s [post](http://flippinawesome.org/2013/09/16/break-the-wrist-and-walk-away-responsive-design-and-bootstrap-3/) (w/ lots of demos)
    - Feature detection with *CSS `@supports`*, [@NikkitaFTW]()’s [post](http://www.developerdrive.com/2013/09/feature-detection-with-css-supports/)
  - Articles
-   - Resolving the *mobile web app performance issue* is more about politics than technology, [post](http://www.developereconomics.com/accelerating-web-apps-its-all-about-politics/)
+   - Resolving the *mobile web app performance issue* is more about politics than technology, [@__MarkW__]()’s [post](http://www.developereconomics.com/accelerating-web-apps-its-all-about-politics/)
    - Case study: Addressing the *responsive images performance problem*, [@andmag]()/[@jarlund]()’s [post](http://mobile.smashingmagazine.com/2013/09/16/responsive-images-performance-problem-case-study/)
    - [@ppk]()’s review of *Microsoft’s modern.ie service*, [post](http://www.quirksmode.org/blog/archives/2013/09/modernie.html)
    - The *mobile analysis tools* of the PageSpeed Insights API, [@Paul_Kinlan]()’s [post](http://paul.kinlan.me/pagespeed-insights-api-the-indispensable-gadget-in-your-mobile-toolbelt/)
@@ -23,7 +59,7 @@
    - Free ebook: “*Developing for Firefox OS*” by [@soapdog]() (76 pages), [page](https://leanpub.com/quickguidefirefoxosdevelopment) ![][*]
  - Tools
    - A tool that generates *Content Security Policy* HTTP headers, [@snikchnz]()’s [page](http://cspisawesome.com/)
-   - Responsive elements, makes page elements *adapt to the area they occupy*, [@kumailht]()’s [repo](https://github.com/kumailht/responsive-elements)
+   - Responsive elements, makes page elements *adapt to the area they occupy*, [@kumailht]()’s [page](http://kumailht.com/responsive-elements/)
    - grunt-traceur, a *Grunt task for Google’s Traceur* (ES6-to-ES3 compiler), [@js_dev]()’s [repo](https://github.com/aaronfrost/grunt-traceur)
  - Opinion
    - “As an accessibility professional *I cannot recommend Google’s course*”, [@good_wally]()’s [post](https://plus.google.com/100697095765158521187/posts/gGzjCGdTm8M)
@@ -627,39 +663,4 @@
  - Tools
    - Koala, a GUI application for *Less/Sass/Compass/CoffeeScript compilation*, [site](http://koala-app.com/)
    - Operative, a JavaScript utility for *seamlessly creating Web Worker scripts*, [repo](https://github.com/padolsey/operative)
-
-## July 24th, 2013
-
- - W3C
-   - Candidate Recommendation of “*Vibration API*” published, [TR](http://www.w3.org/TR/2013/CR-vibration-20130723/) + [diff](http://www.w3.org/TR/2013/CR-vibration-20130723/,diff)
-   - “*Requirements for providing text* to act as an alternative for images” section in HTML 5.1 updated, [source](https://twitter.com/stevefaulkner/status/359655186215604225)
- - News
-   - New findings: Typical leading ecommerce site takes *4.9 seconds to serve usable content*, [post](http://www.webperformancetoday.com/2013/07/23/report-ecommerce-page-speed-web-performance-summer-2013/)
-   - The Web’s longest nightmare ends: *Eolas’ patents are dead* on appeal, Ars [article](http://arstechnica.com/tech-policy/2013/07/the-webs-longest-nightmare-ends-eolas-patents-are-dead-on-appeal/)
- - FYI
-   - [@tokbox]() is doing a *survey on WebRTC* and where it’s headed. Check it out [here](https://www.surveymonkey.com/s/DevE)
- - UA dev.
-   - Support for ECMAScript 6 *binary and octal integer literals* added to V8, [source](https://twitter.com/beverloo/status/359674116640489473)
- - Tutorials
-   - Performing *asynchronous operations with Promises* + the Q library, [@kishorelive]()’s [post](http://12devs.co.uk/articles/promises-an-alternative-way-to-approach-asynchronous-javascript/)
- - Articles
-   - Does *Flexbox have a performance problem*?, [@chriscoyier]()’s [post](http://css-tricks.com/does-flexbox-have-a-performance-problem/) + feedback in comments
-   - The *networking terminology of WebRTC* (ICE, STUN, NAT, TURN, SDP, …), [@louisstow]()’s [post](https://hacks.mozilla.org/2013/07/webrtc-and-the-ocean-of-acronyms/) ![][*]
-   - An *overview of bootstraps* (Twitter, Pure, Cardinal, UI Kit, Foundation, Topcoat), [@inserthtml]()’s [post](http://www.inserthtml.com/2013/07/bootstraps-and-web-kits-enemy-or-efficient/)
-   - On mobile, *data URIs are slower* than linking external resources, [@b1tr0t]()’s [post](http://www.mobify.com/blog/data-uris-are-slow-on-mobile/)
- - Media
-   - How *illusion of speed* is more important than actual speed, [@souders]()’s 5-min clip in [@akosner]()’s [post](http://www.forbes.com/sites/anthonykosner/2013/07/13/how-mobile-experiences-can-shape-our-perception-through-illusions-of-speed/)
-   - *Unit testing*: Minutes now will save hours later, [@EricMann]()’s 41-min [@jqcon]() [talk](http://youtu.be/_UmmaPe8Bzc) ![][*]
-   - *ShopTalk Show*, ep. 78 w/ [@chriscoyier]() & [@rblalock](), 66-min [podcast](http://shoptalkshow.com/episodes/078-with-rick-blalock/)
- - Content
-   - CSS Guidelines, high-level guidelines for *writing manageable, maintainable CSS*, [@csswizardry]()’s [page](https://github.com/csswizardry/CSS-Guidelines)
-   - *Carousel interaction stats*, [@erunyon]()’s [post](http://weedygarden.net/2013/07/carousel-interaction-stats/)
- - Demos
-   - A *responsive slider* with pure CSS, [@teapoted]()’s [demo](http://csscience.com/responsiveslidercss3/)
-   - Plink, a real-time *collaborative music experience*, [@DinahmoeSTHLM]()’s [page](http://labs.dinahmoe.com/plink/) ![][*]
-   - “Riding the New Silk Road” *interactive feature*, NY Times [page](http://www.nytimes.com/newsgraphics/2013/07/21/silk-road/)
- - Sites
-   - Contrast Rebellion: “To hell with *low-contrast font color* and unreadable texts!”, [site](http://contrastrebellion.com/)
- - Tools
-   - localtunnel (Ruby gem), *shares your `localhost` web server* to the rest of the world, [page](http://progrium.com/localtunnel/)
 
