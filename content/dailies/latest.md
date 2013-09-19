@@ -1,3 +1,36 @@
+## September 19th, 2013
+
+ - News
+   - Survey finds *large enterprises adopting WebRTC*, [article](http://www.sys-con.com/node/2796101)
+   - Mozilla *opens up on cookie-blocking* (interview with [@BrendanEich]()), [article](http://www.adexchanger.com/online-advertising/mozilla-opens-up-on-cookie-blocking-methods-ad-targeting/)
+   - Micosoft releases a preview version of *IE11 for Windows 7*, [post](http://blogs.msdn.com/b/ie/archive/2013/09/18/ie11-release-preview-for-windows-7-30-faster-than-other-browsers-and-even-more-support-for-web-standards.aspx) (IEblog)
+ - UA dev.
+   - Firefox Nightly: Support for *H.264 on Linux*, [source](https://twitter.com/FirefoxNightly/status/380255880941293568), and *MP3 on X OS*, [source](https://twitter.com/FirefoxNightly/status/380308491631484928)
+ - Tutorials
+   - *Loading sound files faster* using Array Buffers and Web Audio API, [@thespite]()’s [post](http://www.clicktorelease.com/blog/loading-sounds-faster-using-html5-web-audio-api)
+   - Considerations for crafting *high-quality media queries*,  [@brad_frost]()’s [post](http://bradfrostweb.com/blog/post/7-habits-of-highly-effective-media-queries/) ![][*]
+   - A guide to *perceived performance*: Making your mobile site feel like a native app, [@kpeatt]()’s [post](http://www.mobify.com/blog/beginners-guide-to-perceived-performance/) ![][*]
+ - Articles
+   - How creative authors can *leverage HTML5*, [@pyramedium]()’s [post](http://www.rudebaguette.com/2013/09/12/creative-authors-html5-digital-storytellers/)
+   - What is the *Open Web*?, [@t]()’s [post](http://tantek.com/2010/281/b1/what-is-the-open-web) (old article but substantial)
+   - The *new Safari on iOS 7*: Problems, changes and new APIs, [@firt]()’s [post](http://www.mobilexweb.com/blog/safari-ios7-html5-problems-apis-review)
+   - [@guypod]()’s summary of the *responsive images meetup*, [post](http://www.guypo.com/uncategorized/responsive-images-meetup-a-subjective-summary/)
+ - Media
+   - Topic Undefined Ep. 5 ([@cfjedimaster]() and [@remotesynth]() *discuss web dev links*), 31-min [podcast](http://flippinawesome.org/topic-undefined/topic-undefined-episode-5/)
+   - “*Normalizing designs* for better quality CSS ”, [@csswizardry]()’s 44-min [talk](http://youtu.be/ldx4ZFxMEeo) + [slide deck](https://speakerdeck.com/csswizardry/normalising-designs-for-better-quality-css/)
+ - Content
+   - Review: The *ZTE Open Firefox OS smartphone* (available for £60 on eBay UK), [@saschasegan]()’s [post](http://www.itproportal.com/reviews/mobile-phones/zte-open-review/)
+   - “CSS Writing modes” *browser compatibility tables*, [@dstorey]()’s [page](https://dl.dropboxusercontent.com/u/444684/openwebref/CSS/writing-modes/support.html)
+   - A visual guide to *Sass & Compass color functions*, [@jackiebackwards]()’s [page](http://jackiebalzer.com/color) ![][*]
+   - *CSS property usage statistics* based on Chrome’s data, [page](http://www.chromestatus.com/metrics/css/rank)
+ - Tools
+   - x-picture, a Polymer implementation of the *proposed `<picture>` element*, [@respimg]()’s [repo](https://github.com/ResponsiveImagesCG/x-picture)
+   - Debuggex, an online *visual regular expression tester*, [site](http://www.debuggex.com/) (+ [example](http://www.debuggex.com/r/Ye9TaI2u3ZtCBiP6))
+   - vex, a lightweight, highly configurable *dialog library*, [repo](https://github.com/hubspot/vex)
+ - Opinion
+   - “The Web has the benefit of *not being locked into an app model*”, [@dalmaer]()’s [post](https://medium.com/tech-talk/19a573ec3f31)
+
+
 ## September 18th, 2013
 
  - News
@@ -631,36 +664,4 @@
    - VMUX, plugin-free *video calls in your browser* using WebRTC, [repo](https://github.com/malditogeek/vmux)
    - pickadate.js, a lightweight *responsive date/time picker*, [page](http://amsul.ca/pickadate.js/) w/ live demo ![][*]
    - jspm.io, a *browser module loader* that will load any module format (ES6/AMD/CJS), [site](http://jspm.io/)
-
-## July 25th, 2013
-
- - W3C
-   - *CSS WG teleconference* (July 24th), [notes](http://www.w3.org/blog/CSS/2013/07/24/resolutions-103/)
- - UA dev.
-   - Blink: Intent to deprecate and *remove XSLT*, [message](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/zIg2KC7PyH0)
-   - Blink: Intent to *implement KeyboardEvent*, [source](https://twitter.com/jaffathecake/status/359966381246132224) (aligning implementation with other browsers)
-   - *WebGL 2 prototype* available in Firefox Nightly, [page](https://wiki.mozilla.org/Platform/GFX/WebGL2)
-   - *Contacts API* landed in Fennec Nightly (Firefox for Android), [source](https://twitter.com/FennecNightly/status/360076136421662721)
- - Tutorials
-   - *Building HTML5 web components* with Polymer and X-Tags, [@davidgeary]()’s [post](http://www.ibm.com/developerworks/web/library/wa-html5components3/)
-   - *Automatic JSON parsing* via `xhr.responseType='json'` (supported only in Firefox), [@mathias]()’s [post](http://mathiasbynens.be/notes/xhr-responsetype-json)
-   - *Serving high resolution video* to devices with retina displays, [@iandevlin]()’s [post](http://www.iandevlin.com/blog/2012/12/html5/html5-video-for-retina-displays)
- - Articles
-   - A guide to Google’s new *mobile SEO rules*, [@b1tr0t]()’s [post](http://moz.com/ugc/the-definitive-guide-to-googles-new-mobile-seo-rules) ![][*]
-   - How the *Android stock browser* affects web developers, [@firt]()’s [post](http://www.mobilexweb.com/blog/android-browser-eternal-dying)
-   - For the *mobile Internet*, tomorrow belongs to Asia, [@loosewire]()’s [post](http://www.reuters.com/article/2013/07/23/smartphones-saturation-idUSL4N0FT0X420130723)
- - Media
-   - A guide to *object-oriented JavaScript*, [@jamesshore]()’s 27-min [screencast](http://www.objectplayground.com/) ![][*]
- - Content
-   - Performance profiling: *Recording traces* in Chrome DevTools, [@progers_]()’s 16-page [slide deck](https://docs.google.com/presentation/d/1pw9kbUFMD7s9KME8yIsCpCNKaSwjkGa89tt4M5rxIGM/mobilepresent)
- - Demos
-   - *Bifter SVG Comic* issue 32: HTML5 Clive, [@jonathan_ingram]()’s [page](http://www.bifter.co.uk/issue/32/)
-   - A collection of *visualizations made with D3.js*, [@alignedleft]()’s [page](http://visualizing.org/galleries/made-d3js)
-   - *CSS hyphenation* (supported in Firefox, IE10 and Safari), [tweet](https://twitter.com/simevidas/status/360150586554982402)
- - Sites
-   - HTML5 Hub, an *HTML5 developer community*, [site](http://html5hub.com/) (hosts articles)
-   - “Butterick’s Practical Typography”, a *guide to typography* (online book), [@mbutterick]()’s [site](http://practicaltypography.com/)
- - Tools
-   - Koala, a GUI application for *Less/Sass/Compass/CoffeeScript compilation*, [site](http://koala-app.com/)
-   - Operative, a JavaScript utility for *seamlessly creating Web Worker scripts*, [repo](https://github.com/padolsey/operative)
 

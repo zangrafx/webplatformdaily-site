@@ -1,3 +1,35 @@
+## July 25th, 2013
+
+ - W3C
+   - *CSS WG teleconference* (July 24th), [notes](http://www.w3.org/blog/CSS/2013/07/24/resolutions-103/)
+ - UA dev.
+   - Blink: Intent to deprecate and *remove XSLT*, [message](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/zIg2KC7PyH0)
+   - Blink: Intent to *implement KeyboardEvent*, [source](https://twitter.com/jaffathecake/status/359966381246132224) (aligning implementation with other browsers)
+   - *WebGL 2 prototype* available in Firefox Nightly, [page](https://wiki.mozilla.org/Platform/GFX/WebGL2)
+   - *Contacts API* landed in Fennec Nightly (Firefox for Android), [source](https://twitter.com/FennecNightly/status/360076136421662721)
+ - Tutorials
+   - *Building HTML5 web components* with Polymer and X-Tags, [@davidgeary]()’s [post](http://www.ibm.com/developerworks/web/library/wa-html5components3/)
+   - *Automatic JSON parsing* via `xhr.responseType='json'` (supported only in Firefox), [@mathias]()’s [post](http://mathiasbynens.be/notes/xhr-responsetype-json)
+   - *Serving high resolution video* to devices with retina displays, [@iandevlin]()’s [post](http://www.iandevlin.com/blog/2012/12/html5/html5-video-for-retina-displays)
+ - Articles
+   - A guide to Google’s new *mobile SEO rules*, [@b1tr0t]()’s [post](http://moz.com/ugc/the-definitive-guide-to-googles-new-mobile-seo-rules) ![][*]
+   - How the *Android stock browser* affects web developers, [@firt]()’s [post](http://www.mobilexweb.com/blog/android-browser-eternal-dying)
+   - For the *mobile Internet*, tomorrow belongs to Asia, [@loosewire]()’s [post](http://www.reuters.com/article/2013/07/23/smartphones-saturation-idUSL4N0FT0X420130723)
+ - Media
+   - A guide to *object-oriented JavaScript*, [@jamesshore]()’s 27-min [screencast](http://www.objectplayground.com/) ![][*]
+ - Content
+   - Performance profiling: *Recording traces* in Chrome DevTools, [@progers_]()’s 16-page [slide deck](https://docs.google.com/presentation/d/1pw9kbUFMD7s9KME8yIsCpCNKaSwjkGa89tt4M5rxIGM/mobilepresent)
+ - Demos
+   - *Bifter SVG Comic* issue 32: HTML5 Clive, [@jonathan_ingram]()’s [page](http://www.bifter.co.uk/issue/32/)
+   - A collection of *visualizations made with D3.js*, [@alignedleft]()’s [page](http://visualizing.org/galleries/made-d3js)
+   - *CSS hyphenation* (supported in Firefox, IE10 and Safari), [tweet](https://twitter.com/simevidas/status/360150586554982402)
+ - Sites
+   - HTML5 Hub, an *HTML5 developer community*, [site](http://html5hub.com/) (hosts articles)
+   - “Butterick’s Practical Typography”, a *guide to typography* (online book), [@mbutterick]()’s [site](http://practicaltypography.com/)
+ - Tools
+   - Koala, a GUI application for *Less/Sass/Compass/CoffeeScript compilation*, [site](http://koala-app.com/)
+   - Operative, a JavaScript utility for *seamlessly creating Web Worker scripts*, [repo](https://github.com/padolsey/operative)
+
 ## July 24th, 2013
 
  - W3C
