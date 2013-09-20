@@ -11,7 +11,7 @@ module.exports = function (grunt) {
 			counter = 0,
 			result = '',
 			latest = '',
-			minimal = true; // only create a file for the lastest 20 dailies
+			minimal = false; // only create a file for the lastest 20 dailies
 
 		// adds one leading zero to one-digit numbers
 		function z(n) {
@@ -63,7 +63,7 @@ module.exports = function (grunt) {
 		// used to perform Ctrl + F searches withing the web page on all data locally
 		// e.g. checking if you have something already
 		// that's why I need to add refs.md at the end
-		// result = latest + result;
-		// grunt.file.write('content/generated/all.md', result + grunt.file.read('content/main/refs.md'));
+		result = latest + result;
+		grunt.file.write('content/generated/all.md', result + grunt.file.read('content/main/refs.md'));
 	});
 };
