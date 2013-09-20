@@ -40,7 +40,7 @@ module.exports = function (grunt) {
 
 						counter++;
 						if (counter === 20) {
-							grunt.file.write('content/dailies/latest.md', result);
+							grunt.file.write('content/dailies/generated/latest.md', result);
 							if (minimal) break loop; // don't create archive.md and all.md
 
 							latest = result;
@@ -59,12 +59,13 @@ module.exports = function (grunt) {
 		}
 
 		if (!minimal) {
-			grunt.file.write('content/dailies/archive.md', result);
+			grunt.file.write('content/dailies/generated/archive.md', result);
 
 			// used to perform Ctrl + F searches withing the web page on all data locally
 			// e.g. checking if you have something already
+			// that's why I need to add refs.md at the end
 			result = latest + result;
-			grunt.file.write('content/dailies/all.md', result + grunt.file.read('content/main/refs.md'));
+			grunt.file.write('content/dailies/generated/all.md', result + grunt.file.read('content/main/refs.md'));
 		}
 	});
 };

@@ -21,7 +21,7 @@ module.exports = function (grunt) {
 				files: {
 					'content/main.md': [
 						'content/main/head.md',
-						'content/dailies/latest.md',
+						'content/dailies/generated/latest.md',
 						'content/main/foot.md',
 						'content/main/refs.md'
 					]
@@ -31,7 +31,7 @@ module.exports = function (grunt) {
 			for_rss: {
 				files: {
 					'feed/latest.temp.md': [
-						'content/dailies/latest.md',
+						'content/dailies/generated/latest.md',
 						'content/main/refs.md'
 					]
 				}
@@ -100,7 +100,7 @@ module.exports = function (grunt) {
 					'feed/rss.xml': ['feed/latest.temp.md']
 				},
 				options: {
-					template: 'feed/template.xml',
+					template: 'templates/rss_template.xml',
 					templateContext: {
 						time: (new Date).toString()
 					},
@@ -110,7 +110,7 @@ module.exports = function (grunt) {
 								.replace(/\/img\//g, 'http://webplatformdaily.org/img/');
 					},
 					postCompile: function (src) {
-						var template = grunt.file.read('feed/item_template.xml');
+						var template = grunt.file.read('templates/rss_item_template.xml');
 
 						return src.split('<h2>').slice(1).map(function (val) {
 							var title = val.match(/(.+)<\/h2>/)[1],
@@ -156,7 +156,7 @@ module.exports = function (grunt) {
 			md: {
 				// TODO: Use that grunt-newer plugin to make
 				// this work with 'content/*/*.md'
-				files: ['content/dailies/2013-09-16.md'],
+				files: ['content/dailies/*.md'],
 				tasks: ['md']
 			},
 			files: ['index.html']

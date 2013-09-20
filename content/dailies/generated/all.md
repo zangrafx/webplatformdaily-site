@@ -1,3 +1,44 @@
+## September 20th, 2013
+
+ - News
+   - …
+ - FYI
+   - …
+ - Tutorials
+   - [@]()’s [post]()
+   - [@]()’s [post]()
+   - [@]()’s [post]()
+   - [@]()’s [post]()
+   - [@]()’s [post]()
+ - Articles
+   - [@]()’s [post]()
+   - [@]()’s [post]()
+   - [@]()’s [post]()
+   - [@]()’s [post]()
+   - [@]()’s [post]()
+ - Media
+   - [@]()’s [talk]()
+   - [@]()’s [talk]()
+   - [@]()’s [talk]()
+   - [@]()’s [talk]()
+   - [@]()’s [talk]()
+ - Content
+   - …
+ - Demos
+   - [@]()’s [demo]()
+   - [@]()’s [demo]()
+   - [@]()’s [demo]()
+   - [@]()’s [demo]()
+ - Sites
+   - …
+ - Tools
+   - …
+ - Opinion
+   - [@]()’s [post]()
+   - [@]()’s [post]()
+   - [@]()’s [post]()
+   - [@]()’s [post]()
+
 ## September 19th, 2013
 
  - News
@@ -5,7 +46,7 @@
    - Mozilla *opens up on cookie-blocking* (interview with [@BrendanEich]()), [article](http://www.adexchanger.com/online-advertising/mozilla-opens-up-on-cookie-blocking-methods-ad-targeting/)
    - Micosoft releases a preview version of *IE11 for Windows 7*, [post](http://blogs.msdn.com/b/ie/archive/2013/09/18/ie11-release-preview-for-windows-7-30-faster-than-other-browsers-and-even-more-support-for-web-standards.aspx) (IEblog)
  - UA dev.
-   - Firefox Nightly: Support for *H.264 on Linux*, [source](https://twitter.com/FirefoxNightly/status/380255880941293568), and *MP3 on X OS*, [source](https://twitter.com/FirefoxNightly/status/380308491631484928)
+   - Firefox Nightly: Support for *H.264 on Linux*, [source](https://twitter.com/FirefoxNightly/status/380255880941293568), and *MP3 on OS X*, [source](https://twitter.com/FirefoxNightly/status/380308491631484928)
  - Tutorials
    - *Loading sound files faster* using Array Buffers and Web Audio API, [@thespite]()’s [post](http://www.clicktorelease.com/blog/loading-sounds-faster-using-html5-web-audio-api)
    - Considerations for crafting *high-quality media queries*,  [@brad_frost]()’s [post](http://bradfrostweb.com/blog/post/7-habits-of-highly-effective-media-queries/) ![][*]
