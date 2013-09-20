@@ -19,19 +19,19 @@ module.exports = function (grunt) {
 			// Merges the components into the main MD file
 			md: {
 				files: {
-					'content/main.md': [
+					'content/generated/main.md': [
 						'content/main/head.md',
-						'content/dailies/generated/latest.md',
+						'content/generated/latest.temp.md',
 						'content/main/foot.md',
 						'content/main/refs.md'
 					]
 				}
 			},
 			// A temp. file for the RSS generator task below
-			for_rss: {
+			rss: {
 				files: {
-					'feed/latest.temp.md': [
-						'content/dailies/generated/latest.md',
+					'content/generated/latest.temp.md': [
+						'content/generated/latest.temp.md',
 						'content/main/refs.md'
 					]
 				}
@@ -40,7 +40,7 @@ module.exports = function (grunt) {
 
 		// File deletions
 		clean: {
-			temp_md: ['feed/latest.temp.md']
+			daily: ['content/generated/*.temp.md']
 		},
 
 		// Generating the CSS file(s)
@@ -97,7 +97,7 @@ module.exports = function (grunt) {
 		markdown: {
 			rss: {
 				files: {
-					'feed/rss.xml': ['feed/latest.temp.md']
+					'feed/rss.xml': ['content/generated/latest.temp.md']
 				},
 				options: {
 					template: 'templates/rss_template.xml',
@@ -175,8 +175,7 @@ module.exports = function (grunt) {
 
 	grunt.registerTask('css', ['sass', 'csslint', 'concat:css']);
 	grunt.registerTask('js', ['jshint', 'uglify']);
-	grunt.registerTask('md', ['merge', 'concat:md']);
-	grunt.registerTask('rss', ['concat:for_rss', 'markdown:rss', 'clean:temp_md']);
+	grunt.registerTask('daily', ['merge', 'concat:md', 'concat:rss', 'markdown:rss', 'clean:daily']);
 	grunt.registerTask('server', ['connect', 'watch']);
 
 	grunt.loadTasks('tasks');

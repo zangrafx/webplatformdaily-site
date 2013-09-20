@@ -11,7 +11,7 @@ module.exports = function (grunt) {
 			counter = 0,
 			result = '',
 			latest = '',
-			minimal = false;
+			minimal = true; // only create a file for the lastest 20 dailies
 
 		// adds one leading zero to one-digit numbers
 		function z(n) {
@@ -40,7 +40,7 @@ module.exports = function (grunt) {
 
 						counter++;
 						if (counter === 20) {
-							grunt.file.write('content/dailies/generated/latest.md', result);
+							grunt.file.write('content/generated/latest.temp.md', result);
 							if (minimal) break loop; // don't create archive.md and all.md
 
 							latest = result;
@@ -58,14 +58,12 @@ module.exports = function (grunt) {
 			month = 12;
 		}
 
-		if (!minimal) {
-			grunt.file.write('content/dailies/generated/archive.md', result);
+		// grunt.file.write('content/generated/archive.md', result);
 
-			// used to perform Ctrl + F searches withing the web page on all data locally
-			// e.g. checking if you have something already
-			// that's why I need to add refs.md at the end
-			result = latest + result;
-			grunt.file.write('content/dailies/generated/all.md', result + grunt.file.read('content/main/refs.md'));
-		}
+		// used to perform Ctrl + F searches withing the web page on all data locally
+		// e.g. checking if you have something already
+		// that's why I need to add refs.md at the end
+		// result = latest + result;
+		// grunt.file.write('content/generated/all.md', result + grunt.file.read('content/main/refs.md'));
 	});
 };

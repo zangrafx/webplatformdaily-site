@@ -1,7 +1,7 @@
 styles/*.css
 js/*.min.js
-feed/rss.xml
 
 .archive
-node_modules
 .sass-cache
+node_modules
+feed
