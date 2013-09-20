@@ -40,7 +40,7 @@ module.exports = function (grunt) {
 
 		// File deletions
 		clean: {
-			daily: ['content/generated/*.temp.md']
+			temp: ['content/generated/*.temp.md']
 		},
 
 		// Generating the CSS file(s)
@@ -154,8 +154,6 @@ module.exports = function (grunt) {
 				tasks: ['js']
 			},
 			md: {
-				// TODO: Use that grunt-newer plugin to make
-				// this work with 'content/*/*.md'
 				files: ['content/dailies/*.md'],
 				tasks: ['md']
 			},
@@ -175,7 +173,8 @@ module.exports = function (grunt) {
 
 	grunt.registerTask('css', ['sass', 'csslint', 'concat:css']);
 	grunt.registerTask('js', ['jshint', 'uglify']);
-	grunt.registerTask('daily', ['merge', 'concat:md', 'concat:rss', 'markdown:rss', 'clean:daily']);
+	grunt.registerTask('md', ['merge', 'concat:md', 'clean:temp']);
+	grunt.registerTask('daily', ['merge', 'concat:md', 'concat:rss', 'markdown:rss', 'clean:temp']);
 	grunt.registerTask('server', ['connect', 'watch']);
 
 	grunt.loadTasks('tasks');
