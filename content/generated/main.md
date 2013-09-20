@@ -3,43 +3,35 @@ The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDail
 ## September 20th, 2013
 
  - News
-   - …
- - FYI
-   - …
+   - Proposal: A more effective *W3C specification life cycle*, [draft](https://dvcs.w3.org/hg/AB/raw-file/default/tr.html)
+   - Team of web developers to *recreate line-mode browser*, [article](http://home.web.cern.ch/about/updates/2013/09/dream-team-web-developers-recreate-line-mode-browser) (CERN)
+   - [@domenic]() and [@annevk]() working on *bringing Promises to ECMAScript 6*, [source](https://twitter.com/annevk/status/380756290147868672)
  - Tutorials
-   - [@]()’s [post]()
-   - [@]()’s [post]()
-   - [@]()’s [post]()
-   - [@]()’s [post]()
-   - [@]()’s [post]()
+   - The *HTML5 `<details>` and `<summary>` elements*: Usage and browser support, [@cfjedimaster]()’s [post](http://www.raymondcamden.com/index.cfm/2013/9/17/Playing-with-the-DetailsSummary-Tag)
+   - *Building a Windows Store app* with HTML5 and the Windows API, [@CompositeC1]()’s [post](http://mobile.smashingmagazine.com/2013/09/19/online-magazine-app-for-windows-8-part1-html5-app/)
+   - *Content Security Policy*: Receiving and processing *violation reports*, [@mathias]()’s [post](http://mathiasbynens.be/notes/csp-reports)
+   - A complete guide to the *HTML `<table>` element*, [@chriscoyier]()’s [post](http://css-tricks.com/complete-guide-table-element/)
  - Articles
-   - [@]()’s [post]()
-   - [@]()’s [post]()
-   - [@]()’s [post]()
-   - [@]()’s [post]()
-   - [@]()’s [post]()
+   - *Page slide animations and skeleton screens* instead of explicit progress indicators, [@lukew]()’s [post](http://www.lukew.com/ff/entry.asp?1797)
+   - “*Browser modes*” have been removed in *Internet Explorer 11*, [@craigbuckler]()’s [post](http://www.sitepoint.com/ie11-mysterious-missing-browser-modes/)
+   - *Complexity of JavaScript frameworks*: Comparison of their TodoMVC implementations, [@yaph]()’s [post](http://blog.coderstats.net/todomvc-complexity/)
+   - A summary of *upcoming features in WebGL 2.0*, [@Tojiro]()’s [post](http://blog.tojicode.com/2013/09/whats-coming-in-webgl-20.html)
  - Media
-   - [@]()’s [talk]()
-   - [@]()’s [talk]()
-   - [@]()’s [talk]()
-   - [@]()’s [talk]()
-   - [@]()’s [talk]()
+   - *Changes in CSS* introduced by Web Components (i.a. scoped CSS), [@stopsatgreen]()’s 32-min [talk](http://youtu.be/U45e-zq4bTs) ![][*]
+   - High-quality, low-latency *multiplayer gaming in modern web browsers*, [@artillery]()’s promo [video](http://youtu.be/NiCy5igO9-I) ![][*]
  - Content
-   - …
+   - Google moderator page for *next Monday’s Edge conference*: Submit and review questions, [page](http://www.google.com/moderator/#16/e=20e3ec)
+   - HTTPFlies, a beautiful *HTTP status code reference*, [@morganesque]()/[@DeanVipond]()’s [site](http://httpflies.com/)
+   - [@marcosc]()’s *responsive images meetup* [report](http://www.w3.org/community/respimg/2013/09/18/paris-responsive-images-meetup/) (based on other posts published earlier this week)
+   - Using Chrome DevTools when *remote debugging mobile Safari*, [instructions](http://stackoverflow.com/a/16903378/425275) on Stack Overflow
  - Demos
-   - [@]()’s [demo]()
-   - [@]()’s [demo]()
-   - [@]()’s [demo]()
-   - [@]()’s [demo]()
- - Sites
-   - …
+   - UI concept: *Focus transition*, [@ELV1S]()’s [page](http://n12v.com/focus-transition/) w/ live and video demo
+   - Using *videos as backgrounds*, [@inserthtml]()’s [demo](http://www.inserthtml.com/2013/09/quick-tips-background-videos)
+   - Concept: An attractive *mobile web app menu*, Hoiland’s [demo](http://codepen.io/matthoiland/pen/vHFCk)
  - Tools
-   - …
- - Opinion
-   - [@]()’s [post]()
-   - [@]()’s [post]()
-   - [@]()’s [post]()
-   - [@]()’s [post]()
+   - FlowTypeJS, automatically *adjusts an element’s font-size* based on its width, [page](http://simplefocus.com/flowtype/) w/ live demo
+   - animo.js, a library for *managing CSS animations*, [page](http://labs.bigroomstudios.com/libraries/animo-js) w/ live demos
+
 
 ## September 19th, 2013
 
