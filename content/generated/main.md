@@ -1,5 +1,37 @@
 The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDailyDigest). I’ve also activated the [email subscription](http://feedburner.google.com/fb/a/mailverify?uri=OpenWebPlatformDailyDigest&amp;loc=en_US) option.
 
+## September 23rd, 2013
+
+ - News
+   - After more than 10 years: Updated working draft of “*CSS Syntax*” (complete rewrite), [draft](http://www.w3.org/TR/css-syntax-3/) + [notes](http://www.w3.org/blog/CSS/2013/09/21/css-syntax-draft-updated/)
+   - North America’s registry ARIN now has *less than 30 million IPv4s left* to delegate, [source](https://twitter.com/IPv4Countdown/status/381583660144943104)
+ - FYI
+   - You can easily *exclude your own IP address* from Google Analytics for your website, [@dwillkent]()’s [post](http://tech.pro/tutorial/1605/google-analytics-exclude-your-ip-address)
+ - Tutorials
+   - *Speech synthesis* with the Web Speech API (in latest ![][Sa] and ![][CC]), [@stopsatgreen]()’s [post](http://www.broken-links.com/2013/09/20/web-speech-api-part-one-speech-synthesis/) + [demo](http://www.broken-links.com/tests/webspeech/synthesis.php)
+   - Using Geolocation and the Google Maps API to *display a location* on a Google Maps inline map, [post](http://www.sitepoint.com/html5-geolocation/)
+   - ECMAScript 6’s *“fat arrow” functions* (supported in ![][FF]), [@robcee]()’s [post](http://robcee.net/2013/fat-arrow-functions-in-javascript/)
+ - Articles
+   - *Multi-path TCP* (available in iOS 7) and its role in the future of the Internet, [@mims]()’s [post](http://qz.com/126642/apples-ios7-includes-a-surprise-a-ticket-to-the-next-generation-of-the-internet/)
+   - A tidbit on *HTML parsers and tree construction*, [@miketaylr]()’s [post](https://miketaylr.com/posts/2013/09/how-many-doctypes-can-a-doctype-type.html) ![][*]
+   - The *ECMAScript Internationalization API*: Overview and browser support, [@rauschma]()’s [post](http://www.2ality.com/2013/09/ecmascript-i18n-api.html)
+   - The privacy and security concerns of *local IP discovery with WebRTC*, [@einaros]()’s [post](https://2x.io/read/security-by-obscurity)
+ - Media
+   - A quick introduction to *CSS masking*, [@razvancaliman]()’s 8-min [screencast](http://youtu.be/vV3h5OetmSI) ![][*]
+   - [@HTML5hub]() roundtable: “*Mobilizing the web*”, 64-min video [conference](http://html5hub.com/developer-roundtable-mobilizing-the-web/#i.xov2jogpddzntz) (Mozilla, Microsoft, Adobe, …)
+ - Content
+   - Are *text zoom options on websites* useful?, discussion on Twitter summarized in [@vasilis]()’s [post](http://nerd.vasilis.nl/text-zoom-options-websites-need/)
+   - “CSS Text” *browser support tables* (including “CSS Text” Level 4 features), [@dstorey]()’s [page](https://dl.dropboxusercontent.com/u/444684/openwebref/CSS/text/support.html)
+   - Performance tip: “Serve critical above the fold content in the *first 14kB of the response*”, [source](https://twitter.com/stubbornella/status/380905962682347521)
+   - A guide to *contributing to the Mozilla Developer Network* (MDN), [@chrisdavidmills]()’s 43-page [slide deck](http://www.slideshare.net/chrisdavidmills/mdn-is-easy)
+ - Demos
+   - Creative *loading indicators*, [@crnacura]()’s demo [page](http://tympanus.net/Development/CreativeLoadingEffects/)
+   - *CSS demo*: Night sky with twinkling stars,[@AramisGC]()’s [demo](http://www.script-tutorials.com/demos/360/index.html)
+ - Tools
+   - VisualPing, a *visual website monitoring* tool, [site](http://visualping.io/)
+   - TripleSec, a *symmetric encryption library* for the browser and Node.js, [page](https://keybase.io/triplesec/) w/ live demo
+   - describler, an online tool for *making SVG images accessible* and reusable, [site](http://describler.com/)
+
 ## September 20th, 2013
 
  - News
@@ -637,37 +669,6 @@ The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDail
    - SVGeneration (online tool), an *SVG pattern code generator* for use in CSS `background-image`, [site](http://www.svgeneration.com/) ![][*]
    - codeshare.io, an online editor for *sharing code in real-time*, [site](http://codeshare.io/)
 
-## July 29th, 2013
-
- - News
-   - *Do Not Track opt-out* icon coming to mobile browsers, CNET [article](http://news.cnet.com/8301-1023_3-57595191-93/do-not-track-opt-out-icon-coming-to-mobile-browsers/)
- - UA dev.
-   - Chrome Canary now supports *video alpha transparency in WebM*, [post](http://updates.html5rocks.com/2013/07/Alpha-transparency-in-Chrome-video) w/ video demo
- - Tutorials
-   - A good comprehensive *introduction to `requestAnimationFrame`*, [@kirupa]()’s [post](http://www.kirupa.com/html5/animating_with_requestAnimationFrame.htm)
-   - Creating a *3D game with WebGL* and Three.js, [@nklsrh]()’s [post](http://buildnewgames.com/webgl-threejs/)
-   - Tools for *automated CSS testing* (syntax checking, image diffs, …), [@thingsinjars]()’s [post](http://www.netmagazine.com/tutorials/4-tools-automatic-css-testing)
-   - A guide to *working with ECMAScript 6 modules* (+ polyfills for using today), [@rauschma]()’s [post](http://www.2ality.com/2013/07/es6-modules.html) ![][*]
-   - A *getting-started guide to git*, [@tobidobi]()’s [post](http://sixrevisions.com/web-development/easy-git-tutorial/)
- - Articles
-   - A roundup of the different *website deployment methods*, [@chriscoyier]()’s [post](http://css-tricks.com/deployment/)
-   - 10 things you might not know *about accessibility*, Scott Hollier’s [post](http://www.connectingup.org/learn/articles/10-things-you-might-not-know-about-accessibility) ![][*]
-   - Some users continue to *double-click online* (+ how to prevent issues with this), [@jamieappleseed]()’s [post](http://baymard.com/blog/users-double-click-online)
-   - How developers can *contribute to the HTML5 specification*, [@iandevlin]()’s [post](http://html5hub.com/how-developers-can-contribute-to-the-html5-specification/)
-   - Performance comparison: *CSS transitions vs jQuery’s `.animate()`*, [@richbradshaw]()’s [post](http://css3.bradshawenterprises.com/blog/jquery-vs-css3-transitions/)
- - Media
-   - Tools for *building apps for Firefox OS*, 7-min [discussion](https://hacks.mozilla.org/2013/07/getting-started-with-apps-firefox-os-for-developers-the-platform-html5-deserves/) between [@torgo]() and [@codepo8]()
-   - “*Non profits in the digital age*”, 24-min [video](http://ww3.tvo.org/video/193146/mark-surman-non-profits-digital-age) interview w/ Mozilla exec [@msurman]() ![][*]
-   - Dark patterns: User interfaces *designed to trick people*, [@harrybr]()’s 29-min [screencast](http://www.slideshare.net/harrybr/ux-brighton-dark-patterns)
- - Content
-   - Interview with [@brucel]() (Open *Web Standards evangelist for Opera*), [page](http://html5hub.com/bruce-lawson-interview/)
-   - Locale Preferences API (… to enable *dynamic localization of content*), [@marcosc]()’s [proposal](https://github.com/marcoscaceres/Locale-Preferences-API/blob/master/proposal.md)
- - Sites
-   - WebGL Academy, an online course for *learning the basics of WebGL*, [site](http://www.webglacademy.com/)
- - Tools
-   - loads.in, an online tool for testing *how fast your site loads* from different geographical locations, [site](http://loads.in/)
-   - animations.css, a *set of preset, plug-and-play CSS animations*, [page](http://www.justinaguilar.com/animations/) + jsFiddle [demo](https://twitter.com/simevidas/status/361646229471506432)
-
 
 **Note:** I’ve temporarily disabled loading additional content onto the page. You can view older dailies in [the “archive” on GitHub](https://github.com/simevidas/webplatformdaily-site/blob/master/content/dailies/archive.md). I’ll implement viewing (and searching) of all data soon.
 
@@ -678,7 +679,11 @@ The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDail
 [>]: /img/media.png "audio/video"
 [&]: /img/feedback.png "seeks feedback"
 
-[Ch]: /img/chrome.png "Google Chrome"
-[Op]: /img/opera.png "Opera browser"
+[FF]: /img/firefox.png "Firefox"
+[FN]: /img/firefox-nightly.png "Firefox Nightly"
+[Ch]: /img/chrome.png "Chrome"
+[CC]: /img/chrome-canary.png "Chrome Canary"
+[Sa]: /img/safari.png "Safari"
+[Op]: /img/opera.png "Opera"
 
 [Client-Hints]: https://github.com/igrigorik/http-client-hints

@@ -1,3 +1,35 @@
+## September 23rd, 2013
+
+ - News
+   - After more than 10 years: Updated working draft of “*CSS Syntax*” (complete rewrite), [draft](http://www.w3.org/TR/css-syntax-3/) + [notes](http://www.w3.org/blog/CSS/2013/09/21/css-syntax-draft-updated/)
+   - North America’s registry ARIN now has *less than 30 million IPv4s left* to delegate, [source](https://twitter.com/IPv4Countdown/status/381583660144943104)
+ - FYI
+   - You can easily *exclude your own IP address* from Google Analytics for your website, [@dwillkent]()’s [post](http://tech.pro/tutorial/1605/google-analytics-exclude-your-ip-address)
+ - Tutorials
+   - *Speech synthesis* with the Web Speech API (in latest ![][Sa] and ![][CC]), [@stopsatgreen]()’s [post](http://www.broken-links.com/2013/09/20/web-speech-api-part-one-speech-synthesis/) + [demo](http://www.broken-links.com/tests/webspeech/synthesis.php)
+   - Using Geolocation and the Google Maps API to *display a location* on a Google Maps inline map, [post](http://www.sitepoint.com/html5-geolocation/)
+   - ECMAScript 6’s *“fat arrow” functions* (supported in ![][FF]), [@robcee]()’s [post](http://robcee.net/2013/fat-arrow-functions-in-javascript/)
+ - Articles
+   - *Multi-path TCP* (available in iOS 7) and its role in the future of the Internet, [@mims]()’s [post](http://qz.com/126642/apples-ios7-includes-a-surprise-a-ticket-to-the-next-generation-of-the-internet/)
+   - A tidbit on *HTML parsers and tree construction*, [@miketaylr]()’s [post](https://miketaylr.com/posts/2013/09/how-many-doctypes-can-a-doctype-type.html) ![][*]
+   - The *ECMAScript Internationalization API*: Overview and browser support, [@rauschma]()’s [post](http://www.2ality.com/2013/09/ecmascript-i18n-api.html)
+   - The privacy and security concerns of *local IP discovery with WebRTC*, [@einaros]()’s [post](https://2x.io/read/security-by-obscurity)
+ - Media
+   - A quick introduction to *CSS masking*, [@razvancaliman]()’s 8-min [screencast](http://youtu.be/vV3h5OetmSI) ![][*]
+   - [@HTML5hub]() roundtable: “*Mobilizing the web*”, 64-min video [conference](http://html5hub.com/developer-roundtable-mobilizing-the-web/#i.xov2jogpddzntz) (Mozilla, Microsoft, Adobe, …)
+ - Content
+   - Are *text zoom options on websites* useful?, discussion on Twitter summarized in [@vasilis]()’s [post](http://nerd.vasilis.nl/text-zoom-options-websites-need/)
+   - “CSS Text” *browser support tables* (including “CSS Text” Level 4 features), [@dstorey]()’s [page](https://dl.dropboxusercontent.com/u/444684/openwebref/CSS/text/support.html)
+   - Performance tip: “Serve critical above the fold content in the *first 14kB of the response*”, [source](https://twitter.com/stubbornella/status/380905962682347521)
+   - A guide to *contributing to the Mozilla Developer Network* (MDN), [@chrisdavidmills]()’s 43-page [slide deck](http://www.slideshare.net/chrisdavidmills/mdn-is-easy)
+ - Demos
+   - Creative *loading indicators*, [@crnacura]()’s demo [page](http://tympanus.net/Development/CreativeLoadingEffects/)
+   - *CSS demo*: Night sky with twinkling stars,[@AramisGC]()’s [demo](http://www.script-tutorials.com/demos/360/index.html)
+ - Tools
+   - VisualPing, a *visual website monitoring* tool, [site](http://visualping.io/)
+   - TripleSec, a *symmetric encryption library* for the browser and Node.js, [page](https://keybase.io/triplesec/) w/ live demo
+   - describler, an online tool for *making SVG images accessible* and reusable, [site](http://describler.com/)
+
 ## September 20th, 2013
 
  - News
@@ -3843,7 +3875,11 @@ Authoring & development workflow [link](https://developers.google.com/chrome-dev
 [>]: /img/media.png "audio/video"
 [&]: /img/feedback.png "seeks feedback"
 
-[Ch]: /img/chrome.png "Google Chrome"
-[Op]: /img/opera.png "Opera browser"
+[FF]: /img/firefox.png "Firefox"
+[FN]: /img/firefox-nightly.png "Firefox Nightly"
+[Ch]: /img/chrome.png "Chrome"
+[CC]: /img/chrome-canary.png "Chrome Canary"
+[Sa]: /img/safari.png "Safari"
+[Op]: /img/opera.png "Opera"
 
 [Client-Hints]: https://github.com/igrigorik/http-client-hints
