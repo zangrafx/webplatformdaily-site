@@ -5,7 +5,11 @@
 [>]: /img/media.png "audio/video"
 [&]: /img/feedback.png "seeks feedback"
 
-[Ch]: /img/chrome.png "Google Chrome"
-[Op]: /img/opera.png "Opera browser"
+[FF]: /img/firefox.png "Firefox"
+[FN]: /img/firefox-nightly.png "Firefox Nightly"
+[Ch]: /img/chrome.png "Chrome"
+[CC]: /img/chrome-canary.png "Chrome Canary"
+[Sa]: /img/safari.png "Safari"
+[Op]: /img/opera.png "Opera"
 
 [Client-Hints]: https://github.com/igrigorik/http-client-hints
