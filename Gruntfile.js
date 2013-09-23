@@ -146,7 +146,7 @@ module.exports = function (grunt) {
 				livereload: true
 			},
 			css: {
-				files: ['styles/daily.sass'],
+				files: ['styles/*.sass'],
 				tasks: ['css']
 			},
 			js: {
@@ -154,7 +154,7 @@ module.exports = function (grunt) {
 				tasks: ['js']
 			},
 			md: {
-				files: ['content/dailies/*.md'],
+				files: ['content/dailies/*.md', 'content/main/*.md'],
 				tasks: ['md']
 			},
 			files: ['index.html']
