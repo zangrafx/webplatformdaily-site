@@ -1,5 +1,33 @@
 The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDailyDigest). I’ve also activated the [email subscription](http://feedburner.google.com/fb/a/mailverify?uri=OpenWebPlatformDailyDigest&amp;loc=en_US) option.
 
+## September 24th, 2013
+
+ - News
+   - Google looks to drop *Netscape Plugin API* support in Chrome, [article](http://thenextweb.com/google/2013/09/23/google-chrome-drops-netscape-plugin-api-support-to-improve-stability-will-block-most-plugins-in-january-2014/) (TNW)
+ - UA dev.
+   - Chrome Canary adds support for the HTML5 *`<dialog>` element*, [@agektmr]()’s [post](http://updates.html5rocks.com/2013/09/dialog-element-Modals-made-easy)
+   - *Improved HTTP cache* back-end in Firefox Nightly, [post](http://www.janbambas.cz/mozilla-firefox-new-http-cache-is-live/)
+   - New features coming to *Firefox’s Responsive Design Mode*, Paul’s 1-min [screencast](http://youtu.be/myGoSG-EKbk)
+ - Tutorials
+   - 7 great tips for *Node.js development*, [@FaisalAbid]()’s [post](https://medium.com/tech-talk/e7c0b0e5ce3c)
+   - Comparison of *Promise construction* patterns (in q, jQuery, RSVP and WinJS), [@derickbailey]()’s [post](http://lostechies.com/derickbailey/2013/09/20/consistency-problems-with-apis-in-javascript-promise-libraries/)
+   - *Responsive tables* - a technique for scrollable tables on small widths, [@rogerjohansson]()’s [post](http://www.456bereastreet.com/archive/201309/responsive_scrollable_tables/) + [demo](http://www.456bereastreet.com/lab/responsive-scrollable-tables/)
+ - Articles
+   - The benefits and challenges of “*designing in the open*”, [@brad_frost]()’s [post](http://bradfrostweb.com/blog/post/designing-in-the-open/)
+   - The “*everywhere web*”: Doing as little as possible, [@lyzadanger]()’s [post](http://alistapart.com/column/do-as-little-as-possible)
+   - The *Web Audio API* - an overview of tutorials and demos, [post](http://www.techrepublic.com/blog/web-designer/use-the-html5-web-audio-api-to-get-creative-with-your-web-apps-sounds/) (TechRepublic)
+ - Media
+   - Persona, Mozilla’s *cross-browser login system* for the web, [@fmarier]()’s 41-min [talk](https://hasgeek.tv/jsfoo/2013-1/683-killing-passwords-with-javascript)
+   - *Firefox DevTools*: Web console, 2-min [s’cast](http://youtu.be/C6Cyrpkb25k) + JavaScript debugger, 2-min [s’cast](http://youtu.be/sK8KU8oiF8s)
+ - Content
+   - *Device screen resolutions* ordered by OS (comprehensive and regularly updated), [@dstorey]()’s [post](http://generatedcontent.org/post/34217358607/deviceresolution)
+   - *History of WebRTC* inside Google before it was released to the public, [@slac]()’s [message](http://www.quora.com/WebRTC/What-was-the-history-of-WebRTC-inside-Google-before-it-was-released-to-the-public) on Quora
+   - Concierge, an UI component for *installing web apps via the browser*, [@alex_gibson]()’s [post](http://alxgbsn.co.uk/2013/09/22/concierge-a-responsive-ui-component-for-installing-open-web-apps/)
+ - Tools
+   - BackgroundCheck, sets CSS class on element based on *brightness of its background image*, [page](http://kennethcachia.com/background-check/)
+   - generator-mobile, Yeoman’s *generator for mobile-first web apps*, [repo](https://github.com/yeoman/generator-mobile/)
+   - Static Map Maker, generates *static Google Maps images*, [@katydecorah]()’s [page](http://codepen.io/katydecorah/pen/Klieu)
+
 ## September 23rd, 2013
 
  - News
@@ -636,38 +664,6 @@ The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDail
    - he, a robust *HTML entity encoder/decoder* written in JavaScript, [repo](https://github.com/mathiasbynens/he)
  - Opinion
    - “After 20 years the web still has no culture of *design excellence*”, [@mbutterick]()’s [post](http://unitscale.com/mb/bomb-in-the-garden/) ![][*]
-
-## July 30th, 2013
-
- - News
-   - *TC-39 July meeting* held, [@rwaldron]()’s [notes](https://github.com/rwldrn/tc39-notes/tree/master/es6/2013-07)
-   - MS OpenTech releases an *HTTP/2.0 server prototype*, [post](http://msopentech.com/blog/2013/07/29/start-testing-with-first-implementation-of-ietf-http2-0-draft-from-ms-open-tech/)
- - UA dev. 
-   - *MediaRecorder API* ([?](https://dvcs.w3.org/hg/dap/raw-file/default/media-stream-capture/MediaRecorder.html#MediaRecorderAPI)) added to Firefox Nightly, [source](https://twitter.com/sw12/status/361864499046780928)
-   - Intent to implement: *NavigationController* in Firefox, [source](https://twitter.com/codepo8/status/361899573033172993)
-   - *Discussion about `setImmediate`* on `blink-dev`, [link](https://groups.google.com/a/chromium.org/d/topic/blink-dev/Hn3GxRLXmR0/discussion)
- - FYI
-   - *SVG limitations* in IE11, [discussion](https://twitter.com/jaffathecake/status/361763320765743104) on Twitter
- - Tutorials
-   - A great *introductory guide to Node.js*, [@nzgb]()’s [post](http://blog.ponyfoo.com/2013/07/12/teach-yourself-nodejs-in-10-steps) ![][*]
-   - *Dynamic CSS animations* with Rekapi, [@jeremyckahn]()’s [post](http://jeremyckahn.github.io/blog/2013/07/28/60-fps-or-bust-dynamically-prerendering-css-animations/)
-   - *Optimizing (minifying) images* with grunt-contrib-imagemin, [@gryghostvisuals]()’s [post](http://blog.grayghostvisuals.com/grunt/image-optimization/)
-   - *Animated line drawing* in SVG, [@jaffathecake]()’s [post](http://jakearchibald.com/2013/animated-line-drawing-svg/) (+ [@mbostock]()’s related [demo](http://bl.ocks.org/mbostock/5649592))
-   - Reliably retrieving the *dimensions of the CSS viewport* (in JavaScript), [@tysonmatanich]()’s [post](http://www.matanich.com/2013/01/07/viewport-size/)
- - Media
-   - “Lessons from the experimental edge of technology”, [@rem]()’s 31-min [@jsconf]() [talk](http://youtu.be/f_9nDBtSInI)
- - Content
-   - *Test your knowledge*: What size is your viewport width?, [page](http://www.matanich.com/test/viewport-width/) ![][*]
-   - Proposal: *`autoselect` attribute* on form input fields, [@getify]()’s [post](http://html5hub.com/autoselect-this/)
-   - A small collection of *HTML email protips*, [@devongovett]()’s [page](http://storify.com/devongovett/html-email-protips)
-   - Introduction to *ARIA widgets*, [@jkiss]()’s [slide deck](http://accessibleculture.org/articles/2013/07/slides-from-wdcnz-2013/)
- - Demos
-   - A *spinning cube* with pure CSS, [@davidwalshblog]()’s [post](http://davidwalsh.name/css-cube)
- - Tools
-   - ViewportTester (bookmarklet), *displays the viewport dimensions* of the current window, [page](http://tysonmatanich.github.io/viewportTester/)
-   - Pixel density tests (online tool), *tests support for `device-pixel-ratio`* and `min/max-resolution`, [page](http://www.matanich.com/examples/pixel-density-tests/)
-   - SVGeneration (online tool), an *SVG pattern code generator* for use in CSS `background-image`, [site](http://www.svgeneration.com/) ![][*]
-   - codeshare.io, an online editor for *sharing code in real-time*, [site](http://codeshare.io/)
 
 
 **Note:** I’ve temporarily disabled loading additional content onto the page. You can view older dailies in [the “archive” on GitHub](https://github.com/simevidas/webplatformdaily-site/blob/master/content/dailies/archive.md). I’ll implement viewing (and searching) of all data soon.
