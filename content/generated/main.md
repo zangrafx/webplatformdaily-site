@@ -1,5 +1,39 @@
 The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDailyDigest). I’ve also activated the [email subscription](http://feedburner.google.com/fb/a/mailverify?uri=OpenWebPlatformDailyDigest&amp;loc=en_US) option.
 
+## September 25th, 2013
+
+ - News
+   - Harvard Library Innovation Lab pioneers project aimed at *mitigating “link rot”*, [@zittrain]()’s [post](http://blogs.law.harvard.edu/futureoftheinternet/2013/09/22/perma/)
+   - Auto industry to speed up the death of native apps, *rise of HTML5*, [article](http://www.wired.com/insights/2013/09/auto-industry-to-rev-up-the-death-of-native-apps-rise-of-html5/) (Wired)
+   - Google makes change aimed at *encrypting all search activity*, except for clicks on ads, [article](http://searchengineland.com/post-prism-google-secure-searches-172487)
+ - UA dev.
+   - Chrome Canary: CSS *`::before`/`::after` content inspectable* in DevTools, [source](https://twitter.com/ebidel/status/382351541010567168) ![][*]
+   - Soon in *Firefox DevTools*: “doorhangers”, [source](https://twitter.com/patrickbrosset/status/382431319684165632) + pixel inspector, [source](https://twitter.com/patrickbrosset/status/382403071180943361)
+ - FYI
+   - Examples of scenarios where users benefit from *text alternatives for images*, [source](https://twitter.com/stevefaulkner/status/382419547476619264)
+   - 6 new *support tables* added to “Can I use…” (i.a. WebRTC, Mutation Observers), [source](https://twitter.com/caniuse/status/382346673667596288)
+ - Tutorials
+   - Getting started with *Topcoat, Adobe’s UI library* designed with speed in mind, [@kesbutters]()’s [post](http://www.sitepoint.com/introduction-topcoat/)
+   - A gotcha with *missing `0%` and `100%` keyframes* in CSS Animations, [@craigbuckler]()’s [post](http://www.sitepoint.com/animation-keyframe-gotcha/)
+ - Articles
+   - An *introduction to Unicode* and how it is handled in JavaScript, [@rauschma]()’s [post](http://www.2ality.com/2013/09/javascript-unicode.html) ![][*]
+   - Reintroducing *the Firefox DevTools*, part 1: Web console, JavaScript debugger, [@JasonWeathersby]()’s [post](https://hacks.mozilla.org/2013/09/reintroducing-the-firefox-developer-tools-part-1-the-web-console-and-the-javascript-debugger/)
+ - Media
+   - Security: *Content injection attacks*, [@mikewest]()’s 30-min [talk](http://youtu.be/eb3suf4REyI) + [slide deck](https://speakerdeck.com/mikewest/xss-no-the-other-s-cssconf-eu-2013) ![][*]
+   - Stand-up comedy: *CSS jokes*, [@jedschmidt]()’s hilarious 9-min [performance](http://youtu.be/KKM71-YeJp8)
+ - Content
+   - A world map for locating *open device labs* (currently in 22 countries), [site](http://opendevicelab.com/)
+   - Sophos’ poll: “*Which web browser do you trust?*”, [results](http://nakedsecurity.sophos.com/2013/09/23/firefox-burns-chrome-in-our-trustworthy-browser-poll/) (Firefox wins by large margin)
+   - *TC-39 meeting* (Sept 17–19, 2013), [@rwaldron]()’s [notes](https://github.com/rwaldron/tc39-notes/tree/master/es6/2013-09)
+   - A couple of *questions about Persona* answered by [@seanmonstar]() in this [gist](https://gist.github.com/seanmonstar/6694364)
+ - Tools
+   - Social Share Privacy, a plugin for providing *initially disabled social buttons*, [page](http://panzi.github.io/SocialSharePrivacy/)
+   - PACE, an *automatic progress indicator* for page load and Ajax navigation, [page](http://github.hubspot.com/pace/docs/welcome/)
+   - feedthebot *tools* (i.e. Gzip checker, spider simulator, link report tool), [page](http://www.feedthebot.com/tools/) ![][*]
+ - Opinion
+   - The *triumph of JavaScript*, [@EricKnorr]()’s [post](http://podcasts.infoworld.com/t/application-development/the-triumph-of-javascript-227283)
+
+
 ## September 24th, 2013
 
  - News
@@ -632,38 +666,6 @@ The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDail
    - Baseline.js, *restores vertical baselines* thrown off by odd image sizes, [page](http://daneden.me/baseline/) w/ live demo
  - Opinion
    - “Crippling the Web”, [@tkadlec]()’s [post](http://timkadlec.com/2013/07/crippling-the-web/) ![][*]
-
-## July 31st, 2013
-
- - W3C
-   - “*Web Storage*” published as a **W3C Recommendation**, [TR](http://www.w3.org/TR/2013/REC-webstorage-20130730/)
-   - Updated Candidate Recommendation of “*CSS Values and Units*”, [TR](http://www.w3.org/TR/2013/CR-css3-values-20130730/) + [diff](http://www.w3.org/TR/2013/CR-css3-values-20130730/,diff) + release [notes](http://www.w3.org/blog/CSS/2013/07/31/css3-values-cr-update/)
-   - **Last Call** Working Draft of “*CSS Cascading and Inheritance*”, [TR](http://www.w3.org/TR/2013/WD-css-cascade-3-20130730/) + [diff](http://www.w3.org/TR/2013/WD-css-cascade-3-20130730/,diff) + release [notes](http://www.w3.org/blog/CSS/2013/07/31/css3-cascade-lcwd/)
-   - Updated Working Draft of “*IndieUI: Events*”, [TR](http://www.w3.org/TR/2013/WD-indie-ui-events-20130730/) + [diff](http://www.w3.org/TR/2013/WD-indie-ui-events-20130730/,diff) + release [notes](http://www.w3.org/News/2013.html?utm_source=dlvr.it&utm_medium=twitter#entry-9903)
- - UA dev.
-   - Intent to Implement: *NavigationController in Blink*, [source](https://twitter.com/addyosmani/status/362325317228048385)
- - FYI
-   - Would you *prefer Date objects* or a number for a timestamp in an API?, [discussion](https://twitter.com/annevk/status/362017983461212160) on Twitter
- - Tutorials
-   - The *`classList` API* (API overview + browser support + polyfills), [@derekjohnson]()’s [post](http://html5doctor.com/the-classlist-api/)
-   - HTML5 Geolocation: *Drawing routes with the Google Maps API*, [@JonnySchnittger]()’s [post](http://www.developerdrive.com/2013/07/html5-geo-location-api-and-google-maps-api/) + [demo](http://developerdrive.developerdrive.netdna-cdn.com/wp-content/uploads/2013/07/location1.html)
-   - A 7-step guide to establishing a *front-end workflow with Grunt*, [@toddmotto]()’s [post](http://tech.pro/tutorial/1456/a-primer-into-front-end-tooling-gruntjs-for-an-open-source-workflow) ![][*]
- - Articles
-   - The pros/cons of *checking in your front-end dependencies* into source control, [@addyosmani]()’s [post](http://addyosmani.com/blog/checking-in-front-end-dependencies/)
-   - Introduction to the new F12 *developer tools in IE11*, [post](http://blogs.msdn.com/b/ie/archive/2013/07/29/debugging-and-tuning-web-sites-and-apps-with-f12-developer-tools-in-ie11.aspx) (IEblog)
-   - A solid explanation of *how HTTPS works*, [@hartleybrody]()’s [post](http://blog.hartleybrody.com/https-certificates/)
-   - Introducing NEX - *standards-oriented browser add-ons*, [@richtibbett]()’s [post](http://my.opera.com/ODIN/blog/2013/07/30/introducing-nex) ![][*]
- - Media
-   - Bootstrap’s new flat design brings *reduced paint times*, [@paul_irish]()’s quick 4-min [screencast](http://youtu.be/Z1IqzeA3XXg)
-   - *Microformats2 & HTML5*: The next evolutionary step for web data, [@t]()’s 72-min [talk](http://marakana.com/s/post/1520/microformats_with_tantek_celik_video) + [slide deck](http://tantek.com/presentations/2013/07/microformats2/) ![][*]
- - Content
-   - Known *implementations of HTTP/2*, [wiki](https://github.com/http2/http2-spec/wiki/Implementations) page (GitHub)
-   - Chrome DevTools documentation: *Working with CSS preprocessors*, [page](https://developers.google.com/chrome-developer-tools/docs/css-preprocessors)
- - Tools
-   - Number converter, converts *ASCII numbers into local alternatives* per CSS3 Counter Styles, [page](http://rishida.net/tools/numberconverter/)
-   - he, a robust *HTML entity encoder/decoder* written in JavaScript, [repo](https://github.com/mathiasbynens/he)
- - Opinion
-   - “After 20 years the web still has no culture of *design excellence*”, [@mbutterick]()’s [post](http://unitscale.com/mb/bomb-in-the-garden/) ![][*]
 
 
 **Note:** I’ve temporarily disabled loading additional content onto the page. You can view older dailies in [the “archive” on GitHub](https://github.com/simevidas/webplatformdaily-site/blob/master/content/dailies/archive.md). I’ll implement viewing (and searching) of all data soon.
