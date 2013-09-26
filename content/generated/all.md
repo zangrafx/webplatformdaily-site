@@ -1,3 +1,35 @@
+## September 26th, 2013
+
+ - News
+   - Report: *Mobile broadband growing* faster than any technology in human history, [article](http://www.huffingtonpost.com/robert-pepper/cisco-broadbands-unfinished-bus_b_3976269.html)
+   - Dropbox pushes to *publish spy data request* details, [article](http://www.pcworld.com/article/2049307/dropbox-joins-bid-to-publish-spy-data-requests.html) (PCWorld)
+ - UA dev.
+   - Manual plugin activation (i.e. *plugins disabled by default*) (except for Flash) coming to Firefox, [post](https://blog.mozilla.org/futurereleases/2013/09/24/plugin-activation-in-firefox/)
+   - Mozilla releases a (preview) version of *Firefox optimized for Windows 8 tablets*, [post](https://blog.mozilla.org/futurereleases/2013/09/21/help-test-a-preview-of-firefox-optimized-for-windows-8-tablets/)
+ - FYI
+   - *Mozilla’s collaboration tool* TogetherJS added to jsFiddle, [source](https://twitter.com/togetherJS/status/381194995257978880)
+   - *IE11 (preview) for Windows 7* virtual machines available on modern.ie, [source](https://twitter.com/IEDevChat/status/382918518896730112)
+ - Articles
+   - Several common *accessibility myths* debunked, [@simon_norris]()’s [post](http://www.uxmatters.com/mt/archives/2013/09/making-web-sites-accessible-without-sacrificing-aesthetics.php)
+   - Evaluating the “JavaScript soup” (*evaluation criteria* for JavaScript libraries), [@John_Papa]()’s [post](http://www.johnpapa.net/javascript-soup/)
+   - “If it *doesn’t work on mobile*, it doesn’t work”, [@brianboyer]()’s [post](http://hackerjournalist.net/2013/09/25/if-it-doesnt-work-on-mobile-it-doesnt-work/)
+ - Media
+   - A lightning *introduction to Web Components* with Polymer, [@addyosmani]()’s 2-min [screencast](http://youtu.be/j7t4t_6IgXM) ![][*]
+   - #perfmatters session 1: *Static memory JavaScript*, [@duhroach]()’s 26-min [talk](http://youtu.be/RWmzxyMf2cE)
+   - #perfmatters session 2: *Rendering performance* guide, [@aerotwist]()’s 28-min [talk]()
+ - Content
+   - A team at CERN recreated the “*line-mode browser*”, [page](http://line-mode.cern.ch/) + event leader [@adactio]()’s [post](http://adactio.com/journal/6512/)
+   - A showcase of traditionally *hard CSS problems*, easily *solved using Flexbox*, [@philwalton]()’s [page](http://philipwalton.github.io/solved-by-flexbox/) ![][*]
+   - How *Chrome’s Blink engine* renders websites, [@ElliottZ]()’s 29-page [slide deck](http://elliottsprehn.com/preso/senchacon2013/)
+ - Demos
+   - *HTML game*: A rhythm game with WebGL and Web Audio API, [@greweb]()’s [page](http://greweb.me/2013/09/timelapse/)
+   - A New York Times illustrated story with amazing *parallax effects*, [article](http://www.nytimes.com/projects/2013/tomato-can-blues/)
+   - A simple interactive *CSS `tab-size` demo*, [@simevidas]()’s [demo](http://codepen.io/simevidas/pen/HlJtD)
+ - Tools
+   - *CSS Transforms* visualizer (a learning tool for understanding transforms), [@patrickbrosset]()’s [page](http://codepen.io/captainbrosset/full/lHpnK) ![][*]
+   - uCSS, a tool for finding *unused and duplicate CSS*, [@oyvindeh]()’s [repo](https://github.com/operasoftware/ucss)
+   - Chart.js, a *library for drawing charts* (6 types of `<canvas>`-based charts), [site](http://www.chartjs.org/)
+
 ## September 25th, 2013
 
  - News

@@ -1,5 +1,37 @@
 The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDailyDigest). I’ve also activated the [email subscription](http://feedburner.google.com/fb/a/mailverify?uri=OpenWebPlatformDailyDigest&amp;loc=en_US) option.
 
+## September 26th, 2013
+
+ - News
+   - Report: *Mobile broadband growing* faster than any technology in human history, [article](http://www.huffingtonpost.com/robert-pepper/cisco-broadbands-unfinished-bus_b_3976269.html)
+   - Dropbox pushes to *publish spy data request* details, [article](http://www.pcworld.com/article/2049307/dropbox-joins-bid-to-publish-spy-data-requests.html) (PCWorld)
+ - UA dev.
+   - Manual plugin activation (i.e. *plugins disabled by default*) (except for Flash) coming to Firefox, [post](https://blog.mozilla.org/futurereleases/2013/09/24/plugin-activation-in-firefox/)
+   - Mozilla releases a (preview) version of *Firefox optimized for Windows 8 tablets*, [post](https://blog.mozilla.org/futurereleases/2013/09/21/help-test-a-preview-of-firefox-optimized-for-windows-8-tablets/)
+ - FYI
+   - *Mozilla’s collaboration tool* TogetherJS added to jsFiddle, [source](https://twitter.com/togetherJS/status/381194995257978880)
+   - *IE11 (preview) for Windows 7* virtual machines available on modern.ie, [source](https://twitter.com/IEDevChat/status/382918518896730112)
+ - Articles
+   - Several common *accessibility myths* debunked, [@simon_norris]()’s [post](http://www.uxmatters.com/mt/archives/2013/09/making-web-sites-accessible-without-sacrificing-aesthetics.php)
+   - Evaluating the “JavaScript soup” (*evaluation criteria* for JavaScript libraries), [@John_Papa]()’s [post](http://www.johnpapa.net/javascript-soup/)
+   - “If it *doesn’t work on mobile*, it doesn’t work”, [@brianboyer]()’s [post](http://hackerjournalist.net/2013/09/25/if-it-doesnt-work-on-mobile-it-doesnt-work/)
+ - Media
+   - A lightning *introduction to Web Components* with Polymer, [@addyosmani]()’s 2-min [screencast](http://youtu.be/j7t4t_6IgXM) ![][*]
+   - #perfmatters session 1: *Static memory JavaScript*, [@duhroach]()’s 26-min [talk](http://youtu.be/RWmzxyMf2cE)
+   - #perfmatters session 2: *Rendering performance* guide, [@aerotwist]()’s 28-min [talk]()
+ - Content
+   - A team at CERN recreated the “*line-mode browser*”, [page](http://line-mode.cern.ch/) + event leader [@adactio]()’s [post](http://adactio.com/journal/6512/)
+   - A showcase of traditionally *hard CSS problems*, easily *solved using Flexbox*, [@philwalton]()’s [page](http://philipwalton.github.io/solved-by-flexbox/) ![][*]
+   - How *Chrome’s Blink engine* renders websites, [@ElliottZ]()’s 29-page [slide deck](http://elliottsprehn.com/preso/senchacon2013/)
+ - Demos
+   - *HTML game*: A rhythm game with WebGL and Web Audio API, [@greweb]()’s [page](http://greweb.me/2013/09/timelapse/)
+   - A New York Times illustrated story with amazing *parallax effects*, [article](http://www.nytimes.com/projects/2013/tomato-can-blues/)
+   - A simple interactive *CSS `tab-size` demo*, [@simevidas]()’s [demo](http://codepen.io/simevidas/pen/HlJtD)
+ - Tools
+   - *CSS Transforms* visualizer (a learning tool for understanding transforms), [@patrickbrosset]()’s [page](http://codepen.io/captainbrosset/full/lHpnK) ![][*]
+   - uCSS, a tool for finding *unused and duplicate CSS*, [@oyvindeh]()’s [repo](https://github.com/operasoftware/ucss)
+   - Chart.js, a *library for drawing charts* (6 types of `<canvas>`-based charts), [site](http://www.chartjs.org/)
+
 ## September 25th, 2013
 
  - News
@@ -633,42 +665,8 @@ The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDail
  - Opinion
    - “Being practical”, [@tkadlec]()’s [post](http://timkadlec.com/2013/08/being-practical/)
 
-## August 1st, 2013
 
- - W3C
-   - *Web and TV Interest Group* rechartered with new mission, [post](http://www.w3.org/News/2013.html#entry-9905)
- - News
-   - *js-git receives $25k donation* from Mozilla, [source](https://twitter.com/valueof/status/362355802914291713)
-   - Now that it’s in the broadband game, *Google flip-flops on network neutrality*, [article](http://www.wired.com/threatlevel/2013/07/google-neutrality/) (Wired)
- - UA dev.
-   - *Last week in Blink*, [@beverloo]()’s [post](http://peter.sh/2013/07/faster-queryselectoralls-pnacl-and-a-new-popup-blocker/)
-   - *OCSP stapling* has landed in Firefox Nightly, [post](https://blog.mozilla.org/security/2013/07/29/ocsp-stapling-in-firefox/) (Mozilla Security)
- - FYI
-   - Firefox provides a built-in *webpage screenshot tool* (via command-line), [tweet](https://twitter.com/fvsch/status/362547143996735489) w/ instructions ![][*]
- - Tutorials
-   - A quick *introduction to AngularJS* (part 1 of an upcoming series), [@ngnewsletter]()’s [post](http://www.ng-newsletter.com/posts/beginner2expert-how_to_start.html)
-   - A *guide to WebRTC*: Transmitting media over peer-to-peer data channels, [@louisstow]()’s [post](https://hacks.mozilla.org/2013/07/webrtc-and-the-early-api/) ![][*]
-   - The different methods for *centering content in CSS*, [@getify]()’s [post](http://html5hub.com/centering-all-the-directions/)
-   - Two advanced *examples of CSS Transitions* (alternative reversing transitions, …), [@craigbuckler]()’s [post](http://www.sitepoint.com/advanced-css3-transitions/)
- - Articles
-   - *Responsive web design*: 6 experts, 4 questions (recommended tools and resources), [post](http://www.netmagazine.com/advertorial/responsive-web-design-6-experts-4-questions)
- - Media
-   - *Unit and integration testing* with Karma and QUnit, [@toranb]()’s 20-min [screencast](http://toranbillups.com/blog/archive/2013/07/21/Integration-testing-your-emberjs-app-with-QUnit-and-Karma/)
-   - *CSS `@font-face`*, [@meyerweb]()’s 50-min [@cssdayconf]() [talk](https://vimeo.com/69531448) + [slide deck](https://docs.google.com/viewer?url=http%3A%2F%2Fcomplexspiral.com%2Fevents%2Farchive%2F2013%2Fcssday%2Ffontface.pdf)
- - Content
-   - A performance comparison of several *image optimization tools*, [page](http://jamiemason.github.io/ImageOptim-CLI/) ![][*]
- - Demos
-   - A responsive *slide-out sidebar menu*, [@crnacura]()’s [demo](http://tympanus.net/Tutorials/GoogleNexusWebsiteMenu/) (+ [post](http://tympanus.net/codrops/2013/07/30/google-nexus-website-menu/))
-   - Crypt Run, a Zelda-style *HTML5 Canvas game*, [demo](http://cryptrun.lostdecadegames.com/) (still in alpha)
- - Tools
-   - Wraith, BBC’s automated tool for *visually testing/diffing responsive designs*, [post](http://responsivenews.co.uk/post/56884056177/wraith) + [repo](https://github.com/BBC-News/wraith)
-   - vminpoly, a *polyfill for CSS viewport units* (`vw`, `vh`, `vmin`), [repo](https://github.com/saabi/vminpoly)
-   - Baseline.js, *restores vertical baselines* thrown off by odd image sizes, [page](http://daneden.me/baseline/) w/ live demo
- - Opinion
-   - “Crippling the Web”, [@tkadlec]()’s [post](http://timkadlec.com/2013/07/crippling-the-web/) ![][*]
-
-
-**Note:** I’ve temporarily disabled loading additional content onto the page. You can view older dailies in [the “archive” on GitHub](https://github.com/simevidas/webplatformdaily-site/blob/master/content/dailies/archive.md). I’ll implement viewing (and searching) of all data soon.
+**Note:** I’ve temporarily disabled loading additional content onto the page. You can view older dailies in [the “archive” on GitHub](https://github.com/simevidas/webplatformdaily-site/blob/master/content/dailies). I’ll implement viewing (and searching) of all data soon.
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
