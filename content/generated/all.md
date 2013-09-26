@@ -15,8 +15,8 @@
    - “If it *doesn’t work on mobile*, it doesn’t work”, [@brianboyer]()’s [post](http://hackerjournalist.net/2013/09/25/if-it-doesnt-work-on-mobile-it-doesnt-work/)
  - Media
    - A lightning *introduction to Web Components* with Polymer, [@addyosmani]()’s 2-min [screencast](http://youtu.be/j7t4t_6IgXM) ![][*]
-   - #perfmatters session 1: *Static memory JavaScript*, [@duhroach]()’s 26-min [talk](http://youtu.be/RWmzxyMf2cE)
-   - #perfmatters session 2: *Rendering performance* guide, [@aerotwist]()’s 28-min [talk]()
+   - “#perfmatters” session 1: *Static memory JavaScript*, [@duhroach]()’s 26-min [talk](http://youtu.be/RWmzxyMf2cE)
+   - “#perfmatters” session 2: *Rendering performance* guide, [@aerotwist]()’s 28-min [talk](http://youtu.be/9xjpmpX4NJE)
  - Content
    - A team at CERN recreated the “*line-mode browser*”, [page](http://line-mode.cern.ch/) + event leader [@adactio]()’s [post](http://adactio.com/journal/6512/)
    - A showcase of traditionally *hard CSS problems*, easily *solved using Flexbox*, [@philwalton]()’s [page](http://philipwalton.github.io/solved-by-flexbox/) ![][*]
@@ -29,6 +29,7 @@
    - *CSS Transforms* visualizer (a learning tool for understanding transforms), [@patrickbrosset]()’s [page](http://codepen.io/captainbrosset/full/lHpnK) ![][*]
    - uCSS, a tool for finding *unused and duplicate CSS*, [@oyvindeh]()’s [repo](https://github.com/operasoftware/ucss)
    - Chart.js, a *library for drawing charts* (6 types of `<canvas>`-based charts), [site](http://www.chartjs.org/)
+
 
 ## September 25th, 2013
 
