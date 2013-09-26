@@ -174,7 +174,7 @@ module.exports = function (grunt) {
 	grunt.registerTask('css', ['sass', 'csslint', 'concat:css']);
 	grunt.registerTask('js', ['jshint', 'uglify']);
 	grunt.registerTask('md', ['merge', 'concat:md', 'clean:temp']);
-	grunt.registerTask('daily', ['merge', 'concat:md', 'concat:rss', 'markdown:rss', 'clean:temp']);
+	grunt.registerTask('daily', ['merge', 'validate', 'concat:md', 'concat:rss', 'markdown:rss', 'clean:temp']);
 	grunt.registerTask('server', ['connect', 'watch']);
 
 	grunt.loadTasks('tasks');
