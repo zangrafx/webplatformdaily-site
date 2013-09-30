@@ -1,3 +1,68 @@
+## September 30th, 2013
+
+ - News
+   - “Proposal for RespImg Syntax”, [@tabatkins]()’s (unofficial) [draft](http://tabatkins.github.io/specs/respimg/Overview.html) + [@scottjehl]()’s [response](https://twitter.com/RWD/status/383640694469828610)
+   - *ECMAScript 6* Revision 19 released, [changelog](http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts#september_27_2013_draft_rev_19) w/ link to PDF + HTML version, [page](http://people.mozilla.org/~jorendorff/es6-draft.html)    
+ - UA dev.
+   - Chrome Canary: Initial support for *font load events*, [source](https://twitter.com/ChromiumDev/status/383457078158708736) + *font inspector* added to DevTools, [post](http://updates.html5rocks.com/2013/09/DevTools-answers-What-font-is-that)
+ - Posts
+   - How *ECMAScript 6 fixes `function`* with new ways of *defining callable entities*, [@rauschma]()’s [post](http://www.2ality.com/2013/08/es6-callables.html) ![][*]
+   - Comparison of two *WebGL frameworks*: Three.js and Babylon.js (w/ code examples), [@ProseJoe]()’s [post](http://www.sitepoint.com/three-js-babylon-js-comparison-webgl-frameworks/)
+   - *CSS `z-index`*: Certain CSS properties *establish a new stacking context* for elements, [@benfrain]()’s [post](http://benfrain.com/z-index-stacking-contexts-experimental-css-and-ios-safari/)
+   - Responsive images with the *`srcset` attribute* (examples + comparison to `<picture>`), [@teleject]()’s [post](http://html5hub.com/srcset-attribute-solving-responsive-image-dilemma/)
+   - A comprehensive guide to *testing client-side code*, [@codylindley]()’s [post](http://tech.pro/tutorial/1589/testable--tested-client-side-code) ![][*]
+   - *JavaScript modules*: The module pattern, AMD and the *proposed ECMAScript syntax*, [post](http://yahooeng.tumblr.com/post/62383009835/javascript-modules-amd-and-the-road-ahead)
+ - Media
+   - [@buildpodcast]() ep. 51: *Drawing with SVG* (shapes, filters, gradients), [@sayanee_]()’s [screencast](http://build-podcast.com/svg/) ![][*]
+   - Building a website with *Web Components*, [@ebidel]()’s 9-min [screencast](http://youtu.be/FarTf5P8Wsg)
+ - Content
+   - Does Shadow DOM *make the web less open*?, [@ebidel]()’s [answer](http://stackoverflow.com/a/19054963/425275) on Stack Overflow
+   - Should Firefox *allow cross-domain fonts* by default?, [discussion](https://news.ycombinator.com/item?id=6459988) on Hacker News
+   - Lazyweb request: *UI for reporting webapp bugs*, [@paul_irish]()’s [post](https://github.com/h5bp/lazyweb-requests/issues/132) on GitHub
+   - A “simple *git branching model*” (GitHub does something similar), [@juanbenet]()’s [gist](https://gist.github.com/jbenet/ee6c9ac48068889b0912)
+   - [@littlecalculist]()’s thoughts on *shareable functions in JavaScript*, [discussion](http://esdiscuss.org/topic/safe-closure-free-serializable-functions#content-22) on `es-discuss`
+ - Sites
+   - A comparison table of *HTML5 video players* (i.a. `<audio>` readiness, keyboard control), [page](http://praegnanz.de/html5video/) 
+ - Demos
+   - The *“peeler” technique*, [@paul_irish]()’s [tweet](https://twitter.com/paul_irish/status/383707742277353472) w/ links to two examples
+ - Tools
+   - SnappySnippet ![][Ch] ![][ea], *extracts HTML/CSS code from page element* and sends it to code editor, [page](https://chrome.google.com/webstore/detail/snappysnippet/blfngdefapoapkcdibbdkigpeaffgcil)
+   - FastActive ![][js], adds *instant visual feedback* to touch interactions, [@jonathanstark]()’s [repo](https://github.com/jonathanstark/FastActive)
+ - Opinion
+   - “*WebRTC* poses a brand new turning point for the web”, [@adambrault]()’s [post](http://blog.andyet.com/2013/09/27/webrtc-is-going-to-break-the-whole-game-open)
+
+
+## September 27th, 2013
+
+ - News
+   - More *information about multipath TCP* (introduced in iOS 7), [article](http://appleinsider.com/articles/13/09/20/apple-found-to-be-using-advanced-multipath-tcp-networking-in-ios-7) (Apple Insider)
+   - USA: House republicans want to kill *net neutrality* as part of their debt ceiling bill, [article](http://techcrunch.com/2013/09/26/house-republicans-want-to-kill-net-neutrality-as-part-of-their-debt-ceiling-bill/) (TechCrunch)
+ - UA dev.
+   - New features in *Firefox DevTools* (part 26), [post](https://hacks.mozilla.org/2013/09/new-features-in-the-firefox-developer-tools-episode-26/) (Mozilla Hacks)
+   - *`srcset` DPR-switching* lands in WebKit and Blink, soon in Firefox, [source](https://twitter.com/igrigorik/status/383277856723181569)
+   - CSS *`cursor: grab/grabbing`* unprefixed in Firefox Nightly, [source](https://twitter.com/FirefoxNightly/status/383147007843774464)
+ - Tutorials
+   - *Media capture in mobile browsers*: `<input capture>` and `.getUserMedia()`, [@franciov]()’s [post](http://dev.opera.com/articles/view/media-capture-in-mobile-browsers/) ![][*]
+   - *Getting the duration* (and other info) from an *user-selected audio file*, [@derickbailey]()’s [post](http://lostechies.com/derickbailey/2013/09/23/getting-audio-file-information-with-htmls-file-api-and-audio-element/)
+   - *Hiding the browser’s video controls* when viewing HTML5 video in full-screen, [@SaraSoueidan]()’s [post](http://css-tricks.com/custom-controls-in-html5-video-full-screen/)
+ - Articles
+   - Sencha’s *HTML5 tests in iOS 7*: The bugs, issues and performance gains, [@mmullany]()’s [post](http://www.sencha.com/blog/the-html5-scorecard-the-good-the-bad-and-the-ugly-in-ios7/)
+   - *Recap: PhoneGap Day EU* (September 24th in Amsterdam), [@revolunet]()’s [post](http://blog.revolunet.com/blog/2013/09/24/phonegap-day-amsterdam/)
+   - *Tools for image optimization* (Grunt tasks, desktop and online tools), [@addyosmani]()’s [post](http://addyosmani.com/blog/image-optimization-tools/) ![][*]
+ - Media
+   - “#perfmatters” session 3: “*Which browsers request…?*” (quiz), [@jaffathecake]()’s 28-min [talk](http://youtu.be/WiOl0Y06xV4) ![][*]
+   - “#perfmatters” session 4: “*Performance tooling*”, [@paul_irish]()’s 34-min [talk](http://youtu.be/HAqjyCH_LOE)
+ - Content
+   - Codewars, *solve JavaScript challenges* and compete with others, [site](http://www.codewars.com)
+   - Cheat sheet: *Node, Bower, Grunt commands*, [@jesterxl]()’s 7-page [PDF](http://jessewarden.com/2013/09/node-bower-grunt-n00b-cheat-sheet.html)
+   - Node.js Meetspace, a calendar of *upcoming in-person Node.js events* around the world, [site](http://nodemeatspace.com/)
+   - Steganography, *hiding text messages* in the alpha channel of images, [@eigenschinkpete]()’s [page](http://www.peter-eigenschink.at/projects/steganographyjs/)
+ - Tools
+   - BrowerSwarm, a tool that *automates JavaScript testing* across browsers, [site](http://www.browserswarm.com/)
+   - validator.js, a tool for performing *validation on JavaScript objects*, [@guillaumepotier]()’s [repo](https://github.com/guillaumepotier/validator.js)
+   - REVENGE.CSS, a bookmarklet that *reports bad HTML*, [page](http://heydonworks.com/revenge_css_bookmarklet/) + example [screenshot](https://twitter.com/simevidas/status/383504112383315968) (for google.com)
+
+
 ## September 26th, 2013
 
  - News
@@ -105,7 +170,7 @@
    - Using Geolocation and the Google Maps API to *display a location* on a Google Maps inline map, [post](http://www.sitepoint.com/html5-geolocation/)
    - ECMAScript 6’s *“fat arrow” functions* (supported in ![][FF]), [@robcee]()’s [post](http://robcee.net/2013/fat-arrow-functions-in-javascript/)
  - Articles
-   - *Multi-path TCP* (available in iOS 7) and its role in the future of the Internet, [@mims]()’s [post](http://qz.com/126642/apples-ios7-includes-a-surprise-a-ticket-to-the-next-generation-of-the-internet/)
+   - *Multipath TCP* (available in iOS 7) and its role in the future of the Internet, [@mims]()’s [post](http://qz.com/126642/apples-ios7-includes-a-surprise-a-ticket-to-the-next-generation-of-the-internet/)
    - A tidbit on *HTML parsers and tree construction*, [@miketaylr]()’s [post](https://miketaylr.com/posts/2013/09/how-many-doctypes-can-a-doctype-type.html) ![][*]
    - The *ECMAScript Internationalization API*: Overview and browser support, [@rauschma]()’s [post](http://www.2ality.com/2013/09/ecmascript-i18n-api.html)
    - The privacy and security concerns of *local IP discovery with WebRTC*, [@einaros]()’s [post](https://2x.io/read/security-by-obscurity)
@@ -3976,5 +4041,8 @@ Authoring & development workflow [link](https://developers.google.com/chrome-dev
 [CC]: /img/chrome-canary.png "Chrome Canary"
 [Sa]: /img/safari.png "Safari"
 [Op]: /img/opera.png "Opera"
+
+[ea]: /img/plugin.png "plug-in"
+[js]: /img/javascript.png "JavaScript library"
 
 [Client-Hints]: https://github.com/igrigorik/http-client-hints
