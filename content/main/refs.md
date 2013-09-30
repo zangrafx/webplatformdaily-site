@@ -12,4 +12,7 @@
 [Sa]: /img/safari.png "Safari"
 [Op]: /img/opera.png "Opera"
 
+[ea]: /img/plugin.png "plug-in"
+[js]: /img/javascript.png "JavaScript library"
+
 [Client-Hints]: https://github.com/igrigorik/http-client-hints
