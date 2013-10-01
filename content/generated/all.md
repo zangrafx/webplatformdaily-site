@@ -1,3 +1,35 @@
+## October 1st, 2013
+
+ - News
+   - New *HTML Working Group charter* approved, enables more permissive licensing, [post](http://www.w3.org/blog/news/archives/3253) on W3C
+   - *Firefox OS* finds its way onto APC’s *developer boards*, [article](http://www.slashgear.com/firefox-os-finds-its-way-onto-apc-rock-and-paper-26299252/) + announcement, [PDF](http://apc.io/files/2013/09/APC-Firefox-PR-Draft-4.pdf)
+ - UA dev.
+   - A progress report on *Mozilla’s WebRTC implementation*, [@adambroach]()’s [post](https://hacks.mozilla.org/2013/09/webrtc-update-and-workarounds/)
+ - Posts
+   - An *introduction to CSS Regions* (code example, browser support, polyfill), [@NikkitaFTW]()’s [post](http://www.webdesignerdepot.com/2013/09/introducing-css-regions/) ![][*]
+   - Extending the *Topcoat CSS Framework* with custom themes and components, [@revolunet]()’s [post](http://blog.revolunet.com/blog/2013/09/30/extending-topcoat-css-framework/)
+   - Writing cleaner, simpler JavaScript code with *functional reactive programming*, [@svoisen]()’s [post](http://sean.voisen.org/blog/2013/09/intro-to-functional-reactive-programming/)
+   - How does use of the *Shadow DOM content affect ARIA* use?, [@stevefaulkner]()’s [post](http://blog.paciellogroup.com/2012/07/notes-on-web-components-aria/)
+   - It may be worth testing in *embedded mobile browsers* (web views), [@lukew]()’s [post](http://www.lukew.com/ff/entry.asp?1801)
+   - “*Sustainable web design*” (building cleaner and greener websites), [@JC_UX]()’s [post](http://alistapart.com/article/sustainable-web-design)
+ - Media
+   - Yesterday’s *W3C TAG panel* at Bocoup, 76-min [recording](http://www.youtube.com/watch?v=HueLJQTRiI4) + [questions](https://www.google.com/moderator/#15/e=20f2ba&t=20f2ba.40&f=20f2ba.6c6e3e) that were answered
+   - Mozilla’s 7-min presentation about *Web Components and Mozilla Brick* ([?][brick]), [@potch]()’s [post](https://hacks.mozilla.org/2013/09/firefox-os-development-web-components-and-mozilla-brick/)
+   - A crash course into *Node, Bowser and Grunt*, [@jesterxl]()’s 37-min [screencast](http://youtu.be/vkRv0r_tNXY)
+ - Content
+   - Reasoning behind `srcN` ([@tabatkins]()’s new proposal) *replacing `srcset` and `<picture>`*, [message](http://lists.w3.org/Archives/Public/public-respimg/2013Sep/0087.html)
+   - “CSS and the critical path”: Techniques for *loading CSS faster*, [@patrickhamann]()’s [slide deck](https://speakerdeck.com/patrickhamann/css-and-the-critical-path) ![][*]
+   - Statistics for *resource churn across crawls*, [@Souders]()’s [results](https://twitter.com/Souders/status/384468553300074496)
+ - Sites
+   - “Master of the :nth-child”, a *visual reference for CSS `:nth-child`* and `:nth-of-type`, [site](http://nthmaster.com/)
+ - Demos
+   - *Off-canvas icon navigation* with an animated border effect,  [@crnacura]()’s [demo](http://tympanus.net/Tutorials/AnimatedBorderMenus/index2.html) page + [post](http://tympanus.net/codrops/2013/09/30/animated-border-menus/)
+ - Tools
+   - Google Web Designer beta, for creating *HTML5-bases designs and motion graphics*, [page](https://www.google.com/webdesigner/)
+   - HTTPSecHeaders, analyzes the *security-related HTTP headers* of a website, [site](https://securityheaders.com/)
+   - Mini Mobile Device Lab, a device lab for *testing websites across multiple devices*, [@gauntface]()’s [repo](https://github.com/GoogleChrome/MiniMobileDeviceLab) ![][*]
+
+
 ## September 30th, 2013
 
  - News
@@ -13,7 +45,7 @@
    - A comprehensive guide to *testing client-side code*, [@codylindley]()’s [post](http://tech.pro/tutorial/1589/testable--tested-client-side-code) ![][*]
    - *JavaScript modules*: The module pattern, AMD and the *proposed ECMAScript syntax*, [post](http://yahooeng.tumblr.com/post/62383009835/javascript-modules-amd-and-the-road-ahead)
  - Media
-   - [@buildpodcast]() ep. 51: *Drawing with SVG* (shapes, filters, gradients), [@sayanee_]()’s [screencast](http://build-podcast.com/svg/) ![][*]
+   - [@buildpodcast]() ep. 51: *Drawing with SVG* (shapes, filters, gradients), [@sayanee_]()’s 33-min [screencast](http://build-podcast.com/svg/) ![][*]
    - Building a website with *Web Components*, [@ebidel]()’s 9-min [screencast](http://youtu.be/FarTf5P8Wsg)
  - Content
    - Does Shadow DOM *make the web less open*?, [@ebidel]()’s [answer](http://stackoverflow.com/a/19054963/425275) on Stack Overflow
@@ -26,7 +58,7 @@
  - Demos
    - The *“peeler” technique*, [@paul_irish]()’s [tweet](https://twitter.com/paul_irish/status/383707742277353472) w/ links to two examples
  - Tools
-   - SnappySnippet ![][Ch] ![][ea], *extracts HTML/CSS code from page element* and sends it to code editor, [page](https://chrome.google.com/webstore/detail/snappysnippet/blfngdefapoapkcdibbdkigpeaffgcil)
+   - SnappySnippet ![][Ch] ![][ea], *extracts HTML/CSS code from page element* and sends it to a code editor, [page](https://chrome.google.com/webstore/detail/snappysnippet/blfngdefapoapkcdibbdkigpeaffgcil)
    - FastActive ![][js], adds *instant visual feedback* to touch interactions, [@jonathanstark]()’s [repo](https://github.com/jonathanstark/FastActive)
  - Opinion
    - “*WebRTC* poses a brand new turning point for the web”, [@adambrault]()’s [post](http://blog.andyet.com/2013/09/27/webrtc-is-going-to-break-the-whole-game-open)
@@ -4045,4 +4077,5 @@ Authoring & development workflow [link](https://developers.google.com/chrome-dev
 [ea]: /img/plugin.png "plug-in"
 [js]: /img/javascript.png "JavaScript library"
 
+[brick]: http://mozilla.github.io/brick/ "Mozilla Brick"
 [Client-Hints]: https://github.com/igrigorik/http-client-hints

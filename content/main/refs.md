@@ -15,4 +15,5 @@
 [ea]: /img/plugin.png "plug-in"
 [js]: /img/javascript.png "JavaScript library"
 
+[brick]: http://mozilla.github.io/brick/ "Mozilla Brick"
 [Client-Hints]: https://github.com/igrigorik/http-client-hints
