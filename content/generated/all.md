@@ -10,7 +10,7 @@
  - FYI
    - The *new JSHint website* now provides instant feedback, [@valueof]()’s [post](http://jshint.com/blog/new-site/)
  - Posts
-   - Techniques for *preventing unnecessary document reflows* (“layout trashing”), [@wilsonpage]()’s [post](http://wilsonpage.co.uk/preventing-layout-thrashing/)
+   - Techniques for *preventing unnecessary document reflows* (“layout thrashing”), [@wilsonpage]()’s [post](http://wilsonpage.co.uk/preventing-layout-thrashing/)
    - A comprehensive *guide to learning AngularJS*, [@toddmotto]()’s [post](http://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/)
    - *Semantic HTML*: Don’t abuse HTML elements for show, [@codepo8]()’s [post](http://christianheilmann.com/2013/09/03/homeopathic-html-solutions/)
    - Cards are becoming the preferred *design pattern on mobile*, [@Padday]()’s [post](http://insideintercom.io/why-cards-are-the-future-of-the-web/)
