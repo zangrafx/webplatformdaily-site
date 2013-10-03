@@ -1,3 +1,36 @@
+## October 3rd, 2013
+
+ - News
+   - *Standards for web applications on mobile*, September 2013: Current state and roadmap, [page](http://www.w3.org/2013/09/mobile-web-app-state/) ![][*]
+   - Telerik brings its *HTML5-focused accelerator program* to Silicon Valley, [article](http://thenextweb.com/insider/2013/10/02/telerik-brings-its-html5-focused-accelerator-program-to-silicon-valley/) (TNW)
+   - HTML5 is the *future of book authorship*, [article](http://www.forbes.com/sites/oreillymedia/2013/09/28/html5-is-the-future-of-book-authorship/) (Forbes)
+ - UA dev.
+   - A *HTML5 Flash player* lands in the Firefox codebase, [@henrikgemal]()’s [post](http://gemal.dk/blog/2013/10/02/html5_flash_player_shumway_landed/index.html)
+   - *Pretty print for minified CSS* added to Chrome DevTools, [source](https://twitter.com/kangax/status/385386084827664384)
+ - FYI
+   - The *new JSHint website* now provides instant feedback, [@valueof]()’s [post](http://jshint.com/blog/new-site/)
+ - Posts
+   - Techniques for *preventing unnecessary document reflows* (“layout trashing”), [@wilsonpage]()’s [post](http://wilsonpage.co.uk/preventing-layout-thrashing/)
+   - A comprehensive *guide to learning AngularJS*, [@toddmotto]()’s [post](http://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/)
+   - *Semantic HTML*: Don’t abuse HTML elements for show, [@codepo8]()’s [post](http://christianheilmann.com/2013/09/03/homeopathic-html-solutions/)
+   - Cards are becoming the preferred *design pattern on mobile*, [@Padday]()’s [post](http://insideintercom.io/why-cards-are-the-future-of-the-web/)
+   - Examples of *progressive enhancement*: Backbone and CSS transitions, [@webchaeschtli]()’s [post](http://azumbrunnen.me/blog/building-progressively-enhanced-websites-with-bulletproof-backbone/)
+ - Media
+   - *Getting started with Yeoman* and its webapp generator, [@addyosmani]()’s 6-min [screencast](http://youtu.be/zBt2g9ekiug) ![][*]
+   - Writing HTML and CSS *more quickly with Emmet*, [@chriscoyier]()’s 21-min [screencast](http://css-tricks.com/video-screencasts/129-emmet-awesome/)
+   - [@edgeconf]() 2013, panel 1: *Responsive images*, 60-min [recording](http://youtu.be/zCDcmit5-fE)
+ - Content
+   - The *“Frontend First!” methodology* (full front-end without server side is completed first), [site](http://www.frontendfirst.com/)
+   - *Mozilla Brick, UI components* for modern web apps, [@supersole]()’s 50-page [slide deck](http://soledadpenades.com/files/t/2013ota/)
+   - A set of *easing functions for CSS transitions* (visualization + `cubic-bezier()` code), [site](http://easings.net/)
+ - Demos
+   - *Animated checkboxes* (CSS transitions + icon font), [@puneetpugalia]()’s [demo](http://thecodeplayer.com/walkthrough/custom-animated-checkbox-inputs-using-css-iconfonts)
+ - Tools
+   - Keypress ![][js], for *capturing keyboard input*, [@dmaurolizer]()’s [page](http://dmauro.github.io/Keypress/) w/ live demos ![][*]
+   - peeler.js ![][js], creates a *“peeler” effect while scrolling*, [@mduvall_]()’s [repo](https://github.com/mduvall/peeler.js)
+   - RulersGuides.js (bookmarklet), adds Photoshop-like *rulers and guides* to a page, [@MarkRolich]()’s [page](http://mark-rolich.github.io/RulersGuides.js/)
+
+
 ## October 1st, 2013
 
  - News
