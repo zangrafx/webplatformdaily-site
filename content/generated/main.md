@@ -1,5 +1,37 @@
 The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDailyDigest). I’ve also activated the [email subscription](http://feedburner.google.com/fb/a/mailverify?uri=OpenWebPlatformDailyDigest&amp;loc=en_US) option.
 
+## October 4th, 2013
+
+ - News
+   - *Adding accessibility information* to HTML elements, updated [draft](http://www.w3.org/TR/2013/WD-aria-in-html-20131003/) released
+   - Chrome for Android Beta brings *“install web app” capabilities* to Android, [source](https://twitter.com/Paul_Kinlan/status/385813515199864832) ![][*] **WOOHOO!**
+   - Apache Cordova 3.1 released, adds *initial support for Firefox OS*, [@GrieveAndrew]()’s [post](http://cordova.apache.org/blog/releases/2013/10/02/cordova-31.html)
+ - Posts
+   - *Working with Polymer*: Creating a custom element that parses Markdown to HTML, [@rob_dodson]()’s [post](http://robdodson.me/blog/2013/10/02/creating-a-markdown-tag-with-polymer/)
+   - Using ECMAScript 6 today: Instructions for *transpilation with grunt-traceur*, [@james_allardice]()’s [post](http://globaldev.co.uk/2013/09/es6-part-1/)
+   - *Easier payments in web apps* with `requestAutoComplete`, [@jaffathecake]()’s [post](http://www.html5rocks.com/en/tutorials/forms/requestautocomplete/) ![][*]
+   - The *Web Performance WG*: Accomplishments and upcoming specifications, [@jatindermann]()’s [post](http://alistapart.com/column/performance-matters)
+   - Usability considerations when designing *checkouts in mobile web apps*, [@jamieappleseed]()’s [post](http://baymard.com/blog/mobile-checkout)
+   - A case for using *“intelligent” CSS attribute selectors* over class selectors, [@heydonworks]()’s [post](http://coding.smashingmagazine.com/2013/08/20/semantic-css-with-intelligent-selectors/)
+ - Media
+   - An introduction to *Yeoman sub-generators*, [@addyosmani]()’s 4-min [screencast](http://youtu.be/rYwJ5-esSYE)
+   - [@edgeconf]() 2013, panel 2: *Rendering performance*, 59-min [recording](http://youtu.be/DjcSbvBWSb0)
+ - Content
+   - [@wilto]() is prototyping *potential `srcN` polyfills*, [write-up](https://github.com/Wilto/srcn-polyfills) + related test [results](http://wilto.github.io/srcn-polyfills/)
+   - “Secure QR Login”, a proposed *authentication method based on QR codes*, [@GibsonResearch]()’s [page](https://www.grc.com/sqrl/sqrl.htm)
+   - “What’s preventing web apps to *take on native apps*?”, [@BrendanEich]()’s [answer](https://twitter.com/BrendanEich/status/385588459353931777)
+   - “Smart Quotes for Smart People”, a site that encourages the use of *proper punctuation*, [site](http://smartquotesforsmartpeople.com/)
+   - Microsoft’s concept site to show how HTML5 and *touch is moving the web forward*, [page](http://www.exploretouch.ie/behind-the-scenes/)
+ - Demos
+   - An animation that shows *how CSS triangles work*, [@chriscoyier]()’s [post](http://css-tricks.com/animation-css-triangles-work/)
+   - *Properly padded text highlighting* with CSS `box-shadow`, [@davatron5000]()’s [demo](http://codepen.io/davatron5000/pen/HGjuv)
+ - Tools
+   - Several tools for *simulating slow connections*, [@addyosmani]()’s [tweet](https://twitter.com/addyosmani/status/385804747921301506)
+   - spy-js, an advanced tool for *tracing JavaScript execution*, [@ArtemGovorov]()’s [site](http://spy-js.com/)
+ - Opinion
+   - “Lowering your standards: *DRM and the future of the W3C*”, [@mala]()’s [post](https://www.eff.org/deeplinks/2013/10/lowering-your-standards)
+
+
 ## October 3rd, 2013
 
  - News
@@ -619,42 +651,6 @@ The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDail
    - appear.in, a simple *video meeting service* powered by WebRTC, [post](http://comoyo.github.io/blog/2013/08/05/video-meetings-in-the-browser-using-webrtc-and-angularjs/)
  - Tools
    - harp, an open-source *web server with built-in pre-processing*, [site](http://harpjs.com/) + [repo](https://github.com/sintaxi/harp)
-
-## August 8th, 2013
-
- - W3C
-   - CSS Working Group: “Help us name the *drag-and-drop pseudo-classes*”, [survey](https://twitter.com/csswg/status/365213130613211137) ![][*]
- - News
-   - *Firefox 23 released*, release [notes](https://www.mozilla.org/en-US/firefox/23.0/releasenotes/) + [information](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/23) for developers + [coverage](http://arstechnica.com/information-technology/2013/08/firefox-23-lands-with-a-new-logo-and-mixed-content-blocking/) (Ars Technica)
-   - *New release of TodoMVC* (new frameworks, Bower integration), [@tastejs]()’s release [notes](http://tastejs.roon.io/todomvc-1-2)
-   - *Amazon Appstore now open to web apps*, with one-click in-app purchases in tow, [article](http://techcrunch.com/2013/08/07/amazon-appstore-now-open-to-web-apps-with-one-click-in-app-purchases-in-tow/) (TechCrunch)
- - UA dev.
-   - Feature request: *Make cross-origin requests easier to debug* in Chrome, [source](https://twitter.com/jaffathecake/status/365050723249041408)
-   - *Faster CSS gradients* in Firefox Nightly, [source](https://twitter.com/FirefoxNightly/status/365151471941058561)
- - FYI
-   - With the recent release of Firefox 23, *`<input type="range">` is finally in all current browsers*, [source](https://twitter.com/Fyrd/status/365218096870457344)
- - Tutorials
-   - *Benchmarking web servers* with HTTPerf.js and NodeUnit, [@mervinej]()’s [post](http://www.speedawarenessmonth.com/benchmarking-with-httperf-js-and-nodeunit/)
-   - Use cases and *patterns for Web Workers* (inline, dedicated and shared), [@jdcravens]()’s [post](http://tech.pro/tutorial/1487/web-worker-patterns)
-   - *Gesture design* in mobile web apps with Hammer.js, [@inserthtml]()’s [post](http://www.inserthtml.com/2013/08/gesture-design-javascript/) ![][*]
- - Articles
-   - Autoprefixer - a CSS postprocessor for *dealing with vendor prefixes*, [@andrey_sitnik]()’s [post](http://css-tricks.com/autoprefixer/) ![][*]
-   - New features in *Bootstrap 3*, [@AntJanus]()’s [post](http://antjanus.com/blog/web-design-tips/web-design-elements/best-new-features-in-bootstrap-3-0/)
-   - *Data URI performance* bottleneck: Is Base64 to blame?, [@b1tr0t]()’s [post](https://www.mobify.com/blog/base64-does-not-impact-data-uri-performance/)
- - Media
-   - Unit testing: *Spying on JavaScript methods* with Jasmine, [@clemenshelm]()’s short 6-min [screencast](http://blog.codeship.io/2013/08/06/testing-tuesday-17-how-to-spy-on-javascript-methods-with-jasmine.html)
-   - *REST + JSON APIs* in detail, [@lhazlewood]()’s 57-min [@JAXconf]() [talk](http://marakana.com/s/post/1526/beautiful_rest_and_json_apis_les_hazelwood_video)
- - Content
-   - Infographic: *Evolution of HTML5*, [page](http://www.csschopper.com/blog/infographic-evolution-of-html5-past-present-and-future)
-   - “Pixel perfect *timing attacks with HTML5*” (white paper), [@pdjstone]()’s 29-page [PDF](http://contextis.co.uk/files/Browser_Timing_Attacks.pdf)
-   - Things can you do with *ES6 string template literals*, [@littlecalculist]()’s code [examples](https://gist.github.com/dherman/6165867)
-   - The *history of SEO*, [@HubSpot]()’s extensive 101-page [slide deck](http://blog.hubspot.com/history-of-seo-glimpse-into-future-tl-ss)
- - Tools
-   - Pancake.js, a library for *flattening SVG and Canvas elements* into images on the fly, [repo](https://github.com/veltman/pancakejs)
-   - polyfill.io, a polyfill combinator that *selectively polyfills* just what the browser needs, [repo](https://github.com/jonathantneal/polyfill)
- - Opinion
-   - *Should you review code* that you’re not familiar with?, [@rmurphey]()’s [post](http://the-pastry-box-project.net/rebecca-murphey/2013-august-5/)
-   - A *call to contributors* (“We need more amazing community contributors”), [@ArleyM]()’s [post](http://arleym.com/join-the-conversation/)
 
 
 **Note:** I’ve temporarily disabled loading additional content onto the page. You can view older dailies in [the “archive” on GitHub](https://github.com/simevidas/webplatformdaily-site/blob/master/content/dailies). I’ll implement viewing (and searching) of all data soon.
