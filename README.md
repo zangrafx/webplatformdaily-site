@@ -22,7 +22,7 @@ But soon I started to recognize some great patterns for constructing this digest
 
 There are several awesome features (like “search all data by keyword” and a collection of useful auxiliary pages) that I’m eager to add, but first I have to secure a stable income for my work on this digest. I’m looking to get funded during October 2013.
 
-### My workflow
+## My workflow
 
 Creating content for this digest has since its inception been my full-time job. The amount of work hours I invest into each release has increased over the months, and I’m currently at 7-8 hours of  work on average. Producing a release revolves around these two major steps:
 
