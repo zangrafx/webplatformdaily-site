@@ -1,38 +1,30 @@
-### What’s the current status of this digest?
+A daily digest, 20-25 entries per day, 5 days a week. Topics: front-end web development and the Web Platform. I’m providing this digest for the benefit of the web development community without a profit motive.
 
-I'll update this README with detailed information about this digest by the end of this week (Sept 22).
+## Timeline
 
-### Is there an RSS feed for this digest?
+### How it started
 
-Yes. It’s [available here](http://feeds.feedburner.com/OpenWebPlatformDailyDigest).
+In early 2013 I was working on a project for which I started reading tweets systematically (to gather information and resources). I noticed that I was gathering a fair amount of useful links that I didn’t need for that project, so I started putting them in daily lists inside a Google document. After a few days, I started thinking that this document could be useful to other developers, so I contacted Paul who tweeted about that document and triggered an initial response from the community.
 
-### When are new dailies released?
+Soon afterwards, Addy suggested that I could provide this as a website instead of a Google document. Initially, I was reluctant to invest time into this change as I was still mainly working on that other project, but after some quick prototyping, I came up with a solid design, so I went forward with it. A few days later, I decided to move this new site to a dedicated domain. That is when I shifted my entire focus to this digest.
 
-Weekdays in the early morning hours (European time).
+### Improvements in the first 6 months
 
-### Where is the data stored?
+The first several months were characterized by experimentation. I wasn’t yet sure what content I should provide and how it should be provided. This period was also plagued by regular delays which were a consequence of a flaw in my approach. (It takes time to build a robust workflow.)
 
-In Markdown files. You can view them [on GitHub](https://github.com/simevidas/webplatformdaily-site/tree/master/content/dailies).
+But soon I started to recognize some great patterns for constructing this digest. Around June/July I started landing these significant improvements:
 
-### What goes into creating a daily?
+ - I **raised the bar** dramatically. Each candidate is carefully reviewed and only resources that contain quality, relevant content, and are easily digestible, are accepted.
+ - I started **rewriting titles** (for entries like blog posts). This is a non-trivial and time-consuming process. I carefully construct the title to emphasise the key points of the linked resource making it significantly easier for the reader to understand what the resource is about. (Thanks to Brian for inspiration.)
+ - I started allowing only **direct content**, i.e. content that is useful to the reader immediately without him having to invest time/energy into digesting it himself. As a result, certain types of resources are generally excluded (e.g. raw undigested documents and compound resources like lists with both good and bad entries). 
 
-I gather the content from Twitter, i.e. from the tweets of the ~160 people I follow on Twitter. Usually, I select around 40-50 tweets (candidates). Then, based on those tweets I create around 20-30 entries for the daily.
- 
-### What topics are covered?
+### The future
 
- - Open Web Platform (including the open standards that comprise it)
- - JavaScript (the core language and libraries written in it)
- - web-browsers (including their development tools)
- - front-end web-development in general
- - Node.js, Grunt
- - open source to some degree (e.g. GitHub related content)
- - openness (open data)
- - privacy
+There are several awesome features (like “search all data by keyword” and a collection of useful auxiliary pages) that I’m eager to add, but first I have to secure a stable income for my work on this digest. I’m looking to get funded during October 2013.
 
-### What are the criteria for the content?
+### My workflow
 
-The general rule is that the content should be recent (say, less than 2 weeks old), relevant for the majority of visitors, direct and easily digestible.
+Creating content for this digest has since its inception been my full-time job. The amount of work hours I invest into each release has increased over the months, and I’m currently at 7-8 hours of  work on average. Producing a release revolves around these two major steps:
 
-### May I suggest content?
-
-Sure. Just mention [@simevidas](http://twitter.com/simevidas) on Twitter.
+ 1. On Twitter I load my timeline (the tweets from the people I follow) for the last 24 hours (e.g. 1 AM Tuesday to 1 AM Wednesday). There are on average 460 tweets in those 24 hours. Based on those tweets I construct a list of candidates which contains around 60 potential entries. This first step requires approx. 3 hours of work.
+ 2. I carefully evaluate each candidate and accept around 20-25 for the next release. (Example: I review up to 20 blog posts per day, only 6 of which are on average added to the digest.) This seconds step requires at least 4 hours of work. 
