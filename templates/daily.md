@@ -1,10 +1,10 @@
  - News
    - …
- - FYI
+ - UA dev.
+   - …
+ - Info
    - …
  - Posts
-   - [@]()’s [post]()
-   - [@]()’s [post]()
    - [@]()’s [post]()
    - [@]()’s [post]()
    - [@]()’s [post]()
