@@ -1,11 +1,45 @@
 The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDailyDigest). I’ve also activated the [email subscription](http://feedburner.google.com/fb/a/mailverify?uri=OpenWebPlatformDailyDigest&amp;loc=en_US) option.
 
 <div>
-    <h2>
-    	<strong>Update:</strong> Funding
-    </h2>
-    I’ve opened an issue on GitHub in which I discuss my plans for <em>funding my work on this digest</em>. <a href="https://github.com/simevidas/webplatformdaily-site/issues/61" target="_blank" style="font-weight:normal">Check it out here</a>. I’d love to hear your feedback.
+    <h2><strong>Update:</strong> Funding</h2>
+    <p>
+    	I’ve opened an issue on GitHub in which I discuss my plans for <em>funding my work on this digest</em>. <a href="https://github.com/simevidas/webplatformdaily-site/issues/61" target="_blank" style="font-weight:normal">Check it out here</a>. I’d love to hear your feedback.
+    </p>	
 </div>
+
+## October 8th, 2013
+
+ - News
+   - *Alliance for Affordable Internet* launched, [@dillonmann]()’s [post](http://www.webfoundation.org/2013/10/alliance-for-affordable-internet-launched/)
+   - Statement on the *future of Internet cooperation* issued, [post](http://www.w3.org/blog/news/archives/3298) at W3C
+ - UA dev.
+   - Intent to implement: Promises in V8, [link](https://groups.google.com/d/msg/v8-users/A2ODAZ6kKaE/TLDgLuRgSuAJ) + *Constructable URL objects* in Blink, [link](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/dg2jhlDP86o/HNVdw0B9OFsJ)
+ - Info
+   - Quarterly *browser stats* (for Q3) according to StatCounter, [@ppk]()’s [post](http://www.quirksmode.org/blog/archives/2013/10/q3_browser_stat.html)
+   - What’s new in *Chrome 30* (several new APIs in Chrome for Android), [@craigbuckler]()’s [post](http://www.sitepoint.com/whats-new-chrome-30/)
+ - Posts
+   - *Lesser-known DOM APIs*: `insertAdjacentHTML()`, `getBoundingClientRect()`, [@ImpressiveWebs]()’s [post](http://coding.smashingmagazine.com/2013/10/06/inside-the-box-with-vanilla-javascript/)
+   - The two UI layers: Using Node.js for the *back-end UI layer*, [@slicknet]()’s [post](http://www.nczonline.net/blog/2013/10/07/node-js-and-the-new-web-front-end/)
+   - *Flexbox layout rendering performance* (tested in Chrome), [@paul_irish]()’s [post](http://updates.html5rocks.com/2013/10/Flexbox-layout-isn-t-slow)
+   - The *extensible web manifesto* explained (+ how to get involved), [@domenic]()’s [post](http://domenic.me/2013/10/07/the-extensible-web/) ![][*]
+   - Creating an extension for the *Brackets code editor* with JavaScript, [@artoale]()’s [post](http://artoale.com/tutorial/brackets/2013/09/30/writing-brackets-extension-01/)
+   - *Using the `getUserMedia` API* with the HTML5 `<video>` and `<canvas>` elements, [@iandevlin]()’s [post](http://html5hub.com/using-the-getusermedia-api-with-the-html5-video-and-canvas-elements/)
+ - Media
+   - *Two-way bindings*: Comparison in MV* frameworks, [@GundersenMarius]()’s 19-min [talk](http://youtu.be/mVjpwia1YN4)
+   - Web Payload #1: *Responsive navigation patterns* w/ [@brad_frost](), 29-min [podcast](http://www.webpayload.com/podcast/1-brad-frost)
+   - *UTF-8 explained* in 9 minutes (+ how Unicode came about), [@tomscott]()’s [clip](http://youtu.be/MijmeoH9LT4) ![][*]
+ - Content
+   - “*How should Mozilla position itself* on the general question of DRM?”, session [notes](https://wiki.mozilla.org/Summit2013/Sessions/DRM_WTF) from #MozSummit
+   - *Blink Developers Summit*: Video recordings + slides for main sessions, [@paul_irish]()’s [message](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/KsJCjyWwVkU/CdaO2W6NaIkJ)
+   - Is an *XHTML 1.0 Transitional doctype* still needed for HTML e-mails?, [discussion](https://twitter.com/chriscoyier/status/387293081394888704) on Twitter
+   - WebKit continues to use its *`-webkit-` vendor prefix* (for `-webkit-alt`), [source](https://twitter.com/miketaylr/status/386910551453863936)
+ - Demos
+   - Turning a plain rectangular element into a *trapezoid with a few lines of CSS* (e.g. for tabs), [demo](http://dabblet.com/gist/6867917)
+   - “Navicon Transformicons”, *menu icons that transform* when clicked, [@bennettfeely]()’s [demo](http://codepen.io/bennettfeely/pen/twbyA)
+ - Tools
+   - DOM4 ![][js], a fully tested polyfill for the *new DOM Element methods*, [@WebReflection]()’s [repo](https://github.com/WebReflection/dom4)
+   - Prerender ![][no], *converts JavaScript-rendered pages* to static HTML on the fly (for crawlers), [site](http://prerender.io/)
+
 
 ## October 7th, 2013
 
@@ -627,41 +661,6 @@ The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDail
    - “That PE thang” (*progressive enhancement*), [@slightlylate]()’s [post](http://infrequently.org/2013/09/that-pe-thang/)
 
 
-## September 9th, 2013
-
- - News
-   - Premium *media experiences without plug-ins* in Internet Explorer 11, IEBlog [post](http://blogs.msdn.com/b/ie/archive/2013/09/05/online-professional-quality-video-premium-media-experiences-without-plug-ins-in-internet-explorer-11.aspx)
-   - “*Security tools and web browsers* come together in Mozilla Plug-n-Hack”, [@writingadam]()’s [post](http://www.scmagazine.com/security-tools-and-web-browsers-come-together-in-mozilla-plug-n-hack/article/310019/)
-   - *Opera TV Store* brings HTML5 web apps to TiVo’s set-top DVRs, [article](http://techcrunch.com/2013/08/29/tivos-roamio-platform-gets-opera-sdk-support-bringing-html5-web-apps-to-tivo-dvrs/)
-   - *Live development for HTML* in latest Brackets build, [post](http://blog.brackets.io/2013/09/05/brackets-sprint-30-build/)
- - UA dev.
-   - Firefox Nightly adds (CSS) *`position: sticky`* ([source](https://twitter.com/FirefoxNightly/status/376808286211022848)) and *`image-orientation: from-image`* ([source](https://twitter.com/FirefoxNightly/status/376283501899051008))
- - Tutorials
-   - *Observing the DOM* (e.g. addition/removal of child nodes) with *Mutation Observers*, [@webinista]()’s [post](http://dev.opera.com/articles/view/mutation-observers-tutorial/)
-   - *Protecting objects in JavaScript* (preventing extensions, sealing and freezing), [@rauschma]()’s [post](http://www.2ality.com/2013/08/protecting-objects.html)
-   - Implementing *HTML Drag and drop* on page elements and external files, [@MattAntWest]()’s [post](http://blog.teamtreehouse.com/implementing-native-drag-and-drop)
-   - *Styling the `<progress>` element* (w/ HTML fallback), [@pankajparashar]()’s [post](http://css-tricks.com/html5-progress-element/)
-   - *Defining new elements in HTML* with Custom Elements, [@ebidel]()’s [post](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/) ![][*]
- - Articles
-   - Should we standardize *`ellipsis` for multi-line text*?, [@getify]()’s [post](http://html5hub.com/ellipse-my-text/)
-   - Getting started with *HTML5 game development*, [@austinhallock]()’s [post](https://hacks.mozilla.org/2013/09/getting-started-with-html5-game-development/)
-   - 6 simple *web accessibility tests* anyone can do, [@karlgroves]()’s [post](http://www.karlgroves.com/2013/09/05/the-6-simplest-web-accessibility-tests-anyone-can-do/) ![][*]
-   - *Frontend generators*: Initializr, Yo and grunt-init, [@jonthanfielding]()’s [post](http://flippinawesome.org/2013/09/03/getting-a-head-start-with-front-end-generators/)
- - Media
-   - Chrome DevTools: *Visualizing JavaScript processing* with flame charts, [@addyosmani]()’s 3-min [screencast](http://addyosmani.com/blog/devtools-flame-charts/)
-   - JSJ Ep. 74: *Information about Grunt* from its creator ([@cowboy]()), 74-min [podcast](http://javascriptjabber.com/074-jsj-grunt-js-with-ben-alman/)
-   - *Debugging and fixing jank* on a live website, [@paul_irish]()’s 10-min [screencast](https://www.youtube.com/watch?v=mSK70FwUz2A) ![][*]
- - Content
-   - “DOM Core” *browser compatibility tables* updated on QuirksMode, [desktop](http://quirksmode.org/dom/core/) + [mobile](http://quirksmode.org/dom/core/mobile.html)
-   - “Know your HTTP well”, an *overview of HTTP* headers, methods and status codes (w/ links to spec), [repo](https://github.com/andreineculau/know-your-http-well)
-   - A comprehensive *cheat sheet to favicon sizes* and types, [@audreyr]()’s [page](https://github.com/audreyr/favicon-cheat-sheet) ![][*]
- - Tools
-   - favico.js, a library for *adding a notification badge to the favicon* of a web page, [page](http://lab.ejci.net/favico.js/)
-   - XDomain, a *pure JavaScript CORS* alternative, [repo](https://github.com/jpillora/xdomain)
- - Opinion
-   - *Progressive enhancement* is faster, [@jaffathecake]()’s [post](http://jakearchibald.com/2013/progressive-enhancement-is-faster/)
-
-
 
 **Note:** I’ve temporarily disabled loading additional content onto the page. You can view older dailies in [the “archive” on GitHub](https://github.com/simevidas/webplatformdaily-site/blob/master/content/dailies). I’ll implement viewing (and searching) of all data soon.
 
@@ -681,6 +680,7 @@ The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDail
 
 [ea]: /img/plugin.png "plug-in"
 [js]: /img/javascript.png "JavaScript library"
+[no]: /img/nodejs.ico "Node.js"
 
 [brick]: http://mozilla.github.io/brick/ "Mozilla Brick"
 [Client-Hints]: https://github.com/igrigorik/http-client-hints
