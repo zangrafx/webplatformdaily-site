@@ -1,3 +1,34 @@
+## October 9th, 2013
+
+ - News
+   - ECMA publishes the *standard for JSON syntax* (as ECMA-404), [source](https://twitter.com/awbjs/status/387669699116290048)
+   - “The only way in which we can decisively put a stop to DRM is by *changing the legal system*”, [link](http://www.w3.org/community/web-copyright/)
+   - Groupon switches from Ruby on Rails to Node.js, *response times improve* dramatically, [post](https://engineering.groupon.com/2013/node-js/geekon-i-tier/)
+ - UA dev.
+   - Mozilla’s MemShrink project: Great *improvements in Firefox’s memory usage*, [@khuey_]()’s [post](http://aosabook.org/en/posa/memshrink.html)
+ - Posts
+   - Jank-free *rendering performance* (50-min talk + summary notes), [@addyosmani]()’s [post](http://addyosmani.com/blog/making-a-site-jank-free/) ![][*]
+   - With asm.js the browser becomes a feasible platform for *HTML5 game development*, [@fhd]()’s [post](http://ubercode.de/blog/why-asm-js-is-a-big-deal-for-game-developers)
+   - State of *audio format support* in web browsers (Spoiler: MP3 + OGG), [@VaughnRoyko]()’s [post](http://html5hub.com/so-do-we-have-a-cross-browser-audio-format-yet/)
+   - *Installable web apps* on Android: Configuration, behavior, comparison to iOS, [@firt]()’s [post](http://www.mobilexweb.com/blog/home-screen-web-apps-android-chrome-31)
+   - *Getting started with Yeoman*: Installation, directory structure, overview, [@marcofolio]()’s [post](http://www.marcofolio.net/webdesign/put_your_html_development_on_steroids_using_yeoman.html)
+   - Performing search/sort operations on arrays with the *`.reduce()` Array method*, [@ariyahidayat]()’s [post](http://ariya.ofilabs.com/2013/10/searching-using-array-prototype-reduce.html)
+ - Media
+   - *Promises/A+* (what they are and how they came about), [@domenic]()’s 31-min [talk](http://youtu.be/V2Q13hzTGmA) + [slide deck](http://www.slideshare.net/domenicdenicola/boom-promisesa-was-born) ![][*]
+ - Content
+   - mustache-security, a wiki dedicated to *JavaScript MVC security pitfalls*, [page](http://code.google.com/p/mustache-security/)
+   - “CSS Selectors” *browser support tables* updated on QuirksMode, [desktop](http://www.quirksmode.org/css/selectors/) + [mobile](http://www.quirksmode.org/css/selectors/mobile.html)
+ - Demos
+   - The Flash game “Candy Crush” *running in Shumway* (Mozilla’s Flash VM/runtime), [video](https://vimeo.com/74324610) demo
+   - A collection of 20+ CSS-based *calendar designs*, [@chriscoyier]()’s [collection](http://codepen.io/collection/wvhHK) on  CodePen
+ - Tools
+   - Fixed-Sticky ![][js], [@filamentgroup]()’s CSS *`position: sticky` polyfill*, [repo](https://github.com/filamentgroup/fixed-sticky) + [demo](http://filamentgroup.github.com/fixed-sticky/demo.html)
+   - Overthrow ![][js], [@filamentgroup]()’s CSS *`overflow: auto` polyfill* for use in responsive design, [repo](https://github.com/filamentgroup/Overthrow)
+   - opentype.js ![][js], a *JavaScript font parser* (TrueType and OpenType), [repo](https://github.com/nodebox/opentype.js)
+ - Opinion
+   - “*The W3C does not decide* what goes into the Web Platform. Implementers do.”, [@DavidBruant]()’s [post](http://longtermlaziness.wordpress.com/2013/10/08/the-w3c-is-a-restaurant/)
+
+
 ## October 8th, 2013
 
  - News

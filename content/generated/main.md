@@ -7,6 +7,37 @@ The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDail
     </p>	
 </div>
 
+## October 9th, 2013
+
+ - News
+   - ECMA publishes the *standard for JSON syntax* (as ECMA-404), [source](https://twitter.com/awbjs/status/387669699116290048)
+   - “The only way in which we can decisively put a stop to DRM is by *changing the legal system*”, [link](http://www.w3.org/community/web-copyright/)
+   - Groupon switches from Ruby on Rails to Node.js, *response times improve* dramatically, [post](https://engineering.groupon.com/2013/node-js/geekon-i-tier/)
+ - UA dev.
+   - Mozilla’s MemShrink project: Great *improvements in Firefox’s memory usage*, [@khuey_]()’s [post](http://aosabook.org/en/posa/memshrink.html)
+ - Posts
+   - Jank-free *rendering performance* (50-min talk + summary notes), [@addyosmani]()’s [post](http://addyosmani.com/blog/making-a-site-jank-free/) ![][*]
+   - With asm.js the browser becomes a feasible platform for *HTML5 game development*, [@fhd]()’s [post](http://ubercode.de/blog/why-asm-js-is-a-big-deal-for-game-developers)
+   - State of *audio format support* in web browsers (Spoiler: MP3 + OGG), [@VaughnRoyko]()’s [post](http://html5hub.com/so-do-we-have-a-cross-browser-audio-format-yet/)
+   - *Installable web apps* on Android: Configuration, behavior, comparison to iOS, [@firt]()’s [post](http://www.mobilexweb.com/blog/home-screen-web-apps-android-chrome-31)
+   - *Getting started with Yeoman*: Installation, directory structure, overview, [@marcofolio]()’s [post](http://www.marcofolio.net/webdesign/put_your_html_development_on_steroids_using_yeoman.html)
+   - Performing search/sort operations on arrays with the *`.reduce()` Array method*, [@ariyahidayat]()’s [post](http://ariya.ofilabs.com/2013/10/searching-using-array-prototype-reduce.html)
+ - Media
+   - *Promises/A+* (what they are and how they came about), [@domenic]()’s 31-min [talk](http://youtu.be/V2Q13hzTGmA) + [slide deck](http://www.slideshare.net/domenicdenicola/boom-promisesa-was-born) ![][*]
+ - Content
+   - mustache-security, a wiki dedicated to *JavaScript MVC security pitfalls*, [page](http://code.google.com/p/mustache-security/)
+   - “CSS Selectors” *browser support tables* updated on QuirksMode, [desktop](http://www.quirksmode.org/css/selectors/) + [mobile](http://www.quirksmode.org/css/selectors/mobile.html)
+ - Demos
+   - The Flash game “Candy Crush” *running in Shumway* (Mozilla’s Flash VM/runtime), [video](https://vimeo.com/74324610) demo
+   - A collection of 20+ CSS-based *calendar designs*, [@chriscoyier]()’s [collection](http://codepen.io/collection/wvhHK) on  CodePen
+ - Tools
+   - Fixed-Sticky ![][js], [@filamentgroup]()’s CSS *`position: sticky` polyfill*, [repo](https://github.com/filamentgroup/fixed-sticky) + [demo](http://filamentgroup.github.com/fixed-sticky/demo.html)
+   - Overthrow ![][js], [@filamentgroup]()’s CSS *`overflow: auto` polyfill* for use in responsive design, [repo](https://github.com/filamentgroup/Overthrow)
+   - opentype.js ![][js], a *JavaScript font parser* (TrueType and OpenType), [repo](https://github.com/nodebox/opentype.js)
+ - Opinion
+   - “*The W3C does not decide* what goes into the Web Platform. Implementers do.”, [@DavidBruant]()’s [post](http://longtermlaziness.wordpress.com/2013/10/08/the-w3c-is-a-restaurant/)
+
+
 ## October 8th, 2013
 
  - News
@@ -627,38 +658,6 @@ The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDail
    - Thoughts about *responsive images*, [@arobson]()’s [post](http://www.htmlhive.com/our-responsive-images-solution-we-have/)
    - The *Node.js community* is changing the face of open source, [@GreggCaines]()’s [post](http://caines.ca/blog/programming/the-node-js-community-is-quietly-changing-the-face-of-open-source/)
    - Why *the open web is under threat*, [@torgos]()’s [post](http://blog.digital.telefonica.com/2013/09/03/the-open-web-dan-appelquist/)
-
-
-## September 10th, 2013
-
- - News
-   - **Today:** *Responsive images meetup* in Paris, [source](https://twitter.com/marcosc/status/376978875689218048)
-   - *Opera launches Coast*, a web browser for iPad, [@brucel]()’s [post](http://my.opera.com/ODIN/blog/introducing-coast-by-opera) + optimizing web apps for Coast, [page](http://coastbyopera.com/developer)
-   - The U.S. government *tapped into computer networks* of companies including Google, [article](http://www.reuters.com/article/2013/09/09/usa-security-snowden-petrobras-idUSL1N0H40HV20130909) (Reuters)
- - UA dev.
-   - Firefox Scratchpad: *Auto-fixing JavaScript typos* (prototype), [@valueof]()’s [post](http://anton.kovalyov.net/p/js-typos/)
- - Tutorials
-   - *Ignoring library code while debugging* in Chrome (like Firefox’s “black boxing”), [@collintmiller]()’s [post](http://www.divshot.com/blog/tips-and-tricks/ignoring-library-code-while-debugging-in-chrome/)
-   - Five helpful tips when *using RequireJS* (i.a. working with non-AMD libraries), [@ifandelse]()’s [post](http://tech.pro/blog/1561/five-helpful-tips-when-using-requirejs)
- - Articles
-   - Two *responsive image approaches* that require minimal developer effort, [@borismus]()’s [post](http://smus.com/responsive-image-workflow/) ![][*]
-   - An ambitious proposal for a new *responsive image format* (includes prototype), [@yoavweiss]()’s [post](http://blog.yoav.ws/2013/09/Responsive-Image-Container)
-   - Building *games that take advantage of HTML5* and the web platform, [@austinhallock]()’s [post](http://clay.io/blog/building-games-for-html5-not-with-html5/)
-   - *HTML5 video on mobile* - considerations and troubleshooting, [@aliciatweet]()’s [post](http://html5hub.com/html5-video-on-mobile-a-primer/#i.xov2jogpddzntz)
- - Media
-   - *Testing Node.js applications* with Jasmine, [@clemenshelm]()’s 5-min [screencast](http://blog.codeship.io/2013/08/20/testing-tuesday-19-how-to-test-node-js-applications-with-jasmine.html)
-   - *Frontend security* (i.a. Content Security Policy), [@mikewest]()’s 47-min [talk](https://mikewest.org/2013/09/frontend-security-frontendconf-2013) (+ slides + transcript) ![][*]
- - Content
-   - Idea: *Set Client-Hints* ([?][Client-Hints]) via `<meta>` tag, [discussion](https://github.com/igrigorik/http-client-hints/issues/8) on GitHub
-   - A good visual *overview of HTML elements* (w/ links to MDN and W3C), [@joshduck]()’s [page](http://joshduck.com/periodic-table.html)
- - Demos
-   - Cool effect: *Image pixelation on hover*, [@pixelia_me]()’s [demo](http://codepen.io/noeldelgado/pen/FmEBh)
-   - HelloRun, a visually impressive *HTML5 game* by [@HelloEnjoy](), [play](http://hellorun.helloenjoy.com/)
- - Tools
-   - URLcrypt (PHP port), a library *for securely transmitting binary data* in URLs, [repo](https://github.com/aarondfrancis/urlcrypt)
-   - Two.js, a render-agnostic *2D drawing API* (draws in SVG, Canvas and WebGL), [page](http://jonobr1.github.io/two.js/)
- - Opinion
-   - “That PE thang” (*progressive enhancement*), [@slightlylate]()’s [post](http://infrequently.org/2013/09/that-pe-thang/)
 
 
 
