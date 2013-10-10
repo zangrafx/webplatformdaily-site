@@ -1,11 +1,38 @@
 The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDailyDigest). I’ve also activated the [email subscription](http://feedburner.google.com/fb/a/mailverify?uri=OpenWebPlatformDailyDigest&amp;loc=en_US) option.
 
-<div>
-    <h2><strong>Update:</strong> Funding</h2>
-    <p>
-    	I’ve opened an issue on GitHub in which I discuss my plans for <em>funding my work on this digest</em>. <a href="https://github.com/simevidas/webplatformdaily-site/issues/61" target="_blank" style="font-weight:normal">Check it out here</a>. I’d love to hear your feedback.
-    </p>	
-</div>
+**Update:** I’ve opened an issue on GitHub in which I discuss my plans for <em>funding my work on this digest</em>. <a href="https://github.com/simevidas/webplatformdaily-site/issues/61" target="_blank" style="font-weight:normal">Check it out here</a>. I’d love to hear your feedback.
+
+
+## October 10th, 2013
+
+ - News
+   - Director of W3C [@timberners_lee]() on encrypted video *(DRM) and the open Web*, [post](http://www.w3.org/blog/2013/10/on-encrypted-video-and-the-open-web/) on W3C
+   - *2nd round of Firefox OS* launches to start soon: Brazil, Germany, Hungary, Serbia, Montenegro, [post](https://blog.mozilla.org/blog/2013/10/09/mozilla-and-partners-to-kick-off-second-round-of-firefox-os-launches/)
+ - Info
+   - *Canvas blend modes* support: Firefox, Chrome and iOS 7 Safari, [demo](http://codepen.io/adobe/pen/nmfic) for testing it out
+   - *Firefox OS 1.1 update* brings new features, performance improvements, …, [post](https://blog.mozilla.org/futurereleases/2013/10/09/firefox-os-update-1-1-adds-new-features-performance-improvements-and-additional-language-support/)
+ - Posts
+   - The many *meanings of “open”* (open standards, open source, net neutrality, …), [@timberners_lee]()’s [post](http://blog.digital.telefonica.com/2013/10/09/tim-berners-lee-telefonica-open-agenda/)
+   - Reseting styles with *CSS `all: unset`* (supported in Firefox Nightly), [@heycam]()’s [post](http://mcc.id.au/blog/2013/10/all-unset) ![][*]
+   - Awesome *new Mozilla projects*: Shumway, Appmaker, Brick, TogetherJS, [@davidwalshblog]()’s [post](http://davidwalsh.name/mozilla-technologies)
+   - *Web Notifications*: Basic usage, browser support, perceived problems, [@inserthtml]()’s [post](http://www.inserthtml.com/2013/10/notification-api/)
+   - Simple *example of using ES6 Proxies*: Implementing negative array indexes, [@GNUmanth]()’s [post](http://h3manth.com/new/blog/2013/negative-array-index-in-javascript/)
+   - *HTML5 game development*: Understanding device limitations and benchmarking, [@davrous]()’s [post](http://www.noupe.com/webdev/html5-gaming-benchmarking-sprites-to-target-all-browsers-79403.html)
+ - Media
+   - An early look at *Mozilla Appmaker* (WYSIWYG tool for creating mobile web apps), 3-min [screencast](http://youtu.be/RaRIdLgZTPI)
+   - Comparing *AngularJS directives* and *Polymer elements*, [@ebidel]()’s 10-min [screencast](http://youtu.be/p1NpZ-0Op0w)
+ - Content
+   - Explanation: In CSS, *animating `translateX` preforms better* than animating `left`, [@grorgwork]()’s [gist](https://gist.github.com/grorg/6732841) ![][*]
+   - NodeOS, a hacker-friendly *operating system written in Node.js* (on top of the Linux kernel), [site](http://nodeos.github.io/)
+   - “Are there any plans to *add WebRTC support to IE*?”, [@jacobrossi]()’s (PM for IE) [response](https://twitter.com/BrianDiPalma1/status/387983270794653696)
+ - Demos
+   - An HTML5 remake of the original *Super Mario Bros*, [@jkosoy]()’s [post](http://creativejs.com/2013/10/full-screen-mario/)
+ - Sites
+   - csste.st, a collection of *techniques and tools for CSS testing*, [@thingsinjars]()’s [site](http://csste.st/)
+ - Tools
+   - Conzole ![][js], an *on-page debug panel* that wraps native `console` methods, [@pantaa]()’s [page](http://oaxoa.github.io/Conzole/) w/ demo
+   - Ideal Forms 3 ![][js], a framework for building and validating *responsive HTML5 forms*, [repo](https://github.com/elclanrs/jq-idealforms) + [demo](http://192.241.132.92/idealforms3-demo/)
+
 
 ## October 9th, 2013
 
@@ -629,35 +656,6 @@ The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDail
  - Tools
    - gest.js, a webcam based *gesture recognition library*, [@hadi_michael]()’s [repo](https://github.com/hadimichael/gest.js) + [slide deck](http://hadimichael.github.io/gestjs-presentation/)
    - Mobile Insights Monitor (Chrome extension), tracks the *mobile PageSpeed score* of your websites, [page](https://chrome.google.com/webstore/detail/mobile-insights-monitor/onahbpljhhcaidfhplifledjcfkbogpn)
-
-
-## September 11th, 2013
-
- - News
-   - The Open Agenda: A call for a *debate on the future of the Web*, [video](http://www.youtube.com/watch?v=67NU7ZmoDsc)
-   - Upcoming *TC-39 panel discussion* in Boston (Sept 17), [info](http://www.meetup.com/javascript-2/events/139338322/) + [submit](https://www.google.com/moderator/#16/e=211faa) questions via Google moderator
- - Tutorials
-   - Understanding *ECMAScript 6 arrow functions*, [@slicknet]()’s [post](http://www.nczonline.net/blog/2013/09/10/understanding-ecmascript-6-arrow-functions/)
- - Articles
-   - Javascript has never been updated to *support UTF-16*, [@conradirwin]()’s [post](http://cirw.in/blog/node-unicode)
-   - CSS length explained (i.a. device pixel vs CSS pixel, *device pixel ratio*), [@timdream]()’s [post](https://hacks.mozilla.org/2013/09/css-length-explained/) ![][*]
- - Media
-   - *Testing with QUnit*: synchronous and asynchronous JS callbacks, [@clemenshelm]()’s 5-min [screencast](http://blog.codeship.io/2013/09/03/testing-tuesday-21-testing-synchronous-and-asynchronous-javascript-callbacks-with-qunit.html)
-   - Tools and techniques for *investigating JavaScript performance issues*, [@knownissues]()’s 30-min [talk](http://www.youtube.com/watch?v=480JL_WuMt0)
- - Content
-   - **Upcoming:** “Introduction to *Web Accessibility*”, Google’s free online [course](https://webaccessibility.withgoogle.com/preview) + [announcement](http://googledevelopers.blogspot.co.uk/2013/09/make-your-website-more-accessible-to.html)
-   - “Responsive image container” (a proposed *responsive image format*), [@yoavweiss]()’s [slide deck](http://yoavweiss.github.io/respimg-paris-presentation/) ![][*]
-   - Suggestion: Using *SVG’s `<switch>` element* for responsive images, [@robinberjon]()’s [slide deck](http://berjon.com/presentations/20130910-ricg-switch/) + [demo](https://twitter.com/robinberjon/status/377408321013436416)
-   - *Installing web apps* on different mobile platforms (comparison), [image](https://pbs.twimg.com/media/BTwDt1xCAAAwN6m.jpg:large) ([via](https://twitter.com/scottjenson/status/377180554849812480))
-   - Google moderator *questions for Edge conference* 2013, [page](https://www.google.com/moderator/#16/e=20e3ec)
- - Tools
-   - QuestionMark.js, for displaying a *modal window with keyboard commands*, [@ImpressiveWebs]()’s [post](http://www.impressivewebs.com/questionmark-js-shortcut-keys-displayed/)
-   - Perimeter.js, creates an invisible perimeter around an element and *monitors mouse breaches*, [page](http://github.e-sites.nl/perimeter.js/)
-   - REST Hooks, reduces *REST API server load*, [site](http://resthooks.org/)
- - Opinion
-   - Thoughts about *responsive images*, [@arobson]()’s [post](http://www.htmlhive.com/our-responsive-images-solution-we-have/)
-   - The *Node.js community* is changing the face of open source, [@GreggCaines]()’s [post](http://caines.ca/blog/programming/the-node-js-community-is-quietly-changing-the-face-of-open-source/)
-   - Why *the open web is under threat*, [@torgos]()’s [post](http://blog.digital.telefonica.com/2013/09/03/the-open-web-dan-appelquist/)
 
 
 
