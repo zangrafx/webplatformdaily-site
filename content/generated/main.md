@@ -3,6 +3,34 @@ The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDail
 **Update:** I’ve opened an issue on GitHub in which I discuss my plans for <em>funding my work on this digest</em>. <a href="https://github.com/simevidas/webplatformdaily-site/issues/61" target="_blank" style="font-weight:normal">Check it out here</a>. I’d love to hear your feedback.
 
 
+## October 11th, 2013
+
+ - News
+   - T-Mobile announces *unlimited global data roaming* at no extra charge, [article](http://www.theverge.com/2013/10/9/4821692/t-mobile-announces-unlimited-global-data-roaming-at-no-extra-charge) (Verge)
+ - UA dev.
+   - Chrome Canary and WebKit Nightly add support for *CSS luminance masking*, [post](http://blogs.adobe.com/webplatform/2013/10/08/css-luminance-masking-now-available-in-chrome-canary-and-webkit-nightly/) (Adobe)
+ - Posts
+   - *Creating a Polymer web app* with the help of Yeoman, [@addyosmani]()’s [post](http://www.html5rocks.com/en/tutorials/webcomponents/yeoman/) ![][*]
+   - *IndexedDB tips and tricks* from Microsoft’s Babylon.js team member, [@davrous]()’s [post](http://www.sitepoint.com/using-indexeddb-manage-3d-webgl-assets/)
+   - IBM’s [@pmuellr]() shares his *best practices for generating source maps*, [post](http://pmuellr.blogspot.com/2013/10/sourcemap-best-practices.html)
+   - Overview of *client-side storage* mechanisms (i.a. Web Storage, IndexedDB), [@craigbuckler]()’s [post](http://www.sitepoint.com/html5-browser-storage-past-present-future/)
+   - Adobe’s progress report on the “*SVG glyphs in OpenType* fonts” standardization effort, [post](http://blogs.adobe.com/typblography/2013/10/svg-opentype-genesis.html)
+   - Mozilla’s [@OpenMatt]() explains what “*working in the open*” means, [post](http://openmatt.org/2011/04/06/how-to-work-open/)
+ - Media
+   - An introduction to the *`Object.observe()` API*, [@addyosmani]()’s 35-min [talk](http://youtu.be/mfOh-J-9BY0)
+   - ShopTalk Show: RAPIDFIRE #20 (*Q&A with [@chriscoyier]()* and [@davatron5000]()), 58-min [podcast](http://shoptalkshow.com/episodes/084-rapidfire-20/)
+ - Content
+   - Issue in Chrome: *No support for CSS 3D transforms* on systems lacking hardware acceleration, [bug](https://code.google.com/p/chromium/issues/detail?id=305625)
+   - Detailed information on the *`<script defer>` bug in IE* (version 9 and 8), [issue](https://github.com/h5bp/lazyweb-requests/issues/42) on GitHub
+   - Collaborative *notes from [@FronteersConf]()* 2013 (day 1 of 2), [etherpad](http://etherpad.wikimedia.org/p/fronteers13)
+   - *HTML5 accessibility*: Browser support, guidelines for devs, [@stevefaulkner]()’s annotated [slide deck](https://docs.google.com/presentation/d/1gnQg-3jQSytv60ozANjM7BK-OhiP7elf13P5oXHT6CM/edit#slide=id.ge8055c1d_2_75) ![][*]
+ - Demos
+   - “The Museum of Mario”, an *interactive experience* (by [@getify]()), [microsite](http://mario.ign.com/) (IGN)
+   - [@csuwldcat]()’s technique for *transitioning CSS `height` to `auto`* and vice versa, [demo](http://codepen.io/csuwldcat/pen/ACKjz)
+ - Tools
+   - Datauri, an online tool for *converting image files to data URIs* (Base64-encoded), [site](http://daturi.me/)
+   - HTML5 Gamepad Tester, *displays info about gamepads* connected to your computer, [site](http://html5gamepad.com/)
+
 ## October 10th, 2013
 
  - News
@@ -624,38 +652,6 @@ The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDail
  - Opinion
    - *Progressive enhancement*: It’s about the content, [@stephencaver]()’s [post](http://cognition.happycog.com/article/progressive-enhancement-its-about-the-content)
    - The proposed *`<picture>` element is too complex*, [@zcorpan]()’s [message](http://lists.w3.org/Archives/Public/public-html/2013Sep/0137.html) on `public-html`
-
-
-## September 12th, 2013
-
- - News
-   - Draft standards for the *carriage of timed text in MP4*, [@cconcolato]()’s [post](http://www.w3.org/community/texttracks/2013/09/11/carriage-of-webvtt-and-ttml-in-mp4-files/)
-   - European Commission pushes for *net neutrality*, [article](http://www.theverge.com/2013/9/11/4718176/european-commission-connected-continent-plan) (The Verge)
-   - Google security exec: “*Passwords are dead*”, [article](http://news.cnet.com/8301-1009_3-57602286-83/google-security-exec-passwords-are-dead/) (CNET)
- - FYI
-   - The issues with *HTTP content negotiation*, WHATWG [wiki](http://wiki.whatwg.org/wiki/Why_not_conneg)
- - Tutorials
-   - Organizational tips for a more *maintainable Gruntfile*, [@thomasABoyt]()’s [post](http://www.thomasboyt.com/2013/09/01/maintainable-grunt.html)
-   - Introductory guide to three.js: *Creating a WebGL 3D model*, [@nickrp]()’s [post](http://blog.teamtreehouse.com/the-beginners-guide-to-three-js)
-   - *Complex clip paths* with `-webkit-clip-path`, [@agreenblatt]()’s [post](http://blattchat.com/2013/09/10/interactive-css-clip-paths/) w/ inline demos (view in Ch/Op)
- - Articles
-   - *HTML injection in mails* sent from Google Scholar, [@tomvangoethem]()’s [post](http://vagosec.org/2013/09/google-scholar-email-html-injection/)
-   - Web design considerations regarding the *changes in iOS7 Safari*, [@Mike_Abasov]()’s [post](http://www.mobify.com/blog/designing-for-ios-7/)
-   - Moving past page load time: Measuring the *critical rendering path*, [@vidluther]()’s [post](http://www.speedawarenessmonth.com/moving-past-page-load-time/) ![][*]
- - Media
-   - Sticky positioning (*CSS `position: sticky`*) explained in  Corey Ford’s 12-min [talk](https://air.mozilla.org/intern-presentation-ford/)
-   - Building a blog reading *application using Ember.js*, [@tomdale]()’s 27-min [screencast](https://www.youtube.com/watch?v=1QHrlFlaXdI)
- - Content
-   - Working on a *large scale responsive design* at Guardian, [@lukew]()’s [notes](http://www.lukew.com/ff/entry.asp?1792)
-   - Notes from the Sept 10th *responsive images meetup*, [@ShaneHudson]()’s [post](http://www.shanehudson.net/2013/09/10/responsive-images-meeting-notes/) ![][*]
-   - A thorough *presentation on Flexbox*, [@zomigi]()’s [slide deck](http://www.slideshare.net/zomigi/putting-flexbox-into-practice) + accompanying [post](http://zomigi.com/blog/flexbox-presentation/)
-   - Interesting technique: Automatic *device pixel ratio*, [@jon_neal]()’s [page](http://sandbox.thewikies.com/autodpr/)
-   - Browser *support table for WebRTC* features, [site](http://iswebrtcreadyyet.com/)
- - Demos
-   - A bunch of *CSS only custom checkboxes*, [@inserthtml ]()’s [post](http://www.inserthtml.com/demos/css/radio-buttons/) + [demo](http://www.inserthtml.com/demos/css/radio-buttons/) page
- - Tools
-   - gest.js, a webcam based *gesture recognition library*, [@hadi_michael]()’s [repo](https://github.com/hadimichael/gest.js) + [slide deck](http://hadimichael.github.io/gestjs-presentation/)
-   - Mobile Insights Monitor (Chrome extension), tracks the *mobile PageSpeed score* of your websites, [page](https://chrome.google.com/webstore/detail/mobile-insights-monitor/onahbpljhhcaidfhplifledjcfkbogpn)
 
 
 
