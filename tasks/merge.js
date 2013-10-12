@@ -1,4 +1,5 @@
 module.exports = function (grunt) {
+
 	grunt.registerTask('merge', function () {
 		var today = new Date,
 			year = today.getFullYear(),
@@ -10,8 +11,7 @@ module.exports = function (grunt) {
 			content,
 			counter = 0,
 			result = '',
-			latest = '',
-			minimal = false; // only create a file for the lastest 20 dailies
+			refs = grunt.file.read('content/main/refs.md');
 
 		// adds one leading zero to one-digit numbers
 		function z(n) {
@@ -40,11 +40,8 @@ module.exports = function (grunt) {
 
 						counter++;
 						if (counter === 20) {
-							grunt.file.write('content/generated/latest.temp.md', result);
-							if (minimal) break loop; // don't create archive.md and all.md
-
-							latest = result;
-							result = '';
+							grunt.file.write('content/generated/latest.temp.md', result + refs);
+							if (false) break loop; // TODO: Implement how to *not* create all.md during development
 						}
 
 						if (year === 2013 && month === 3 && day === 15) break loop;
@@ -58,12 +55,6 @@ module.exports = function (grunt) {
 			month = 12;
 		}
 
-		// grunt.file.write('content/generated/archive.md', result);
-
-		// used to perform Ctrl + F searches withing the web page on all data locally
-		// e.g. checking if you have something already
-		// that's why I need to add refs.md at the end
-		result = latest + result;
-		grunt.file.write('content/generated/all.md', result + grunt.file.read('content/main/refs.md'));
+		grunt.file.write('content/generated/all.md', result + refs);
 	});
 };

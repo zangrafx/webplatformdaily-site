@@ -1,7 +1,6 @@
 The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDailyDigest). I’ve also activated the [email subscription](http://feedburner.google.com/fb/a/mailverify?uri=OpenWebPlatformDailyDigest&amp;loc=en_US) option.
 
-**Update:** I’ve opened an issue on GitHub in which I discuss my plans for <em>funding my work on this digest</em>. <a href="https://github.com/simevidas/webplatformdaily-site/issues/61" target="_blank" style="font-weight:normal">Check it out here</a>. I’d love to hear your feedback.
-
+**Update:** I’ve opened an issue on GitHub in which I discuss my plans for *funding my work on this digest*. [Check it out here](https://github.com/simevidas/webplatformdaily-site/issues/61). I’d love to hear your feedback.
 
 ## October 11th, 2013
 
@@ -653,9 +652,6 @@ The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDail
    - *Progressive enhancement*: It’s about the content, [@stephencaver]()’s [post](http://cognition.happycog.com/article/progressive-enhancement-its-about-the-content)
    - The proposed *`<picture>` element is too complex*, [@zcorpan]()’s [message](http://lists.w3.org/Archives/Public/public-html/2013Sep/0137.html) on `public-html`
 
-
-
-**Note:** I’ve temporarily disabled loading additional content onto the page. You can view older dailies in [the “archive” on GitHub](https://github.com/simevidas/webplatformdaily-site/blob/master/content/dailies). I’ll implement viewing (and searching) of all data soon.
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"

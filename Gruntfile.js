@@ -21,18 +21,7 @@ module.exports = function (grunt) {
 				files: {
 					'content/generated/main.md': [
 						'content/main/head.md',
-						'content/generated/latest.temp.md',
-						'content/main/foot.md',
-						'content/main/refs.md'
-					]
-				}
-			},
-			// A temp. file for the RSS generator task below
-			rss: {
-				files: {
-					'content/generated/latest.temp.md': [
-						'content/generated/latest.temp.md',
-						'content/main/refs.md'
+						'content/generated/latest.temp.md'
 					]
 				}
 			}
@@ -174,7 +163,7 @@ module.exports = function (grunt) {
 	grunt.registerTask('css', ['sass', 'csslint', 'concat:css']);
 	grunt.registerTask('js', ['jshint', 'uglify']);
 	grunt.registerTask('md', ['merge', 'concat:md', 'clean:temp']);
-	grunt.registerTask('daily', ['merge', 'validate', 'concat:md', 'concat:rss', 'markdown:rss', 'clean:temp']);
+	grunt.registerTask('daily', ['merge', 'validate', 'concat:md', 'markdown:rss', 'clean:temp']);
 	grunt.registerTask('server', ['connect', 'watch']);
 
 	grunt.loadTasks('tasks');

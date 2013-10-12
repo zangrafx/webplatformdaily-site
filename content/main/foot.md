@@ -1,1 +1,0 @@
-**Note:** I’ve temporarily disabled loading additional content onto the page. You can view older dailies in [the “archive” on GitHub](https://github.com/simevidas/webplatformdaily-site/blob/master/content/dailies). I’ll implement viewing (and searching) of all data soon.
