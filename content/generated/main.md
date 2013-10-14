@@ -2,6 +2,38 @@ The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDail
 
 **Update:** I’ve opened an issue on GitHub in which I discuss my plans for *funding my work on this digest*. [Check it out here](https://github.com/simevidas/webplatformdaily-site/issues/61). I’d love to hear your feedback.
 
+## October 14th, 2013
+
+ - News
+   - ICANN, IETF, W3C et al. pledge to free themselves of the *influence of the US government*, [article](http://www.wired.co.uk/news/archive/2013-10/12/us-internet-control)
+   - Microsoft releases toolkit to let Windows 7 users *avoid automatically upgrading to IE11*, [article](http://thenextweb.com/microsoft/2013/10/11/microsoft-releases-toolkit-let-windows-7-users-avoid-automatically-upgrading-ie11/)
+   - *Firefox OS in Germany*: Congstar will start offering the smartphones tomorrow, [source](http://www.telecompaper.com/news/congstar-to-sell-firefox-os-smartphone-from-15-october--972504)
+ - Twitter
+   - Internet Explorer DevRel team: *No support for Web Components* planned yet, [tweet](https://twitter.com/IEDevChat/status/388742078387077120)
+   - `<link rel=import>` behaves like `<link rel=stylesheet>`, *blocks rendering at next `<script>`*, [tweet](https://twitter.com/dglazkov/status/389411771154321408)
+ - Posts
+   - Creating a responsive *imagemap with SVG*, [@dudleystorey]()’s [post](http://demosthenes.info/blog/760/Create-A-Responsive-Imagemap-With-SVG)
+   - Web Components: Building a *custom autocomplete input-field* with Mozilla’s X-Tag, [@nzinas]()’s [post](http://www.prevent-default.com/custom-elements-nextgen-markup-pt-3/)
+   - The 3 levels of CSS Filter Effects, No. 1: *Named filter functions*, [@vangogh]()’s [post](http://www.vanseodesign.com/css/named-filter-effects/)
+   - CSS pattern: The “*single-direction margin* declarations” rule, [@csswizardry]()’s [post](http://csswizardry.com/2012/06/single-direction-margin-declarations/) ![][*]
+   - Performance: *Prioritizing above-the-fold content* for faster perceived load times, [@PatrickSexton]()’s [post](http://www.feedthebot.com/pagespeed/prioritize-visible-content.html)
+   - Case study: *Building a file uploader* (File API w/ Flash fallback), [@ibnRubaXa]()’s [post](http://coding.smashingmagazine.com/2013/10/11/we-wanted-to-build-a-file-uploader/)
+ - Media
+   - JavaScript Jabber Show #79: *Lo-Dash with [@jdalton]()*, 65-min [podcast](http://javascriptjabber.com/079-jsj-lo-dash-with-john-david-dalton/)
+   - Firefox OS: “*Fixing the mobile web*”, [@codepo8]()’s 24-min [audio](http://christianheilmann.com/2013/10/11/fixing-the-mobile-web-talk-at-internet-world-romania/) recording + slide deck
+ - Content
+   - The “*Multilayer CSS*” organization methodology (based on BEM/OOCSS principles), [@operatino_en]()’s [page](http://operatino.github.io/MCSS/en/)
+   - *Accessibility technique*: “What is this thing and what does it do?”, [@karlgroves]() 57-page [slide deck](http://dom.karlgroves-sandbox.com/slides/?full#Cover) ![][*]
+   - Proposal from Google: *Accelerated Web Worker animations*, [explainer](https://github.com/ianvollick/animation-proxy/blob/master/Explainer.md) + [feedback](https://groups.google.com/d/msg/mozilla.dev.servo/KwK6-PjtKDE/XTuMJYO3YwgJ) from Mozilla
+ - Sites
+   - KBAccess, a knowledge base of good and bad *examples of accessibility*, [site](http://kbaccess.org/)
+ - Tools
+   - jsPDF ![][js], a client-side solution for *generating PDF documents*, [page](http://parall.ax/products/jspdf)
+   - JSON5, a proposed *extension to JSON* (i.a. adds comments, unquoted keys, trailing commas), [site](http://json5.org/)
+ - Opinion
+   - EU Parliament member [@teirdes](): “*DRM does not fit into the Open Web*”, [post](https://ameliaandersdotter.eu/2013/10/13/drmeme-html5-american-thing) ![][*] **MUST READ!**
+
+
 ## October 11th, 2013
 
  - News
@@ -25,7 +57,7 @@ The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDail
    - *HTML5 accessibility*: Browser support, guidelines for devs, [@stevefaulkner]()’s annotated [slide deck](https://docs.google.com/presentation/d/1gnQg-3jQSytv60ozANjM7BK-OhiP7elf13P5oXHT6CM/edit#slide=id.ge8055c1d_2_75) ![][*]
  - Demos
    - “The Museum of Mario”, an *interactive experience* (by [@getify]()), [microsite](http://mario.ign.com/) (IGN)
-   - [@csuwldcat]()’s technique for *transitioning CSS `height` to `auto`* and vice versa, [demo](http://codepen.io/csuwldcat/pen/ACKjz)
+   - [@csuwldcat]()’s technique for *transitioning CSS `height` to `auto`* and vice versa, [demo](http://codepen.io/csuwldcat/pen/ACKjz) + [repo](https://github.com/csuwldcat/transition-auto)
  - Tools
    - Datauri, an online tool for *converting image files to data URIs* (Base64-encoded), [site](http://daturi.me/)
    - HTML5 Gamepad Tester, *displays info about gamepads* connected to your computer, [site](http://html5gamepad.com/)
@@ -617,40 +649,6 @@ The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDail
    - trumpet, a Node module for *parsing and transforming HTML* streams, [@substack]()’s [repo](https://github.com/substack/node-trumpet)
  - Opinion
    - *HTTP/2.0* worries, [@masinter]()’s [post](http://masinter.blogspot.com/2013/09/http20-worries.html)
-
-
-## September 13th, 2013
-
- - News
-   - Qt ([?](https://twitter.com/qtproject)) introduces the *Qt WebEngine*, switches from WebKit to Chromium, [post](http://blog.qt.digia.com/blog/2013/09/12/introducing-the-qt-webengine/)
-   - Kickstarter *switches to HTML5 video by default*, will only serve Flash to old browsers, [article](http://thenextweb.com/media/2013/09/12/kickstarter-switches-to-html5-video-by-default-will-only-serve-flash-to-old-browsers/) (TNW)
-   - Verizon’s diabolical plan to *turn the Web into pay-per-view*, [article](http://www.infoworld.com/d/the-industry-standard/verizons-diabolical-plan-turn-the-web-pay-view-226662) (InfoWorld)
- - UA dev.
-   - IE11 supports the *`text-combine-horizontal` CSS property*, [@dstorey]()’s [post](http://generatedcontent.org/post/60984978732/text-combine-horizontal)
-   - *IE11 loads images faster* using more efficient hardware decoding (up to 45%), [post](http://jatindersmann.com/2013/09/12/using-hardware-to-decode-and-load-jpg-images-up-to-45-faster-in-internet-explorer-11/)
- - FYI
-   - [@paul_irish]()’s *frontend development RSS feeds bundle* (OPML file) is on GitHub, [repo](https://github.com/paulirish/frontend-feeds)
- - Tutorials
-   - *Switching to HTTPS*: Setting up StartSSL’s free SSL certificates, [@konklone]()’s [post](https://konklone.com/post/switch-to-https-now-for-free)
-   - *Filtering page content* with `data-` attributes and dynamic style sheets, [@francoisz]()’s [post](http://redotheweb.com/2013/05/15/client-side-full-text-search-in-css.html)
-   - *Creating a simple chat app* with Node.js and WebSocket, [@geekuillaume]()’s [post](http://net.tutsplus.com/tutorials/javascript-ajax/using-node-js-and-websockets-to-build-a-chat-service/)
- - Articles
-   - How the *HTTP/1.1 spec defines the `User-Agent` string*, [@karlpro]()’s [post](https://hacks.mozilla.org/2013/09/user-agent-detection-history-and-checklist/)
-   - [@spolu]() shares his experiences *developing a web browser* built using web technologies, [post](http://spolu.github.io/exo_browser/2013/09/11/my-quest-for-a-new-browser.html) ![][*]
-   - [@ppk]() discovers a *CSS `text-align` bug in Android 4* stock browsers on some devices, [post](http://quirksmode.org/css/text/textaligntest.html)
-   - Node.js makes *network code more testable* resulting in stable software faster, [@_gsmith]()’s [post](http://weblog.bocoup.com/how-nodejs-makes-network-code-more-testable/)
-   - Responsive design: A *web performance guide*, [@gorkamolero]()’s [post](http://speckyboy.com/2013/09/11/responsive-design-is-not-about-screen-sizes-any-more/) ![][*]
- - Content
-   - Browser compatibility table for *CSS blend modes*, [post](http://blogs.adobe.com/webplatform/2013/09/12/browser-support-matrix-for-css-blending/) (Adobe) 
- - Demos
-   - A *semantic and accessible navigation* pattern with pure CSS, [@ramsden]()’s [post](http://jimramsden.com/design/nav-target) ![][*]
-   - *Animated media queries*, [@chriscoyier]()’s [demo](http://codepen.io/anon/pen/ecsmk)
- - Tools
-   - grunt-newer, runs tasks on only those source files *that changed since last run*, [repo](https://github.com/tschaub/grunt-newer)
-   - request, a Node module for *performing HTTP requests*, [repo](https://github.com/mikeal/request)
- - Opinion
-   - *Progressive enhancement*: It’s about the content, [@stephencaver]()’s [post](http://cognition.happycog.com/article/progressive-enhancement-its-about-the-content)
-   - The proposed *`<picture>` element is too complex*, [@zcorpan]()’s [message](http://lists.w3.org/Archives/Public/public-html/2013Sep/0137.html) on `public-html`
 
 
 [*]: /img/star.png "don’t miss"
