@@ -2,7 +2,7 @@
 
  - News
    - Two *CSS specs moved to WHATWG* (CSS Books and CSS Figures), Håkon Wium Lie’s [post](http://blog.whatwg.org/css-books-css-figures)
-   - **Today:** (11–13 p.m. CET) EU Parliament discussion on the *issue of DRM in HTML5*, [live stream](http://www.justin.tv/exile6)
+   - **Today:** (11–13 p.m. CET) EU Parliament discussion on the *issue of DRM in HTML5*, video [recordings](http://www.justin.tv/exile_6e)
    - *Mozilla Location Service*, Mozilla’s new experimental pilot project, [@supersole]()’s [post](http://soledadpenades.com/2013/10/14/moz-stumbler-and-mozilla-location-services/)
  - Posts
    - The 3 levels of CSS Filter Effects, No. 2: *Filter primitives (SVG filters)*, [@vangogh]()’s [post](http://www.vanseodesign.com/css/filter-primitives/)
