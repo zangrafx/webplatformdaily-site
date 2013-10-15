@@ -2,6 +2,37 @@ The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDail
 
 **Update:** I’ve opened an issue on GitHub in which I discuss my plans for *funding my work on this digest*. [Check it out here](https://github.com/simevidas/webplatformdaily-site/issues/61). I’d love to hear your feedback.
 
+## October 15th, 2013
+
+ - News
+   - Two *CSS specs moved to WHATWG* (CSS Books and CSS Figures), Håkon Wium Lie’s [post](http://blog.whatwg.org/css-books-css-figures)
+   - **Today:** (11–13 p.m. CET) EU Parliament discussion on the *issue of DRM in HTML5*, [live stream](http://www.justin.tv/exile6)
+   - *Mozilla Location Service*, Mozilla’s new experimental pilot project, [@supersole]()’s [post](http://soledadpenades.com/2013/10/14/moz-stumbler-and-mozilla-location-services/)
+ - Posts
+   - The 3 levels of CSS Filter Effects, No. 2: *Filter primitives (SVG filters)*, [@vangogh]()’s [post](http://www.vanseodesign.com/css/filter-primitives/)
+   - The FileSystem API: *Creating a virtual filesystem* on the client for storing files, [@MattAntWest]()’s [post](http://blog.teamtreehouse.com/building-an-html5-text-editor-with-the-filesystem-apis)
+   - The *benefits of Node.js streams*: speed, efficiency, pipes, [@davidguttman]()’s [post](http://dry.ly/full-streams-ahead) w/ 26-min talk
+   - A simple *visual model for Promises* using Petri nets, [@\_vzaccaria_]()’s [post](http://www.vittoriozaccaria.net/blog/2013/09/23/a-dumb-easy-model-for-promises.html) + [cheat sheet](http://www.vittoriozaccaria.net/deposit/promises_cheat_sheet.pdf) (PDF)
+   - Creating a *random Ken Burns effect for images* with CSS and JavaScript, [@dudleystorey]()’s [post](http://demosthenes.info/blog/761/Create-A-Random-Ken-Burns-Effect-For-Images-With-CSS-&-JavaScript)
+   - [@brad_frost]()’s report: *Creating a responsive site* for Entertainment Weekly, [post](http://bradfrostweb.com/blog/post/entertainment-weekly/)
+ - Media
+   - *Promises and generators*, [@ForbesLindesay]()’s 31-min [talk](http://youtu.be/qbKWsbJ76-s) + [slide deck](http://pag.forbeslindesay.co.uk/#/)
+   - The 3 *core principles of IndieWeb*: Own your data, selfdogfood and posse, [@t]()’s 5-min [talk](http://youtu.be/0NUbLJ-Q3Ck)
+ - Content
+   - ARIA example: *Accessible input tooltips* (with no JavaScript), [@heydonworks]()’s [page](http://heydonworks.com/practical_aria_examples/) ![][*]
+   - *Barriers to participation* in the W3C (i.a. language issues, time zones), [wiki](http://www.w3.org/wiki/Encouraging-Participation) (W3C invites edits)
+   - A *practical guide to building WebRTC* apps, [@vlineinc]()’s 25-page [slide deck](http://www.slideshare.net/vline/a-practical)
+   - A proposal from Adobe’s [@brackets]() for an *improved FileSystem API*, [page](https://github.com/adobe/brackets/wiki/File%20System) on GitHub
+ - Demos
+   - A simple example of a *responsive form* (breakpoints at 600px and 1200px), [@chriscoyier]()’s [demo](http://codepen.io/chriscoyier/pen/DmnlJ)
+   - A *neat Sellotape effect* with CSS `::before`/`::after`, [@codepo8]()’s [demo](http://jsfiddle.net/codepo8/WzMdH/)
+ - Tools
+   - Dropzone.js ![][js], provides *drag and drop file uploads* with image previews, [site](http://www.dropzonejs.com/) w/ live demo
+   - BubbleChart ![][js], visualizes two dimensional data *in a bubble chart*, [site](http://jondavidjohn.github.io/bubblechart/) w/ live demo
+ - Opinion
+   - *THERE IS NO PAGE FOLD* (“scrolling behavior is a standard on the Web”), [@coda_za]()’s [site](http://www.thereisnopagefold.com/)
+
+
 ## October 14th, 2013
 
  - News
@@ -613,42 +644,6 @@ The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDail
  - Opinion
    - “As an accessibility professional *I cannot recommend Google’s course*”, [@good_wally]()’s [post](https://plus.google.com/100697095765158521187/posts/gGzjCGdTm8M)
    - “Why should you *work in the open*?”, [@vincent_hardy]()’s [post](http://blogs.adobe.com/digitalmedia/2013/09/why-should-you-work-in-the-open/)
-
-
-## September 16th, 2013
-
- - News
-   - *Unlocked Firefox OS phones* available on eBay UK for £59.99 (~$96), [page](http://www.ebay.co.uk/itm/171123860758)
-   - *‘Net neutrality’ debate* may decide future of Netflix, [article](http://www.rawstory.com/rs/2013/09/15/net-neutrality-debate-may-decide-future-of-netflix/)
- - UA dev.
-   - Experimental work in progress to *parallelize layout in Blink*, [discussion](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-TBnz3LJiGY/WO1-q--x86oJ) on `blink-dev`
-   - An *inter-app communication API* added to Firefox OS, [source](https://twitter.com/mozlabs/status/378588018602303488)
-   - Firefox Nightly: *ES6 generators* enabled by default, [source](https://twitter.com/apaprocki/status/379014444778790912)
- - Tutorials
-   - Passing JSON data to the client-side *when CSP is enabled* (bans inline `<script>`s), [@mathias]()’s [post](http://mathiasbynens.be/notes/json-dom-csp)
-   - An step-by-step guide to getting up and running *with Node.js and MongoDB*, [@cwbuecheler]()’s [post](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/) ![][*]
-   - Improving your SEO with *`robots.txt` and canonical headers*, Ivan’s [post](http://blog.netdna.com/maxcdn/manage-seo-with-cdn/)
-   - Building a motion detector hooked up with a *WebRTC video feed*, [@chadwallacehart]()’s [post](http://webrtchacks.com/baby-motion-detector/)
- - Articles
-   - *CSS Regions*: Current browser support, use cases and a demo (w/ recording), [@LeeMallabone]()’s [post](http://fonicmonkey.net/2013/09/09/css-regions-and-why-youll-be-using-them-before-you-know-it/)
-   - Why *HTTP/2.0*? A perspective, [@masinter]()’s [post](http://masinter.blogspot.com/2013/09/why-http20-perspective.html) ![][*]
-   - Rise of the *HTML5 ecosystems and Open Web Platform*, [@mmielone]()’s [post](http://sc5.io/blog/2013/09/rise-of-the-html5-ecosystems-and-open-web-platform/)
-   - A recap of last week’s *responsive images meetup*, [@shoogledesigns]()’s [post](http://shoogledesigns.com/blog/blog/2013/09/13/responsive-images-meetup-coming-together-is-a-beginning/) ![][*]
-   - Beez, a *web real-time audio experiment* (uses WebRTC and Web Audio API), [@greweb]()’s [post](http://greweb.me/2013/09/beez/)
- - Media
-   - JSJ Ep. 75: [@slicknet]() about *maintainable JavaScript*, 58-min [podcast](http://javascriptjabber.com/075-jsj-maintainable-javascript-with-nicholas-zakas/)
-   - *Responsive images*: A quick intro to its history and developer perspective, [@wilto]()’s 17-min [talk](http://vimeo.com/74380964)
-   - Google Developers Live: *Accessibility panel discussion*, 23-min [video](https://developers.google.com/live/shows/919837902)
- - Content
-   - Proposal: *Media query variables* (solves verbosity/repetition), [@pornelski]()’s [post](https://github.com/ResponsiveImagesCG/picture-element/issues/64)
-   - Fira Sans, the *Firefox OS typeface* (available for free), [page](http://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface/)
-   - Scriptless attacks: *Attacks against web applications* that don’t require JavaScript, [paper](http://www.nds.rub.de/media/emma/veroeffentlichungen/2012/08/16/scriptlessAttacks-ccs2012.pdf)
- - Tools
-   - Lo-Dash, an *utility library*, [page](http://lodash.com/) (+ custom builds in Lo-Dash 2.0, [@kitcambridge]()’s [post](http://kitcambridge.be/blog/custom-builds-in-lo-dash-2-dot-0/))
-   - RegExpJS, an online tool for *debugging regular expressions*, [@jviereck]()’s [page](http://jviereck.github.io/regexp.js/)
-   - trumpet, a Node module for *parsing and transforming HTML* streams, [@substack]()’s [repo](https://github.com/substack/node-trumpet)
- - Opinion
-   - *HTTP/2.0* worries, [@masinter]()’s [post](http://masinter.blogspot.com/2013/09/http20-worries.html)
 
 
 [*]: /img/star.png "don’t miss"
