@@ -1,3 +1,36 @@
+## October 16th, 2013
+
+ - News
+   - Google Fiber now explicitly *permits home servers*, [article](http://arstechnica.com/information-technology/2013/10/google-fiber-now-explicitly-permits-home-servers/) (Ars Technica)
+   - The *future of the Internet*: Balkanization and borders, [article](http://ideas.time.com/2013/10/11/the-future-of-the-internet-balkanization-and-borders/) (TIME)
+ - UAs
+   - Introducing the *Firefox OS App Manager*, [@JasonWeathersby]()’s [post](https://hacks.mozilla.org/2013/10/introducing-the-firefox-os-app-manager/) (Mozilla Hacks)
+   - *Client-Hints now available* in Chrome Canary behind `--enable-client-hints` flag, [source](https://twitter.com/Souders/status/389857841651400704)
+ - Info
+   - Using `initial-scale=1` instead of `width=device-width` to *fix behavior in Safari*, [@ppk]()’s [post](http://www.quirksmode.org/blog/archives/2013/10/initialscale1_m.html)
+   - *`CSS.escape()` added to CSSOM* spec (escape a string for use as part of a selector), [source](https://twitter.com/mathias/status/390165482575495168)
+ - Posts
+   - Several quick guidelines on *using the HTML5 `<section>` element*, [@LeonieWatson]()’s [post](http://blog.paciellogroup.com/2013/10/using-html5-section-element/) ![][*]
+   -     The 3 levels of CSS Filter Effects, No. 3: *Custom filters (CSS shaders)*, [@vangogh]()’s [post](http://www.vanseodesign.com/css/custom-filters-shader-basics/)
+   - [@davidwalshblog]()’s tips for *creating Ajax-heavy websites*, [post](http://tech.pro/blog/1635/6-tips-for-creating-ajax-heavy-websites)
+   - Replacing bitmap image icons with *responsive webfont icons*, [@JasonSpeaking]()’s [post](http://webstandardssherpa.com/reviews/responsive-webfont-icons/) ![][*]
+   - The relationship between *physical and device-independent pixels*, [@stopsatgreen]()’s [post](http://www.broken-links.com/2013/10/02/simple-explanation-high-dpi-screens/)
+   - *HTML5 and DRM*: Arguments for and against the EME specification, [@roessler]()’s [post](http://blog.does-not-exist.org/2013/10/15/a-hitchhikers-guide-to-the-htm5-eme-maze/)
+ - Media
+   - The *fundamentals of WebRTC* and how to use it to build web apps, [@cwilso]()’s 41-min [talk](http://youtu.be/3Ifbqaw5l_I) + [slide deck](http://webrtcintro.appspot.com/)
+ - Content
+   - Interview questions and *exercises about CSS*, [@chriscoyier]()’s [post](http://css-tricks.com/interview-questions-css/)
+   - An interview with [@creationix]() about js-git (a *JavaScript implementation of Git*), [page](http://blog.pluralsight.com/2013/10/04/tim-caswell-on-the-development-of-js-git/)
+ - Demos
+   - An explanation and animated demonstration of the *CSS box-shadow syntax*, [@bphillips201]()’s [demo](http://codepen.io/bphillips201/details/JygKB)
+   - *Animated checkboxes* and radio buttons with SVG, [@crnacura]()’s demo [page](http://tympanus.net/Development/AnimatedCheckboxes/) (8 examples)
+ - Tools
+   - ProCSSor (online tool), an *advanced CSS prettifier* (lots of options), [site](http://procssor.com/)
+   - StackEdit, an advanced *online Markdown editor*, [@Benweet]()’s [page](http://benweet.github.io/stackedit/)
+ - Opinion
+   - “It’s important that *designers understand markup*”, [@pokealex]()’s [post](https://medium.com/design-ux/1a6f2e829a72)
+
+
 ## October 15th, 2013
 
  - News

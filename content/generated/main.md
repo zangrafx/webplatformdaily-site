@@ -2,6 +2,39 @@ The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDail
 
 **Update:** I’ve opened an issue on GitHub in which I discuss my plans for *funding my work on this digest*. [Check it out here](https://github.com/simevidas/webplatformdaily-site/issues/61). I’d love to hear your feedback.
 
+## October 16th, 2013
+
+ - News
+   - Google Fiber now explicitly *permits home servers*, [article](http://arstechnica.com/information-technology/2013/10/google-fiber-now-explicitly-permits-home-servers/) (Ars Technica)
+   - The *future of the Internet*: Balkanization and borders, [article](http://ideas.time.com/2013/10/11/the-future-of-the-internet-balkanization-and-borders/) (TIME)
+ - UAs
+   - Introducing the *Firefox OS App Manager*, [@JasonWeathersby]()’s [post](https://hacks.mozilla.org/2013/10/introducing-the-firefox-os-app-manager/) (Mozilla Hacks)
+   - *Client-Hints now available* in Chrome Canary behind `--enable-client-hints` flag, [source](https://twitter.com/Souders/status/389857841651400704)
+ - Info
+   - Using `initial-scale=1` instead of `width=device-width` to *fix behavior in Safari*, [@ppk]()’s [post](http://www.quirksmode.org/blog/archives/2013/10/initialscale1_m.html)
+   - *`CSS.escape()` added to CSSOM* spec (escape a string for use as part of a selector), [source](https://twitter.com/mathias/status/390165482575495168)
+ - Posts
+   - Several quick guidelines on *using the HTML5 `<section>` element*, [@LeonieWatson]()’s [post](http://blog.paciellogroup.com/2013/10/using-html5-section-element/) ![][*]
+   -     The 3 levels of CSS Filter Effects, No. 3: *Custom filters (CSS shaders)*, [@vangogh]()’s [post](http://www.vanseodesign.com/css/custom-filters-shader-basics/)
+   - [@davidwalshblog]()’s tips for *creating Ajax-heavy websites*, [post](http://tech.pro/blog/1635/6-tips-for-creating-ajax-heavy-websites)
+   - Replacing bitmap image icons with *responsive webfont icons*, [@JasonSpeaking]()’s [post](http://webstandardssherpa.com/reviews/responsive-webfont-icons/) ![][*]
+   - The relationship between *physical and device-independent pixels*, [@stopsatgreen]()’s [post](http://www.broken-links.com/2013/10/02/simple-explanation-high-dpi-screens/)
+   - *HTML5 and DRM*: Arguments for and against the EME specification, [@roessler]()’s [post](http://blog.does-not-exist.org/2013/10/15/a-hitchhikers-guide-to-the-htm5-eme-maze/)
+ - Media
+   - The *fundamentals of WebRTC* and how to use it to build web apps, [@cwilso]()’s 41-min [talk](http://youtu.be/3Ifbqaw5l_I) + [slide deck](http://webrtcintro.appspot.com/)
+ - Content
+   - Interview questions and *exercises about CSS*, [@chriscoyier]()’s [post](http://css-tricks.com/interview-questions-css/)
+   - An interview with [@creationix]() about js-git (a *JavaScript implementation of Git*), [page](http://blog.pluralsight.com/2013/10/04/tim-caswell-on-the-development-of-js-git/)
+ - Demos
+   - An explanation and animated demonstration of the *CSS box-shadow syntax*, [@bphillips201]()’s [demo](http://codepen.io/bphillips201/details/JygKB)
+   - *Animated checkboxes* and radio buttons with SVG, [@crnacura]()’s demo [page](http://tympanus.net/Development/AnimatedCheckboxes/) (8 examples)
+ - Tools
+   - ProCSSor (online tool), an *advanced CSS prettifier* (lots of options), [site](http://procssor.com/)
+   - StackEdit, an advanced *online Markdown editor*, [@Benweet]()’s [page](http://benweet.github.io/stackedit/)
+ - Opinion
+   - “It’s important that *designers understand markup*”, [@pokealex]()’s [post](https://medium.com/design-ux/1a6f2e829a72)
+
+
 ## October 15th, 2013
 
  - News
@@ -613,38 +646,6 @@ The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDail
  - Opinion
    - “HTML5 video still *can’t beat GIF*”, [@pornelski]()’s [post](http://pornel.net/beat-gif-manifesto) + [discussion](https://twitter.com/pornelski/status/379894191272120322) on Twitter
    - “Adobe is passionate about *advancing the modern web*”, [@vincent_hardy]()’s [post](http://venturebeat.com/2013/09/16/why-i-believe-in-adobe-and-the-web-op-ed/)
-
-## September 17th, 2013
-
- - News
-   - “21% of [US] cell phone owners say they *mostly access the internet using their phone*”, Pew’s [report](http://pewinternet.org/Reports/2013/Cell-Internet.aspx)
- - UA dev.
-   - Firefox Nightly: *Off-thread JavaScript parsing* when loading `<script async>` scripts, [source](https://twitter.com/FirefoxNightly/status/378870111299309568)
- - Tutorials
-   - Debugging `<canvas>` with *Chrome’s “Canvas inspection”* feature, [@aerotwist]()’s [post](http://www.html5rocks.com/en/tutorials/canvas/inspection/)
-   - *Mobile-first responsive design* with Bootstrap 3, [@burkeholland]()’s [post](http://flippinawesome.org/2013/09/16/break-the-wrist-and-walk-away-responsive-design-and-bootstrap-3/) (w/ lots of demos)
-   - Feature detection with *CSS `@supports`*, [@NikkitaFTW]()’s [post](http://www.developerdrive.com/2013/09/feature-detection-with-css-supports/)
- - Articles
-   - Resolving the *mobile web app performance issue* is more about politics than technology, [@\__MarkW__]()’s [post](http://www.developereconomics.com/accelerating-web-apps-its-all-about-politics/)
-   - Case study: Addressing the *responsive images performance problem*, [@andmag]()/[@jarlund]()’s [post](http://mobile.smashingmagazine.com/2013/09/16/responsive-images-performance-problem-case-study/)
-   - [@ppk]()’s review of *Microsoft’s modern.ie service*, [post](http://www.quirksmode.org/blog/archives/2013/09/modernie.html)
-   - The *mobile analysis tools* of the PageSpeed Insights API, [@Paul_Kinlan]()’s [post](http://paul.kinlan.me/pagespeed-insights-api-the-indispensable-gadget-in-your-mobile-toolbelt/)
- - Media
-   - “The Internet must go”, a 30-min mockumentary about *net neutrality*, [site](http://www.theinternetmustgo.com/) + [coverage](http://boingboing.net/2013/09/11/the-internet-must-go-colberte.html) ![][*]
-   - Debugging a web app using the *Firefox OS Simulator*, a 9-min Mozilla Hacks [screencast](http://www.youtube.com/watch?v=kbTEYM_0dXg)
- - Content
-   - IndieAuth: *use your own domain name* to sign in to websites (like Google and GitHub), [page](http://indiewebcamp.com/IndieAuth)
-   - Event Workers: Building *applications that work offline*, explainer [page](https://github.com/slightlyoff/EventWorker/blob/master/explainer.md) on GitHub
-   - HTMLBook, an open  standard for the *authoring and production of books* (print or digital), [repo](https://github.com/oreillymedia/HTMLBook)
-   - Free ebook: “*Developing for Firefox OS*” by [@soapdog]() (76 pages), [page](https://leanpub.com/quickguidefirefoxosdevelopment) ![][*]
- - Tools
-   - A tool that generates *Content Security Policy* HTTP headers, [@snikchnz]()’s [page](http://cspisawesome.com/)
-   - Responsive elements, makes page elements *adapt to the area they occupy*, [@kumailht]()’s [page](http://kumailht.com/responsive-elements/)
-   - grunt-traceur, a *Grunt task for Google’s Traceur* (ES6-to-ES3 compiler), [@js_dev]()’s [repo](https://github.com/aaronfrost/grunt-traceur)
- - Opinion
-   - “As an accessibility professional *I cannot recommend Google’s course*”, [@good_wally]()’s [post](https://plus.google.com/100697095765158521187/posts/gGzjCGdTm8M)
-   - “Why should you *work in the open*?”, [@vincent_hardy]()’s [post](http://blogs.adobe.com/digitalmedia/2013/09/why-should-you-work-in-the-open/)
-
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
