@@ -55,6 +55,8 @@ jQuery(function ( $ ) {
                 filename,
                 '.md" target="_blank">Edit on GitHub</a>'
             ].join(''));
+
+            $( this ).next( 'ul' ).andSelf().wrapAll( '<section />' );
         });
 
         $dataWrapper.append( $temp.children() );
