@@ -14,7 +14,7 @@
    - *Adding real-time collaboration* features to an existing website with TogetherJS, [@ianbicking]()’s [post](https://hacks.mozilla.org/2013/10/introducing-togetherjs/)
    - *Concatenating & minifying JavaScript modules* with the RequireJS optimizer (r.js), [@ifandelse]()’s [post](http://tech.pro/blog/1639/using-rjs-to-optimize-your-requirejs-project)
  - Media
-   - *Creating interaction with CSS* and checkboxes (w/ awesome demos), [@ryanseddon]()’s 21-min [talk](http://www.youtube.com/watch?v=C0c_HYBq2EM&feature=share&list=PL37ZVnwpeshGqKQRb4-G3Dn40QH7quwBY)
+   - *Creating interaction with CSS* and checkboxes (awesome demos), [@ryanseddon]()’s 21-min [talk](http://www.youtube.com/watch?v=C0c_HYBq2EM&feature=share&list=PL37ZVnwpeshGqKQRb4-G3Dn40QH7quwBY) + [slides](http://www.thecssninja.com/talks/cssconf/)
    - *ShopTalk Show* #87: With [@necolas]() (i.a. DRM, creating style guides), 63-min [podcast](http://shoptalkshow.com/episodes/087-nicolas-gallagher/)
  - Content
    - The 1000ms mobile barrier: Delivering *fast and responsive mobile sites*, [@igrigorik]()’s 40-page [slide deck](https://docs.google.com/presentation/d/1wAxB5DPN-rcelwbGO6lCOus_S1rP24LMqA8m1eXEDRo/present#slide=id.p19)
