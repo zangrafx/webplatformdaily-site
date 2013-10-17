@@ -1,3 +1,34 @@
+## October 17th, 2013
+
+ - News
+   - A report from the *“DRM in HTML5” panel debate* in the EU Parliament, Jan Louzek’s [post](https://ameliaandersdotter.eu/2013/10/16/against-eme-html5-panel-debate)
+   - Safari tops *mobile browser usability study*, followed by stock Android, [article](http://thenextweb.com/insider/2013/10/16/safari-tops-mobile-browser-usability-study-followed-stock-android-opera-chrome-ie/) (TNW)
+   - Britain to join tech giants to *drive down Internet prices* in developing countries, [article](https://www.gov.uk/government/news/britain-to-join-tech-giants-to-drive-down-internet-prices-in-developing-countries) (GOV.UK)
+ - Info
+   - *New features coming to “Can I use…”* (i.a. region-specific data, usage-relative mode), [@Fyrd]()’s [post](http://a.deveria.com/2013/preview-the-new-caniuse-com-features/)
+   - [@valueof]()’s plans for the *next release of JSHint* (i.a. remove all style-related options and warnings), [post](http://jshint.com/blog/jshint-3-plans/)
+   - `user-scalable=no` *removes the 300ms click delay* in modern mobile browsers, [source](https://twitter.com/brianleroux/status/390573495479840768)
+ - Posts
+   - IBM’s Extreme Blue team: Hints and tips for developing *mobile apps with Node.js* and MongoDB, [post](http://www.ibm.com/developerworks/mobile/library/mo-nodejs-2/index.html)
+   - Setting up an automatic Grunt task for *creating CSS sprite sheets*, [@nzgb]()’s [post](http://blog.ponyfoo.com/2013/10/16/spritesheets-grunt-and-you) ![][*]
+   - *Adding real-time collaboration* features to an existing website with TogetherJS, [@ianbicking]()’s [post](https://hacks.mozilla.org/2013/10/introducing-togetherjs/)
+   - *Concatenating & minifying JavaScript modules* with the RequireJS optimizer (r.js), [@ifandelse]()’s [post](http://tech.pro/blog/1639/using-rjs-to-optimize-your-requirejs-project)
+ - Media
+   - *Creating interaction with CSS* and checkboxes (w/ awesome demos), [@ryanseddon]()’s 21-min [talk](http://www.youtube.com/watch?v=C0c_HYBq2EM&feature=share&list=PL37ZVnwpeshGqKQRb4-G3Dn40QH7quwBY)
+   - *ShopTalk Show* #87: With [@necolas]() (i.a. DRM, creating style guides), 63-min [podcast](http://shoptalkshow.com/episodes/087-nicolas-gallagher/)
+ - Content
+   - The 1000ms mobile barrier: Delivering *fast and responsive mobile sites*, [@igrigorik]()’s 40-page [slide deck](https://docs.google.com/presentation/d/1wAxB5DPN-rcelwbGO6lCOus_S1rP24LMqA8m1eXEDRo/present#slide=id.p19)
+   - A detailed rundown of the *proposed responsive images solutions*, [@marcosc]()’s 154-page [slide deck](https://speakerdeck.com/marcoscaceres/responsive-images-aint-we-there-yet)
+   - Preview: The first six chapters of the *second edition of “Eloquent JavaScript”*, [@marijnjh]()’s [page](http://eloquentjavascript.net/2nd_edition/preview/)
+   - HTML Working Group member [@hsivonen]() explains *Encrypted Media Extensions (EME)*, [post](http://hsivonen.fi/eme/) ![][*]
+ - Tools
+   - resimagecrop, [@iandevlin]()’s RESS-based *solution for responsive images*, [post](http://www.iandevlin.com/blog/2013/10/responsive-web-design/resimagecrop-a-responsive-image-solution) + [repo](https://github.com/iandevlin/resimagecrop)
+   - arg.js ![][js], a lightweight *URL argument and parameter parser*, [repo](https://github.com/stretchr/arg.js)
+   - At.js ![][js], a *GitHub-like autocomplete library*, [page](http://ichord.github.io/At.js/) w/ live demo
+ - Opinion
+   - “The unanswered question: *What do we get in return* for DRM”, [@simonstl]()’s [post](http://programming.oreilly.com/2013/10/what-do-we-get-for-that-drm.html)
+
+
 ## October 16th, 2013
 
  - News

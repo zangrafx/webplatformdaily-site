@@ -2,6 +2,37 @@ The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDail
 
 **Update:** I’ve opened an issue on GitHub in which I discuss my plans for *funding my work on this digest*. [Check it out here](https://github.com/simevidas/webplatformdaily-site/issues/61). I’d love to hear your feedback.
 
+## October 17th, 2013
+
+ - News
+   - A report from the *“DRM in HTML5” panel debate* in the EU Parliament, Jan Louzek’s [post](https://ameliaandersdotter.eu/2013/10/16/against-eme-html5-panel-debate)
+   - Safari tops *mobile browser usability study*, followed by stock Android, [article](http://thenextweb.com/insider/2013/10/16/safari-tops-mobile-browser-usability-study-followed-stock-android-opera-chrome-ie/) (TNW)
+   - Britain to join tech giants to *drive down Internet prices* in developing countries, [article](https://www.gov.uk/government/news/britain-to-join-tech-giants-to-drive-down-internet-prices-in-developing-countries) (GOV.UK)
+ - Info
+   - *New features coming to “Can I use…”* (i.a. region-specific data, usage-relative mode), [@Fyrd]()’s [post](http://a.deveria.com/2013/preview-the-new-caniuse-com-features/)
+   - [@valueof]()’s plans for the *next release of JSHint* (i.a. remove all style-related options and warnings), [post](http://jshint.com/blog/jshint-3-plans/)
+   - `user-scalable=no` *removes the 300ms click delay* in modern mobile browsers, [source](https://twitter.com/brianleroux/status/390573495479840768)
+ - Posts
+   - IBM’s Extreme Blue team: Hints and tips for developing *mobile apps with Node.js* and MongoDB, [post](http://www.ibm.com/developerworks/mobile/library/mo-nodejs-2/index.html)
+   - Setting up an automatic Grunt task for *creating CSS sprite sheets*, [@nzgb]()’s [post](http://blog.ponyfoo.com/2013/10/16/spritesheets-grunt-and-you) ![][*]
+   - *Adding real-time collaboration* features to an existing website with TogetherJS, [@ianbicking]()’s [post](https://hacks.mozilla.org/2013/10/introducing-togetherjs/)
+   - *Concatenating & minifying JavaScript modules* with the RequireJS optimizer (r.js), [@ifandelse]()’s [post](http://tech.pro/blog/1639/using-rjs-to-optimize-your-requirejs-project)
+ - Media
+   - *Creating interaction with CSS* and checkboxes (w/ awesome demos), [@ryanseddon]()’s 21-min [talk](http://www.youtube.com/watch?v=C0c_HYBq2EM&feature=share&list=PL37ZVnwpeshGqKQRb4-G3Dn40QH7quwBY)
+   - *ShopTalk Show* #87: With [@necolas]() (i.a. DRM, creating style guides), 63-min [podcast](http://shoptalkshow.com/episodes/087-nicolas-gallagher/)
+ - Content
+   - The 1000ms mobile barrier: Delivering *fast and responsive mobile sites*, [@igrigorik]()’s 40-page [slide deck](https://docs.google.com/presentation/d/1wAxB5DPN-rcelwbGO6lCOus_S1rP24LMqA8m1eXEDRo/present#slide=id.p19)
+   - A detailed rundown of the *proposed responsive images solutions*, [@marcosc]()’s 154-page [slide deck](https://speakerdeck.com/marcoscaceres/responsive-images-aint-we-there-yet)
+   - Preview: The first six chapters of the *second edition of “Eloquent JavaScript”*, [@marijnjh]()’s [page](http://eloquentjavascript.net/2nd_edition/preview/)
+   - HTML Working Group member [@hsivonen]() explains *Encrypted Media Extensions (EME)*, [post](http://hsivonen.fi/eme/) ![][*]
+ - Tools
+   - resimagecrop, [@iandevlin]()’s RESS-based *solution for responsive images*, [post](http://www.iandevlin.com/blog/2013/10/responsive-web-design/resimagecrop-a-responsive-image-solution) + [repo](https://github.com/iandevlin/resimagecrop)
+   - arg.js ![][js], a lightweight *URL argument and parameter parser*, [repo](https://github.com/stretchr/arg.js)
+   - At.js ![][js], a *GitHub-like autocomplete library*, [page](http://ichord.github.io/At.js/) w/ live demo
+ - Opinion
+   - “The unanswered question: *What do we get in return* for DRM”, [@simonstl]()’s [post](http://programming.oreilly.com/2013/10/what-do-we-get-for-that-drm.html)
+
+
 ## October 16th, 2013
 
  - News
@@ -610,42 +641,6 @@ The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDail
  - Opinion
    - “The Web has the benefit of *not being locked into an app model*”, [@dalmaer]()’s [post](https://medium.com/tech-talk/19a573ec3f31)
 
-
-## September 18th, 2013
-
- - News
-   - *Firefox 24 released*: release [notes](http://www.mozilla.org/en-US/firefox/24.0/releasenotes/) + [information](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/24) for developers + [coverage](http://techcrunch.com/2013/09/17/firefox-for-android-24-launches-with-webrtc-support-nfc-based-link-sharing/) (TechCrunch)
-   - *Do Not Track’s future in doubt* as major ad group withdraws from talks, [article](http://www.theverge.com/2013/9/17/4741028/do-not-tracks-future-in-doubt-as-major-ad-group-withdraws-from-talks) (Verge) + Jeff’s [post](http://www.w3.org/blog/2013/09/tracking-protection-working-group-progress/)
-   - Microsoft issues fix to stop active *attacks exploiting serious IE bug*, [article](http://arstechnica.com/security/2013/09/microsoft-issues-fix-to-stop-active-attacks-exploiting-serious-ie-bug/) (ars)
- - UA dev.
-   - *CSS image orientation lands* in Firefox 26, Seth’s [post](http://sethfowler.org/blog/2013/09/13/new-in-firefox-26-css-image-orientation/)
-   - Latest Tizen WebKit supports *CSS `text-align-last`*, [source](https://twitter.com/ppk/status/379906764638265344)
- - Tutorials
-   - A guide to *image compression*, [@duhroach]()’s [post](http://www.html5rocks.com/en/tutorials/speed/img-compression/) ![][*]
-   - Controlling *CSS animations and transitions* with JavaScript, Zack’s [post](http://css-tricks.com/controlling-css-animations-transitions-javascript/)
-   - Picking a *responsive tables solution*, [@grigs]()’s [post](http://blog.cloudfour.com/picking-responsive-tables-solution/)
- - Articles
-   - *CSS sprites vs. data URIs*: Which is faster on mobile?, [@b1tr0t]()’s [post](http://www.mobify.com/blog/css-sprites-vs-data-uris-which-is-faster-on-mobile/)
-   - *Frameworkless JavaScript*: “Why Angular, Ember, or Backbone don’t work for us”, [@cloudpanic]()’s [post](https://moot.it/blog/technology/frameworkless-javascript.html)
-   - Firefox 24 for Android gets *WebRTC support by default*, Maire’s [post](https://hacks.mozilla.org/2013/09/firefox-24-for-android-gets-webrtc-support-by-default/)
- - Media
-   - *Treehouse Show* Ep. 57 (CSS3 multiple backgrounds, Emberj.js, Favicons), 11-min [video](http://www.youtube.com/watch?v=yZ85oCGYefQ)
-   - A 10-part video tutorial series on *getting started with Node.js*, [page](https://thenewcircle.com/s/post/1534/nodejs_tutorial_videos_geolocation_app)
- - Content
-   - [@igrigorik]()’s notes from the recent *responsive images meetup* (DPR-switching 1. priority), [page](https://docs.google.com/document/d/1gWy8ZpRcZjt6_00ISxTo3j2umrLEUQI_kutTCFEqOB4/edit) ![][*]
-   - nodeschool.io, *interactive Node.js tutorials* that run in the command line, [site](http://nodeschool.io)
-   - “CSS Text” *browser compatibility tables* updated on QuirksMode, [desktop](http://www.quirksmode.org/css/text/) + [mobile](http://www.quirksmode.org/css/text/mobile.html)
-   - An into to HTML5 and *ARIA /w practical design patterns*, [@LeonieWatson]()’s 38-page [slide deck](http://www.slideshare.net/LeonieWatson/generate-2013-09)
- - Demos
-   - *Semantic, accessible bar-chart* in HTML and CSS, [@csswizardry]()’s [demo](http://dl.dropboxusercontent.com/u/2629908/sandbox/css-bar-chart/index.html)
-   - “Foot anatomy” and “Car configurator”, two impressive *WebGL demos*, [source](https://twitter.com/vincent_hardy/status/379990468651520001)
- - Tools
-   - FireShell, a *front-end boilerplate* (HTML5 Boilerplate + Sass + Grunt), [@toddmotto]()’s [site](http://getfireshell.com/) ![][*]
-   - json.human.js, creates a tabular *human-friendly presentation of JSON data*, [page](http://marianoguerra.github.io/json.human.js/)
-   - Sunglass, useful *mixins and functions for Sass* (i.a. loading Google Web Fonts), [@devatrox]()’s [page](http://devatrox.github.io/Sunglass/)
- - Opinion
-   - “HTML5 video still *can’t beat GIF*”, [@pornelski]()’s [post](http://pornel.net/beat-gif-manifesto) + [discussion](https://twitter.com/pornelski/status/379894191272120322) on Twitter
-   - “Adobe is passionate about *advancing the modern web*”, [@vincent_hardy]()’s [post](http://venturebeat.com/2013/09/16/why-i-believe-in-adobe-and-the-web-op-ed/)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
