@@ -2,6 +2,37 @@ The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDail
 
 **Update:** I’ve opened an issue on GitHub in which I discuss my plans for *funding my work on this digest*. [Check it out here](https://github.com/simevidas/webplatformdaily-site/issues/61). I’d love to hear your feedback.
 
+## October 18th, 2013
+
+ - News
+   - Google extends *Chrome support for Windows XP* users until April 2015, [post](http://chrome.blogspot.com/2013/10/extending-chrome-support-for-xp-users.html) (Chrome blog)
+   - “The acceptability of *OTOY watermarking in lieu of DRM* came from a Hollywood 6 member”, [source](https://news.ycombinator.com/item?id=6496128)
+   - MAINFRAME2 *runs Windows/Linux applications in-browser* via the cloud; launching this fall, [article](http://www.webdesignerdepot.com/2013/10/is-mainframe2-the-end-for-desktop-computing/)
+   - *End-of-life for `<picture>`*; to be published as Note?, [discussion](http://lists.w3.org/Archives/Public/public-respimg/2013Oct/0020.html) on `public-respimg`
+ - UAs
+   - Firefox Nightly passes ECMAScript *Internationalization API conformance* test suite, [source](https://twitter.com/NorbertOnEarth/status/390958559279579136)
+   - Support for *CSS `object-fit`* and `object-position` lands in Chromium, [source](https://twitter.com/andreasbovens/status/390833835564224512)
+ - Posts
+   - Text compression: *Minification + HTTP compression* (Gzip and Deflate), [@duhroach]()’s [post](http://www.html5rocks.com/en/tutorials/speed/txt-compression/)
+   - Case study: 5 *mobile web design patterns* from Style.com, [@davidmfay]()’s [post](http://www.mobify.com/blog/5-advanced-mobile-web-design-techniques-style-com/)
+   - A review of *IE11’s WebGL implementation* (w/ benchmarks), [@AshleyGullen]()’s [post](https://www.scirra.com/blog/125/internet-explorer-11-webgl-and-more)
+   - Solutions to some *common problems in Grunt* (i.a. filtering and renaming files), [@shamakry]()’s [post](http://dontkry.com/posts/code/grunt-tricks.html)
+ - Media
+   - The *CSS module and dependency system* developed for Google+, 29-min [talk](http://youtu.be/_MD1WQclOJM) + [slides](https://docs.google.com/presentation/d/1_LpRI2_grOgTKyqodgg8yWGDhStgZHxnvjFOTJ6Jb3g/edit#slide=id.p)
+   - A quick look at *Firefox’s App Manager* (for debugging Firefox OS apps), [@campd]()’s 3-min [screencast](http://youtu.be/k-nVQwADieE)
+ - Content
+   - Mozilla’s study: Lossy *image compression efficiency* (compares alternatives to JPEG), [post](https://blog.mozilla.org/research/2013/10/17/studying-lossy-image-compression-efficiency/)
+   - Overview of third-party clients for the *Chrome debugging protocol*, [page](https://developers.google.com/chrome-developer-tools/docs/debugging-clients)
+   - Preresolving, preconnecting, *prefetching and prerendering*, [@igrigorik]()’s 22-page [slide deck](https://docs.google.com/presentation/d/18zlAdKAxnc51y_kj-6sWLmnjl6TLnaru_WH0LJTjP-o/present#slide=id.p19) ![][*]
+   - Report: The *first year of Web Platform Docs* (+ upcoming work), Scott Rowe’s [post](http://blog.webplatform.org/2013/10/a-great-first-year/)
+ - Tools
+   - Slideshowbob, a presentation framework *powered by CSS `:checked`*, [@ryanseddon]()’s [repo](https://github.com/ryanseddon/slideshowbob)
+   - JSONPlaceholder, a simple fake *REST API for testing* and prototyping, [page](http://jsonplaceholder.typicode.com/)
+   - generator-revealjs, a *Yeoman generator for reveal.js*, [@nic_daCosta]()’s [repo](https://github.com/nicdaCosta/generator-revealjs)
+ - Opinion
+   - “A modest request: web dev *bloggers, update your code*!”, [@dudleystorey]()’s [post](http://demosthenes.info/blog/764/A-Modest-Request-WebDev-Bloggers-Update-Your-Code!)
+
+
 ## October 17th, 2013
 
  - News
@@ -42,7 +73,6 @@ The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDail
    - Introducing the *Firefox OS App Manager*, [@JasonWeathersby]()’s [post](https://hacks.mozilla.org/2013/10/introducing-the-firefox-os-app-manager/) (Mozilla Hacks)
    - *Client-Hints now available* in Chrome Canary behind `--enable-client-hints` flag, [source](https://twitter.com/Souders/status/389857841651400704)
  - Info
-   - Using `initial-scale=1` instead of `width=device-width` to *fix behavior in Safari*, [@ppk]()’s [post](http://www.quirksmode.org/blog/archives/2013/10/initialscale1_m.html)
    - *`CSS.escape()` added to CSSOM* spec (escape a string for use as part of a selector), [source](https://twitter.com/mathias/status/390165482575495168)
  - Posts
    - Several quick guidelines on *using the HTML5 `<section>` element*, [@LeonieWatson]()’s [post](http://blog.paciellogroup.com/2013/10/using-html5-section-element/) ![][*]
@@ -607,39 +637,6 @@ The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDail
  - Tools
    - FlowTypeJS, automatically *adjusts an element’s font-size* based on its width, [page](http://simplefocus.com/flowtype/) w/ live demo
    - animo.js, a library for *managing CSS animations*, [page](http://labs.bigroomstudios.com/libraries/animo-js) w/ live demos
-
-
-## September 19th, 2013
-
- - News
-   - Survey finds *large enterprises adopting WebRTC*, [article](http://www.sys-con.com/node/2796101)
-   - Mozilla *opens up on cookie-blocking* (interview with [@BrendanEich]()), [article](http://www.adexchanger.com/online-advertising/mozilla-opens-up-on-cookie-blocking-methods-ad-targeting/)
-   - Micosoft releases a preview version of *IE11 for Windows 7*, [post](http://blogs.msdn.com/b/ie/archive/2013/09/18/ie11-release-preview-for-windows-7-30-faster-than-other-browsers-and-even-more-support-for-web-standards.aspx) (IEblog)
- - UA dev.
-   - Firefox Nightly: Support for *H.264 on Linux*, [source](https://twitter.com/FirefoxNightly/status/380255880941293568), and *MP3 on OS X*, [source](https://twitter.com/FirefoxNightly/status/380308491631484928)
- - Tutorials
-   - *Loading sound files faster* using Array Buffers and Web Audio API, [@thespite]()’s [post](http://www.clicktorelease.com/blog/loading-sounds-faster-using-html5-web-audio-api)
-   - Considerations for crafting *high-quality media queries*,  [@brad_frost]()’s [post](http://bradfrostweb.com/blog/post/7-habits-of-highly-effective-media-queries/) ![][*]
-   - A guide to *perceived performance*: Making your mobile site feel like a native app, [@kpeatt]()’s [post](http://www.mobify.com/blog/beginners-guide-to-perceived-performance/) ![][*]
- - Articles
-   - How creative authors can *leverage HTML5*, [@pyramedium]()’s [post](http://www.rudebaguette.com/2013/09/12/creative-authors-html5-digital-storytellers/)
-   - What is the *Open Web*?, [@t]()’s [post](http://tantek.com/2010/281/b1/what-is-the-open-web) (old article but substantial)
-   - The *new Safari on iOS 7*: Problems, changes and new APIs, [@firt]()’s [post](http://www.mobilexweb.com/blog/safari-ios7-html5-problems-apis-review)
-   - [@guypod]()’s summary of the *responsive images meetup*, [post](http://www.guypo.com/uncategorized/responsive-images-meetup-a-subjective-summary/)
- - Media
-   - Topic Undefined Ep. 5 ([@cfjedimaster]() and [@remotesynth]() *discuss web dev links*), 31-min [podcast](http://flippinawesome.org/topic-undefined/topic-undefined-episode-5/)
-   - “*Normalizing designs* for better quality CSS ”, [@csswizardry]()’s 44-min [talk](http://youtu.be/ldx4ZFxMEeo) + [slide deck](https://speakerdeck.com/csswizardry/normalising-designs-for-better-quality-css/)
- - Content
-   - Review: The *ZTE Open Firefox OS smartphone* (available for £60 on eBay UK), [@saschasegan]()’s [post](http://www.itproportal.com/reviews/mobile-phones/zte-open-review/)
-   - “CSS Writing modes” *browser compatibility tables*, [@dstorey]()’s [page](https://dl.dropboxusercontent.com/u/444684/openwebref/CSS/writing-modes/support.html)
-   - A visual guide to *Sass & Compass color functions*, [@jackiebackwards]()’s [page](http://jackiebalzer.com/color) ![][*]
-   - *CSS property usage statistics* based on Chrome’s data, [page](http://www.chromestatus.com/metrics/css/rank)
- - Tools
-   - x-picture, a Polymer implementation of the *proposed `<picture>` element*, [@respimg]()’s [repo](https://github.com/ResponsiveImagesCG/x-picture)
-   - Debuggex, an online *visual regular expression tester*, [site](http://www.debuggex.com/) (+ [example](http://www.debuggex.com/r/Ye9TaI2u3ZtCBiP6))
-   - vex, a lightweight, highly configurable *dialog library*, [repo](https://github.com/hubspot/vex)
- - Opinion
-   - “The Web has the benefit of *not being locked into an app model*”, [@dalmaer]()’s [post](https://medium.com/tech-talk/19a573ec3f31)
 
 
 [*]: /img/star.png "don’t miss"
