@@ -1,6 +1,38 @@
-The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDailyDigest). I’ve also activated the [email subscription](http://feedburner.google.com/fb/a/mailverify?uri=OpenWebPlatformDailyDigest&amp;loc=en_US) option.
 
-**Update:** I’ve opened an issue on GitHub in which I discuss my plans for *funding my work on this digest*. [Check it out here](https://github.com/simevidas/webplatformdaily-site/issues/61). I’d love to hear your feedback.
+
+## October 21st, 2013
+
+ - News
+   - All versions of *Java now marked insecure* in Firefox; become click-to-play, [source](https://twitter.com/nsIAnswers/status/391241673902006272)
+   - Firefox-based *anti-censorship browser* downloaded over one million times, [article](http://torrentfreak.com/pirate-bays-anti-censorship-browser-clocks-1-million-downloads-131019/) (Torrent Freak)
+   - MS Open Tech publishes *first implementation of ORTC* (Object-RTC), [@OpenAtMicrosoft]()’s [post](http://msopentech.com/blog/2013/10/18/ms-open-tech-publishes-first-implementation-w3c-ortc-simplify-web-based-real-time-communications/)
+ - UA
+   - *IE11 provides “browser modes”* after all, [@craigbuckler]()’s [post](http://www.sitepoint.com/ie11-browser-modes-return/)
+   - *`new URL(rel, base)`* (for resolving URLs) supported in Chrome, [source](https://twitter.com/ErikArvidsson/status/391628780113887232)
+ - Info
+   - Traceur column added to [@kangax]()’s *ECMAScript 6 compatibility table*, [source](https://twitter.com/kangax/status/391616416094650368)
+ - Posts
+   - Creating a *horizontal parallax scrolling effect* with Srollr (based on this [demo](http://www.cabletv.com/the-walking-dead)), Elli Bishop’s [post](http://dev.opera.com/articles/view/creating-game-style-parallax-scrolling-zombie-edition/)
+   - Technique: Dynamically reading *media query breakpoints in JavaScript*, Jens Eraßmy’s [post](http://tech.particulate.me/javascript/2013/10/10/how-to-conveniently-check-for-responsive-breakpoints-in-javascript/)
+   - Building a photo sharing *app for Firefox OS*, [@sidneyallen]()’s beginner-friendly [post](https://blog.stackmob.com/2013/10/building-a-photo-sharing-app-for-firefox-os/)
+   - Mobile HTML5 games: Resizing the game area *to fit the device screen*, [@end3r]()’s [post](http://html5hub.com/screen-size-management-in-mobile-html5-games/)
+   - Eyetracking and the *neuroscience of good web design*, [@nealunger]()’s [post](http://www.fastcompany.com/3019886/buyology/eyetracking-and-the-neuroscience-of-good-web-design)
+ - Media
+   - Making a *simple game in JavaScript* step-by-step, [@mimshwright]()’s 29-min [talk](http://vimeo.com/74008847)
+   - An *introduction to the git workflow* (w/ deployment to web server), [@jonathanstark]()’s 17-min [screencast](http://youtu.be/24NGu1vGBiw)
+ - Content
+   - *Positioning elements on a circle* with CSS Transforms, [@thebabydino]()’s [answer](http://stackoverflow.com/a/12817454/425275) on Stack Overflow
+   - *WebRTC Data Channels*: How they work (diagrams) + use cases, [@feross]()’s 91-page [slide deck](https://speakerdeck.com/feross/webrtc-data-black-magic) ![][*]
+   - *Interview with [@brucel]()* (Opera developer relations), [@reybango]()’s [post](http://net.tutsplus.com/articles/35298/) ![][*]
+   - Responsive images: A *syntax comparison between `<picture>` and `src-n`*, [@wilto]()’s [gist](https://gist.github.com/Wilto/27d6925e8c1a71a87a03)
+ - Demos
+   - *Slanted tabs* (trapezoid shape) with CSS 3D Transforms, [@LeaVerou]()’s [post](http://lea.verou.me/2013/10/slanted-tabs-with-css-3d-transforms/)
+   - A *responsive image slider* with CSS Animations, [@dudleystorey]()’s [demo](http://demosthenes.info/blog/627/Make-A-Responsive-CSS3-Image-Slider) + [demo](http://codepen.io/dudleystorey/pen/ehKpi)
+ - Sites
+   - Responsive Design Knowledge Hub, a *collection of resources about RWD*, [site](http://www.ugurus.com/responsive-design)
+ - Tools
+   - Oboe.js ![][js], *wraps the HTTP request-response model* with a progressively streamed interface, [repo](https://github.com/jimhigson/oboe.js) 
+
 
 ## October 18th, 2013
 
@@ -605,39 +637,6 @@ The RSS feed is [available here](http://feeds.feedburner.com/OpenWebPlatformDail
    - VisualPing, a *visual website monitoring* tool, [site](http://visualping.io/)
    - TripleSec, a *symmetric encryption library* for the browser and Node.js, [page](https://keybase.io/triplesec/) w/ live demo
    - describler, an online tool for *making SVG images accessible* and reusable, [site](http://describler.com/)
-
-## September 20th, 2013
-
- - News
-   - Proposal: A more effective *W3C specification life cycle*, [draft](https://dvcs.w3.org/hg/AB/raw-file/default/tr.html)
-   - Team of web developers to *recreate line-mode browser*, [article](http://home.web.cern.ch/about/updates/2013/09/dream-team-web-developers-recreate-line-mode-browser) (CERN)
-   - [@domenic]() and [@annevk]() working on *bringing Promises to ECMAScript 6*, [source](https://twitter.com/annevk/status/380756290147868672)
- - Tutorials
-   - The *HTML5 `<details>` and `<summary>` elements*: Usage and browser support, [@cfjedimaster]()’s [post](http://www.raymondcamden.com/index.cfm/2013/9/17/Playing-with-the-DetailsSummary-Tag)
-   - *Building a Windows Store app* with HTML5 and the Windows API, [@CompositeC1]()’s [post](http://mobile.smashingmagazine.com/2013/09/19/online-magazine-app-for-windows-8-part1-html5-app/)
-   - *Content Security Policy*: Receiving and processing *violation reports*, [@mathias]()’s [post](http://mathiasbynens.be/notes/csp-reports)
-   - A complete guide to the *HTML `<table>` element*, [@chriscoyier]()’s [post](http://css-tricks.com/complete-guide-table-element/)
- - Articles
-   - *Page slide animations and skeleton screens* instead of explicit progress indicators, [@lukew]()’s [post](http://www.lukew.com/ff/entry.asp?1797)
-   - “*Browser modes*” have been removed in *Internet Explorer 11*, [@craigbuckler]()’s [post](http://www.sitepoint.com/ie11-mysterious-missing-browser-modes/)
-   - *Complexity of JavaScript frameworks*: Comparison of their TodoMVC implementations, [@yaph]()’s [post](http://blog.coderstats.net/todomvc-complexity/)
-   - A summary of *upcoming features in WebGL 2.0*, [@Tojiro]()’s [post](http://blog.tojicode.com/2013/09/whats-coming-in-webgl-20.html)
- - Media
-   - *Changes in CSS* introduced by Web Components (i.a. scoped CSS), [@stopsatgreen]()’s 32-min [talk](http://youtu.be/U45e-zq4bTs) ![][*]
-   - High-quality, low-latency *multiplayer gaming in modern web browsers*, [@artillery]()’s promo [video](http://youtu.be/NiCy5igO9-I) ![][*]
- - Content
-   - Google moderator page for *next Monday’s Edge conference*: Submit and review questions, [page](http://www.google.com/moderator/#16/e=20e3ec)
-   - HTTPFlies, a beautiful *HTTP status code reference*, [@morganesque]()/[@DeanVipond]()’s [site](http://httpflies.com/)
-   - [@marcosc]()’s *responsive images meetup* [report](http://www.w3.org/community/respimg/2013/09/18/paris-responsive-images-meetup/) (based on other posts published earlier this week)
-   - Using Chrome DevTools when *remote debugging mobile Safari*, [instructions](http://stackoverflow.com/a/16903378/425275) on Stack Overflow
- - Demos
-   - UI concept: *Focus transition*, [@ELV1S]()’s [page](http://n12v.com/focus-transition/) w/ live and video demo
-   - Using *videos as backgrounds*, [@inserthtml]()’s [demo](http://www.inserthtml.com/2013/09/quick-tips-background-videos)
-   - Concept: An attractive *mobile web app menu*, Hoiland’s [demo](http://codepen.io/matthoiland/pen/vHFCk)
- - Tools
-   - FlowTypeJS, automatically *adjusts an element’s font-size* based on its width, [page](http://simplefocus.com/flowtype/) w/ live demo
-   - animo.js, a library for *managing CSS animations*, [page](http://labs.bigroomstudios.com/libraries/animo-js) w/ live demos
-
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
