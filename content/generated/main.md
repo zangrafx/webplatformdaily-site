@@ -12,7 +12,7 @@
  - Info
    - Traceur column added to [@kangax]()’s *ECMAScript 6 compatibility table*, [source](https://twitter.com/kangax/status/391616416094650368)
  - Posts
-   - Creating a *horizontal parallax scrolling effect* with Srollr (based on this [demo](http://www.cabletv.com/the-walking-dead)), Elli Bishop’s [post](http://dev.opera.com/articles/view/creating-game-style-parallax-scrolling-zombie-edition/)
+   - Creating a *horizontal parallax scrolling effect* with Skrollr (based on this [demo](http://www.cabletv.com/the-walking-dead)), Elli Bishop’s [post](http://dev.opera.com/articles/view/creating-game-style-parallax-scrolling-zombie-edition/)
    - Technique: Dynamically reading *media query breakpoints in JavaScript*, Jens Eraßmy’s [post](http://tech.particulate.me/javascript/2013/10/10/how-to-conveniently-check-for-responsive-breakpoints-in-javascript/)
    - Building a photo sharing *app for Firefox OS*, [@sidneyallen]()’s beginner-friendly [post](https://blog.stackmob.com/2013/10/building-a-photo-sharing-app-for-firefox-os/)
    - Mobile HTML5 games: Resizing the game area *to fit the device screen*, [@end3r]()’s [post](http://html5hub.com/screen-size-management-in-mobile-html5-games/)
