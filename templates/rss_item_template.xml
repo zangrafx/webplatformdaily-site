@@ -3,7 +3,6 @@
 			<link><%=id%></link>
 			<guid><%=id%></guid>
 			<description>
-<![CDATA[<p><strong>Update:</strong> I’ve opened an issue on GitHub in which I discuss my plans for <em>funding my work on this digest</em>. <a href="https://github.com/simevidas/webplatformdaily-site/issues/61" target="_blank">Check it out here</a>. I’d love to hear your feedback.</p>
-<h2><%=val%>]]>
+<![CDATA[<h2><%=val%>]]>
 			</description>
 		</item>

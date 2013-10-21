@@ -146,7 +146,7 @@ module.exports = function (grunt) {
 				files: ['content/dailies/*.md', 'content/main/*.md'],
 				tasks: ['md']
 			},
-			files: ['index.html']
+			files: ['*.html']
 		}
 	});
 

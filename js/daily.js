@@ -2,23 +2,41 @@ jQuery(function ( $ ) {
     'use strict';
 
     var converter,      // the Markdown converter object
-        $dataWrapper,   // the DOM element that wraps the HTML generated from Markdown
-        $article,       // the <article> element (i.e. the entire page)
-        jqXHR,          // the jQuery Ajax object used for retrieving MD files
-
-        // functions (commented below)
-        processData;
+        jqXHR;          // the jQuery Ajax object used for retrieving MD files
 
 
     // request the data as soon as possible
     jqXHR = $.get( '/content/generated/main.md' );
 
 
-    // FUNCTION DEFINITIONS
+    // INITIALIZATION
 
-    // converts the Markdown text to HTML and appends it to the page
-    // this is an Ajax response handler; "data" is Markdown text
-    processData = function ( data ) {
+    // tabbed navigation
+    function initTabs () {
+        var tabs = $('.main-tabs'),
+            content = tabs.next(),
+            active = 'active';
+
+        tabs.on('click', 'li:not(.active)', function (e) {
+            var tab = $(e.target),
+                index = tab.index();
+
+            tabs.children().removeClass(active);
+            tab.addClass(active);
+
+            content.children().hide().eq(index).show();
+        });
+
+        tabs.show().children().first().click();
+    }
+
+
+    // initialize the static references
+    converter = new Markdown.Converter();
+
+
+    // hook up the callback for the initial Ajax request
+    jqXHR.then(function ( data ) {
         // temporary document fragment (to hold the DOM tree generated from the MD file)
         var $temp = $( '<div></div>' ).html( converter.makeHtml( data ) );
 
@@ -47,7 +65,7 @@ jQuery(function ( $ ) {
             var filename = (new Date(this.innerHTML.trim().replace(/\w{2},/, ',') + ' 12:00 UTC')).toISOString().slice(0,10);
 
             // add an id attribute to the H2 elements (fragment identifier)
-            $(this).attr('id','#' + this.innerHTML.replace(/[ ,]/g, '')); // TODO: Test in production!
+            $(this).attr('id','#' + this.innerHTML.replace(/[ ,]/g, '')); // TODO: Test in production once you start serving static HTML
 
             // append "Edit on GitHub" link to the H2 elements
             $(this).append([
@@ -56,21 +74,13 @@ jQuery(function ( $ ) {
                 '.md" target="_blank">Edit on GitHub</a>'
             ].join(''));
 
+            // wrap dailies in <section> elements
             $( this ).next( 'ul' ).andSelf().wrapAll( '<section />' );
         });
 
-        $dataWrapper.append( $temp.children() );
-    };
+        $( '.markdown-data' ).html( $temp.children() );
 
-
-    // INITIALIZATION
-
-    // initialize the static references
-    $article = $( 'body' ).children( 'article:first' );
-    $dataWrapper = $( '.markdown-data:first' );
-    converter = new Markdown.Converter();
-
-    // hook up callbacks for the initial Ajax request
-    jqXHR.then( processData );
+        initTabs();
+    });
 
 });

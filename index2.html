@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Open Web Platform Daily Digest</title>
+    <meta name="description" content="A daily digest on the Web Platform for front-end web developers.">
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+    <link rel="icon" type="image/png" href="favicon.png">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic,300">
+    <link rel="stylesheet" href="/styles/daily.css?v=201310201">
+</head>
+<body>
+
+<article>
+
+    <div class="banner">
+        <p>I’ve set up a <strong>voluntary subscription</strong>. See the “Subscription” tab below for detailed information about this subscription and its <strong>vital role</strong> in the future of this digest.</p>
+        <div class="subscription-form">
+            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                <input type="hidden" name="cmd" value="_s-xclick">
+                <input type="hidden" name="hosted_button_id" value="DJMAPSSLSFY22">
+                <table>
+                <tr><td><input type="hidden" name="on0" value=""></td></tr><tr><td><select name="os0">
+                    <option value="Individuals">Individuals : $6.00 USD - monthly</option>
+                </select> </td></tr>
+                </table>
+                <input type="hidden" name="currency_code" value="USD">
+                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_subscribe_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+            </form>
+        </div>
+    </div>
+
+    <ul class="quotes">
+        <!-- Sorted alphabetically -->
+        <li>
+            <img src="img/avatars/cat1s.jpg">
+            <div class="quote" style="background-color:#ddb">
+                <p>
+                    <q>Rub face on everything flop over, attack feet. Mark territory sleep on keyboard and give attitude rub face on everything leave dead animals as gifts.</q>
+                    <span class="quote-signature">Grumpy cat (Microsoft)</span>
+                </p>
+            </div>
+        </li>
+        <li>
+            <img src="img/avatars/cat2s.jpg">
+            <div class="quote" style="background-color:#dbd">
+                <p>
+                    <q>Flop over missing until dinner time intently sniff hand hopped up on goofballs. Behind the couch flop over, and lick butt, but climb leg.</q>
+                    <span class="quote-signature">OMG cat (Google)</span>
+                </p>
+            </div>
+        </li>
+        <li>
+            <img src="img/avatars/cat3s.jpg">
+            <div class="quote" style="background-color:#bdd">
+                <p>
+                    <q>Chew iPad power cord behind the couch or hunt anything that moves and lick butt, play time.</q>
+                    <span class="quote-signature">Hipster cat (Apple)</span>
+                </p>
+            </div>
+        </li>
+        <li>
+            <img src="img/avatars/cat4s.jpg">
+            <div class="quote" style="background-color:#bdb">
+                <p>
+                    <q>All of a sudden go crazy flop over intently sniff hand and intently sniff hand stare at ceiling chase mice yet stick butt in face.</q>
+                    <span class="quote-signature">Zen cat (Mozilla)</span>
+                </p>
+            </div>
+        </li>
+    </ul>
+
+    <h1>Open Web Platform<wbr> Daily Digest</h1>
+
+    <div class="menu-bar">
+        by <a href="http://twitter.com/simevidas" target="_blank">@simevidas</a>
+        &bull; Content subscription: <a href="http://feeds.feedburner.com/OpenWebPlatformDailyDigest" target="_blank">RSS</a>,
+        <a href="http://feedburner.google.com/fb/a/mailverify?uri=OpenWebPlatformDailyDigest&amp;loc=en_US" target="_blank">E-mail</a>
+        <!-- &bull; <a href="https://twitter.com/share" class="twitter-share-button" data-via="simevidas">Tweet</a> -->
+    </div>
+
+    <ul class="main-tabs">
+        <li>Digest</li>
+        <li>Subscription</li>
+    </ul>
+
+    <ul class="main-content">
+        <li class="markdown-data">
+            <p style="text-align:center">Loading…</p>
+        </li>
+        <li>
+            <p>Placeholder.</p>
+        </li>
+    </ul>
+</article>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/js/libs/jquery-1.9.1.min.js"><\x3C/script>')</script>
+<!-- <script src="//cdnjs.cloudflare.com/ajax/libs/pagedown/1.0/Markdown.Converter.js"></script> --> <!-- ~10s waiting periods recently, not sue why -->
+<script>window.Markdown || document.write('<script src="/js/libs/Markdown.Converter.js"><\x3C/script>')</script>
+<script src="/js/daily.min.js?v=201310192"></script>
+
+<script>
+    // Google Analytics queue
+    var _gaq = [ ['_setAccount', 'UA-7817762-6'], ['_trackPageview'] ];
+
+    // async script loading
+    (function (d, t) {
+        var f = d.getElementsByTagName(t)[0],
+            add = function (u) { var s = d.createElement(t); s.src = u; f.parentNode.insertBefore(s, f); };
+
+        add('//www.google-analytics.com/ga.js'); // Google Analytics
+        add('//platform.twitter.com/widgets.js'); // Twitter, "Tweet" button
+
+        // TODO: This is just temporary
+        // Project Megaphone; see https://rally.stopwatching.us/fight-surveillance-with-9-lines-of-code/
+        add('//d1ux67szpr7bp0.cloudfront.net/project-megaphone/widget.min.js'); 
+    }(document, 'script'));
+</script>
+
+<script> // enable live-reload on Node server (during development on local machine)
+if (+window.location.port > 1024) {
+    document.write('<script src="http://' + location.hostname + ':35729/livereload.js"><\x3C/script>')
+}</script>
+
+</body>
+</html>
