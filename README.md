@@ -26,5 +26,5 @@ There are several awesome features (like “search all data by keyword” and a 
 
 Creating content for this digest has since its inception been my full-time job. The amount of work hours I invest into each release has increased over the months, and I’m currently at 7-8 hours of  work on average. Producing a release revolves around these two major steps:
 
- 1. On Twitter I load my timeline (the tweets from the people I follow) for the last 24 hours (e.g. 1 AM Tuesday to 1 AM Wednesday). There are on average 460 tweets in those 24 hours. Based on those tweets I construct a list of candidates which contains around 60 potential entries. This first step requires approx. 3 hours of work.
- 2. I carefully evaluate each candidate and accept around 20-25 for the next release. (Example: I review up to 20 blog posts per day, only 6 of which are on average added to the digest.) This seconds step requires at least 4 hours of work. 
+ 1. On Twitter I load my timeline (the tweets from the people I follow) for the last 24 hours (e.g. 1 AM Tuesday to 1 AM Wednesday). There are about 400-500 tweets in those 24 hours. Based on those tweets I construct a list of candidates which contains around 60 potential entries. This first step requires approx. 3 hours of work.
+ 2. I carefully evaluate each candidate and accept around 20-25 for the next release. (Example: I review up to 20 blog posts per day, only 6 of which are on average added to the digest.) This second step requires at least 4 hours of work. 
