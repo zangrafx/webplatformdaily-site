@@ -1,5 +1,37 @@
 
 
+## October 22nd, 2013
+
+ - News
+   - *LG confirms Firefox OS phone*; to be unveiled next month, [article](http://www.smartcompany.com.au/technology/information-technology/34200-lg-confirms-google-nexus-5--firefox-os-and-curved-smartphones-in-october-and-november.html)
+   - Google launches new *anti-DDoS service* called ‘Project Shield’, [article](http://www.theverge.com/2013/10/21/4862724/google-launches-new-anti-ddos-service-called-project-shield) (Verge)
+ - Twitter
+   - Tab Atkins: “*Flexbox and Grid* aren’t meant to replace anything in CSS.”, [discussion](https://twitter.com/chriscoyier/status/392328715268415488) on Twitter
+ - Posts
+   - Solutions to common *problems with Unicode in JavaScript*, [@mathias]()’s [post](http://mathiasbynens.be/notes/javascript-unicode)
+   - *Working with IndexedDB*: Updating and deleting records + web app example, [@cfjedimaster]()’s [post](http://dev.tutsplus.com/tutorials/working-with-indexeddb-part-2--net-35355)
+   - Animated GIFs can *trigger unnecessary paints* if not explicitly hidden, [@aerotwist]()’s [post](http://www.html5rocks.com/en/tutorials/speed/animated-gifs/)
+   - Techniques used by Yahoo! that *challenge CSS best practices*, [@thierrykoblentz]()’s [post](http://coding.smashingmagazine.com/2013/10/21/challenging-css-best-practices-atomic-approach/)
+   - Analysis: How many *visitors don’t run JavaScript*? (+ possible reasons), [@yahoo_pete]()’s [post](http://digital.cabinetoffice.gov.uk/2013/10/21/how-many-people-are-missing-out-on-javascript-enhancement/)
+ - Media
+   - Examples of the *damaging traces CMSs leave behind* in the front-end, [@philhawksworth]()’s 48-min [talk](https://vimeo.com/53317254)
+   - Setting up and *using WebRTC data channels* (+ best use cases), [@dristic101]()’s 26-min [talk](http://youtu.be/a321oZlrYmo) + [slide deck](http://pubnub.github.io/slides/webrtc/)
+ - Content
+   - A list of up-to-date *resources on ECMAScript 6 modules*, [@domenic]()’s [gist](https://gist.github.com/domenic/7062939)
+   - ARIA example: *Button controlled input* with live feedback, [@heydonworks]()’s [page](http://heydonworks.com/practical_aria_examples/#button-controlled-input)
+   - [@ppk]()’s preliminary *`<meta name="viewport">` research*, [post](http://www.quirksmode.org/blog/archives/2013/10/preliminary_met.html) + test [report](http://www.quirksmode.org/mobile/metaviewport/) ![][*]
+ - Demos
+   - *Responsive “hero” text* with viewport units, [@dudleystorey]()’s [post](http://demosthenes.info/blog/739/Creating-Responsive-Hero-Text-With-vw-Units) + [demo](http://codepen.io/dudleystorey/pen/orbAy)
+   - *Rounded image links* with an animated hover effect, [@kirupa]()’s [post](http://www.kirupa.com/html5/rounded_image_links_with_a_sweet_hover_effect.htm)
+ - Sites
+   - SpeedOf.Me, a plugin-free *HTML5-based bandwidth test*, [site](http://speedof.me/)
+ - Tools
+   - One Page Scroll ![][js], enables *scrolling one page at a time*, [@peachananr]()’s [page](http://www.thepetedesign.com/demos/onepage_scroll_demo.html)
+   - rimg ![][js], a minimal client-side *responsive images solution*, [@joeyvandijk]()’s [repo](https://github.com/joeyvandijk/rimg)
+ - Opinion
+   - “*Cargo cult ([?](http://en.wikipedia.org/wiki/Cargo_cult_programming)) CSS*” (a critique of techniques advocated by some CSS frameworks), [@kapowaz]()’s [post](http://www.kapowaz.net/articles/cargo-cult-css) ![][*]
+
+
 ## October 21st, 2013
 
  - News
@@ -605,38 +637,6 @@
    - BackgroundCheck, sets CSS class on element based on *brightness of its background image*, [page](http://kennethcachia.com/background-check/)
    - generator-mobile, Yeoman’s *generator for mobile-first web apps*, [repo](https://github.com/yeoman/generator-mobile/)
    - Static Map Maker, generates *static Google Maps images*, [@katydecorah]()’s [page](http://codepen.io/katydecorah/pen/Klieu)
-
-## September 23rd, 2013
-
- - News
-   - After more than 10 years: Updated working draft of “*CSS Syntax*” (complete rewrite), [draft](http://www.w3.org/TR/css-syntax-3/) + [notes](http://www.w3.org/blog/CSS/2013/09/21/css-syntax-draft-updated/)
-   - North America’s registry ARIN now has *less than 30 million IPv4s left* to delegate, [source](https://twitter.com/IPv4Countdown/status/381583660144943104)
- - FYI
-   - You can easily *exclude your own IP address* from Google Analytics for your website, [@dwillkent]()’s [post](http://tech.pro/tutorial/1605/google-analytics-exclude-your-ip-address)
- - Tutorials
-   - *Speech synthesis* with the Web Speech API (in latest ![][Sa] and ![][CC]), [@stopsatgreen]()’s [post](http://www.broken-links.com/2013/09/20/web-speech-api-part-one-speech-synthesis/) + [demo](http://www.broken-links.com/tests/webspeech/synthesis.php)
-   - Using Geolocation and the Google Maps API to *display a location* on a Google Maps inline map, [post](http://www.sitepoint.com/html5-geolocation/)
-   - ECMAScript 6’s *“fat arrow” functions* (supported in ![][FF]), [@robcee]()’s [post](http://robcee.net/2013/fat-arrow-functions-in-javascript/)
- - Articles
-   - *Multipath TCP* (available in iOS 7) and its role in the future of the Internet, [@mims]()’s [post](http://qz.com/126642/apples-ios7-includes-a-surprise-a-ticket-to-the-next-generation-of-the-internet/)
-   - A tidbit on *HTML parsers and tree construction*, [@miketaylr]()’s [post](https://miketaylr.com/posts/2013/09/how-many-doctypes-can-a-doctype-type.html) ![][*]
-   - The *ECMAScript Internationalization API*: Overview and browser support, [@rauschma]()’s [post](http://www.2ality.com/2013/09/ecmascript-i18n-api.html)
-   - The privacy and security concerns of *local IP discovery with WebRTC*, [@einaros]()’s [post](https://2x.io/read/security-by-obscurity)
- - Media
-   - A quick introduction to *CSS masking*, [@razvancaliman]()’s 8-min [screencast](http://youtu.be/vV3h5OetmSI) ![][*]
-   - [@HTML5hub]() roundtable: “*Mobilizing the web*”, 64-min video [conference](http://html5hub.com/developer-roundtable-mobilizing-the-web/#i.xov2jogpddzntz) (Mozilla, Microsoft, Adobe, …)
- - Content
-   - Are *text zoom options on websites* useful?, discussion on Twitter summarized in [@vasilis]()’s [post](http://nerd.vasilis.nl/text-zoom-options-websites-need/)
-   - “CSS Text” *browser support tables* (including “CSS Text” Level 4 features), [@dstorey]()’s [page](https://dl.dropboxusercontent.com/u/444684/openwebref/CSS/text/support.html)
-   - Performance tip: “Serve critical above the fold content in the *first 14kB of the response*”, [source](https://twitter.com/stubbornella/status/380905962682347521)
-   - A guide to *contributing to the Mozilla Developer Network* (MDN), [@chrisdavidmills]()’s 43-page [slide deck](http://www.slideshare.net/chrisdavidmills/mdn-is-easy)
- - Demos
-   - Creative *loading indicators*, [@crnacura]()’s demo [page](http://tympanus.net/Development/CreativeLoadingEffects/)
-   - *CSS demo*: Night sky with twinkling stars,[@AramisGC]()’s [demo](http://www.script-tutorials.com/demos/360/index.html)
- - Tools
-   - VisualPing, a *visual website monitoring* tool, [site](http://visualping.io/)
-   - TripleSec, a *symmetric encryption library* for the browser and Node.js, [page](https://keybase.io/triplesec/) w/ live demo
-   - describler, an online tool for *making SVG images accessible* and reusable, [site](http://describler.com/)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"

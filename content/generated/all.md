@@ -1,3 +1,35 @@
+## October 22nd, 2013
+
+ - News
+   - *LG confirms Firefox OS phone*; to be unveiled next month, [article](http://www.smartcompany.com.au/technology/information-technology/34200-lg-confirms-google-nexus-5--firefox-os-and-curved-smartphones-in-october-and-november.html)
+   - Google launches new *anti-DDoS service* called ‘Project Shield’, [article](http://www.theverge.com/2013/10/21/4862724/google-launches-new-anti-ddos-service-called-project-shield) (Verge)
+ - Twitter
+   - Tab Atkins: “*Flexbox and Grid* aren’t meant to replace anything in CSS.”, [discussion](https://twitter.com/chriscoyier/status/392328715268415488) on Twitter
+ - Posts
+   - Solutions to common *problems with Unicode in JavaScript*, [@mathias]()’s [post](http://mathiasbynens.be/notes/javascript-unicode)
+   - *Working with IndexedDB*: Updating and deleting records + web app example, [@cfjedimaster]()’s [post](http://dev.tutsplus.com/tutorials/working-with-indexeddb-part-2--net-35355)
+   - Animated GIFs can *trigger unnecessary paints* if not explicitly hidden, [@aerotwist]()’s [post](http://www.html5rocks.com/en/tutorials/speed/animated-gifs/)
+   - Techniques used by Yahoo! that *challenge CSS best practices*, [@thierrykoblentz]()’s [post](http://coding.smashingmagazine.com/2013/10/21/challenging-css-best-practices-atomic-approach/)
+   - Analysis: How many *visitors don’t run JavaScript*? (+ possible reasons), [@yahoo_pete]()’s [post](http://digital.cabinetoffice.gov.uk/2013/10/21/how-many-people-are-missing-out-on-javascript-enhancement/)
+ - Media
+   - Examples of the *damaging traces CMSs leave behind* in the front-end, [@philhawksworth]()’s 48-min [talk](https://vimeo.com/53317254)
+   - Setting up and *using WebRTC data channels* (+ best use cases), [@dristic101]()’s 26-min [talk](http://youtu.be/a321oZlrYmo) + [slide deck](http://pubnub.github.io/slides/webrtc/)
+ - Content
+   - A list of up-to-date *resources on ECMAScript 6 modules*, [@domenic]()’s [gist](https://gist.github.com/domenic/7062939)
+   - ARIA example: *Button controlled input* with live feedback, [@heydonworks]()’s [page](http://heydonworks.com/practical_aria_examples/#button-controlled-input)
+   - [@ppk]()’s preliminary *`<meta name="viewport">` research*, [post](http://www.quirksmode.org/blog/archives/2013/10/preliminary_met.html) + test [report](http://www.quirksmode.org/mobile/metaviewport/) ![][*]
+ - Demos
+   - *Responsive “hero” text* with viewport units, [@dudleystorey]()’s [post](http://demosthenes.info/blog/739/Creating-Responsive-Hero-Text-With-vw-Units) + [demo](http://codepen.io/dudleystorey/pen/orbAy)
+   - *Rounded image links* with an animated hover effect, [@kirupa]()’s [post](http://www.kirupa.com/html5/rounded_image_links_with_a_sweet_hover_effect.htm)
+ - Sites
+   - SpeedOf.Me, a plugin-free *HTML5-based bandwidth test*, [site](http://speedof.me/)
+ - Tools
+   - One Page Scroll ![][js], enables *scrolling one page at a time*, [@peachananr]()’s [page](http://www.thepetedesign.com/demos/onepage_scroll_demo.html)
+   - rimg ![][js], a minimal client-side *responsive images solution*, [@joeyvandijk]()’s [repo](https://github.com/joeyvandijk/rimg)
+ - Opinion
+   - “*Cargo cult ([?](http://en.wikipedia.org/wiki/Cargo_cult_programming)) CSS*” (a critique of techniques advocated by some CSS frameworks), [@kapowaz]()’s [post](http://www.kapowaz.net/articles/cargo-cult-css) ![][*]
+
+
 ## October 21st, 2013
 
  - News
