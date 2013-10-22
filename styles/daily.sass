@@ -30,7 +30,6 @@ article
   position: relative
   width: 880px
   max-width: 100%
-  min-height: 2000px
   margin: 1em auto
   padding: 0 1em
   @include over(960px)
@@ -131,18 +130,17 @@ article
   background-color: #eee
   p
     margin: 0
-    padding: .9em 1.2em 0
+    padding: .5em 1em 0
     text-align: left
   q
-    font-size: 1.2em
-    font-style: italic
     quotes: "“" "”" "‘" "’"
     &::before
       content: open-quote
     &::after
       content: close-quote
-  .quote-signature::before
-    content: " — "
+
+.quote-signature::before
+  content: " — "
 
 h1 
   font-size: 40px
@@ -209,12 +207,6 @@ h1
   > li
     display: none
 
-.markdown-data
-  > section:nth-child(n+6)
-    display: none
-    @include over(600px)
-      display: block
-
 
 /* General styles */
 
@@ -223,20 +215,12 @@ p
   a
     font-weight: inherit
 
-em 
-  background-color: rgb(255,242,204)
-  border-radius: 5px
-  padding: 0 1px
+em
+  font-style: italic
 
 strong 
-  color: $strongColor
   font-weight: 700
   font-style: inherit
-
-label 
-  -webkit-user-select: none
-  -moz-user-select: none
-  user-select: none
 
 a 
   font-weight: bold
@@ -254,7 +238,7 @@ a
 code
   font-family: Consolas, monospace
 
-/* The page data */
+/* 1. Dailies */
 
 .markdown-data
   li
@@ -273,6 +257,18 @@ code
     vertical-align: baseline
     width: 1em
     height: 1em
+  em 
+    font-style: normal
+    background-color: rgb(255,242,204)
+    border-radius: 5px
+    padding: 0 1px
+  strong
+    color: $strongColor
+  // On mobile, show only first 5 <section> elements
+  > section:nth-child(n+6)
+    display: none
+    @include over(600px)
+      display: block
 
 h2 
   margin-top: 2em
@@ -299,3 +295,12 @@ h2
     right: 0
     font-size: 15px
     border-top: 1px dashed #bbb
+
+/* 2. Subscription */
+.subscription
+  margin-bottom: 2em
+  li
+    margin-left: 1.5em
+    list-style: circle outside
+  li:not(:last-child)
+    margin-bottom: .6em

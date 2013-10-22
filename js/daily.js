@@ -2,11 +2,13 @@ jQuery(function ( $ ) {
     'use strict';
 
     var converter,      // the Markdown converter object
-        jqXHR;          // the jQuery Ajax object used for retrieving MD files
+        jqXHR,          // the jQuery Ajax object used for retrieving MD files
+        ajaxURL;
 
 
     // request the data as soon as possible
-    jqXHR = $.get( '/content/generated/main.md' );
+    ajaxURL = '/content/generated/main.md';
+    jqXHR = $.get( ajaxURL );
 
 
     // INITIALIZATION
@@ -30,15 +32,8 @@ jQuery(function ( $ ) {
         tabs.show().children().first().click();
     }
 
-
-    // initialize the static references
-    converter = new Markdown.Converter();
-
-
-    // hook up the callback for the initial Ajax request
-    jqXHR.then(function ( data ) {
-        // temporary document fragment (to hold the DOM tree generated from the MD file)
-        var $temp = $( '<div></div>' ).html( converter.makeHtml( data ) );
+    // dailies data specific propessing
+    function initDailies ( $temp ) {
 
         // make all links open in new tabs
         // add corresponding twitter URLs to all links whose text starts with "@"
@@ -77,8 +72,25 @@ jQuery(function ( $ ) {
             // wrap dailies in <section> elements
             $( this ).next( 'ul' ).andSelf().wrapAll( '<section />' );
         });
+    }
 
-        $( '.markdown-data' ).html( $temp.children() );
+
+    // initialize the static references
+    converter = new Markdown.Converter();
+
+
+    // hook up the callback for the initial Ajax request
+    jqXHR.then(function ( data ) {
+        // temporary document fragment (to hold the DOM tree generated from the MD file)
+        var $temp = $( '<div></div>' ).html( converter.makeHtml( data ) ),
+            $output = $( '.markdown-data' );
+
+        if ( ajaxURL.indexOf('main.md') > -1 ) {
+            initDailies( $temp );
+        }
+
+
+        $output.html( $temp.children() );
 
         initTabs();
     });
