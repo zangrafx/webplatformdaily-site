@@ -1,5 +1,36 @@
 
 
+## October 23rd, 2013
+
+ - News
+   - Microsoft proposes *“CSS Scroll Snap Points” spec*, [post](http://blogs.msdn.com/b/ie/archive/2013/10/22/enabling-new-interoperable-panning-experiences-through-the-css-scrolling-snap-points-specification.aspx) (IEBlog) + unofficial [draft](http://dev.w3.org/csswg/css-snappoints/) ![][*]
+   - uProxy, a browser extension for *creating secure peer-to-peer routes* on the Internet, [site](https://uproxy.org/) + [coverage](http://mashable.com/2013/10/21/google-uproxy-internet-freedom/)
+   - *Firefox OS picking up market share* in Latin America, [article](http://www.mobileworldlive.com/firefox-os-picking-market-share-latam)
+ - Info
+   - The *`X-` prefix for custom HTTP headers* is deprecated, [source](https://twitter.com/mathias/status/392636126420537344)
+   - A quick overview of *three new features in JSHint* (i.a. option to restrict modifying native objects), [post](http://jshint.com/blog/new-in-jshint-oct-2013/)
+   - IE conditional classes *removed from HTML5 Boilerplate*, [source](https://twitter.com/HugoGiraudel/status/392660697202438144)
+ - Posts
+   - Grunt boilerplate: A guide to *building a complete Grunt setup*, [@integralist]()’s [post](http://www.integralist.co.uk/posts/grunt-boilerplate/) ![][*]
+   - Generating *static sites with Harp* (Node.js) (+ hosting on Amazon S3’s free tier), [@cfjedimaster]()’s [post](http://www.raymondcamden.com/index.cfm/2013/10/22/Moving-from-dynamic-to-static-with-Harp)
+   - Some information on *Google’s new SEO recommendations* for building mobile sites, [@T1NAH]()’s [post](http://www.mobify.com/go/mobile-seo-guide/)
+   - How the browser’s *pre-loaders improve network utilization* (+ influencing them), [@andydavies]()’s [post](http://andydavies.me/blog/2013/10/22/how-the-browser-pre-loader-makes-pages-load-faster/)
+ - Media
+   - “*Making HTTP realtime* with HTTP 2.0”, [@igrigorik]()’s 27-min [talk](http://youtu.be/E9FxNzv1Tr8) + [slide deck](https://docs.google.com/presentation/d/1eqae3OBCxwWswOsaWMAWRpqnmrVVrAfPQclfSqPkXrA/present#slide=id.p19)
+ - Content
+   - [@chriscoyier]()’s *complete guide to Flexbox* (good overview of properties), [page](http://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+   - *Performance best practices* are at risk of becoming anti-patterns, [@andydavies]()’s 42-page [slide deck](http://www.slideshare.net/AndyDavies/are-todays-good-practices-tomorrows-performance-antipatterns)
+ - Demos
+   - Video demos of several *HTML5 games and visualizations* created with Three.js, [@ProfStemkoski]()’s [post](http://gamedev.tutsplus.com/articles/how-to-learn/how-to-learn-three-js-for-game-development/)
+   - *Animated navigation icons* with CSS 3D Transforms, [@SaraSoueidan]()’s [demo](http://sarasoueidan.com/blog/navicon-transformicons/demo/index.html) page + [tutorial](http://sarasoueidan.com/blog/navicon-transformicons/)
+   - *iOS 7’s “squircles”* recreated with CSS, [@puneetpugalia]()’s [demo](http://thecodeplayer.com/walkthrough/css3-squircles) (w/ two hover effects)
+ - Tools
+   - Pattern Lab, a collection of tools to help *create and maintain atomic design systems*, [site](http://pattern-lab.info/)
+   - Facebook regenerator ![][no], *replaces ES6 generator functions* with efficient JavaScript-of-today, [page](http://facebook.github.io/regenerator/) ![][*]
+   - Frame Player ![][js], a *video player based on JSON* data containing image frames, [@vagnervjs]()’s [page](http://vagnervjs.github.io/frame-player/)
+ - Opinion
+   - *[@adactio]()’s comment* on the style of the two recent articles about CSS class usage, [post](http://adactio.com/journal/6537/)
+
 ## October 22nd, 2013
 
  - News
@@ -609,34 +640,6 @@
  - Opinion
    - The *triumph of JavaScript*, [@EricKnorr]()’s [post](http://podcasts.infoworld.com/t/application-development/the-triumph-of-javascript-227283)
 
-
-## September 24th, 2013
-
- - News
-   - Google looks to drop *Netscape Plugin API* support in Chrome, [article](http://thenextweb.com/google/2013/09/23/google-chrome-drops-netscape-plugin-api-support-to-improve-stability-will-block-most-plugins-in-january-2014/) (TNW)
- - UA dev.
-   - Chrome Canary adds support for the HTML5 *`<dialog>` element*, [@agektmr]()’s [post](http://updates.html5rocks.com/2013/09/dialog-element-Modals-made-easy)
-   - *Improved HTTP cache* back-end in Firefox Nightly, [post](http://www.janbambas.cz/mozilla-firefox-new-http-cache-is-live/)
-   - New features coming to *Firefox’s Responsive Design Mode*, Paul’s 1-min [screencast](http://youtu.be/myGoSG-EKbk)
- - Tutorials
-   - 7 great tips for *Node.js development*, [@FaisalAbid]()’s [post](https://medium.com/tech-talk/e7c0b0e5ce3c)
-   - Comparison of *Promise construction* patterns (in q, jQuery, RSVP and WinJS), [@derickbailey]()’s [post](http://lostechies.com/derickbailey/2013/09/20/consistency-problems-with-apis-in-javascript-promise-libraries/)
-   - *Responsive tables* - a technique for scrollable tables on small widths, [@rogerjohansson]()’s [post](http://www.456bereastreet.com/archive/201309/responsive_scrollable_tables/) + [demo](http://www.456bereastreet.com/lab/responsive-scrollable-tables/)
- - Articles
-   - The benefits and challenges of “*designing in the open*”, [@brad_frost]()’s [post](http://bradfrostweb.com/blog/post/designing-in-the-open/)
-   - The “*everywhere web*”: Doing as little as possible, [@lyzadanger]()’s [post](http://alistapart.com/column/do-as-little-as-possible)
-   - The *Web Audio API* - an overview of tutorials and demos, [post](http://www.techrepublic.com/blog/web-designer/use-the-html5-web-audio-api-to-get-creative-with-your-web-apps-sounds/) (TechRepublic)
- - Media
-   - Persona, Mozilla’s *cross-browser login system* for the web, [@fmarier]()’s 41-min [talk](https://hasgeek.tv/jsfoo/2013-1/683-killing-passwords-with-javascript)
-   - *Firefox DevTools*: Web console, 2-min [s’cast](http://youtu.be/C6Cyrpkb25k) + JavaScript debugger, 2-min [s’cast](http://youtu.be/sK8KU8oiF8s)
- - Content
-   - *Device screen resolutions* ordered by OS (comprehensive and regularly updated), [@dstorey]()’s [post](http://generatedcontent.org/post/34217358607/deviceresolution)
-   - *History of WebRTC* inside Google before it was released to the public, [@slac]()’s [message](http://www.quora.com/WebRTC/What-was-the-history-of-WebRTC-inside-Google-before-it-was-released-to-the-public) on Quora
-   - Concierge, an UI component for *installing web apps via the browser*, [@alex_gibson]()’s [post](http://alxgbsn.co.uk/2013/09/22/concierge-a-responsive-ui-component-for-installing-open-web-apps/)
- - Tools
-   - BackgroundCheck, sets CSS class on element based on *brightness of its background image*, [page](http://kennethcachia.com/background-check/)
-   - generator-mobile, Yeoman’s *generator for mobile-first web apps*, [repo](https://github.com/yeoman/generator-mobile/)
-   - Static Map Maker, generates *static Google Maps images*, [@katydecorah]()’s [page](http://codepen.io/katydecorah/pen/Klieu)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
