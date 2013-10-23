@@ -3,7 +3,8 @@
 			<link><%=id%></link>
 			<guid><%=id%></guid>
 			<description>
-<![CDATA[<p><strong>Update:</strong> I’ve set up a <strong>voluntary subscription</strong> ($6/month) for the readers of this digest. More information is available on <a href="http://webplatformdaily.org">webplatformdaily.org</a>.</p>
+<![CDATA[<h2>Become a patron</h2>
+<p>I’ve set up a <strong>voluntary subscription</strong> ($6/month) for the readers of this digest. More information is available on <a href="http://webplatformdaily.org">webplatformdaily.org</a>.</p>
 <h2><%=val%>]]>
 			</description>
 		</item>
