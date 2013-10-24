@@ -1,5 +1,36 @@
 
 
+## October 24th, 2013
+
+ - News
+   - Brendan Eich explains *Mozilla’s position on DRM* and the EME spec, [post](https://brendaneich.com/2013/10/the-bridge-of-khazad-drm/) ![][*]
+   - Adobe releases Snap.svg, a JavaScript library for *creating responsive vector graphics*, [site](http://snapsvg.io/) + [demo](http://snapsvg.io/start/)
+   - Open codec pioneer leaves Red Hat, joins Mozilla to work on *next-generation video codec*, [article](http://gigaom.com/2013/10/15/monty-montgomery-joins-mozilla-for-daala/)
+   - Microsoft demonstrates a build of *Mozilla Firefox supporting Pointer Events*, [@OpenAtMicrosoft]()’s [post](http://msopentech.com/blog/2013/10/22/microsoft-demonstrates-pointer-events-interoperability-internet-explorer-11-firefox/)
+ - Info
+   - The Brackets editor *live-previews SVG* referenced in HTML code, [source](https://twitter.com/cfjedimaster/status/393081712063684608) w/ screenshot
+ - Posts
+   - An easy-to-follow introductory guide to *unit and integration testing*, [@andyshora]()’s [post](http://andyshora.com/unit-testing-best-practices-angularjs.html)
+   - The *new SassScript Maps data type* explained on a simple example, [@jgarber]()’s [post](http://viget.com/extend/sass-maps-are-awesome)
+   - *Modular Sass development* using SMACSS and BEM (also) explained on a simple example, [@wtc]()’s [post](https://medium.com/objects-in-space/f6f404727)
+   - *Categorizing values in JavaScript*: The quirks and one approach to fix them, [@rauschma]()’s [post](http://www.2ality.com/2013/02/isinstance.html)
+   - ‘Layout boundaries’ enable *more performant, partial reflows* (in Chrome), [@wilsonpage]()’s [post](http://wilsonpage.co.uk/introducing-layout-boundaries/)
+ - Media
+   - The Web Ahead #58: Discussion with *[@LeaVerou]() about CSS*, 91-min [podcast](http://5by5.tv/webahead/58)
+   - ShopTalk Show #88: With [@scottjehl]() (i.a. *‘mobile first’, JavaScript templating*), 72-min [podcast](http://shoptalkshow.com/episodes/088-scott-jehl/)
+ - Content
+   - Mozilla releases *data on cookie and browsing events* (from a paid study), Monica Chew’s [post](http://monica-at-mozilla.blogspot.com/2013/10/cookie-counting.html)
+   - A superb *presentation on Web Components* (view in ![][CC]), [@rob_dodson]()’s 89-page [slide deck](http://robdodson.me/webcomponents-revolution/) ![][*]
+   - A roundup of *resources on responsive typography*, [@stacywdl]()’s [post](http://www.awwwards.com/responsive-typography-a-roundup-of-the-best-articles-and-tutorials.html)
+ - Demos
+   - Technique: Quickly *swapping two blocks of code* in CSS or JavaScript, [@csswizardry]()’s [demo](https://twitter.com/_yoitsro/status/392983874105782272)
+   - Examples of *smart interaction details* that can improve UX, [@webchaeschtli]()’s [post](http://uxdesign.smashingmagazine.com/2013/10/23/smart-transitions-in-user-experience-design/)
+ - Tools
+   - MEAN ![][no], a boilerplate for *MongoDB, Node.js, Express, and AngularJS* based apps, [site](http://www.mean.io/) + [repo](https://github.com/linnovate/mean)
+   - Boundarizr ![][js], highlights elements that can act as *potential layout boundaries*, [@aerotwist]()’s [repo](https://github.com/paullewis/Boundarizr/)
+   - ReActiveTable (bookmarklet), *adds functionality to data tables* on websites, [@stoyanstefanov]()’s [post](http://www.phpied.com/reactivetable-bookmarklet/) ![][*]
+
+
 ## October 23rd, 2013
 
  - News
@@ -605,40 +636,6 @@
    - *CSS Transforms* visualizer (a learning tool for understanding transforms), [@patrickbrosset]()’s [page](http://codepen.io/captainbrosset/full/lHpnK) ![][*]
    - uCSS, a tool for finding *unused and duplicate CSS*, [@oyvindeh]()’s [repo](https://github.com/operasoftware/ucss)
    - Chart.js, a *library for drawing charts* (6 types of `<canvas>`-based charts), [site](http://www.chartjs.org/)
-
-
-## September 25th, 2013
-
- - News
-   - Harvard Library Innovation Lab pioneers project aimed at *mitigating “link rot”*, [@zittrain]()’s [post](http://blogs.law.harvard.edu/futureoftheinternet/2013/09/22/perma/)
-   - Auto industry to speed up the death of native apps, *rise of HTML5*, [article](http://www.wired.com/insights/2013/09/auto-industry-to-rev-up-the-death-of-native-apps-rise-of-html5/) (Wired)
-   - Google makes change aimed at *encrypting all search activity*, except for clicks on ads, [article](http://searchengineland.com/post-prism-google-secure-searches-172487)
- - UA dev.
-   - Chrome Canary: CSS *`::before`/`::after` content inspectable* in DevTools, [source](https://twitter.com/ebidel/status/382351541010567168) ![][*]
-   - Soon in *Firefox DevTools*: “doorhangers”, [source](https://twitter.com/patrickbrosset/status/382431319684165632) + pixel inspector, [source](https://twitter.com/patrickbrosset/status/382403071180943361)
- - FYI
-   - Examples of scenarios where users benefit from *text alternatives for images*, [source](https://twitter.com/stevefaulkner/status/382419547476619264)
-   - 6 new *support tables* added to “Can I use…” (i.a. WebRTC, Mutation Observers), [source](https://twitter.com/caniuse/status/382346673667596288)
- - Tutorials
-   - Getting started with *Topcoat, Adobe’s UI library* designed with speed in mind, [@kesbutters]()’s [post](http://www.sitepoint.com/introduction-topcoat/)
-   - A gotcha with *missing `0%` and `100%` keyframes* in CSS Animations, [@craigbuckler]()’s [post](http://www.sitepoint.com/animation-keyframe-gotcha/)
- - Articles
-   - An *introduction to Unicode* and how it is handled in JavaScript, [@rauschma]()’s [post](http://www.2ality.com/2013/09/javascript-unicode.html) ![][*]
-   - Reintroducing *the Firefox DevTools*, part 1: Web console, JavaScript debugger, [@JasonWeathersby]()’s [post](https://hacks.mozilla.org/2013/09/reintroducing-the-firefox-developer-tools-part-1-the-web-console-and-the-javascript-debugger/)
- - Media
-   - Security: *Content injection attacks*, [@mikewest]()’s 30-min [talk](http://youtu.be/eb3suf4REyI) + [slide deck](https://speakerdeck.com/mikewest/xss-no-the-other-s-cssconf-eu-2013) ![][*]
-   - Stand-up comedy: *CSS jokes*, [@jedschmidt]()’s hilarious 9-min [performance](http://youtu.be/KKM71-YeJp8)
- - Content
-   - A world map for locating *open device labs* (currently in 22 countries), [site](http://opendevicelab.com/)
-   - Sophos’ poll: “*Which web browser do you trust?*”, [results](http://nakedsecurity.sophos.com/2013/09/23/firefox-burns-chrome-in-our-trustworthy-browser-poll/) (Firefox wins by large margin)
-   - *TC-39 meeting* (Sept 17–19, 2013), [@rwaldron]()’s [notes](https://github.com/rwaldron/tc39-notes/tree/master/es6/2013-09)
-   - A couple of *questions about Persona* answered by [@seanmonstar]() in this [gist](https://gist.github.com/seanmonstar/6694364)
- - Tools
-   - Social Share Privacy, a plugin for providing *initially disabled social buttons*, [page](http://panzi.github.io/SocialSharePrivacy/)
-   - PACE, an *automatic progress indicator* for page load and Ajax navigation, [page](http://github.hubspot.com/pace/docs/welcome/)
-   - feedthebot *tools* (i.e. Gzip checker, spider simulator, link report tool), [page](http://www.feedthebot.com/tools/) ![][*]
- - Opinion
-   - The *triumph of JavaScript*, [@EricKnorr]()’s [post](http://podcasts.infoworld.com/t/application-development/the-triumph-of-javascript-227283)
 
 
 [*]: /img/star.png "don’t miss"

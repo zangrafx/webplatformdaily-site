@@ -1,3 +1,34 @@
+## October 24th, 2013
+
+ - News
+   - Brendan Eich explains *Mozilla’s position on DRM* and the EME spec, [post](https://brendaneich.com/2013/10/the-bridge-of-khazad-drm/) ![][*]
+   - Adobe releases Snap.svg, a JavaScript library for *creating responsive vector graphics*, [site](http://snapsvg.io/) + [demo](http://snapsvg.io/start/)
+   - Open codec pioneer leaves Red Hat, joins Mozilla to work on *next-generation video codec*, [article](http://gigaom.com/2013/10/15/monty-montgomery-joins-mozilla-for-daala/)
+   - Microsoft demonstrates a build of *Mozilla Firefox supporting Pointer Events*, [@OpenAtMicrosoft]()’s [post](http://msopentech.com/blog/2013/10/22/microsoft-demonstrates-pointer-events-interoperability-internet-explorer-11-firefox/)
+ - Info
+   - The Brackets editor *live-previews SVG* referenced in HTML code, [source](https://twitter.com/cfjedimaster/status/393081712063684608) w/ screenshot
+ - Posts
+   - An easy-to-follow introductory guide to *unit and integration testing*, [@andyshora]()’s [post](http://andyshora.com/unit-testing-best-practices-angularjs.html)
+   - The *new SassScript Maps data type* explained on a simple example, [@jgarber]()’s [post](http://viget.com/extend/sass-maps-are-awesome)
+   - *Modular Sass development* using SMACSS and BEM (also) explained on a simple example, [@wtc]()’s [post](https://medium.com/objects-in-space/f6f404727)
+   - *Categorizing values in JavaScript*: The quirks and one approach to fix them, [@rauschma]()’s [post](http://www.2ality.com/2013/02/isinstance.html)
+   - ‘Layout boundaries’ enable *more performant, partial reflows* (in Chrome), [@wilsonpage]()’s [post](http://wilsonpage.co.uk/introducing-layout-boundaries/)
+ - Media
+   - The Web Ahead #58: Discussion with *[@LeaVerou]() about CSS*, 91-min [podcast](http://5by5.tv/webahead/58)
+   - ShopTalk Show #88: With [@scottjehl]() (i.a. *‘mobile first’, JavaScript templating*), 72-min [podcast](http://shoptalkshow.com/episodes/088-scott-jehl/)
+ - Content
+   - Mozilla releases *data on cookie and browsing events* (from a paid study), Monica Chew’s [post](http://monica-at-mozilla.blogspot.com/2013/10/cookie-counting.html)
+   - A superb *presentation on Web Components* (view in ![][CC]), [@rob_dodson]()’s 89-page [slide deck](http://robdodson.me/webcomponents-revolution/) ![][*]
+   - A roundup of *resources on responsive typography*, [@stacywdl]()’s [post](http://www.awwwards.com/responsive-typography-a-roundup-of-the-best-articles-and-tutorials.html)
+ - Demos
+   - Technique: Quickly *swapping two blocks of code* in CSS or JavaScript, [@csswizardry]()’s [demo](https://twitter.com/_yoitsro/status/392983874105782272)
+   - Examples of *smart interaction details* that can improve UX, [@webchaeschtli]()’s [post](http://uxdesign.smashingmagazine.com/2013/10/23/smart-transitions-in-user-experience-design/)
+ - Tools
+   - MEAN ![][no], a boilerplate for *MongoDB, Node.js, Express, and AngularJS* based apps, [site](http://www.mean.io/) + [repo](https://github.com/linnovate/mean)
+   - Boundarizr ![][js], highlights elements that can act as *potential layout boundaries*, [@aerotwist]()’s [repo](https://github.com/paullewis/Boundarizr/)
+   - ReActiveTable (bookmarklet), *adds functionality to data tables* on websites, [@stoyanstefanov]()’s [post](http://www.phpied.com/reactivetable-bookmarklet/) ![][*]
+
+
 ## October 23rd, 2013
 
  - News
