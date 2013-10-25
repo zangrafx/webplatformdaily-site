@@ -1,3 +1,34 @@
+## October 25th, 2013
+
+ - News
+   - Access releases *Net Neutrality paper* amid growing international debate, [@GiusyCannella]()’s [post](https://www.accessnow.org/blog/2013/10/23/access-releases-net-neutrality-paper-amid-growing-international-debate)
+   - Some homescreen *web apps issues on iOS* fixed in version 7.0.3, [@thomasfuchs]()’s [post](http://mir.aculo.us/2013/10/24/homescreen-web-apps-on-ios-7-0-3/)
+ - Info
+   - You can *access MDN documentation faster* with mdn.io (e.g. “mdn.io/css transitions”), [@lazdnet]()’s [page](http://lazd.github.io/mdn-io-passive-url-shortening-for-mdn.html) ![][*]
+   - When *editing CSS in Firefox’s DevTools*, the page is auto-updated with cool transitions, [source](https://twitter.com/simevidas/status/393579425947590657)
+ - Posts
+   - *Eliminating TLS latency* by setting a small record size (w/ server configuration), [@igrigorik]()’s [post](http://www.igvita.com/2013/10/24/optimizing-tls-record-size-and-buffering-latency/)
+   - An in-dept write-up on how a *Firefox OS mobile web app for Internet radio* was built, [@arasbm]()’s [post](https://hacks.mozilla.org/2013/10/building-a-firefoxos-app-for-my-favorite-internet-radio-station/)
+ - Media
+   - Techniques and *tools for testing CSS*, [@thingsinjars]()’s 39-min [screencast](http://thingsinjars.com/post/484/high-definition-css-testing/) + 49-page [slide deck](http://csste.st/slides/)
+   - Alternative ways to *compress and minify data on the web*, [@duhroach]()’s 59-min GDL [session](http://youtu.be/whGwm0Lky2s)
+ - Content
+   - Tips for *writing maintainable CSS* (+ how Sass helps with this), [@mobywhale]()’s 47-page [slide deck](https://speakerdeck.com/mobywhale/oh-no-spaghetti-code)
+   - A graphic commentary about *Verizon and net neutrality*, [@CommonCause]()’s [page](http://www.commoncause.org/site/pp.asp?c=dkLNK1MQIwG&b=8799039)
+   - The Airbnb *JavaScript style guide* (comprehensive and polished), [@AirbnbNerds]()’s [repo](https://github.com/airbnb/javascript)
+   - A free collection of *SVG maps for every country* in the world, [@djaiss]()’s [repo](https://github.com/djaiss/mapsicon)
+   - A detailed *introduction to touch (and pointer) events*, [@patrick_h_lauke]()’s 148-page [slide deck](http://de.slideshare.net/redux/getting-touchy-an-introduction-to-touch-and-pointer-events-future-of-web-apps-london-24102013) ![][*]
+ - Demos
+   - Awesome CSS-based *transition effects for image thumbnail grids*, [@crnacura]()’s demo [page](http://tympanus.net/Development/ThumbnailGridAnimations/)
+   - Using CSS Shapes to *enhance visual storytelling*, [@razvancaliman]()’s [post](http://blogs.adobe.com/webplatform/2013/10/23/css-shapes-visual-storytelling/) w/ video demo
+   - *Stereoscopic effects* with CSS transforms, [@donovanh]()’s [post](http://hop.ie/blog/stereoscopic/) (w/ links to demo pages)
+ - Tools
+   - Code Climate, *quality and security analysis for JavaScript* (free for open source projects), [site](https://codeclimate.com/)
+   - Font Awesome (webfont), *scalable vector icons* that can be customized with CSS, [site](http://fontawesome.io/)
+ - Opinion
+   - “Web experiences” shouldn’t *hijack a user’s scroll rate*, [@TrentWalton]()’s [post](http://trentwalton.com/2013/10/23/scroll-hijacking/)
+   - Why *you should disable autocomplete*, [@yoast]()’s [post](http://yoast.com/autocomplete-security/) ![][*]
+
 ## October 24th, 2013
 
  - News

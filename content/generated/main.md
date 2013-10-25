@@ -1,5 +1,36 @@
 
 
+## October 25th, 2013
+
+ - News
+   - Access releases *Net Neutrality paper* amid growing international debate, [@GiusyCannella]()’s [post](https://www.accessnow.org/blog/2013/10/23/access-releases-net-neutrality-paper-amid-growing-international-debate)
+   - Some homescreen *web apps issues on iOS* fixed in version 7.0.3, [@thomasfuchs]()’s [post](http://mir.aculo.us/2013/10/24/homescreen-web-apps-on-ios-7-0-3/)
+ - Info
+   - You can *access MDN documentation faster* with mdn.io (e.g. “mdn.io/css transitions”), [@lazdnet]()’s [page](http://lazd.github.io/mdn-io-passive-url-shortening-for-mdn.html) ![][*]
+   - When *editing CSS in Firefox’s DevTools*, the page is auto-updated with cool transitions, [source](https://twitter.com/simevidas/status/393579425947590657)
+ - Posts
+   - *Eliminating TLS latency* by setting a small record size (w/ server configuration), [@igrigorik]()’s [post](http://www.igvita.com/2013/10/24/optimizing-tls-record-size-and-buffering-latency/)
+   - An in-dept write-up on how a *Firefox OS mobile web app for Internet radio* was built, [@arasbm]()’s [post](https://hacks.mozilla.org/2013/10/building-a-firefoxos-app-for-my-favorite-internet-radio-station/)
+ - Media
+   - Techniques and *tools for testing CSS*, [@thingsinjars]()’s 39-min [screencast](http://thingsinjars.com/post/484/high-definition-css-testing/) + 49-page [slide deck](http://csste.st/slides/)
+   - Alternative ways to *compress and minify data on the web*, [@duhroach]()’s 59-min GDL [session](http://youtu.be/whGwm0Lky2s)
+ - Content
+   - Tips for *writing maintainable CSS* (+ how Sass helps with this), [@mobywhale]()’s 47-page [slide deck](https://speakerdeck.com/mobywhale/oh-no-spaghetti-code)
+   - A graphic commentary about *Verizon and net neutrality*, [@CommonCause]()’s [page](http://www.commoncause.org/site/pp.asp?c=dkLNK1MQIwG&b=8799039)
+   - The Airbnb *JavaScript style guide* (comprehensive and polished), [@AirbnbNerds]()’s [repo](https://github.com/airbnb/javascript)
+   - A free collection of *SVG maps for every country* in the world, [@djaiss]()’s [repo](https://github.com/djaiss/mapsicon)
+   - A detailed *introduction to touch (and pointer) events*, [@patrick_h_lauke]()’s 148-page [slide deck](http://de.slideshare.net/redux/getting-touchy-an-introduction-to-touch-and-pointer-events-future-of-web-apps-london-24102013) ![][*]
+ - Demos
+   - Awesome CSS-based *transition effects for image thumbnail grids*, [@crnacura]()’s demo [page](http://tympanus.net/Development/ThumbnailGridAnimations/)
+   - Using CSS Shapes to *enhance visual storytelling*, [@razvancaliman]()’s [post](http://blogs.adobe.com/webplatform/2013/10/23/css-shapes-visual-storytelling/) w/ video demo
+   - *Stereoscopic effects* with CSS transforms, [@donovanh]()’s [post](http://hop.ie/blog/stereoscopic/) (w/ links to demo pages)
+ - Tools
+   - Code Climate, *quality and security analysis for JavaScript* (free for open source projects), [site](https://codeclimate.com/)
+   - Font Awesome (webfont), *scalable vector icons* that can be customized with CSS, [site](http://fontawesome.io/)
+ - Opinion
+   - “Web experiences” shouldn’t *hijack a user’s scroll rate*, [@TrentWalton]()’s [post](http://trentwalton.com/2013/10/23/scroll-hijacking/)
+   - Why *you should disable autocomplete*, [@yoast]()’s [post](http://yoast.com/autocomplete-security/) ![][*]
+
 ## October 24th, 2013
 
  - News
@@ -603,39 +634,6 @@
    - BrowerSwarm, a tool that *automates JavaScript testing* across browsers, [site](http://www.browserswarm.com/)
    - validator.js, a tool for performing *validation on JavaScript objects*, [@guillaumepotier]()’s [repo](https://github.com/guillaumepotier/validator.js)
    - REVENGE.CSS, a bookmarklet that *reports bad HTML*, [page](http://heydonworks.com/revenge_css_bookmarklet/) + example [screenshot](https://twitter.com/simevidas/status/383504112383315968) (for google.com)
-
-
-## September 26th, 2013
-
- - News
-   - Report: *Mobile broadband growing* faster than any technology in human history, [article](http://www.huffingtonpost.com/robert-pepper/cisco-broadbands-unfinished-bus_b_3976269.html)
-   - Dropbox pushes to *publish spy data request* details, [article](http://www.pcworld.com/article/2049307/dropbox-joins-bid-to-publish-spy-data-requests.html) (PCWorld)
- - UA dev.
-   - Manual plugin activation (i.e. *plugins disabled by default*) (except for Flash) coming to Firefox, [post](https://blog.mozilla.org/futurereleases/2013/09/24/plugin-activation-in-firefox/)
-   - Mozilla releases a (preview) version of *Firefox optimized for Windows 8 tablets*, [post](https://blog.mozilla.org/futurereleases/2013/09/21/help-test-a-preview-of-firefox-optimized-for-windows-8-tablets/)
- - FYI
-   - *Mozilla’s collaboration tool* TogetherJS added to jsFiddle, [source](https://twitter.com/togetherJS/status/381194995257978880)
-   - *IE11 (preview) for Windows 7* virtual machines available on modern.ie, [source](https://twitter.com/IEDevChat/status/382918518896730112)
- - Articles
-   - Several common *accessibility myths* debunked, [@simon_norris]()’s [post](http://www.uxmatters.com/mt/archives/2013/09/making-web-sites-accessible-without-sacrificing-aesthetics.php)
-   - Evaluating the “JavaScript soup” (*evaluation criteria* for JavaScript libraries), [@John_Papa]()’s [post](http://www.johnpapa.net/javascript-soup/)
-   - “If it *doesn’t work on mobile*, it doesn’t work”, [@brianboyer]()’s [post](http://hackerjournalist.net/2013/09/25/if-it-doesnt-work-on-mobile-it-doesnt-work/)
- - Media
-   - A lightning *introduction to Web Components* with Polymer, [@addyosmani]()’s 2-min [screencast](http://youtu.be/j7t4t_6IgXM) ![][*]
-   - “#perfmatters” session 1: *Static memory JavaScript*, [@duhroach]()’s 26-min [talk](http://youtu.be/RWmzxyMf2cE)
-   - “#perfmatters” session 2: *Rendering performance* guide, [@aerotwist]()’s 28-min [talk](http://youtu.be/9xjpmpX4NJE)
- - Content
-   - A team at CERN recreated the “*line-mode browser*”, [page](http://line-mode.cern.ch/) + event leader [@adactio]()’s [post](http://adactio.com/journal/6512/)
-   - A showcase of traditionally *hard CSS problems*, easily *solved using Flexbox*, [@philwalton]()’s [page](http://philipwalton.github.io/solved-by-flexbox/) ![][*]
-   - How *Chrome’s Blink engine* renders websites, [@ElliottZ]()’s 29-page [slide deck](http://elliottsprehn.com/preso/senchacon2013/)
- - Demos
-   - *HTML game*: A rhythm game with WebGL and Web Audio API, [@greweb]()’s [page](http://greweb.me/2013/09/timelapse/)
-   - A New York Times illustrated story with amazing *parallax effects*, [article](http://www.nytimes.com/projects/2013/tomato-can-blues/)
-   - A simple interactive *CSS `tab-size` demo*, [@simevidas]()’s [demo](http://codepen.io/simevidas/pen/HlJtD)
- - Tools
-   - *CSS Transforms* visualizer (a learning tool for understanding transforms), [@patrickbrosset]()’s [page](http://codepen.io/captainbrosset/full/lHpnK) ![][*]
-   - uCSS, a tool for finding *unused and duplicate CSS*, [@oyvindeh]()’s [repo](https://github.com/operasoftware/ucss)
-   - Chart.js, a *library for drawing charts* (6 types of `<canvas>`-based charts), [site](http://www.chartjs.org/)
 
 
 [*]: /img/star.png "don’t miss"
