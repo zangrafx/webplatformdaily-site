@@ -95,7 +95,7 @@ module.exports = function (grunt) {
 					},
 					preCompile: function (src) {
 						return src
-								.replace(/\[@(\w+)\]\(\)/g, '[@$1](http://twitter.com/$1)')
+								.replace(/\[@(\\?)(\w+)\]\(\)/g, '[@$1$2](http://twitter.com/$2)')
 								.replace(/\/img\//g, 'http://webplatformdaily.org/img/');
 					},
 					postCompile: function (src) {
