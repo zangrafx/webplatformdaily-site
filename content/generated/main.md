@@ -458,7 +458,7 @@
    - HTML5 as a *platform for game development*: Current limitations and benefits, [@realcraig]()’s [post](http://venturebeat.com/2013/10/02/no-excuses-you-can-build-great-mobile-games-using-html5/)
    - A case for *authoring and producing books* in (X)HTML5, [@sandersk]()’s [post](http://balisage.net/Proceedings/vol10/html/Kleinfeld01/BalisageVol10-Kleinfeld01.html)
  - Media
-   - Standards bodies: *Participating in the standards process* as a developer, [ @domenic ]()’s 27-min [talk](http://youtu.be/hneN6aW-d9w) ![][*]
+   - Standards bodies: *Participating in the standards process* as a developer, [@domenic]()’s 27-min [talk](http://youtu.be/hneN6aW-d9w) ![][*]
    - *ShopTalk Show* #85 with [@obiwankimberly](), 56-min [podcast](http://shoptalkshow.com/episodes/085-with-kimberly-blessing/)
  - Content
    - “*CSS Image Replacement* Museum” (different techniques over the years), [@chriscoyier]()’s [page](http://css-tricks.com/examples/ImageReplacement/)
