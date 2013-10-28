@@ -1,5 +1,37 @@
 
 
+## October 28th, 2013
+
+ - News
+   - *Mozilla launches Lightbeam* (displays which 1st/3rd party sites you interact with on the Web), [post](https://blog.mozilla.org/blog/2013/10/25/lightbeam-for-firefox-privacy-education-for-users-open-data-for-publishers/) ![][*]
+   - Internet Archive announces JSMESS, “Imagine *every computer that ever existed*, in your browser.”, [post](http://blog.archive.org/2013/10/25/microcomputer-software-lives-again-this-time-in-your-browser/)
+   - *PHP.net compromised* and used to attack visitors, [article](http://www.pcworld.com/article/2057980/phpnet-compromised-and-used-to-attack-visitors.html) (PCWorld)
+ - UAs
+   - *Enhanced rich editing* experiences in IE11 (i.a. automatic image paste), [post](http://blogs.msdn.com/b/ie/archive/2013/10/24/enhanced-rich-editing-experiences-in-ie11.aspx) (IEBlog)
+   - Firefox Nightly: *UTF-16 string iteration* fixed, [source](https://twitter.com/FirefoxNightly/status/393660761517858816) + `Math.hypot()` added, [source](https://twitter.com/FirefoxNightly/status/393665302766288896)
+ - Posts
+   - Notes from [@csswizardry]()’s #TIDE talk: 10 *tips for good typography*, [@decadecity]()’s [post](http://decadecity.net/blog/2013/10/25/harry-roberts-ten-top-tips-tidier-type)
+   - *Capturing errors in Node.js* and logging them in a human readable format, [@endangeredmassa]()’s [post](http://massalabs.com/dev/2013/10/17/handling-errors-in-nodejs.html)
+   - Making JavaScript-heavy apps crawlable: *Serving snapshots to search engines*, [@ngnewsletter]()’s [post](http://www.ng-newsletter.com/posts/serious-angular-seo.html)
+ - Media
+   - How *ARIA landmark roles* help screen reader users, [@LeonieWatson]()’s 2-min [screencast](http://youtu.be/IhWMou12_Vk)
+   - [@buildpodcast]() #54: Working with the *D3JS data visualization library*, 37-min [screencast](http://build-podcast.com/d3js/) ![][*]
+   - A detailed analysis of JavaScript’s 64-bit *number format (IEEE 754)*, [@bartaz]()’s 27-min [talk](http://youtu.be/MqHDDtVYJRI) + [slide deck](https://speakerdeck.com/bartoszopka/everything-you-never-wanted-to-know-about-javascript-numbers)
+ - Content
+   - The Mozilla *Lightbeam team answered questions* in an AMA on Reddit, [post](http://www.reddit.com/r/IAmA/comments/1pbjtw/we_are_the_mozilla_team_who_have_been_working_on/)
+   - A collection of *touch/pointer tests and demos*, [@patrick_h_lauke]()’s [page](http://patrickhlauke.github.io/touch/)
+   - Slides: Tools for *automating the front-end workflow*, [@addyosmani]()’s 236-page [slide deck](https://speakerdeck.com/addyosmani/automating-front-end-workflow)
+   - Slides: *Continuous delivery* for the Web Platform, [@jsoverson]()’s 60-page [slide deck](http://www.slideshare.net/JarrodOverson/continuous-delivery-for-the-web-platform)
+ - Demos
+   - A 2-state toggle *navigation in pure CSS* based on the “checkbox hack”, [@stefanjudis]()’s [post](http://thenittygritty.co/toggle-navigation-with-pure-css)
+   - A *split layout*, clicking on each side shifts page horizontally, [@crnacura]()’s [post](http://tympanus.net/codrops/2013/10/25/split-layout/) + demo [page](http://tympanus.net/Blueprints/SplitLayout/)
+   - “Opening type”, letters with a *peel back effect on hover*, [@DiegoCayenna]()’s [demo](http://codepen.io/diegopardo/details/GqEho)
+ - Tools
+   - Fontello, an *icon webfont generator* (lets user handpick icons),  [@puzrin]()’s [post](http://css-tricks.com/fontello-past-future-icon-font-service/) + [site](http://fontello.com/) ![][*]
+   - load-grunt-tasks, enables you to remove all the *repeating `grunt.loadNpmTasks()` calls*, [repo](https://github.com/sindresorhus/load-grunt-tasks)
+   - HiDPI Canvas polyfill, *scales Canvas appropriately* to maintain sharpness (on HiDPI screens), [repo](https://github.com/jondavidjohn/hidpi-canvas-polyfill)
+
+
 ## October 25th, 2013
 
  - News
@@ -603,37 +635,6 @@
    - FastActive ![][js], adds *instant visual feedback* to touch interactions, [@jonathanstark]()’s [repo](https://github.com/jonathanstark/FastActive)
  - Opinion
    - “*WebRTC* poses a brand new turning point for the web”, [@adambrault]()’s [post](http://blog.andyet.com/2013/09/27/webrtc-is-going-to-break-the-whole-game-open)
-
-
-## September 27th, 2013
-
- - News
-   - More *information about multipath TCP* (introduced in iOS 7), [article](http://appleinsider.com/articles/13/09/20/apple-found-to-be-using-advanced-multipath-tcp-networking-in-ios-7) (Apple Insider)
-   - USA: House republicans want to kill *net neutrality* as part of their debt ceiling bill, [article](http://techcrunch.com/2013/09/26/house-republicans-want-to-kill-net-neutrality-as-part-of-their-debt-ceiling-bill/) (TechCrunch)
- - UA dev.
-   - New features in *Firefox DevTools* (part 26), [post](https://hacks.mozilla.org/2013/09/new-features-in-the-firefox-developer-tools-episode-26/) (Mozilla Hacks)
-   - *`srcset` DPR-switching* lands in WebKit and Blink, soon in Firefox, [source](https://twitter.com/igrigorik/status/383277856723181569)
-   - CSS *`cursor: grab/grabbing`* unprefixed in Firefox Nightly, [source](https://twitter.com/FirefoxNightly/status/383147007843774464)
- - Tutorials
-   - *Media capture in mobile browsers*: `<input capture>` and `.getUserMedia()`, [@franciov]()’s [post](http://dev.opera.com/articles/view/media-capture-in-mobile-browsers/) ![][*]
-   - *Getting the duration* (and other info) from an *user-selected audio file*, [@derickbailey]()’s [post](http://lostechies.com/derickbailey/2013/09/23/getting-audio-file-information-with-htmls-file-api-and-audio-element/)
-   - *Hiding the browser’s video controls* when viewing HTML5 video in full-screen, [@SaraSoueidan]()’s [post](http://css-tricks.com/custom-controls-in-html5-video-full-screen/)
- - Articles
-   - Sencha’s *HTML5 tests in iOS 7*: The bugs, issues and performance gains, [@mmullany]()’s [post](http://www.sencha.com/blog/the-html5-scorecard-the-good-the-bad-and-the-ugly-in-ios7/)
-   - *Recap: PhoneGap Day EU* (September 24th in Amsterdam), [@revolunet]()’s [post](http://blog.revolunet.com/blog/2013/09/24/phonegap-day-amsterdam/)
-   - *Tools for image optimization* (Grunt tasks, desktop and online tools), [@addyosmani]()’s [post](http://addyosmani.com/blog/image-optimization-tools/) ![][*]
- - Media
-   - “#perfmatters” session 3: “*Which browsers request…?*” (quiz), [@jaffathecake]()’s 28-min [talk](http://youtu.be/WiOl0Y06xV4) ![][*]
-   - “#perfmatters” session 4: “*Performance tooling*”, [@paul_irish]()’s 34-min [talk](http://youtu.be/HAqjyCH_LOE)
- - Content
-   - Codewars, *solve JavaScript challenges* and compete with others, [site](http://www.codewars.com)
-   - Cheat sheet: *Node, Bower, Grunt commands*, [@jesterxl]()’s 7-page [PDF](http://jessewarden.com/2013/09/node-bower-grunt-n00b-cheat-sheet.html)
-   - Node.js Meetspace, a calendar of *upcoming in-person Node.js events* around the world, [site](http://nodemeatspace.com/)
-   - Steganography, *hiding text messages* in the alpha channel of images, [@eigenschinkpete]()’s [page](http://www.peter-eigenschink.at/projects/steganographyjs/)
- - Tools
-   - BrowerSwarm, a tool that *automates JavaScript testing* across browsers, [site](http://www.browserswarm.com/)
-   - validator.js, a tool for performing *validation on JavaScript objects*, [@guillaumepotier]()’s [repo](https://github.com/guillaumepotier/validator.js)
-   - REVENGE.CSS, a bookmarklet that *reports bad HTML*, [page](http://heydonworks.com/revenge_css_bookmarklet/) + example [screenshot](https://twitter.com/simevidas/status/383504112383315968) (for google.com)
 
 
 [*]: /img/star.png "don’t miss"
