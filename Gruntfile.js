@@ -91,7 +91,7 @@ module.exports = function (grunt) {
 				options: {
 					template: 'templates/rss_template.xml',
 					templateContext: {
-						time: (new Date).toString()
+						time: (new Date).toUTCString()
 					},
 					preCompile: function (src) {
 						return src

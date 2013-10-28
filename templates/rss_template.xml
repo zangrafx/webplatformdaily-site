@@ -5,7 +5,7 @@
 		<title>Open Web Platform Daily Digest</title>
 		<description>Feed for Open Web Platform Daily Digest</description>
 		<link>http://webplatformdaily.org/</link>
-		<languange>en</languange>
+		<language>en</language>
 		<pubDate><%=time%></pubDate>
 		<lastBuildDate><%=time%></lastBuildDate>
 		<atom:link href="http://webplatformdaily.org/feed/rss.xml" rel="self" type="application/rss+xml" />
