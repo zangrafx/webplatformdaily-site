@@ -1,3 +1,35 @@
+## October 29th, 2013
+
+ - News
+   - Mozilla working on *cross-platform Firefox OS web apps*, [post](https://hacks.mozilla.org/2013/10/progress-report-on-cross-platform-open-web-apps/) w/ 4-min video demo ![][*]
+   - Microsoft adds new performance scanning tools and the *“11% for IE11” challenge*, [post](http://blogs.windows.com/ie/b/ie/archive/2013/10/28/let-s-build-a-faster-web-and-eat-pizza-take-the-11-for-ie11-challenge.aspx)
+ - UAs
+   - Intent to *ship: Custom elements* (in Blink), [post](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/OewTBMoOQtw) on `blink-dev`
+ - Info
+   - *`-webkit-filter` still “unretinafies”* images on Safari 7, needs `translateZ(0)` as workaround, [source](https://twitter.com/thomasfuchs/status/394586368455610368)
+ - Posts
+   - *Creating a blog with Harp*, a static web server with built-in preprocessing, [@kennethormandy]()’s [post](http://kennethormandy.com/journal/start-a-blog-with-harp)
+   - Practical advice on providing a *meaningful document structure*, [@stevefaulkner]()’s [post](http://blog.paciellogroup.com/2013/10/html5-document-outline/)
+   - Challenges of *creating HTML5 games today* (e.g. browser bugs), [@cwiiis]()’s [post](http://chrislord.net/index.php/2013/10/28/sabbatical-over/)
+   - EFJAC, a proposal for *organizing CSS and JS code interactions*, [@cannikin]()’s [post](https://medium.com/objects-in-space/9b8a9dd7bfe3)
+ - Media
+   - “*Prebrowsing*” (loading data before the browser needs it), [@Souders]()’s 37-min [talk](http://youtu.be/Msqs1jIzgo4) ![][*]
+   - Lightning demo showing updates to *WebPagetest’s filmstrip and video views*, [@patmeenan]()’s 7-min [talk](http://youtu.be/AEAj-HSfYSA)
+   - Topic Undefined #6 (i.a. *Promises, WebGL, Harp*), [@remotesynth]() & [@cfjedimaster]()’s 37-min [podcast](http://flippinawesome.org/topic-undefined/topic-undefined-episode-6/)
+ - Content
+   - [@ppk]()’s analysis of the *mobile browser market in the UK* (Q4 2012 - Q3 2013), [post](http://www.quirksmode.org/blog/archives/2013/10/local_mobile_br_4.html)
+   - *Interview with [@brianleroux]()* of Adobe’s PhoneGap team, [page](http://dev.tutsplus.com/articles/interview-with-brian-leroux-of-adobes-phonegap-team--net-35461)
+   - “A Game of Shark and Minnow”, a *New York Times multimedia article*, [page](http://www.nytimes.com/newsgraphics/2013/10/27/south-china-sea/) ![][*]
+ - Demos
+   - An animated *3D card scatter gallery* with HTML5 Video, [@dudleystorey]()’s [demo](http://codepen.io/dudleystorey/details/jhpld)
+   - Musical Keyboard, a synthesizer based on *dynamically generated audio*, [@keithwhor]()’s [page](http://keithwhor.com/music/)
+   - The *float label form pattern*, [@jimniels]()’s [post](http://webdesign.tutsplus.com/tutorials/ux-tutorials/implementing-the-float-label-form-pattern/) + [demo](http://tutsplus.github.io/float-label-form-interaction/index.html)
+ - Tools
+   - A bookmarklet to make the *text between 45 and 75 characters* turn red, [@chriscoyier]()’s [page](http://codepen.io/chriscoyier/pen/atebf)
+   - Offline.js ![][js], automatically alerts your users when they’ve *lost internet connectivity*,  [page](http://github.hubspot.com/offline/docs/welcome/)
+   - Nunjucks ![][no] ![][js], a rich and powerful *templating language for JavaScript*, [@jlongster]()’s [page](http://jlongster.github.io/nunjucks/)
+
+
 ## October 28th, 2013
 
  - News

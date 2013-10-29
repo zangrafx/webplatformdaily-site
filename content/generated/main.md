@@ -1,5 +1,37 @@
 
 
+## October 29th, 2013
+
+ - News
+   - Mozilla working on *cross-platform Firefox OS web apps*, [post](https://hacks.mozilla.org/2013/10/progress-report-on-cross-platform-open-web-apps/) w/ 4-min video demo ![][*]
+   - Microsoft adds new performance scanning tools and the *“11% for IE11” challenge*, [post](http://blogs.windows.com/ie/b/ie/archive/2013/10/28/let-s-build-a-faster-web-and-eat-pizza-take-the-11-for-ie11-challenge.aspx)
+ - UAs
+   - Intent to *ship: Custom elements* (in Blink), [post](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/OewTBMoOQtw) on `blink-dev`
+ - Info
+   - *`-webkit-filter` still “unretinafies”* images on Safari 7, needs `translateZ(0)` as workaround, [source](https://twitter.com/thomasfuchs/status/394586368455610368)
+ - Posts
+   - *Creating a blog with Harp*, a static web server with built-in preprocessing, [@kennethormandy]()’s [post](http://kennethormandy.com/journal/start-a-blog-with-harp)
+   - Practical advice on providing a *meaningful document structure*, [@stevefaulkner]()’s [post](http://blog.paciellogroup.com/2013/10/html5-document-outline/)
+   - Challenges of *creating HTML5 games today* (e.g. browser bugs), [@cwiiis]()’s [post](http://chrislord.net/index.php/2013/10/28/sabbatical-over/)
+   - EFJAC, a proposal for *organizing CSS and JS code interactions*, [@cannikin]()’s [post](https://medium.com/objects-in-space/9b8a9dd7bfe3)
+ - Media
+   - “*Prebrowsing*” (loading data before the browser needs it), [@Souders]()’s 37-min [talk](http://youtu.be/Msqs1jIzgo4) ![][*]
+   - Lightning demo showing updates to *WebPagetest’s filmstrip and video views*, [@patmeenan]()’s 7-min [talk](http://youtu.be/AEAj-HSfYSA)
+   - Topic Undefined #6 (i.a. *Promises, WebGL, Harp*), [@remotesynth]() & [@cfjedimaster]()’s 37-min [podcast](http://flippinawesome.org/topic-undefined/topic-undefined-episode-6/)
+ - Content
+   - [@ppk]()’s analysis of the *mobile browser market in the UK* (Q4 2012 - Q3 2013), [post](http://www.quirksmode.org/blog/archives/2013/10/local_mobile_br_4.html)
+   - *Interview with [@brianleroux]()* of Adobe’s PhoneGap team, [page](http://dev.tutsplus.com/articles/interview-with-brian-leroux-of-adobes-phonegap-team--net-35461)
+   - “A Game of Shark and Minnow”, a *New York Times multimedia article*, [page](http://www.nytimes.com/newsgraphics/2013/10/27/south-china-sea/) ![][*]
+ - Demos
+   - An animated *3D card scatter gallery* with HTML5 Video, [@dudleystorey]()’s [demo](http://codepen.io/dudleystorey/details/jhpld)
+   - Musical Keyboard, a synthesizer based on *dynamically generated audio*, [@keithwhor]()’s [page](http://keithwhor.com/music/)
+   - The *float label form pattern*, [@jimniels]()’s [post](http://webdesign.tutsplus.com/tutorials/ux-tutorials/implementing-the-float-label-form-pattern/) + [demo](http://tutsplus.github.io/float-label-form-interaction/index.html)
+ - Tools
+   - A bookmarklet to make the *text between 45 and 75 characters* turn red, [@chriscoyier]()’s [page](http://codepen.io/chriscoyier/pen/atebf)
+   - Offline.js ![][js], automatically alerts your users when they’ve *lost internet connectivity*,  [page](http://github.hubspot.com/offline/docs/welcome/)
+   - Nunjucks ![][no] ![][js], a rich and powerful *templating language for JavaScript*, [@jlongster]()’s [page](http://jlongster.github.io/nunjucks/)
+
+
 ## October 28th, 2013
 
  - News
@@ -601,40 +633,6 @@
    - Google Web Designer beta, for creating *HTML5-based designs and motion graphics*, [page](https://www.google.com/webdesigner/)
    - HTTPSecHeaders, analyzes the *security-related HTTP headers* of a website, [site](https://securityheaders.com/)
    - Mini Mobile Device Lab, a device lab for *testing websites across multiple devices*, [@gauntface]()’s [repo](https://github.com/GoogleChrome/MiniMobileDeviceLab) ![][*]
-
-
-## September 30th, 2013
-
- - News
-   - “Proposal for RespImg Syntax”, [@tabatkins]()’s (unofficial) [draft](http://tabatkins.github.io/specs/respimg/Overview.html) + [@scottjehl]()’s [response](https://twitter.com/RWD/status/383640694469828610)
-   - *ECMAScript 6* Revision 19 released, [changelog](http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts#september_27_2013_draft_rev_19) w/ link to PDF + HTML version, [page](http://people.mozilla.org/~jorendorff/es6-draft.html)    
- - UA dev.
-   - Chrome Canary: Initial support for *font load events*, [source](https://twitter.com/ChromiumDev/status/383457078158708736) + *font inspector* added to DevTools, [post](http://updates.html5rocks.com/2013/09/DevTools-answers-What-font-is-that)
- - Posts
-   - How *ECMAScript 6 fixes `function`* with new ways of *defining callable entities*, [@rauschma]()’s [post](http://www.2ality.com/2013/08/es6-callables.html) ![][*]
-   - Comparison of two *WebGL frameworks*: Three.js and Babylon.js (w/ code examples), [@ProseJoe]()’s [post](http://www.sitepoint.com/three-js-babylon-js-comparison-webgl-frameworks/)
-   - *CSS `z-index`*: Certain CSS properties *establish a new stacking context* for elements, [@benfrain]()’s [post](http://benfrain.com/z-index-stacking-contexts-experimental-css-and-ios-safari/)
-   - Responsive images with the *`srcset` attribute* (examples + comparison to `<picture>`), [@teleject]()’s [post](http://html5hub.com/srcset-attribute-solving-responsive-image-dilemma/)
-   - A comprehensive guide to *testing client-side code*, [@codylindley]()’s [post](http://tech.pro/tutorial/1589/testable--tested-client-side-code) ![][*]
-   - *JavaScript modules*: The module pattern, AMD and the *proposed ECMAScript syntax*, [post](http://yahooeng.tumblr.com/post/62383009835/javascript-modules-amd-and-the-road-ahead)
- - Media
-   - [@buildpodcast]() ep. 51: *Drawing with SVG* (shapes, filters, gradients), [@sayanee_]()’s 33-min [screencast](http://build-podcast.com/svg/) ![][*]
-   - Building a website with *Web Components*, [@ebidel]()’s 9-min [screencast](http://youtu.be/FarTf5P8Wsg)
- - Content
-   - Does Shadow DOM *make the web less open*?, [@ebidel]()’s [answer](http://stackoverflow.com/a/19054963/425275) on Stack Overflow
-   - Should Firefox *allow cross-domain fonts* by default?, [discussion](https://news.ycombinator.com/item?id=6459988) on Hacker News
-   - Lazyweb request: *UI for reporting webapp bugs*, [@paul_irish]()’s [post](https://github.com/h5bp/lazyweb-requests/issues/132) on GitHub
-   - A “simple *git branching model*” (GitHub does something similar), [@juanbenet]()’s [gist](https://gist.github.com/jbenet/ee6c9ac48068889b0912)
-   - [@littlecalculist]()’s thoughts on *shareable functions in JavaScript*, [discussion](http://esdiscuss.org/topic/safe-closure-free-serializable-functions#content-22) on `es-discuss`
- - Sites
-   - A comparison table of *HTML5 video players* (i.a. `<audio>` readiness, keyboard control), [page](http://praegnanz.de/html5video/) 
- - Demos
-   - The *“peeler” technique*, [@paul_irish]()’s [tweet](https://twitter.com/paul_irish/status/383707742277353472) w/ links to two examples
- - Tools
-   - SnappySnippet ![][Ch] ![][ea], *extracts HTML/CSS code from page element* and sends it to a code editor, [page](https://chrome.google.com/webstore/detail/snappysnippet/blfngdefapoapkcdibbdkigpeaffgcil)
-   - FastActive ![][js], adds *instant visual feedback* to touch interactions, [@jonathanstark]()’s [repo](https://github.com/jonathanstark/FastActive)
- - Opinion
-   - “*WebRTC* poses a brand new turning point for the web”, [@adambrault]()’s [post](http://blog.andyet.com/2013/09/27/webrtc-is-going-to-break-the-whole-game-open)
 
 
 [*]: /img/star.png "don’t miss"
