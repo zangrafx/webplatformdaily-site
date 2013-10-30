@@ -1,5 +1,35 @@
 
 
+## October 30th, 2013
+
+ - News
+   - Introducing the *Mozilla Location Service*, [@hannosch]()’s [post](https://blog.mozilla.org/services/2013/10/28/introducing-the-mozilla-location-service/)
+   - *The Freedom Act* will help rebuild user trust in the Internet, [@chefhja]()’s [post](https://blog.mozilla.org/blog/2013/10/29/the-freedom-act-will-help-rebuild-user-trust-in-the-internet/)
+   - *Firefox 25*: release notes, [desktop](http://www.mozilla.org/en-US/firefox/25.0/releasenotes/)/[mobile](https://www.mozilla.org/en-US/mobile/25.0/releasenotes/) + information for developers, [page](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/25)
+   - First public working drafts of *“Beacon” and “Resource Priorities”*, [post](http://www.w3.org/blog/news/archives/3351) (W3C)
+   - *ECMAScript 6 draft* revision 20 released, [changelog](http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts) w/ link to PDF
+ - Posts
+   - A guide to creating *fullscreen mobile web apps* (w/ UX guidelines), [@Paul_Kinlan]()’s [post](http://www.html5rocks.com/en/mobile/fullscreen/) ![][*]
+   - A good *introductory guide to Grunt* (w/ usage examples), [@mrcunsolo]()’s [post](http://coding.smashingmagazine.com/2013/10/29/get-up-running-grunt/)
+   - Two clever *usage examples for an invisible font* (i.a. bundling with an icon font), [@ScottKellum]()’s [post](http://scottkellum.com/2013/10/25/the-new-kellum-method.html)
+ - Media
+   - Mozilla’s [@alexanderfowler]() and [@dethe]() discuss *Mozilla’s new Lightbeam add-on*, 2-min [video](http://mozillawebmaker.tumblr.com/post/65233143238/mozillas-privacy-and-public-policy-lead-alex)
+   - Building live HTML and *omniscient debuggers in Brackets*, [@knownissues]() & [@dangoor]()’s 29-min [talk](http://youtu.be/Axpi1_OVSdo)
+   - *Treehouse Show* #36 (i.a. responsive design, rich content editing, Git/GitHub resources), 15-min [video](http://youtu.be/oQ1j8BUbBR8)
+ - Content
+   - Frequently *misunderstood JavaScript concepts* (Appendix B from [@bolinfest]()’s book), [page](http://bolinfest.com/javascript/misunderstood.html)
+   - An interactive *video intro to CSS Flexbox* (a few minutes), [@sfioritto]()’s [page](http://www.sketchingwithcss.com/flexbox/) ![][*]
+   - W3C director *[@timberners\_lee]() discusses DRM* on the `www-tag` mailing list, [post](http://lists.w3.org/Archives/Public/www-tag/2013Oct/0059.html)
+   - *Mozilla contributors are answering questions* in an AMA on Reddit, [post](http://www.reddit.com/r/IAmA/comments/1phhx1/we_are_mozilla_ask_us_anything/)
+ - Demos
+   - *Speech recognition in FirefoxOS* (via SpeechRTC WebAPI), [@andrenatalbr]()’s 3-min video [demo](http://youtu.be/pnCRH-Iznrc)
+   - *Audio reactive visuals* (visuals that automatically adapt to live audio input), [@felixturner]()’s [post](http://www.airtightinteractive.com/2013/10/making-audio-reactive-visuals/)
+ - Tools
+   - formatter.js ![][js], *formats user input* to match a specified pattern, [repo](https://github.com/firstopinion/formatter.js) + [demo](http://firstopinion.github.io/formatter.js/demos.html)
+   - Cloak ![][no], a *network layer for HTML5 games*, [page](http://incompl.github.io/cloak/) + [@_gsmith]()’s intro [post](http://weblog.bocoup.com/building-multiplayer-html5-games-with-cloak/)
+   - jshint-stylish ![][no], enhances readability of the *JSHint console reporter*, [@sindresorhus]()’s [repo](https://github.com/sindresorhus/jshint-stylish)
+
+
 ## October 29th, 2013
 
  - News
@@ -601,38 +631,6 @@
    - Keypress ![][js], for *capturing keyboard input*, [@dmaurolizer]()’s [page](http://dmauro.github.io/Keypress/) w/ live demos ![][*]
    - peeler.js ![][js], creates a *“peeler” effect while scrolling*, [@mduvall_]()’s [repo](https://github.com/mduvall/peeler.js)
    - RulersGuides.js (bookmarklet), adds Photoshop-like *rulers and guides* to a page, [@MarkRolich]()’s [page](http://mark-rolich.github.io/RulersGuides.js/)
-
-
-## October 1st, 2013
-
- - News
-   - New *HTML Working Group charter* approved, enables more permissive licensing, [post](http://www.w3.org/blog/news/archives/3253) on W3C
-   - *Firefox OS* finds its way onto APC’s *developer boards*, [article](http://www.slashgear.com/firefox-os-finds-its-way-onto-apc-rock-and-paper-26299252/) + announcement, [PDF](http://apc.io/files/2013/09/APC-Firefox-PR-Draft-4.pdf)
- - UA dev.
-   - A progress report on *Mozilla’s WebRTC implementation*, [@adambroach]()’s [post](https://hacks.mozilla.org/2013/09/webrtc-update-and-workarounds/)
- - Posts
-   - An *introduction to CSS Regions* (code example, browser support, polyfill), [@NikkitaFTW]()’s [post](http://www.webdesignerdepot.com/2013/09/introducing-css-regions/) ![][*]
-   - Extending the *Topcoat CSS Framework* with custom themes and components, [@revolunet]()’s [post](http://blog.revolunet.com/blog/2013/09/30/extending-topcoat-css-framework/)
-   - Writing cleaner, simpler JavaScript code with *functional reactive programming*, [@svoisen]()’s [post](http://sean.voisen.org/blog/2013/09/intro-to-functional-reactive-programming/)
-   - How does use of the *Shadow DOM content affect ARIA* use?, [@stevefaulkner]()’s [post](http://blog.paciellogroup.com/2012/07/notes-on-web-components-aria/)
-   - It may be worth testing in *embedded mobile browsers* (web views), [@lukew]()’s [post](http://www.lukew.com/ff/entry.asp?1801)
-   - “*Sustainable web design*” (building cleaner and greener websites), [@JC_UX]()’s [post](http://alistapart.com/article/sustainable-web-design)
- - Media
-   - Yesterday’s *W3C TAG panel* at Bocoup, 76-min [recording](http://www.youtube.com/watch?v=HueLJQTRiI4) + [questions](https://www.google.com/moderator/#15/e=20f2ba&t=20f2ba.40&f=20f2ba.6c6e3e) that were answered
-   - Mozilla’s 7-min presentation about *Web Components and Mozilla Brick* ([?][brick]), [@potch]()’s [post](https://hacks.mozilla.org/2013/09/firefox-os-development-web-components-and-mozilla-brick/)
-   - A crash course into *Node, Bower and Grunt*, [@jesterxl]()’s 37-min [screencast](http://youtu.be/vkRv0r_tNXY)
- - Content
-   - Reasoning behind `srcN` ([@tabatkins]()’s new proposal) *replacing `srcset` and `<picture>`*, [message](http://lists.w3.org/Archives/Public/public-respimg/2013Sep/0087.html)
-   - “CSS and the critical path”: Techniques for *loading CSS faster*, [@patrickhamann]()’s [slide deck](https://speakerdeck.com/patrickhamann/css-and-the-critical-path) ![][*]
-   - Statistics for *resource churn across crawls*, [@Souders]()’s [results](https://twitter.com/Souders/status/384468553300074496)
- - Sites
-   - “Master of the :nth-child”, a *visual reference for CSS `:nth-child`* and `:nth-of-type`, [site](http://nthmaster.com/)
- - Demos
-   - *Off-canvas icon navigation* with an animated border effect,  [@crnacura]()’s [demo](http://tympanus.net/Tutorials/AnimatedBorderMenus/index2.html) page + [post](http://tympanus.net/codrops/2013/09/30/animated-border-menus/)
- - Tools
-   - Google Web Designer beta, for creating *HTML5-based designs and motion graphics*, [page](https://www.google.com/webdesigner/)
-   - HTTPSecHeaders, analyzes the *security-related HTTP headers* of a website, [site](https://securityheaders.com/)
-   - Mini Mobile Device Lab, a device lab for *testing websites across multiple devices*, [@gauntface]()’s [repo](https://github.com/GoogleChrome/MiniMobileDeviceLab) ![][*]
 
 
 [*]: /img/star.png "don’t miss"
