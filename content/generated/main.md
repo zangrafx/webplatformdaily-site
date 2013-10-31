@@ -1,5 +1,36 @@
 
 
+## October 31st, 2013
+
+ - News
+   - Video interoperability on the Web gets a boost From *Cisco’s H.264 Codec*, [post](https://blog.mozilla.org/blog/2013/10/30/video-interoperability-on-the-web-gets-a-boost-from-ciscos-h-264-codec/) + Eich’s [post](https://brendaneich.com/2013/10/ciscos-h-264-good-news/)
+   - *Adobe’s “Test The Web Forward”* becomes umbrella brand for the entire OWP testing effort, [post](http://www.w3.org/blog/2013/10/welcoming-testtwf-to-w3c/) (W3C)
+ - Info
+   - [@marcosc]() working on a WHATWG “*Serial API*” (for communication with e.g. 3D printers), [source](https://twitter.com/marcosc/status/395338376607727616)
+ - Posts
+   - Doing *cryptography in web apps* directly with JavaScript, Nicolas LaCasse’s [post](http://blog.opal.io/crypto-in-the-browser.html)
+   - *Icon fonts and accessibility*: Dealing with user-defined style sheets, [@gezlemon]()’s [post](http://juicystudio.com/article/icon-fonts-user-defined-stylesheets.php)
+   - Using *`aria-labelledby` as a styling hook* (as a semantic alternative to BEM), [@thelucid]()’s [post](http://thelucid.com/2013/10/30/using-aria-labelledby-as-a-styling-hook/)
+   - “Respect the JavaScript”, *tips for JavaScript-newcomers*, [@rpocklin]()’s [post](http://blog.shinetech.com/2013/10/29/respect-the-javascript/)
+   - *Serving media queries conditionally* with Sass’s `@mixin` and `@if` directives, [@chriscoyier]()’s [post](http://css-tricks.com/conditional-media-query-mixins/)
+ - Media
+   - The *web runtime architecture* in modern web browsers, [@tobint]()’s 21-min [screencast](http://www.wintellectnow.com/Videos/Watch/web-runtime-architecture) ![][*]
+   - Techniques for visualizing the *underlying structure of performance data*, [@dankosaur]()’s 6-min [talk](http://youtu.be/InyHBnd_chw)
+   - JavaScript Jabber #81: Promises for *testing async JavaScript* (with [@ph1]()), 51-min [podcast](http://javascriptjabber.com/081-jsj-promises-for-testing-async-javascript-with-pete-hodgson/)
+ - Content
+   - *Viewport research* addendum: `height` and `@viewport`, [@ppk]()’s [post](http://www.quirksmode.org/blog/archives/2013/10/viewport_resear.html)
+   - Mozilla’s guidelines for *exposing new features* on the Web platform, [source](https://twitter.com/marcosc/status/395544217239298048)
+   - Neubot, is a *research project on network neutrality*, [@nexacenter]()’s [site](http://neubot.org/)
+ - Demos
+   - ‘Responsive Icons’, a project that explores *scalable iconography*, [@joe\_harrison]()’s [concept](http://www.responsiveicons.co.uk/)
+ - Tools
+   - Sparkicons, CSS-based inline icons with *additional link meta data*, [@benedfit]()’s [repo](https://github.com/benedfit/sparkicons)
+   - grunt-zip ![][no], a Grunt plugin for *creating and extracting ZIP* archives, [@twolfsn]()’s [repo](https://github.com/twolfson/grunt-zip)
+ - Opinion
+   - “*Things that suck in AngularJS*” (i.a. documentation, testability), [post](http://lhorie.blogspot.com/2013/09/things-that-suck-in-angularjs.html) + follow up [post](http://lhorie.blogspot.com/2013/10/things-that-suck-in-angularjs-follow-up.html)
+   - “Thoughts on *‘the end’ of MathML* in Chrome/Chromium”, [@pkrautz]()’s [post](http://boolesrings.org/krautzberger/2013/10/29/thoughts-on-the-end-tm-of-mathml-in-chromechromium/)
+
+
 ## October 30th, 2013
 
  - News
@@ -598,39 +629,6 @@
    - spy-js, an advanced tool for *tracing JavaScript execution*, [@ArtemGovorov]()’s [site](http://spy-js.com/)
  - Opinion
    - “Lowering your standards: *DRM and the future of the W3C*”, [@mala]()’s [post](https://www.eff.org/deeplinks/2013/10/lowering-your-standards)
-
-
-## October 3rd, 2013
-
- - News
-   - *Standards for web applications on mobile*, September 2013: Current state and roadmap, [page](http://www.w3.org/2013/09/mobile-web-app-state/) ![][*]
-   - Telerik brings its *HTML5-focused accelerator program* to Silicon Valley, [article](http://thenextweb.com/insider/2013/10/02/telerik-brings-its-html5-focused-accelerator-program-to-silicon-valley/) (TNW)
-   - HTML5 is the *future of book authorship*, [article](http://www.forbes.com/sites/oreillymedia/2013/09/28/html5-is-the-future-of-book-authorship/) (Forbes)
- - UA dev.
-   - A *HTML5 Flash player* lands in the Firefox codebase, [@henrikgemal]()’s [post](http://gemal.dk/blog/2013/10/02/html5_flash_player_shumway_landed/index.html)
-   - *Pretty print for minified CSS* added to Chrome DevTools, [source](https://twitter.com/kangax/status/385386084827664384)
- - FYI
-   - The *new JSHint website* now provides instant feedback, [@valueof]()’s [post](http://jshint.com/blog/new-site/)
- - Posts
-   - Techniques for *preventing unnecessary document reflows* (“layout thrashing”), [@wilsonpage]()’s [post](http://wilsonpage.co.uk/preventing-layout-thrashing/)
-   - A comprehensive *guide to learning AngularJS*, [@toddmotto]()’s [post](http://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/)
-   - *Semantic HTML*: Don’t abuse HTML elements for show, [@codepo8]()’s [post](http://christianheilmann.com/2013/09/03/homeopathic-html-solutions/)
-   - Cards are becoming the preferred *design pattern on mobile*, [@Padday]()’s [post](http://insideintercom.io/why-cards-are-the-future-of-the-web/)
-   - Examples of *progressive enhancement*: Backbone and CSS transitions, [@webchaeschtli]()’s [post](http://azumbrunnen.me/blog/building-progressively-enhanced-websites-with-bulletproof-backbone/)
- - Media
-   - *Getting started with Yeoman* and its webapp generator, [@addyosmani]()’s 6-min [screencast](http://youtu.be/zBt2g9ekiug) ![][*]
-   - Writing HTML and CSS *more quickly with Emmet*, [@chriscoyier]()’s 21-min [screencast](http://css-tricks.com/video-screencasts/129-emmet-awesome/)
-   - [@edgeconf]() 2013, panel 1: *Responsive images*, 60-min [recording](http://youtu.be/zCDcmit5-fE)
- - Content
-   - The *“Frontend First!” methodology* (full front-end without server side is completed first), [site](http://www.frontendfirst.com/)
-   - *Mozilla Brick, UI components* for modern web apps, [@supersole]()’s 50-page [slide deck](http://soledadpenades.com/files/t/2013ota/)
-   - A set of *easing functions for CSS transitions* (visualization + `cubic-bezier()` code), [site](http://easings.net/)
- - Demos
-   - *Animated checkboxes* (CSS transitions + icon font), [@puneetpugalia]()’s [demo](http://thecodeplayer.com/walkthrough/custom-animated-checkbox-inputs-using-css-iconfonts)
- - Tools
-   - Keypress ![][js], for *capturing keyboard input*, [@dmaurolizer]()’s [page](http://dmauro.github.io/Keypress/) w/ live demos ![][*]
-   - peeler.js ![][js], creates a *“peeler” effect while scrolling*, [@mduvall_]()’s [repo](https://github.com/mduvall/peeler.js)
-   - RulersGuides.js (bookmarklet), adds Photoshop-like *rulers and guides* to a page, [@MarkRolich]()’s [page](http://mark-rolich.github.io/RulersGuides.js/)
 
 
 [*]: /img/star.png "don’t miss"
