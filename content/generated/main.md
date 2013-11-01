@@ -1,3 +1,35 @@
+**Read this:** My Twitter timeline skipped 11 hours yesterday. This is not a negligible issue for this digest as most of its content is based on your tweets. I’ve asked a question about this issue on Stack Exchange [here](http://webapps.stackexchange.com/questions/51385/my-twitter-timeline-has-a-huge-11-hour-period-of-silence-can-i-retrieve-those-t). Your help is appreciated.
+## November 1st, 2013
+
+ - News
+   - The WebView shipped with Android 4.4 *uses Chrome’s rendering engine* and V8, [source](https://twitter.com/ChromiumDev/status/395976798451679233)
+   - EU researchers create prototype for a *server-free future Internet*, [article](http://gigaom.com/2013/10/30/eu-researchers-create-prototype-for-a-server-free-future-internet/)
+ - Info
+   - *NY Times’s stylebook* update: Hyphen removed from “email”, “the web” lowercased, etc., [page](http://afterdeadline.blogs.nytimes.com/2013/10/29/the-latest-style/)
+   - Web Platform APIs *start using Promises* (e.g. Quota Management, ServiceWorker, Streams), [source](https://twitter.com/jaffathecake/status/396098759186063360)
+ - Posts
+   - An explanation of the *web browser’s event loop* and message queue (w/ diagrams), [post](http://blog.carbonfive.com/2013/10/27/the-javascript-event-loop-explained/)
+   - Tools for testing web apps under *poor network conditions* (i.a. Fiddler), [@juristr]()’s [post](http://juristr.com/blog/2013/02/test-your-app-under-slow-network-speeds/)
+   - Screen size is *only one of several factors* in responsive web design, [@lukew]()’s [post](http://www.lukew.com/ff/entry.asp?1816) ![][*]
+   - How Cisco’s H.264 implementation influences the *WebRTC video codec debate*, [@reidstidolph]()’s [post](http://webrtchacks.com/cisco-openh264/)
+ - Media
+   - Altering *the user’s perception of speed* for a better user experience, [@Souders]()’s 15-min [talk](http://vimeo.com/album/2588576/video/77508734) ![][*]
+   - An introduction to *React (Facebook’s UI library)*, [@floydophone]()’s 30-min [talk](http://2013.jsconf.eu/speakers/pete-hunt-react-rethinking-best-practices.html)
+   - *ShopTalk Show* #89: With [@karenmcgrane]() (various topics), 67-min [podcast](http://shoptalkshow.com/episodes/089-karen-mcgrane/)
+ - Content
+   - Mozilla’s CTO *[@BrendanEich]() clarifies info on H.264* on Hacker News, [post1](https://news.ycombinator.com/item?id=6643814) + [post2](https://news.ycombinator.com/item?id=6644967) + [post3](https://news.ycombinator.com/item?id=6648301)
+   - Denying or allowing JavaScript via NoScript *as shown by Lightbeam*, [@taosecurity]()’s [post](http://taosecurity.blogspot.com/2013/10/mozilla-lightbeam-add-on-shows-risk-of.html)
+   - Tools/tips for improving your *mobile web development workflow*, [@addyosmani]()’s 124-page [slide deck](https://speakerdeck.com/addyosmani/mobile-workflow)
+ - Demos
+   - A *WebGL bookcase* (w/ titles from Google Books), [page](http://workshop.chromeexperiments.com/bookcase/) (Chrome Experiment)
+   - *Selecting multiple checkboxes* with a single click (click-and-hold + mouseover), [@o_telho]()’s [demo](http://tympanus.net/Development/MultiElementSelection/)
+   - The *next page transition effect* used on Medium, [@brianmgonzalez]()’s [demo](http://tympanus.net/Tutorials/MediumStylePageTransition/)
+ - Tools
+   - onScreen (jQuery plugin), performs actions to elements *when they enter or leave the viewport*, [page](http://silvestreh.github.io/onScreen/)
+   - OpenHeatMap (online tool), creates *interactive heat maps* from spreadsheets, [site](http://www.openheatmap.com/)
+   - grunt-peon-gui, a web *GUI for running Grunt tasks*, [repo](https://github.com/voceconnect/grunt-peon-gui)
+ - Opinion
+   - Comments on *Cisco, Mozilla, and H.264*: “We lost, and we’re admitting defeat.”, [@xiphmont]()’s [post](http://xiphmont.livejournal.com/61927.html)
 
 
 ## October 31st, 2013
@@ -597,38 +629,6 @@
  - Opinion
    - “Using *bitwise operator constructs* like `~a.indexOf(b)` is a bad practice”, [@rodneyrehm]()’s [post](http://blog.rodneyrehm.de/archives/26-Code-And-Cognitive-Load.html)
    - “The EEF is *wrongly opposing W3C’s EME spec* (DRM) and picking the wrong battle”, [@acdha]()’s [post](http://chris.improbable.org/2013/10/4/dear-eff/)
-
-
-## October 4th, 2013
-
- - News
-   - Guide to *adding accessibility information* to HTML elements, updated [draft](http://www.w3.org/TR/2013/WD-aria-in-html-20131003/) released
-   - Chrome for Android Beta brings *“install web app” capabilities* to Android, [source](https://twitter.com/Paul_Kinlan/status/385813515199864832) ![][*] **WOOHOO!**
-   - Apache Cordova 3.1 released, adds *initial support for Firefox OS*, [@GrieveAndrew]()’s [post](http://cordova.apache.org/blog/releases/2013/10/02/cordova-31.html)
- - Posts
-   - *Working with Polymer*: Creating a custom element that parses Markdown to HTML, [@rob_dodson]()’s [post](http://robdodson.me/blog/2013/10/02/creating-a-markdown-tag-with-polymer/)
-   - Using ECMAScript 6 today: Instructions for *transpilation with grunt-traceur*, [@james_allardice]()’s [post](http://globaldev.co.uk/2013/09/es6-part-1/)
-   - *Easier payments in web apps* with `requestAutoComplete`, [@jaffathecake]()’s [post](http://www.html5rocks.com/en/tutorials/forms/requestautocomplete/) ![][*]
-   - The *Web Performance WG*: Accomplishments and upcoming specifications, [@jatindermann]()’s [post](http://alistapart.com/column/performance-matters)
-   - Usability considerations when designing *checkouts in mobile web apps*, [@jamieappleseed]()’s [post](http://baymard.com/blog/mobile-checkout)
-   - A case for using *“intelligent” CSS attribute selectors* over class selectors, [@heydonworks]()’s [post](http://coding.smashingmagazine.com/2013/08/20/semantic-css-with-intelligent-selectors/)
- - Media
-   - An introduction to *Yeoman sub-generators*, [@addyosmani]()’s 4-min [screencast](http://youtu.be/rYwJ5-esSYE)
-   - [@edgeconf]() 2013, panel 2: *Rendering performance*, 59-min [recording](http://youtu.be/DjcSbvBWSb0)
- - Content
-   - [@wilto]() is prototyping *potential `srcN` polyfills*, [write-up](https://github.com/Wilto/srcn-polyfills) + related test [results](http://wilto.github.io/srcn-polyfills/)
-   - “Secure QR Login”, a proposed *authentication method based on QR codes*, [@GibsonResearch]()’s [page](https://www.grc.com/sqrl/sqrl.htm)
-   - “What’s preventing web apps to *take on native apps*?”, [@BrendanEich]()’s [answer](https://twitter.com/BrendanEich/status/385588459353931777)
-   - “Smart Quotes for Smart People”, a site that encourages the use of *proper punctuation*, [site](http://smartquotesforsmartpeople.com/)
-   - Microsoft’s concept site to show how HTML5 and *touch is moving the web forward*, [page](http://www.exploretouch.ie/behind-the-scenes/)
- - Demos
-   - An animation that shows *how CSS triangles work*, [@chriscoyier]()’s [post](http://css-tricks.com/animation-css-triangles-work/)
-   - *Properly padded text highlighting* with CSS `box-shadow`, [@davatron5000]()’s [demo](http://codepen.io/davatron5000/pen/HGjuv)
- - Tools
-   - Several tools for *simulating slow connections*, [@addyosmani]()’s [tweet](https://twitter.com/addyosmani/status/385804747921301506)
-   - spy-js, an advanced tool for *tracing JavaScript execution*, [@ArtemGovorov]()’s [site](http://spy-js.com/)
- - Opinion
-   - “Lowering your standards: *DRM and the future of the W3C*”, [@mala]()’s [post](https://www.eff.org/deeplinks/2013/10/lowering-your-standards)
 
 
 [*]: /img/star.png "don’t miss"

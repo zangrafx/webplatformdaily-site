@@ -1,3 +1,36 @@
+## November 1st, 2013
+
+ - News
+   - The WebView shipped with Android 4.4 *uses Chrome’s rendering engine* and V8, [source](https://twitter.com/ChromiumDev/status/395976798451679233)
+   - EU researchers create prototype for a *server-free future Internet*, [article](http://gigaom.com/2013/10/30/eu-researchers-create-prototype-for-a-server-free-future-internet/)
+ - Info
+   - *NY Times’s stylebook* update: Hyphen removed from “email”, “the web” lowercased, etc., [page](http://afterdeadline.blogs.nytimes.com/2013/10/29/the-latest-style/)
+   - Web Platform APIs *start using Promises* (e.g. Quota Management, ServiceWorker, Streams), [source](https://twitter.com/jaffathecake/status/396098759186063360)
+ - Posts
+   - An explanation of the *web browser’s event loop* and message queue (w/ diagrams), [post](http://blog.carbonfive.com/2013/10/27/the-javascript-event-loop-explained/)
+   - Tools for testing web apps under *poor network conditions* (i.a. Fiddler), [@juristr]()’s [post](http://juristr.com/blog/2013/02/test-your-app-under-slow-network-speeds/)
+   - Screen size is *only one of several factors* in responsive web design, [@lukew]()’s [post](http://www.lukew.com/ff/entry.asp?1816) ![][*]
+   - How Cisco’s H.264 implementation influences the *WebRTC video codec debate*, [@reidstidolph]()’s [post](http://webrtchacks.com/cisco-openh264/)
+ - Media
+   - Altering *the user’s perception of speed* for a better user experience, [@Souders]()’s 15-min [talk](http://vimeo.com/album/2588576/video/77508734) ![][*]
+   - An introduction to *React (Facebook’s UI library)*, [@floydophone]()’s 30-min [talk](http://2013.jsconf.eu/speakers/pete-hunt-react-rethinking-best-practices.html)
+   - *ShopTalk Show* #89: With [@karenmcgrane]() (various topics), 67-min [podcast](http://shoptalkshow.com/episodes/089-karen-mcgrane/)
+ - Content
+   - Mozilla’s CTO *[@BrendanEich]() clarifies info on H.264* on Hacker News, [post1](https://news.ycombinator.com/item?id=6643814) + [post2](https://news.ycombinator.com/item?id=6644967) + [post3](https://news.ycombinator.com/item?id=6648301)
+   - Denying or allowing JavaScript via NoScript *as shown by Lightbeam*, [@taosecurity]()’s [post](http://taosecurity.blogspot.com/2013/10/mozilla-lightbeam-add-on-shows-risk-of.html)
+   - Tools/tips for improving your *mobile web development workflow*, [@addyosmani]()’s 124-page [slide deck](https://speakerdeck.com/addyosmani/mobile-workflow)
+ - Demos
+   - A *WebGL bookcase* (w/ titles from Google Books), [page](http://workshop.chromeexperiments.com/bookcase/) (Chrome Experiment)
+   - *Selecting multiple checkboxes* with a single click (click-and-hold + mouseover), [@o_telho]()’s [demo](http://tympanus.net/Development/MultiElementSelection/)
+   - The *next page transition effect* used on Medium, [@brianmgonzalez]()’s [demo](http://tympanus.net/Tutorials/MediumStylePageTransition/)
+ - Tools
+   - onScreen (jQuery plugin), performs actions to elements *when they enter or leave the viewport*, [page](http://silvestreh.github.io/onScreen/)
+   - OpenHeatMap (online tool), creates *interactive heat maps* from spreadsheets, [site](http://www.openheatmap.com/)
+   - grunt-peon-gui, a web *GUI for running Grunt tasks*, [repo](https://github.com/voceconnect/grunt-peon-gui)
+ - Opinion
+   - Comments on *Cisco, Mozilla, and H.264*: “We lost, and we’re admitting defeat.”, [@xiphmont]()’s [post](http://xiphmont.livejournal.com/61927.html)
+
+
 ## October 31st, 2013
 
  - News
