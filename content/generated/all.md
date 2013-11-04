@@ -1,3 +1,34 @@
+## November 4th, 2013
+
+ - News
+   - Mozilla exec: “Firefox OS is because *we want the web to win*”, [article](http://www.zdnet.com/firefox-os-is-because-we-want-the-web-to-win-not-because-we-want-firefox-os-to-win-7000022628/) (ZDNet)
+   - Open for submissions: The Paciello Group *Web Accessibility Challenge*, [page](http://www.w4a.info/2014/submissions/challenge/)
+   - Expert panel at Apps World Europe: *HTML5 not ready* for enterprise, [article](http://www.appstechnews.com/news/2013/oct/23/html5-enterprise-confusion-biggest-barrier-appsworld/) 
+   - Google *expands malware blocking* in Chrome Canary (more assertive alerts), [article](http://www.computerworld.com/s/article/9243768/_Canary_Chrome_chirps_when_it_smells_malware)
+   - Latest *web browser stats*: Internet Explorer continues to grow, [article](http://arstechnica.com/information-technology/2013/11/internet-explorer-continues-to-grow-and-mavericks-already-on-11-percent-of-macs/) (Ars Technica)
+ - Posts
+   - An in-depth tutorial to *building a complete Chrome app* with AngularJS, [@ngnewsletter]()’s [post](http://www.ng-newsletter.com/posts/chrome-apps-on-angular.html)
+   - The *state of MathML* on the web: Browser support, polyfills (w/ inline demos), future, [@pkrautz]()’s [post](http://programming.oreilly.com/2013/11/mathml-forges-on.html)
+   - A single-column approach for *responsive HTML emails*, [@tinabeans]()’s [post](http://blog.fogcreek.com/responsive-html-emails-a-different-strategy/) + boilerplate [template](https://gist.github.com/tinabeans/6996367)
+   - How NPM led to the *proliferation of JavaScript modules* + state on the client-side, [@airportyh]()’s [post](http://tobyho.com/2013/10/20/smalljs/) ![][*]
+   - A first look at the *`luminosity` media query feature*, [@jordanmoore]()’s [post](http://www.jordanm.co.uk/post/65776639602/responding-to-environmental-lighting-with-css-media)
+ - Media
+   - “HTML.future - *what the web needs next*”, [@brucel]()’s 47-min [talk](http://vimeopro.com/fronteers/13/video/77953783) + 99-page [slide deck](http://people.opera.com/brucel/talks/2013/fronteers/) ![][*]
+   - JavaScript Jabber #82: *JSHint with [@valueof]()* (w/ comparison to JSLint), 42-min [podcast](http://javascriptjabber.com/082-jsj-jshint-with-anton-kovalyov/)
+ - Content
+   - ExpressWorks, an automated *Express.js/Node.js workshop*, [@azat_co]()’s [page](http://webapplog.com/expressworks/)
+   - Technique: *Forcing a CSS reflow* by reading e.g. `.offsetWidth`, [question](http://stackoverflow.com/q/9016307/425275) on Stack Overflow
+   - A quick overview of 12 *modern CSS features* (w/ inline demos), [@Tutorialzine]()’s [post](http://tutorialzine.com/2013/10/12-awesome-css3-features-you-can-finally-use/)
+ - Demos
+   - 3 alternative approaches (w/ inline demos) to [@joe_harrison]()’s *“Responsive icons” concept*, [post](http://gasteroprod.com/blog/responsive-icons-with-svg)
+   - “NSA files decoded”, [@guardian]()’s *interactive multimedia feature*, [page](http://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded) ![][*]
+   - A 3D responsive *Venetian blind transition* in pure CSS, [@dudleystorey]()’s [demo](http://codepen.io/dudleystorey/details/HrFBx)
+ - Tools
+   - Typesetwith.me, an online *tool for testing typography* and text legibility issues, [@fourkitchens]()’s [site](http://typesetwith.me/)
+   - generatedata.com, a *random HTML/JSON data* generator, [@vancouverben]()’s [site](http://www.generatedata.com/#)
+
+
+
 ## November 1st, 2013
 
  - News
