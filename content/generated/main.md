@@ -1,4 +1,35 @@
 
+## November 5th, 2013
+
+ - News
+   - Google finally tightens *access to saved passwords* in Chrome, [article](http://www.engadget.com/2013/11/04/google-security-saved-passwords-chrome-mac/) (Engadget)
+   - *Canvas blend modes* reach wide browser support (all main browsers except IE), [@rcabanier]()’s [post](http://blogs.adobe.com/webplatform/2013/11/01/canvas-blending-availability/) ![][*]
+   - *Firefox OS phones* spread into Mexico, Uruguay, and Peru, [article](http://venturebeat.com/2013/11/02/firefox-os-phones-spread-into-mexico-uruguay-and-peru/) (VB)
+   - Electronic Frontier Foundation ([@EFF]()) joins *Web Crypto Working Group*, [source](https://twitter.com/poulpita/status/397424562167496704)
+ - Posts
+   - The updated definitions of the *`<blockquote>` and `<cite>` elements*, [@stevefaulkner]()’s [post](http://html5doctor.com/cite-and-blockquote-reloaded/) ![][*]
+   - “The adoption of *web performance best practices* is inconsistent and fairly weak”, [@jonathanklein]()’s [post](http://www.jonathanklein.net/2013/11/we-have-long-way-to-go.html)
+   - An extensive *case-by-case introduction* to Node.js, [@tomislavcapan]()’s [post](http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js)
+ - Media
+   - *Achieving fast rendering* and smooth animation in the browser, [@jaffathecake]()’s 44-min [talk](http://youtu.be/cmZqLzPy0XE) ![][*]
+ - Content
+   - *Interview with [@getify]()* (about HTML5, Firefox OS, Promises, JavaScript, Node.js), [page](http://tech.pro/blog/1674/an-interview-with-javascript-legend-kyle-simpson)
+   - Usage guide: When to use which *CSS length units*, [@dudleystorey]()’s [page](http://demosthenes.info/blog/775/Which-CSS-Measurements-To-Use-When)
+   - “What's the *selling point of Bower*? Does it offer anything that npm doesn’t?”, [discussion](https://twitter.com/cjno/status/397410328843415552) on Twitter
+   - Idea: Stop putting a *`.min` suffix*; instead put a label  (e.g. `.src`) on the original file, [discussion](https://twitter.com/WebReflection/status/396755462508408832) on Twitter
+ - Demos
+   - Several *examples of non-rectangular layouts* with CSS Shapes and Exclusions, [@SaraSoueidan]()’s [post](http://sarasoueidan.com/blog/css-shapes/index.html)
+   - *Tinting background images* via transparent color in CSS multiple backgrounds, [@chriscoyier]()’s [post](http://css-tricks.com/tinted-images-multiple-backgrounds/)
+   - Z-Type, an *HTML5 typing game* (made with the IMPACT game engine), [@phoboslab]()’s [page](http://phoboslab.org/ztype/)
+ - Tools
+   - We Love Icon Fonts, an *icon fonts hosting service* (like Google Web Fonts), [@TimPietrusky]()’s [site](http://weloveiconfonts.com/)
+   - ESLint (alpha) ![][no], a fully-pluggable *JavaScript code quality tool*, [@slicknet]()’s [post](http://www.nczonline.net/blog/2013/11/04/now-available-eslint-v0-1-0/) + [repo](https://github.com/nzakas/eslint)
+   - WebGLImageFilter ![][js], *applies filters to images* (via WebGL Shaders), [@phoboslab]()’s [post](http://phoboslab.org/log/2013/11/fast-image-filters-with-webgl) w/ live demo
+ - Opinion
+   - TokBox: “*H.264 as the sole mandatory video codec* for WebRTC is the wrong strategy”, [@iansmall]()’s [post](http://www.tokbox.com/blog/is-webrtc-ready-for-h-264/)
+   - “We’re *about to lose net neutrality* — and the Internet as we know it”, [@ammori]()’s [post](http://www.wired.com/opinion/2013/11/so-the-internets-about-to-lose-its-net-neutrality/)
+
+
 ## November 4th, 2013
 
  - News
@@ -592,40 +623,6 @@
    - opentype.js ![][js], a *JavaScript font parser* (TrueType and OpenType), [repo](https://github.com/nodebox/opentype.js)
  - Opinion
    - “*The W3C does not decide* what goes into the Web Platform. Implementers do.”, [@DavidBruant]()’s [post](http://longtermlaziness.wordpress.com/2013/10/08/the-w3c-is-a-restaurant/)
-
-
-## October 8th, 2013
-
- - News
-   - *Alliance for Affordable Internet* launched, [@dillonmann]()’s [post](http://www.webfoundation.org/2013/10/alliance-for-affordable-internet-launched/)
-   - Statement on the *future of Internet cooperation* issued, [post](http://www.w3.org/blog/news/archives/3298) at W3C
- - UA dev.
-   - Intent to implement: Promises in V8, [link](https://groups.google.com/d/msg/v8-users/A2ODAZ6kKaE/TLDgLuRgSuAJ) + *Constructable URL objects* in Blink, [link](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/dg2jhlDP86o/HNVdw0B9OFsJ)
- - Info
-   - Quarterly *browser stats* (for Q3) according to StatCounter, [@ppk]()’s [post](http://www.quirksmode.org/blog/archives/2013/10/q3_browser_stat.html)
-   - What’s new in *Chrome 30* (several new APIs in Chrome for Android), [@craigbuckler]()’s [post](http://www.sitepoint.com/whats-new-chrome-30/)
- - Posts
-   - *Lesser-known DOM APIs*: `insertAdjacentHTML()`, `getBoundingClientRect()`, [@ImpressiveWebs]()’s [post](http://coding.smashingmagazine.com/2013/10/06/inside-the-box-with-vanilla-javascript/)
-   - The two UI layers: Using Node.js for the *back-end UI layer*, [@slicknet]()’s [post](http://www.nczonline.net/blog/2013/10/07/node-js-and-the-new-web-front-end/)
-   - *Flexbox layout rendering performance* (tested in Chrome), [@paul_irish]()’s [post](http://updates.html5rocks.com/2013/10/Flexbox-layout-isn-t-slow)
-   - The *extensible web manifesto* explained (+ how to get involved), [@domenic]()’s [post](http://domenic.me/2013/10/07/the-extensible-web/) ![][*]
-   - Creating an extension for the *Brackets code editor* with JavaScript, [@artoale]()’s [post](http://artoale.com/tutorial/brackets/2013/09/30/writing-brackets-extension-01/)
-   - *Using the `getUserMedia` API* with the HTML5 `<video>` and `<canvas>` elements, [@iandevlin]()’s [post](http://html5hub.com/using-the-getusermedia-api-with-the-html5-video-and-canvas-elements/)
- - Media
-   - *Two-way bindings*: Comparison in MV* frameworks, [@GundersenMarius]()’s 19-min [talk](http://youtu.be/mVjpwia1YN4)
-   - Web Payload #1: *Responsive navigation patterns* w/ [@brad_frost](), 29-min [podcast](http://www.webpayload.com/podcast/1-brad-frost)
-   - *UTF-8 explained* in 9 minutes (+ how Unicode came about), [@tomscott]()’s [clip](http://youtu.be/MijmeoH9LT4) ![][*]
- - Content
-   - “*How should Mozilla position itself* on the general question of DRM?”, session [notes](https://wiki.mozilla.org/Summit2013/Sessions/DRM_WTF) from #MozSummit
-   - *Blink Developers Summit*: Video recordings + slides for main sessions, [@paul_irish]()’s [message](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/KsJCjyWwVkU/CdaO2W6NaIkJ)
-   - Is an *XHTML 1.0 Transitional doctype* still needed for HTML e-mails?, [discussion](https://twitter.com/chriscoyier/status/387293081394888704) on Twitter
-   - WebKit continues to use its *`-webkit-` vendor prefix* (for `-webkit-alt`), [source](https://twitter.com/miketaylr/status/386910551453863936)
- - Demos
-   - Turning a plain rectangular element into a *trapezoid with a few lines of CSS* (e.g. for tabs), [demo](http://dabblet.com/gist/6867917)
-   - “Navicon Transformicons”, *menu icons that transform* when clicked, [@bennettfeely]()’s [demo](http://codepen.io/bennettfeely/pen/twbyA)
- - Tools
-   - DOM4 ![][js], a fully tested polyfill for the *new DOM Element methods*, [@WebReflection]()’s [repo](https://github.com/WebReflection/dom4)
-   - Prerender ![][no], *converts JavaScript-rendered pages* to static HTML on the fly (for crawlers), [site](http://prerender.io/)
 
 
 [*]: /img/star.png "don’t miss"

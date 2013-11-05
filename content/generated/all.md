@@ -1,3 +1,34 @@
+## November 5th, 2013
+
+ - News
+   - Google finally tightens *access to saved passwords* in Chrome, [article](http://www.engadget.com/2013/11/04/google-security-saved-passwords-chrome-mac/) (Engadget)
+   - *Canvas blend modes* reach wide browser support (all main browsers except IE), [@rcabanier]()’s [post](http://blogs.adobe.com/webplatform/2013/11/01/canvas-blending-availability/) ![][*]
+   - *Firefox OS phones* spread into Mexico, Uruguay, and Peru, [article](http://venturebeat.com/2013/11/02/firefox-os-phones-spread-into-mexico-uruguay-and-peru/) (VB)
+   - Electronic Frontier Foundation ([@EFF]()) joins *Web Crypto Working Group*, [source](https://twitter.com/poulpita/status/397424562167496704)
+ - Posts
+   - The updated definitions of the *`<blockquote>` and `<cite>` elements*, [@stevefaulkner]()’s [post](http://html5doctor.com/cite-and-blockquote-reloaded/) ![][*]
+   - “The adoption of *web performance best practices* is inconsistent and fairly weak”, [@jonathanklein]()’s [post](http://www.jonathanklein.net/2013/11/we-have-long-way-to-go.html)
+   - An extensive *case-by-case introduction* to Node.js, [@tomislavcapan]()’s [post](http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js)
+ - Media
+   - *Achieving fast rendering* and smooth animation in the browser, [@jaffathecake]()’s 44-min [talk](http://youtu.be/cmZqLzPy0XE) ![][*]
+ - Content
+   - *Interview with [@getify]()* (about HTML5, Firefox OS, Promises, JavaScript, Node.js), [page](http://tech.pro/blog/1674/an-interview-with-javascript-legend-kyle-simpson)
+   - Usage guide: When to use which *CSS length units*, [@dudleystorey]()’s [page](http://demosthenes.info/blog/775/Which-CSS-Measurements-To-Use-When)
+   - “What's the *selling point of Bower*? Does it offer anything that npm doesn’t?”, [discussion](https://twitter.com/cjno/status/397410328843415552) on Twitter
+   - Idea: Stop putting a *`.min` suffix*; instead put a label  (e.g. `.src`) on the original file, [discussion](https://twitter.com/WebReflection/status/396755462508408832) on Twitter
+ - Demos
+   - Several *examples of non-rectangular layouts* with CSS Shapes and Exclusions, [@SaraSoueidan]()’s [post](http://sarasoueidan.com/blog/css-shapes/index.html)
+   - *Tinting background images* via transparent color in CSS multiple backgrounds, [@chriscoyier]()’s [post](http://css-tricks.com/tinted-images-multiple-backgrounds/)
+   - Z-Type, an *HTML5 typing game* (made with the IMPACT game engine), [@phoboslab]()’s [page](http://phoboslab.org/ztype/)
+ - Tools
+   - We Love Icon Fonts, an *icon fonts hosting service* (like Google Web Fonts), [@TimPietrusky]()’s [site](http://weloveiconfonts.com/)
+   - ESLint (alpha) ![][no], a fully-pluggable *JavaScript code quality tool*, [@slicknet]()’s [post](http://www.nczonline.net/blog/2013/11/04/now-available-eslint-v0-1-0/) + [repo](https://github.com/nzakas/eslint)
+   - WebGLImageFilter ![][js], *applies filters to images* (via WebGL Shaders), [@phoboslab]()’s [post](http://phoboslab.org/log/2013/11/fast-image-filters-with-webgl) w/ live demo
+ - Opinion
+   - TokBox: “*H.264 as the sole mandatory video codec* for WebRTC is the wrong strategy”, [@iansmall]()’s [post](http://www.tokbox.com/blog/is-webrtc-ready-for-h-264/)
+   - “We’re *about to lose net neutrality* — and the Internet as we know it”, [@ammori]()’s [post](http://www.wired.com/opinion/2013/11/so-the-internets-about-to-lose-its-net-neutrality/)
+
+
 ## November 4th, 2013
 
  - News
