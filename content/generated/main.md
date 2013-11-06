@@ -1,3 +1,35 @@
+	
+## November 6th, 2013
+
+ - News
+   - *Google drops IE9 support* in Google Apps less than three weeks after IE11’s release, [article](http://thenextweb.com/google/2013/11/05/google-drops-internet-explorer-9-support-google-apps-less-three-weeks-ie11s-release/) (TNW)
+   - *South Korea stuck with Internet Explorer* for online shopping because of security law, [article](http://www.washingtonpost.com/world/asia_pacific/due-to-security-law-south-korea-is-stuck-with-internet-explorer-for-online-shopping/2013/11/03/ffd2528a-3eff-11e3-b028-de922d7a3f47_story.html)
+   - “*Hardware vendors are to blame* for not updating older browsers to properly leverage HTML5”, [article](http://www.infoworld.com/t/html5/mobile-browsers-lag-so-mobile-html5-apps-suffer-230085)
+ - Info
+   - You can now see your *PageSpeed scores & suggestions* directly in Google Analytics, [@igrigorik]()’s [post](https://plus.google.com/+IlyaGrigorik/posts/bi5rJBKuhZZ)
+   - The “Jank Free” site (a hub for *rendering performance resources*) has been redesigned, [site](http://jankfree.org/)
+ - Posts
+   - What Android’s new *Chromium-based browser & WebView* means for web developers, [@firt]()’s [post](http://www.mobilexweb.com/blog/android-4-4-kitkat-browser-chrome-webview)
+   - *Opera’s Web Technology team*: [@foolip]() on his first month of contributing to Blink, [post](http://blog.foolip.org/2013/10/31/one-month-in-blink/)
+   - *Avoiding the 300ms click delay* on touch devices by disabling double-tap zoom, [@RickByers]()’s [post](https://plus.google.com/+RickByers/posts/ej7nsuoaaDa)
+   - Introducing the “*Offline First Application Design*” research project, [@espylaub]()’s [post](http://blog.hood.ie/2013/11/say-hello-to-offline-first/) ![][*]
+   - Possible solutions for *detecting what kind of screen* a web app is rendered on, [@ppk]()’s [post](http://www.quirksmode.org/blog/archives/2013/11/of_viewports_an.html)
+ - Media
+   - *ShopTalk Show* #90: With [@pamelafox]() (from Khan Academy), 65-min [podcast](http://shoptalkshow.com/episodes/090-pamela-fox/)
+ - Content
+   - Arguments for using *Brackets as your main code editor* for web development, [@mcorlan]()’s [post](http://corlan.org/2013/11/05/brackets-sprint-33-is-out/)
+   - Reference: Horizontally *centering content with CSS* (7 methods), [@dudleystorey]()’s [post](http://demosthenes.info/blog/723/Seven-Ways-of-Centering-With-CSS)
+   - Survey: When *loading web fonts takes longer*, what behavior provides best UX?, [@paul_irish]()’s [post](https://plus.google.com/u/0/+PaulIrish/posts/MeoUmZxNRZB)
+   - Research report: How can *HTML5 compete with native*?, [@visionmobile]()’s 52-page [slide deck](http://www.slideshare.net/andreasc/how-can-html-compete-with-native) ![][*]
+   - [@MozWebCompat]()’s survey: What are the *legitimate uses of User Agent detection*?, [page](https://etherpad.mozilla.org/uadetection-usecases)
+   - Technique: Using a Google Docs *spreadsheet as a JSON backend*, [@JonathanHu]()’s [post](http://www.nextofwindows.com/how-to-use-google-doc-spreadsheet-serve-json-from-excel-spreadsheet/)
+ - Demos
+   - *Responsive tabs* (+ compatible with URLs that link to specific tabs via #hash), [@chriscoyier]()’s [post](http://css-tricks.com/transformer-tabs/)
+   - *Fabric.js demo: SVG caching* (serializing complex shapes into images), [@kangax]()’s [demo](http://fabricjs.com/svg-caching/)
+ - Tools
+   - Twitter RECESS ![][no], a *code quality tool for CSS* (built on top of LESS), [page](http://twitter.github.io/recess/)
+   - Snazzy Maps, a repository of different *color schemes for Google Maps*, [site](http://snazzymaps.com)
+
 
 ## November 5th, 2013
 
@@ -592,37 +624,6 @@
  - Tools
    - Conzole ![][js], an *on-page debug panel* that wraps native `console` methods, [@pantaa]()’s [page](http://oaxoa.github.io/Conzole/) w/ demo
    - Ideal Forms 3 ![][js], a framework for building and validating *responsive HTML5 forms*, [repo](https://github.com/elclanrs/jq-idealforms) + [demo](http://192.241.132.92/idealforms3-demo/)
-
-
-## October 9th, 2013
-
- - News
-   - ECMA publishes the *standard for JSON syntax* (as ECMA-404), [source](https://twitter.com/awbjs/status/387669699116290048)
-   - “The only way in which we can decisively put a stop to DRM is by *changing the legal system*”, [link](http://www.w3.org/community/web-copyright/)
-   - Groupon switches from Ruby on Rails to Node.js, *response times improve* dramatically, [post](https://engineering.groupon.com/2013/node-js/geekon-i-tier/)
- - UA dev.
-   - Mozilla’s MemShrink project: Great *improvements in Firefox’s memory usage*, [@khuey_]()’s [post](http://aosabook.org/en/posa/memshrink.html)
- - Posts
-   - Jank-free *rendering performance* (50-min talk + summary notes), [@addyosmani]()’s [post](http://addyosmani.com/blog/making-a-site-jank-free/) ![][*]
-   - With asm.js the browser becomes a feasible platform for *HTML5 game development*, [@fhd]()’s [post](http://ubercode.de/blog/why-asm-js-is-a-big-deal-for-game-developers)
-   - State of *audio format support* in web browsers (Spoiler: MP3 + OGG), [@VaughnRoyko]()’s [post](http://html5hub.com/so-do-we-have-a-cross-browser-audio-format-yet/)
-   - *Installable web apps* on Android: Configuration, behavior, comparison to iOS, [@firt]()’s [post](http://www.mobilexweb.com/blog/home-screen-web-apps-android-chrome-31)
-   - *Getting started with Yeoman*: Installation, directory structure, overview, [@marcofolio]()’s [post](http://www.marcofolio.net/webdesign/put_your_html_development_on_steroids_using_yeoman.html)
-   - Performing search/sort operations on arrays with the *`.reduce()` Array method*, [@ariyahidayat]()’s [post](http://ariya.ofilabs.com/2013/10/searching-using-array-prototype-reduce.html)
- - Media
-   - *Promises/A+* (what they are and how they came about), [@domenic]()’s 31-min [talk](http://youtu.be/V2Q13hzTGmA) + [slide deck](http://www.slideshare.net/domenicdenicola/boom-promisesa-was-born) ![][*]
- - Content
-   - mustache-security, a wiki dedicated to *JavaScript MVC security pitfalls*, [page](http://code.google.com/p/mustache-security/)
-   - “CSS Selectors” *browser support tables* updated on QuirksMode, [desktop](http://www.quirksmode.org/css/selectors/) + [mobile](http://www.quirksmode.org/css/selectors/mobile.html)
- - Demos
-   - The Flash game “Candy Crush” *running in Shumway* (Mozilla’s Flash VM/runtime), [video](https://vimeo.com/74324610) demo
-   - A collection of 20+ CSS-based *calendar designs*, [@chriscoyier]()’s [collection](http://codepen.io/collection/wvhHK) on  CodePen
- - Tools
-   - Fixed-Sticky ![][js], [@filamentgroup]()’s CSS *`position: sticky` polyfill*, [repo](https://github.com/filamentgroup/fixed-sticky) + [demo](http://filamentgroup.github.com/fixed-sticky/demo.html)
-   - Overthrow ![][js], [@filamentgroup]()’s CSS *`overflow: auto` polyfill* for use in responsive design, [repo](https://github.com/filamentgroup/Overthrow)
-   - opentype.js ![][js], a *JavaScript font parser* (TrueType and OpenType), [repo](https://github.com/nodebox/opentype.js)
- - Opinion
-   - “*The W3C does not decide* what goes into the Web Platform. Implementers do.”, [@DavidBruant]()’s [post](http://longtermlaziness.wordpress.com/2013/10/08/the-w3c-is-a-restaurant/)
 
 
 [*]: /img/star.png "don’t miss"
