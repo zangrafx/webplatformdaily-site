@@ -1,4 +1,34 @@
-	
+
+## November 7th, 2013
+
+ - News
+   - Mozilla, OTOY and Autodesk work to deliver *high performance games & applications* on the web, [post](https://blog.mozilla.org/blog/2013/11/05/mozilla-otoy-and-autodesk-work-to-deliver-high-performance-games-and-applications-on-the-web/)
+   - Los Angeles planning to bring *free, fiber-based Internet* to its 3.5 million residents, [article](http://www.theverge.com/2013/11/5/5070520/los-angeles-planning-to-bring-free-fiber-based-internet-to-its-residents) (Verge)
+   - Google’s *Octane JavaScript benchmark* updated; includes new focus on reducing latency, [post](http://blog.chromium.org/2013/11/announcing-octane-20.html)
+ - Info
+   - “*`+new Date()`* can create excess garbage in some browsers”, [discussion](https://twitter.com/elijahmanor/status/398091419514327040) on Twitter
+   - Some diff’s between the *W3C and WHATWG HTML specs* (e.g. limit on `<main>`), [discussion](https://twitter.com/stevefaulkner/status/398026711700230144) on Twitter
+   - Icon fonts (that use the private-use codepoints) can trigger *compatibility mode in IE8*, [@adactio]()’s [post](http://adactio.com/journal/6555/)
+ - Posts
+   - Responsive images: How *the `src-N` proposal* handles variable-sized images, [@tabatkins]()’s [post](http://www.xanthir.com/b4Su0)
+   - Making the *“sticky footer” Flexbox pattern* work in IE10 (with the help of Modernizr), [@ThatEmil]()’s [post](http://thatemil.com/blog/2013/11/03/sticky-footers-flexbox-and-ie10/)
+   - [@beep]()’s quick follow up on the *“Offline first” application design* approach, [post](http://unstoppablerobotninja.com/entry/offline-first/)
+ - Media
+   - “The very near future of a *richer, standards based web*”, [@codepo8]()’s 37-min [talk](http://christianheilmann.com/2013/11/06/oredev-2013-the-very-near-future-of-a-richer-standards-based-web/)
+ - Content
+   - [@ppk]()’s research on the *`orientationchange` and `resize` events* on mobile, [post](http://www.quirksmode.org/blog/archives/2013/11/orientationchan.html)
+   - Some of the upcoming features in the *Firefox Developer Tools*, Paul Rouget’s [post](https://hacks.mozilla.org/2013/11/firefox-developer-tools-episode-27-edit-as-html-codemirror-more/) ![][*]
+   - Infographic: The current *WebRTC video codec debate*, [@victorpascual]()’s [page](http://webrtchacks.com/infographic-webrtc-mandatory-implement-video-codec-nutshell/)
+ - Demos
+   - *Animated SVG icons* with Snap.svg, [@crnacura]()’s [post](http://tympanus.net/codrops/2013/11/05/animated-svg-icons-with-snap-svg/) + demo [page](http://tympanus.net/Development/AnimatedSVGIcons/) ![][*]
+   - A *responsive off-canvas layout* with Bootstrap 3, [@burkeholland]()’s [post](http://www.kendoui.com/blogs/teamblog/posts/13-11-05/creating-a-rwd-off-canvas-layout-with-bootstrap-3.aspx) + [demo](http://jsbin.com/AviNUxA/2/edit)
+   - Impressive *transition effects for off-canvas* views, [@crnacura]()’s [post](http://tympanus.net/codrops/2013/08/28/transitions-for-off-canvas-navigations/) + demo [page](http://tympanus.net/Development/SidebarTransitions/)
+ - Tools
+   - Social Sharing, CSS-only *social sharing links & buttons* without the HTTP bloat, [@ChrisFerdinandi]()’s [page](http://cferdinandi.github.io/social-sharing/)
+   - Cabin, an *extensible static site generator* powered by Grunt, [site](http://www.cabinjs.com/) + [@ChrisAWren]()’s [post](http://chrisawren.com/posts/Intro-to-Grunt-via-the-Cabin-static-site-generator)
+   - EasyOpenData, an web tool for *creating Open Data feeds* from Google spreadsheets, [@craig552uk]()’s [site](http://app.easyopendata.com/)
+
+
 ## November 6th, 2013
 
  - News
@@ -594,37 +624,6 @@
  - Tools
    - Datauri, an online tool for *converting image files to data URIs* (Base64-encoded), [site](http://daturi.me/)
    - HTML5 Gamepad Tester, *displays info about gamepads* connected to your computer, [site](http://html5gamepad.com/)
-
-## October 10th, 2013
-
- - News
-   - Director of W3C [@timberners_lee]() on encrypted video *(DRM) and the open Web*, [post](http://www.w3.org/blog/2013/10/on-encrypted-video-and-the-open-web/) on W3C
-   - *2nd round of Firefox OS* launches to start soon: Brazil, Germany, Hungary, Serbia, Montenegro, [post](https://blog.mozilla.org/blog/2013/10/09/mozilla-and-partners-to-kick-off-second-round-of-firefox-os-launches/)
- - Info
-   - *Canvas blend modes* support: Firefox, Chrome and iOS 7 Safari, [demo](http://codepen.io/adobe/pen/nmfic) for testing it out
-   - *Firefox OS 1.1 update* brings new features, performance improvements, …, [post](https://blog.mozilla.org/futurereleases/2013/10/09/firefox-os-update-1-1-adds-new-features-performance-improvements-and-additional-language-support/)
- - Posts
-   - The many *meanings of “open”* (open standards, open source, net neutrality, …), [@timberners_lee]()’s [post](http://blog.digital.telefonica.com/2013/10/09/tim-berners-lee-telefonica-open-agenda/)
-   - Reseting styles with *CSS `all: unset`* (supported in Firefox Nightly), [@heycam]()’s [post](http://mcc.id.au/blog/2013/10/all-unset) ![][*]
-   - Awesome *new Mozilla projects*: Shumway, Appmaker, Brick, TogetherJS, [@davidwalshblog]()’s [post](http://davidwalsh.name/mozilla-technologies)
-   - *Web Notifications*: Basic usage, browser support, perceived problems, [@inserthtml]()’s [post](http://www.inserthtml.com/2013/10/notification-api/)
-   - Simple *example of using ES6 Proxies*: Implementing negative array indexes, [@GNUmanth]()’s [post](http://h3manth.com/new/blog/2013/negative-array-index-in-javascript/)
-   - *HTML5 game development*: Understanding device limitations and benchmarking, [@davrous]()’s [post](http://www.noupe.com/webdev/html5-gaming-benchmarking-sprites-to-target-all-browsers-79403.html)
- - Media
-   - An early look at *Mozilla Appmaker* (WYSIWYG tool for creating mobile web apps), 3-min [screencast](http://youtu.be/RaRIdLgZTPI)
-   - Comparing *AngularJS directives* and *Polymer elements*, [@ebidel]()’s 10-min [screencast](http://youtu.be/p1NpZ-0Op0w)
- - Content
-   - Explanation: In CSS, *animating `translateX` preforms better* than animating `left`, [@grorgwork]()’s [gist](https://gist.github.com/grorg/6732841) ![][*]
-   - NodeOS, a hacker-friendly *operating system written in Node.js* (on top of the Linux kernel), [site](http://nodeos.github.io/)
-   - “Are there any plans to *add WebRTC support to IE*?”, [@jacobrossi]()’s (PM for IE) [response](https://twitter.com/BrianDiPalma1/status/387983270794653696)
- - Demos
-   - An HTML5 remake of the original *Super Mario Bros*, [@jkosoy]()’s [post](http://creativejs.com/2013/10/full-screen-mario/)
- - Sites
-   - csste.st, a collection of *techniques and tools for CSS testing*, [@thingsinjars]()’s [site](http://csste.st/)
- - Tools
-   - Conzole ![][js], an *on-page debug panel* that wraps native `console` methods, [@pantaa]()’s [page](http://oaxoa.github.io/Conzole/) w/ demo
-   - Ideal Forms 3 ![][js], a framework for building and validating *responsive HTML5 forms*, [repo](https://github.com/elclanrs/jq-idealforms) + [demo](http://192.241.132.92/idealforms3-demo/)
-
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"
