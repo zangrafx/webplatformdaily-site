@@ -1,4 +1,34 @@
 
+## November 8th, 2013
+
+ - News
+   - Tim Berners-Lee: *Encryption cracking by spy agencies* ‘appalling and foolish’, [article](http://www.theguardian.com/world/2013/nov/06/tim-berners-lee-encryption-spy-agencies) (Guardian)
+   - *Internet Explorer 11 for Windows 7* released + automatic updates initiated, [post](http://blogs.msdn.com/b/ie/archive/2013/11/07/ie11-for-windows-7-globally-available-for-consumers-and-businesses.aspx) (IEBlog)
+   - *Eric Schmidt joins the new advisory board* at cloud rendering company OTOY, [article](http://techcrunch.com/2013/11/04/eric-schmidt-joins-otoy/) (TechCrunch)
+   - Amazon signs up for Mozilla & OTOY’s *‘future of streaming’ ORBX*, [article](http://news.cnet.com/8301-1001_3-57611215-92/amazon-signs-up-for-future-of-streaming-orbx/) (CNET)
+ - Posts
+   - A *usage guide to UTF-8 encoding* in your source code and HTTP requests, [@boblet]()’s [post](http://the-pastry-box-project.net/oli-studholme/2013-october-8/) ![][*]
+   - A *performance guide to animating* CSS (+ lists styles that affect layout/paint), [@aerotwist]()’s [post](http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/) ![][*]
+   - Providing a “skip to …” *links for better accessibility*, [@davidwalshblog]()’s [post](http://davidwalsh.name/accessibility-elements) + video [demo](http://screencast.com/t/UqiS9MaRtM7)
+   - SitePoint’s *review of Internet Explorer 11* (standards support, performance, …), [@craigbuckler]()’s [post](http://www.sitepoint.com/internet-explorer-11-review/)
+ - Media
+   - “A developer’s *guide to rendering performance*”, [@aerotwist]()’s 52-min [talk](https://vimeo.com/77591536) + [slide deck](https://speakerdeck.com/paullewis/a-developers-guide-to-rendering-performance)
+   - *Emulating multitouch events* on desktop, [@paul_irish]()’s [tweet](https://twitter.com/paul_irish/status/398203402523398144) (guide + demo video)
+ - Content
+   - A performance guide to *working with 3rd-party assets* (like JS libraries), [@guypod]()’s 42-page [slide deck](http://www.slideshare.net/guypod/third-partyperformancev3)
+   - A fairly detailed *visual Git cheat sheet* (lists common commands with descriptions), [page](http://www.ndpsoftware.com/git-cheatsheet.html)
+   - Six techniques for *creating a page overlay* for a modal window, [@SaraSoueidan]()’s [post](http://tympanus.net/codrops/2013/11/07/css-overlay-techniques/)
+ - Demos
+   - A fullscreen *page background video*, [@dudleystorey]()’s [post](http://demosthenes.info/blog/777/Create-Fullscreen-HTML5-Page-Background-Video) + demo [page](http://demosthenes.info/samples/polina.html)
+   - Inline *text editing in Fabric.js*, [@kangax]()’s demo [page](http://fabricjs.com/test/misc/itext.html)
+ - Tools
+   - A jQuery plugin that adds support for *cross-domain AJAX in IE8/9*, [repo](https://github.com/MoonScript/jQuery-ajaxTransport-XDomainRequest) (+ hosted on cdnjs)
+   - console-save.js, a DevTools snippet for *saving objects to .json files* from the console, [link](http://bgrins.github.io/devtools-snippets/#console-save)
+   - LargeLocalStorage ![][js], a cross-browser *large capacity key-value store*, [@Tantaman]()’s [repo](https://github.com/tantaman/LargeLocalStorage)
+ - Opinion
+   - “I don’t think that *disabling ‘double-tap to zoom’* is an ‘optimization.’”, [@RWD]()’s [tweet](https://twitter.com/RWD/status/398511967088152577)
+
+
 ## November 7th, 2013
 
  - News
@@ -596,34 +626,6 @@
  - Opinion
    - EU Parliament member [@teirdes](): “*DRM does not fit into the Open Web*”, [post](https://ameliaandersdotter.eu/2013/10/13/drmeme-html5-american-thing) ![][*] **MUST READ!**
 
-
-## October 11th, 2013
-
- - News
-   - T-Mobile announces *unlimited global data roaming* at no extra charge, [article](http://www.theverge.com/2013/10/9/4821692/t-mobile-announces-unlimited-global-data-roaming-at-no-extra-charge) (Verge)
- - UA dev.
-   - Chrome Canary and WebKit Nightly add support for *CSS luminance masking*, [post](http://blogs.adobe.com/webplatform/2013/10/08/css-luminance-masking-now-available-in-chrome-canary-and-webkit-nightly/) (Adobe)
- - Posts
-   - *Creating a Polymer web app* with the help of Yeoman, [@addyosmani]()’s [post](http://www.html5rocks.com/en/tutorials/webcomponents/yeoman/) ![][*]
-   - *IndexedDB tips and tricks* from Microsoft’s Babylon.js team member, [@davrous]()’s [post](http://www.sitepoint.com/using-indexeddb-manage-3d-webgl-assets/)
-   - IBM’s [@pmuellr]() shares his *best practices for generating source maps*, [post](http://pmuellr.blogspot.com/2013/10/sourcemap-best-practices.html)
-   - Overview of *client-side storage* mechanisms (i.a. Web Storage, IndexedDB), [@craigbuckler]()’s [post](http://www.sitepoint.com/html5-browser-storage-past-present-future/)
-   - Adobe’s progress report on the “*SVG glyphs in OpenType* fonts” standardization effort, [post](http://blogs.adobe.com/typblography/2013/10/svg-opentype-genesis.html)
-   - Mozilla’s [@OpenMatt]() explains what “*working in the open*” means, [post](http://openmatt.org/2011/04/06/how-to-work-open/)
- - Media
-   - An introduction to the *`Object.observe()` API*, [@addyosmani]()’s 35-min [talk](http://youtu.be/mfOh-J-9BY0)
-   - ShopTalk Show: RAPIDFIRE #20 (*Q&A with [@chriscoyier]()* and [@davatron5000]()), 58-min [podcast](http://shoptalkshow.com/episodes/084-rapidfire-20/)
- - Content
-   - Issue in Chrome: *No support for CSS 3D transforms* on systems lacking hardware acceleration, [bug](https://code.google.com/p/chromium/issues/detail?id=305625)
-   - Detailed information on the *`<script defer>` bug in IE* (version 9 and 8), [issue](https://github.com/h5bp/lazyweb-requests/issues/42) on GitHub
-   - Collaborative *notes from [@FronteersConf]()* 2013 (day 1 of 2), [etherpad](http://etherpad.wikimedia.org/p/fronteers13)
-   - *HTML5 accessibility*: Browser support, guidelines for devs, [@stevefaulkner]()’s annotated [slide deck](https://docs.google.com/presentation/d/1gnQg-3jQSytv60ozANjM7BK-OhiP7elf13P5oXHT6CM/edit#slide=id.ge8055c1d_2_75) ![][*]
- - Demos
-   - “The Museum of Mario”, an *interactive experience* (by [@getify]()), [microsite](http://mario.ign.com/) (IGN)
-   - [@csuwldcat]()’s technique for *transitioning CSS `height` to `auto`* and vice versa, [demo](http://codepen.io/csuwldcat/pen/ACKjz) + [repo](https://github.com/csuwldcat/transition-auto)
- - Tools
-   - Datauri, an online tool for *converting image files to data URIs* (Base64-encoded), [site](http://daturi.me/)
-   - HTML5 Gamepad Tester, *displays info about gamepads* connected to your computer, [site](http://html5gamepad.com/)
 
 [*]: /img/star.png "don’t miss"
 [+]: /img/funding.png "seeks funding"

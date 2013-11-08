@@ -1,3 +1,33 @@
+## November 8th, 2013
+
+ - News
+   - Tim Berners-Lee: *Encryption cracking by spy agencies* ‘appalling and foolish’, [article](http://www.theguardian.com/world/2013/nov/06/tim-berners-lee-encryption-spy-agencies) (Guardian)
+   - *Internet Explorer 11 for Windows 7* released + automatic updates initiated, [post](http://blogs.msdn.com/b/ie/archive/2013/11/07/ie11-for-windows-7-globally-available-for-consumers-and-businesses.aspx) (IEBlog)
+   - *Eric Schmidt joins the new advisory board* at cloud rendering company OTOY, [article](http://techcrunch.com/2013/11/04/eric-schmidt-joins-otoy/) (TechCrunch)
+   - Amazon signs up for Mozilla & OTOY’s *‘future of streaming’ ORBX*, [article](http://news.cnet.com/8301-1001_3-57611215-92/amazon-signs-up-for-future-of-streaming-orbx/) (CNET)
+ - Posts
+   - A *usage guide to UTF-8 encoding* in your source code and HTTP requests, [@boblet]()’s [post](http://the-pastry-box-project.net/oli-studholme/2013-october-8/) ![][*]
+   - A *performance guide to animating* CSS (+ lists styles that affect layout/paint), [@aerotwist]()’s [post](http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/) ![][*]
+   - Providing a “skip to …” *links for better accessibility*, [@davidwalshblog]()’s [post](http://davidwalsh.name/accessibility-elements) + video [demo](http://screencast.com/t/UqiS9MaRtM7)
+   - SitePoint’s *review of Internet Explorer 11* (standards support, performance, …), [@craigbuckler]()’s [post](http://www.sitepoint.com/internet-explorer-11-review/)
+ - Media
+   - “A developer’s *guide to rendering performance*”, [@aerotwist]()’s 52-min [talk](https://vimeo.com/77591536) + [slide deck](https://speakerdeck.com/paullewis/a-developers-guide-to-rendering-performance)
+   - *Emulating multitouch events* on desktop, [@paul_irish]()’s [tweet](https://twitter.com/paul_irish/status/398203402523398144) (guide + demo video)
+ - Content
+   - A performance guide to *working with 3rd-party assets* (like JS libraries), [@guypod]()’s 42-page [slide deck](http://www.slideshare.net/guypod/third-partyperformancev3)
+   - A fairly detailed *visual Git cheat sheet* (lists common commands with descriptions), [page](http://www.ndpsoftware.com/git-cheatsheet.html)
+   - Six techniques for *creating a page overlay* for a modal window, [@SaraSoueidan]()’s [post](http://tympanus.net/codrops/2013/11/07/css-overlay-techniques/)
+ - Demos
+   - A fullscreen *page background video*, [@dudleystorey]()’s [post](http://demosthenes.info/blog/777/Create-Fullscreen-HTML5-Page-Background-Video) + demo [page](http://demosthenes.info/samples/polina.html)
+   - Inline *text editing in Fabric.js*, [@kangax]()’s demo [page](http://fabricjs.com/test/misc/itext.html)
+ - Tools
+   - A jQuery plugin that adds support for *cross-domain AJAX in IE8/9*, [repo](https://github.com/MoonScript/jQuery-ajaxTransport-XDomainRequest) (+ hosted on cdnjs)
+   - console-save.js, a DevTools snippet for *saving objects to .json files* from the console, [link](http://bgrins.github.io/devtools-snippets/#console-save)
+   - LargeLocalStorage ![][js], a cross-browser *large capacity key-value store*, [@Tantaman]()’s [repo](https://github.com/tantaman/LargeLocalStorage)
+ - Opinion
+   - “I don’t think that *disabling ‘double-tap to zoom’* is an ‘optimization.’”, [@RWD]()’s [tweet](https://twitter.com/RWD/status/398511967088152577)
+
+
 ## November 7th, 2013
 
  - News
