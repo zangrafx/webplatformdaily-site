@@ -10,7 +10,6 @@ $strongColor: orangered
     @content
 
 *
-  -moz-box-sizing: border-box
   box-sizing: border-box
 
   
@@ -110,11 +109,11 @@ article
     display: block
     width: 4em
     height: 4em
-    -webkit-filter: grayscale(100%)
+    filter: grayscale(100%)
+    color: red
     filter: url(desaturate.svg#greyscale)
     opacity: .5
     &:hover
-      -webkit-filter: none
       filter: none
       opacity: 1
     &:hover + div
