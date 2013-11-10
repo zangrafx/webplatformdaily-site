@@ -9,7 +9,7 @@
  - Posts
    - A *usage guide to UTF-8 encoding* in your source code and HTTP requests, [@boblet]()’s [post](http://the-pastry-box-project.net/oli-studholme/2013-october-8/) ![][*]
    - A *performance guide to animating* CSS (+ lists styles that affect layout/paint), [@aerotwist]()’s [post](http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/) ![][*]
-   - Providing a “skip to …” *links for better accessibility*, [@davidwalshblog]()’s [post](http://davidwalsh.name/accessibility-elements) + video [demo](http://screencast.com/t/UqiS9MaRtM7)
+   - Providing “skip to …” *links for better accessibility*, [@davidwalshblog]()’s [post](http://davidwalsh.name/accessibility-elements) + video [demo](http://screencast.com/t/UqiS9MaRtM7)
    - SitePoint’s *review of Internet Explorer 11* (standards support, performance, …), [@craigbuckler]()’s [post](http://www.sitepoint.com/internet-explorer-11-review/)
  - Media
    - “A developer’s *guide to rendering performance*”, [@aerotwist]()’s 52-min [talk](https://vimeo.com/77591536) + [slide deck](https://speakerdeck.com/paullewis/a-developers-guide-to-rendering-performance)
