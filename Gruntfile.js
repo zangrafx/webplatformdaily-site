@@ -35,18 +35,30 @@ module.exports = function (grunt) {
 		// Generating the CSS file(s)
 		sass: {
 			main: {
-				options: {
-					style: 'compressed'
-				},
 				files: {
 					'styles/daily.css': 'styles/daily.sass'
 				}
 			}
 		},
+
 		csslint: {
 			strict: {
 				// I've disabled this for now; it generates lots of errors by default
 				// src: ['styles/daily.css']
+			}
+		},
+
+		autoprefixer: {
+			main: {
+				src: 'styles/daily.css'
+			}
+		},
+
+		cssmin: {
+			main: {
+				files: {
+					'styles/daily.css': ['styles/daily.css']
+				}
 			}
 		},
 
@@ -159,8 +171,10 @@ module.exports = function (grunt) {
 	grunt.loadNpmTasks('grunt-contrib-connect');
 	grunt.loadNpmTasks('grunt-contrib-watch');
 	grunt.loadNpmTasks('grunt-contrib-clean');
+	grunt.loadNpmTasks('grunt-autoprefixer');
+	grunt.loadNpmTasks('grunt-contrib-cssmin');
 
-	grunt.registerTask('css', ['sass', 'csslint', 'concat:css']);
+	grunt.registerTask('css', ['sass', 'csslint', 'autoprefixer', 'cssmin', 'concat:css']);
 	grunt.registerTask('js', ['jshint', 'uglify']);
 	grunt.registerTask('md', ['merge', 'concat:md', 'clean:temp']);
 	grunt.registerTask('daily', ['merge', 'validate', 'concat:md', 'markdown:rss', 'clean:temp']);
