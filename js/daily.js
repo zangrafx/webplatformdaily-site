@@ -90,7 +90,7 @@ jQuery(function ( $ ) {
         }
 
 
-        $output.html( $temp.children() );
+        $output.append( $temp.children() );
 
         initTabs();
     });
