@@ -36,63 +36,29 @@ article
     padding: 2em 2em 0
     margin: 2em auto
 
-// TODO: Remove as soon as you replace the banner this week
-.mozilla-banner
-  font-weight: normal
-  display: block
-  background-color: rgba(0,119,255,.1)
-  overflow: hidden
-  padding: 0.2em
-  &:hover
-    background-color: rgba(0,119,255,.15)
-    border-radius: 0
-    & img
-      opacity: .6
-  p
-    margin: 0.5em
-    font-size: 18px
-    @include over(700px)
-      font-size: 22px
-    @include over(800px)
-      font-size: 22px
-  img
-    display: none
-    @include over(800px)
-      display: block
-    float: left
-    margin: 0.7em 1em 0 1em
-    opacity: .4
-    height: 60px
-
 .banner
   padding: .6em .8em
-  height: auto
-  overflow: auto
   background-color: rgba(0, 119, 255, 0.1)
   @include over(960px)
     display: flex
-    height: 5.3em
-  p
-    margin: 0 0 1em
-    @include over(960px)
-      margin: 0 1em 0 0
-      flex: 1 1 auto
+    align-items: center
+    height: 110px
   strong
     color: inherit
-
-.subscription-form
-  @include over(960px)
-    flex: 0 0 280px
-    text-align: center
-  table
-    margin-bottom: .5em
+  p
+    margin: 0
+  .paypal-forms
     @include over(960px)
-      width: 100%
-  select
-    font-size: 90%
-    @include over(350px)
-      font-size: 100%
-      width: 100%
+      width: 850px
+      margin-left: 1em
+    form
+      margin: .6em 0 0
+      @include over(960px)
+        margin: .6em 0
+      select
+        font-size: 90%
+        @include over(350px)
+          font-size: 100%
 
 .quotes
   display: none
@@ -124,13 +90,15 @@ article
   top: 2em
   left: 2em
   right: 2em
-  height: 5.3em
+  height: 110px
   background-color: #eee
   p
     margin: 0
-    padding: .5em 1em 0
+    padding: 1.2em 1.8em 0
     text-align: left
   q
+    font-size: 110%
+    margin-bottom: 20px
     quotes: "“" "”" "‘" "’"
     &::before
       content: open-quote

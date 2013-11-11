@@ -1,0 +1,1 @@
+**Update:** I’ve enabled one-time payments. Note: If you don’t want to have your credit/debit card connected to PayPal, you can just remove it after making the payment (Profile > Add/Edit Credit Card).

@@ -13,25 +13,6 @@ jQuery(function ( $ ) {
 
     // INITIALIZATION
 
-    // tabbed navigation
-    function initTabs () {
-        var tabs = $('.main-tabs'),
-            content = tabs.next(),
-            active = 'active';
-
-        tabs.on('click', 'li:not(.active)', function (e) {
-            var tab = $(e.target),
-                index = tab.index();
-
-            tabs.children().removeClass(active);
-            tab.addClass(active);
-
-            content.children().hide().eq(index).show();
-        });
-
-        tabs.show().children().first().click();
-    }
-
     // dailies data specific propessing
     function initDailies ( $temp ) {
 
@@ -91,8 +72,6 @@ jQuery(function ( $ ) {
 
 
         $output.append( $temp.children() );
-
-        initTabs();
     });
 
 });
