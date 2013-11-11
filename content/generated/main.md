@@ -1,3 +1,35 @@
+**Update:** I’ve enabled one-time payments. Note: If you don’t want to have your credit/debit card connected to PayPal, you can just remove it after making the payment (Profile > Add/Edit Credit Card).
+## November 11th, 2013
+
+ - News
+   - *The `src-N` proposal*: [@yoavweiss]()’s summary of the discussion so far, [post](http://lists.whatwg.org/htdig.cgi/whatwg-whatwg.org/2013-November/041369.html) (click “thread” for discuss.)
+   - *Firefox: Status of  “Implement `srcset`* attribute on `img`” updated to “RESOLVED WONTFIX”, [bug](https://bugzilla.mozilla.org/show_bug.cgi?id=870021)
+   - IETF reaches consensus to *improve security of Internet protocols* to respond to surveillance, [post](http://www.ietf.org/media/2013-11-07-internet-privacy-and-security.html)
+   - IETF meeting: *No consensus regarding WebRTC* video codec (H.264 v VP8), [@victorpascual]()’s [post](http://webrtchacks.com/ietf-finally-made-decision-mandatory-implement-mti-video-codec-webrtc/)
+ - Posts
+   - *New CSS Shapes feature*: Image valued shapes (from PNG’s apha channel), [@Hans_Muller_CA]()’s [post](http://hansmuller-webkit.blogspot.com/2013/11/css-shapes-from-images.html) ![][*]
+   - A complete *overview of prebrowsing techniques* (i.a. DNS-prefetch, prerender), [@Souders]()’s [post](http://www.stevesouders.com/blog/2013/11/07/prebrowsing/) ![][*]
+   - *Grading individual website components* rather than entire browsers, [@scottjehl]()’s [post](http://filamentgroup.com/lab/grade_components/)
+   - A thorough introduction to *Adobe’s Brackets code editor* for web development, [@cfjedimaster]()’s [post](http://dev.tutsplus.com/tutorials/deeper-in-the-brackets-editor--net-35527)
+ - Media
+   - Web Payload #4: *With [@csswizardry]()* (various CSS topics), 33-min [podcast](http://www.webpayload.com/podcast/harry-roberts-why-not-to-use-ids-the-tipping-point-inuit.css-frameworks)
+ - Content
+   - RemoteDebug, an initiative to *unify remote debugging* across browsers, [site](http://remotedebug.org/)
+   - Prototype in Firefox DevTools: *Controlling the browser’s animation clock*, Paul Rouget’s [post](http://paulrouget.com/e/animationclock2/)
+   - How the *`X-Frame-Options` HTTP header* protects against clickjacking and other types of attacks, [PDF](https://cure53.de/xfo-clickjacking.pdf)
+   - Trying out OTOY’s ORBX encoder: Running the Autodesk *desktop app in Firefox*, [@ShaanHurley]()’s [post](http://autodesk.blogs.com/between_the_lines/2013/11/running-autodesk-applications-in-my-web-browser-today.html)
+   - Examples of using ES6 features so *simplify common JS problems*, [@angustweets]()’s 67-page [slide deck](https://speakerdeck.com/anguscroll/es6-uncensored)
+ - Demos
+   - A *responsive menu using CSS Regions*, [@razvancaliman]()’s [demo](http://codepen.io/oslego/pen/tdHEg) + video [preview](http://www.youtube.com/watch?v=lrnMcOV_VxA) ![][*]
+   - *Scroll position indicators* (small circles that slide along the scroll bar), [@Zachary_Olson]()’s [demo](http://codepen.io/zacharyolson/pen/uaEzD)
+   - Port of [@notch]()’s *Minecraft demo to LLJS* (Low-Level JavaScript), [@jlongster]()’s [demo](http://jlongster.github.io/lljs-minecraft/)
+ - Tools
+   - Tappy! ![][js], a *normalized `tap` event* that works with touch, mouse, keyboard, etc., [@filamentgroup]()’s [repo](https://github.com/filamentgroup/tappy/)
+   - Google Map Builder, a web tool for creating *Google Maps ready-to-use code snippets*, [@Beardyco]()’s [page](http://googlemap.beardy.co/)
+   - Magnifier.js ![][js], add a *magnifying glass tool for images*, [@MarkRolich]()’s [page](http://mark-rolich.github.io/Magnifier.js/) ![][*]
+ - Opinion
+   - Avoiding the 300ms click delay: Disabling scaling has a *negative impact on accessibility*, [@tkadlec]()’s [post](http://timkadlec.com/2013/11/Avoiding-the-300ms-click-delay-accessibly/)
+
 
 ## November 8th, 2013
 
@@ -593,38 +625,6 @@
    - BubbleChart ![][js], visualizes two dimensional data *in a bubble chart*, [site](http://jondavidjohn.github.io/bubblechart/) w/ live demo
  - Opinion
    - *THERE IS NO PAGE FOLD* (“scrolling behavior is a standard on the Web”), [@coda_za]()’s [site](http://www.thereisnopagefold.com/)
-
-
-## October 14th, 2013
-
- - News
-   - ICANN, IETF, W3C et al. pledge to free themselves of the *influence of the US government*, [article](http://www.wired.co.uk/news/archive/2013-10/12/us-internet-control)
-   - Microsoft releases toolkit to let Windows 7 users *avoid automatically upgrading to IE11*, [article](http://thenextweb.com/microsoft/2013/10/11/microsoft-releases-toolkit-let-windows-7-users-avoid-automatically-upgrading-ie11/)
-   - *Firefox OS in Germany*: Congstar will start offering the smartphones tomorrow, [source](http://www.telecompaper.com/news/congstar-to-sell-firefox-os-smartphone-from-15-october--972504)
- - Twitter
-   - Internet Explorer DevRel team: *No support for Web Components* planned yet, [tweet](https://twitter.com/IEDevChat/status/388742078387077120)
-   - `<link rel=import>` behaves like `<link rel=stylesheet>`, *blocks rendering at next `<script>`*, [tweet](https://twitter.com/dglazkov/status/389411771154321408)
- - Posts
-   - Creating a responsive *imagemap with SVG*, [@dudleystorey]()’s [post](http://demosthenes.info/blog/760/Create-A-Responsive-Imagemap-With-SVG)
-   - Web Components: Building a *custom autocomplete input-field* with Mozilla’s X-Tag, [@nzinas]()’s [post](http://www.prevent-default.com/custom-elements-nextgen-markup-pt-3/)
-   - The 3 levels of CSS Filter Effects, No. 1: *Named filter functions*, [@vangogh]()’s [post](http://www.vanseodesign.com/css/named-filter-effects/)
-   - CSS pattern: The “*single-direction margin* declarations” rule, [@csswizardry]()’s [post](http://csswizardry.com/2012/06/single-direction-margin-declarations/) ![][*]
-   - Performance: *Prioritizing above-the-fold content* for faster perceived load times, [@PatrickSexton]()’s [post](http://www.feedthebot.com/pagespeed/prioritize-visible-content.html)
-   - Case study: *Building a file uploader* (File API w/ Flash fallback), [@ibnRubaXa]()’s [post](http://coding.smashingmagazine.com/2013/10/11/we-wanted-to-build-a-file-uploader/)
- - Media
-   - JavaScript Jabber Show #79: *Lo-Dash with [@jdalton]()*, 65-min [podcast](http://javascriptjabber.com/079-jsj-lo-dash-with-john-david-dalton/)
-   - Firefox OS: “*Fixing the mobile web*”, [@codepo8]()’s 24-min [audio](http://christianheilmann.com/2013/10/11/fixing-the-mobile-web-talk-at-internet-world-romania/) recording + slide deck
- - Content
-   - The “*Multilayer CSS*” organization methodology (based on BEM/OOCSS principles), [@operatino_en]()’s [page](http://operatino.github.io/MCSS/en/)
-   - *Accessibility technique*: “What is this thing and what does it do?”, [@karlgroves]() 57-page [slide deck](http://dom.karlgroves-sandbox.com/slides/?full#Cover) ![][*]
-   - Proposal from Google: *Accelerated Web Worker animations*, [explainer](https://github.com/ianvollick/animation-proxy/blob/master/Explainer.md) + [feedback](https://groups.google.com/d/msg/mozilla.dev.servo/KwK6-PjtKDE/XTuMJYO3YwgJ) from Mozilla
- - Sites
-   - KBAccess, a knowledge base of good and bad *examples of accessibility*, [site](http://kbaccess.org/)
- - Tools
-   - jsPDF ![][js], a client-side solution for *generating PDF documents*, [page](http://parall.ax/products/jspdf)
-   - JSON5, a proposed *extension to JSON* (i.a. adds comments, unquoted keys, trailing commas), [site](http://json5.org/)
- - Opinion
-   - EU Parliament member [@teirdes](): “*DRM does not fit into the Open Web*”, [post](https://ameliaandersdotter.eu/2013/10/13/drmeme-html5-american-thing) ![][*] **MUST READ!**
 
 
 [*]: /img/star.png "don’t miss"
