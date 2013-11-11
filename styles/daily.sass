@@ -47,9 +47,11 @@ article
     color: inherit
   p
     margin: 0
+    @include over(960px)
+      flex: 1 1 auto
   .paypal-forms
     @include over(960px)
-      width: 850px
+      flex: 0 0 400px
       margin-left: 1em
     form
       margin: .6em 0 0
