@@ -5,3 +5,4 @@ js/*.min.js
 .sass-cache
 node_modules
 feed
+content/generated
